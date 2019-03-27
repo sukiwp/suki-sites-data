@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.1.1" created="2019-03-27 00:02" -->
+	<!-- generator="WordPress/5.1.1" created="2019-03-27 00:05" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Paris &#38; Helen - Wedding Online RSVP (Elementor)</title>
 	<link>https://demo.sukiwp.com/wedding-rsvp-elementor</link>
 	<description>Suki Demo Site</description>
-	<pubDate>Wed, 27 Mar 2019 00:02:18 +0000</pubDate>
+	<pubDate>Wed, 27 Mar 2019 00:05:41 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
@@ -1759,7 +1759,7 @@
 
 [textarea notes x4 placeholder "Notes"]
 
-[submit "Sign Your RSVP"]
+[submit "Sign RSVP"]
 1
 Paris &amp; Hellen - Wedding Online RSVP (Elementor) "[your-subject]"
 Paris &amp; Hellen - Wedding Online RSVP (Elementor) 
@@ -1836,7 +1836,7 @@ The telephone number is invalid.]]>		</content:encoded>
 
 [textarea notes x4 placeholder "Notes"]
 
-[submit "Sign Your RSVP"]]]></wp:meta_value>
+[submit "Sign RSVP"]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
