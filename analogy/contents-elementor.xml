@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.1.1" created="2019-04-04 05:53" -->
+	<!-- generator="WordPress/5.1.1" created="2019-04-04 06:10" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,14 +26,14 @@
 >
 
 <channel>
-	<title>Analogy - Retro Online Store (Elementor)</title>
-	<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor</link>
-	<description>Suki Demo Site</description>
-	<pubDate>Thu, 04 Apr 2019 05:53:17 +0000</pubDate>
+	<title>Analogy - Vintage Camera Shop (Elementor)</title>
+	<link>https://demo.sukiwp.com/analogy-elementor</link>
+	<description>Vintage Camera Shop</description>
+	<pubDate>Thu, 04 Apr 2019 06:10:32 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
-	<wp:base_blog_url>https://demo.sukiwp.com/analogy-retro-online-store-elementor</wp:base_blog_url>
+	<wp:base_blog_url>https://demo.sukiwp.com/analogy-elementor</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[author]]></wp:author_login><wp:author_email><![CDATA[support@sukiwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Suki WordPress Theme]]></wp:author_display_name><wp:author_first_name><![CDATA[Suki]]></wp:author_first_name><wp:author_last_name><![CDATA[WordPress Theme]]></wp:author_last_name></wp:author>
 
@@ -299,7 +299,7 @@
 		<item>
 		<title>
 				1		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/1/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/1/</link>
 		<pubDate>Thu, 08 Nov 2018 06:15:58 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/1.jpg</guid>
@@ -320,7 +320,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/1.jpg]]></wp:meta_value>
@@ -337,7 +337,7 @@
 					<item>
 		<title>
 				2		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/2/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/2/</link>
 		<pubDate>Thu, 08 Nov 2018 06:15:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/2.jpg</guid>
@@ -358,7 +358,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/2.jpg]]></wp:meta_value>
@@ -375,7 +375,7 @@
 					<item>
 		<title>
 				3		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/3/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/3/</link>
 		<pubDate>Thu, 08 Nov 2018 06:16:00 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/3.jpg</guid>
@@ -396,7 +396,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/3.jpg]]></wp:meta_value>
@@ -413,7 +413,7 @@
 					<item>
 		<title>
 				4		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/4/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/4/</link>
 		<pubDate>Thu, 08 Nov 2018 06:16:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/4.jpg</guid>
@@ -434,7 +434,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/4.jpg]]></wp:meta_value>
@@ -451,7 +451,7 @@
 					<item>
 		<title>
 				5		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/5/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/5/</link>
 		<pubDate>Thu, 08 Nov 2018 06:16:03 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/5.jpg</guid>
@@ -472,7 +472,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/5.jpg]]></wp:meta_value>
@@ -489,7 +489,7 @@
 					<item>
 		<title>
 				6		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/6/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/6/</link>
 		<pubDate>Thu, 08 Nov 2018 06:16:04 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/6.jpg</guid>
@@ -510,7 +510,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/6.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/6.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/6.jpg]]></wp:meta_value>
@@ -527,7 +527,7 @@
 					<item>
 		<title>
 				8		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/8/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/8/</link>
 		<pubDate>Thu, 08 Nov 2018 06:16:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/8.jpg</guid>
@@ -548,7 +548,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/8.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/8.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/8.jpg]]></wp:meta_value>
@@ -565,7 +565,7 @@
 					<item>
 		<title>
 				10		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/10-2/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/10-2/</link>
 		<pubDate>Thu, 08 Nov 2018 06:16:08 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/10.jpg</guid>
@@ -586,7 +586,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/10.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/10.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/10.jpg]]></wp:meta_value>
@@ -603,7 +603,7 @@
 					<item>
 		<title>
 				11		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/?attachment_id=37</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/?attachment_id=37</link>
 		<pubDate>Thu, 08 Nov 2018 06:48:07 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/11.jpg</guid>
@@ -624,7 +624,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/11.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/11.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/11.jpg]]></wp:meta_value>
@@ -641,7 +641,7 @@
 					<item>
 		<title>
 				13		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/13-2/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/13-2/</link>
 		<pubDate>Thu, 08 Nov 2018 08:07:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/13.jpg</guid>
@@ -662,7 +662,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/13.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/13.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/13.jpg]]></wp:meta_value>
@@ -679,7 +679,7 @@
 					<item>
 		<title>
 				camera-close-up-equipment		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/home/camera-close-up-equipment/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/home/camera-close-up-equipment/</link>
 		<pubDate>Tue, 13 Nov 2018 07:03:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/camera-close-up-equipment.png</guid>
@@ -700,7 +700,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/camera-close-up-equipment.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/camera-close-up-equipment.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/camera-close-up-equipment.png]]></wp:meta_value>
@@ -717,7 +717,7 @@
 					<item>
 		<title>
 				Home slider bg		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/home/home-slider-bg/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/home/home-slider-bg/</link>
 		<pubDate>Tue, 13 Nov 2018 07:51:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/Home-slider-bg.png</guid>
@@ -738,7 +738,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/Home-slider-bg.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/Home-slider-bg.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/Home-slider-bg.png]]></wp:meta_value>
@@ -755,7 +755,7 @@
 					<item>
 		<title>
 				Rolleiflex		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/home/rolleiflex/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/home/rolleiflex/</link>
 		<pubDate>Tue, 13 Nov 2018 11:40:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/Rolleiflex.jpg</guid>
@@ -776,7 +776,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/Rolleiflex.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/Rolleiflex.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/Rolleiflex.jpg]]></wp:meta_value>
@@ -793,7 +793,7 @@
 					<item>
 		<title>
 				Year End Sale		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/home/year-end-sale/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/home/year-end-sale/</link>
 		<pubDate>Tue, 13 Nov 2018 11:52:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/Year-End-Sale.png</guid>
@@ -814,7 +814,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/Year-End-Sale.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/Year-End-Sale.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/Year-End-Sale.png]]></wp:meta_value>
@@ -831,7 +831,7 @@
 					<item>
 		<title>
 				28mm-35mm-80ties		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/home/28mm-35mm-80ties/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/home/28mm-35mm-80ties/</link>
 		<pubDate>Tue, 13 Nov 2018 12:10:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/28mm-35mm-80ties.png</guid>
@@ -852,7 +852,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/28mm-35mm-80ties.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/28mm-35mm-80ties.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/28mm-35mm-80ties.png]]></wp:meta_value>
@@ -869,7 +869,7 @@
 					<item>
 		<title>
 				adult-attractive-beautiful-1		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/home/adult-attractive-beautiful-1/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/home/adult-attractive-beautiful-1/</link>
 		<pubDate>Tue, 13 Nov 2018 12:55:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/adult-attractive-beautiful-1.png</guid>
@@ -890,7 +890,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/adult-attractive-beautiful-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/adult-attractive-beautiful-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/adult-attractive-beautiful-1.png]]></wp:meta_value>
@@ -907,7 +907,7 @@
 					<item>
 		<title>
 				adult-attractive-beautiful-2		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/home/adult-attractive-beautiful-2/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/home/adult-attractive-beautiful-2/</link>
 		<pubDate>Tue, 13 Nov 2018 12:56:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/adult-attractive-beautiful-2.png</guid>
@@ -928,7 +928,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/adult-attractive-beautiful-2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/adult-attractive-beautiful-2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/adult-attractive-beautiful-2.png]]></wp:meta_value>
@@ -945,7 +945,7 @@
 					<item>
 		<title>
 				adult-attractive-beautiful-3		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/home/adult-attractive-beautiful-3/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/home/adult-attractive-beautiful-3/</link>
 		<pubDate>Tue, 13 Nov 2018 12:57:25 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2018/11/adult-attractive-beautiful-3.png</guid>
@@ -966,7 +966,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2018/11/adult-attractive-beautiful-3.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2018/11/adult-attractive-beautiful-3.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/11/adult-attractive-beautiful-3.png]]></wp:meta_value>
@@ -983,7 +983,7 @@
 					<item>
 		<title>
 				suki-analogy-logo		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/suki-analogy-logo/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/suki-analogy-logo/</link>
 		<pubDate>Fri, 11 Jan 2019 18:09:49 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2019/01/suki-analogy-logo.png</guid>
@@ -1004,7 +1004,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2019/01/suki-analogy-logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2019/01/suki-analogy-logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/suki-analogy-logo.png]]></wp:meta_value>
@@ -1017,7 +1017,7 @@
 					<item>
 		<title>
 				about-us-img1		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/about/about-us-img1/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/about/about-us-img1/</link>
 		<pubDate>Tue, 15 Jan 2019 10:35:49 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2019/01/about-us-img1.jpg</guid>
@@ -1038,7 +1038,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2019/01/about-us-img1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2019/01/about-us-img1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/about-us-img1.jpg]]></wp:meta_value>
@@ -1051,7 +1051,7 @@
 					<item>
 		<title>
 				Fullframe		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/fullframe/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/fullframe/</link>
 		<pubDate>Tue, 13 Nov 2018 15:26:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=145</guid>
@@ -1109,7 +1109,7 @@
 					<item>
 		<title>
 				Medium Format		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/medium-format/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/medium-format/</link>
 		<pubDate>Tue, 13 Nov 2018 15:26:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=146</guid>
@@ -1167,7 +1167,7 @@
 					<item>
 		<title>
 				Olympus		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/olympus/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/olympus/</link>
 		<pubDate>Tue, 13 Nov 2018 15:28:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=147</guid>
@@ -1225,7 +1225,7 @@
 					<item>
 		<title>
 				Nikon		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/nikon/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/nikon/</link>
 		<pubDate>Tue, 13 Nov 2018 15:28:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=148</guid>
@@ -1283,7 +1283,7 @@
 					<item>
 		<title>
 				Canon		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/canon/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/canon/</link>
 		<pubDate>Tue, 13 Nov 2018 15:28:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=149</guid>
@@ -1341,7 +1341,7 @@
 					<item>
 		<title>
 				Leica		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/leica/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/leica/</link>
 		<pubDate>Tue, 13 Nov 2018 15:28:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=150</guid>
@@ -1399,7 +1399,7 @@
 					<item>
 		<title>
 				Hasselblad		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/hasselblad/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/hasselblad/</link>
 		<pubDate>Tue, 13 Nov 2018 15:28:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=151</guid>
@@ -1457,7 +1457,7 @@
 					<item>
 		<title>
 				Mamiya		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/mamiya/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/mamiya/</link>
 		<pubDate>Tue, 13 Nov 2018 15:28:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=152</guid>
@@ -1515,7 +1515,7 @@
 					<item>
 		<title>
 				Strap		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/strap/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/strap/</link>
 		<pubDate>Tue, 13 Nov 2018 15:31:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=153</guid>
@@ -1573,7 +1573,7 @@
 					<item>
 		<title>
 				Tripod		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/tripod/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/tripod/</link>
 		<pubDate>Tue, 13 Nov 2018 15:31:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=154</guid>
@@ -1631,7 +1631,7 @@
 					<item>
 		<title>
 				Leather Case		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/leather-case/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/leather-case/</link>
 		<pubDate>Tue, 13 Nov 2018 15:31:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=155</guid>
@@ -1689,7 +1689,7 @@
 					<item>
 		<title>
 				Filter		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/filter/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/filter/</link>
 		<pubDate>Tue, 13 Nov 2018 15:31:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=156</guid>
@@ -1747,7 +1747,7 @@
 					<item>
 		<title>
 				Cleaning Tools		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/cleaning-tools/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/cleaning-tools/</link>
 		<pubDate>Tue, 13 Nov 2018 15:31:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=157</guid>
@@ -1805,7 +1805,7 @@
 					<item>
 		<title>
 				Lens Cap		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/lens-cap/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/lens-cap/</link>
 		<pubDate>Tue, 13 Nov 2018 15:31:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=158</guid>
@@ -1863,7 +1863,7 @@
 					<item>
 		<title>
 				about-us-img3		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/about/about-us-img3/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/about/about-us-img3/</link>
 		<pubDate>Tue, 15 Jan 2019 10:36:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2019/01/about-us-img3.jpg</guid>
@@ -1884,7 +1884,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2019/01/about-us-img3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2019/01/about-us-img3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/about-us-img3.jpg]]></wp:meta_value>
@@ -1897,7 +1897,7 @@
 					<item>
 		<title>
 				about-us-img2		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/about/about-us-img2/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/about/about-us-img2/</link>
 		<pubDate>Tue, 15 Jan 2019 10:36:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2019/01/about-us-img2.jpg</guid>
@@ -1918,7 +1918,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2019/01/about-us-img2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2019/01/about-us-img2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/about-us-img2.jpg]]></wp:meta_value>
@@ -1931,7 +1931,7 @@
 					<item>
 		<title>
 				about-us-optimized		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/about/about-us-optimized/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/about/about-us-optimized/</link>
 		<pubDate>Tue, 15 Jan 2019 10:44:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2019/01/about-us-optimized.jpg</guid>
@@ -1952,7 +1952,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2019/01/about-us-optimized.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2019/01/about-us-optimized.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/about-us-optimized.jpg]]></wp:meta_value>
@@ -1965,7 +1965,7 @@
 					<item>
 		<title>
 				contact-us-optimized		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/contact/contact-us-optimized/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/contact/contact-us-optimized/</link>
 		<pubDate>Tue, 15 Jan 2019 11:01:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/wp-content/uploads/sites/5/2019/01/contact-us-optimized.jpg</guid>
@@ -1986,7 +1986,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2019/01/contact-us-optimized.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2019/01/contact-us-optimized.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/contact-us-optimized.jpg]]></wp:meta_value>
@@ -1999,7 +1999,7 @@
 					<item>
 		<title>
 				New-Collections-2019-Coming-Soon-optimized		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/home/new-collections-2019-coming-soon-optimized/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/home/new-collections-2019-coming-soon-optimized/</link>
 		<pubDate>Wed, 16 Jan 2019 05:54:03 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2019/01/New-Collections-2019-Coming-Soon-optimized.jpg</guid>
@@ -2020,7 +2020,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2019/01/New-Collections-2019-Coming-Soon-optimized.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2019/01/New-Collections-2019-Coming-Soon-optimized.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/New-Collections-2019-Coming-Soon-optimized.jpg]]></wp:meta_value>
@@ -2033,7 +2033,7 @@
 					<item>
 		<title>
 				explore-store-img		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/home/explore-store-img/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/home/explore-store-img/</link>
 		<pubDate>Wed, 16 Jan 2019 06:29:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2019/01/explore-store-img.jpg</guid>
@@ -2054,7 +2054,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-retro-online-store-elementor/wp-content/uploads/sites/5/2019/01/explore-store-img.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/analogy-elementor/wp-content/uploads/sites/5/2019/01/explore-store-img.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/explore-store-img.jpg]]></wp:meta_value>
@@ -2067,7 +2067,7 @@
 					<item>
 		<title>
 				Pentax MV1		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/product/pentax-mv1/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/product/pentax-mv1/</link>
 		<pubDate>Thu, 08 Nov 2018 06:26:27 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?post_type=product&#038;p=25</guid>
@@ -2234,7 +2234,7 @@
 					<item>
 		<title>
 				Asahi AE1		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/product/asahi-ae1/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/product/asahi-ae1/</link>
 		<pubDate>Thu, 08 Nov 2018 06:32:14 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?post_type=product&#038;p=27</guid>
@@ -2401,7 +2401,7 @@
 					<item>
 		<title>
 				Film Cover		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/product/film-cover/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/product/film-cover/</link>
 		<pubDate>Thu, 08 Nov 2018 06:37:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?post_type=product&#038;p=29</guid>
@@ -2568,7 +2568,7 @@
 					<item>
 		<title>
 				Rolleiflex 1		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/product/rolleiflex-1/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/product/rolleiflex-1/</link>
 		<pubDate>Thu, 08 Nov 2018 06:38:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?post_type=product&#038;p=30</guid>
@@ -2735,7 +2735,7 @@
 					<item>
 		<title>
 				Home		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/</link>
 		<pubDate>Tue, 13 Nov 2018 04:46:03 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?page_id=76</guid>
@@ -2838,7 +2838,7 @@
 					<item>
 		<title>
 				About		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/about/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/about/</link>
 		<pubDate>Tue, 13 Nov 2018 13:12:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?page_id=128</guid>
@@ -2907,7 +2907,7 @@
 					<item>
 		<title>
 				Contact		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/contact/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/contact/</link>
 		<pubDate>Tue, 13 Nov 2018 13:12:42 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?page_id=129</guid>
@@ -2974,7 +2974,7 @@
 					<item>
 		<title>
 						</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/202/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/202/</link>
 		<pubDate>Sat, 24 Nov 2018 17:04:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=202</guid>
@@ -3032,7 +3032,7 @@
 					<item>
 		<title>
 						</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/203/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/203/</link>
 		<pubDate>Sat, 24 Nov 2018 17:04:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=203</guid>
@@ -3090,7 +3090,7 @@
 					<item>
 		<title>
 				Shop		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/shop/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/shop/</link>
 		<pubDate>Sat, 24 Nov 2018 17:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/shop/</guid>
@@ -3119,7 +3119,7 @@
 					<item>
 		<title>
 				Cart		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/cart/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/cart/</link>
 		<pubDate>Sat, 24 Nov 2018 17:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/cart/</guid>
@@ -3148,7 +3148,7 @@
 					<item>
 		<title>
 				Checkout		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/checkout/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/checkout/</link>
 		<pubDate>Sat, 24 Nov 2018 17:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/checkout/</guid>
@@ -3177,7 +3177,7 @@
 					<item>
 		<title>
 				My Account		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/my-account/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/my-account/</link>
 		<pubDate>Sat, 24 Nov 2018 17:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/my-account/</guid>
@@ -3214,7 +3214,7 @@
 					<item>
 		<title>
 						</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/208/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/208/</link>
 		<pubDate>Sat, 24 Nov 2018 17:07:07 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=208</guid>
@@ -3272,7 +3272,7 @@
 					<item>
 		<title>
 						</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/209/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/209/</link>
 		<pubDate>Sat, 24 Nov 2018 17:07:33 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=209</guid>
@@ -3330,7 +3330,7 @@
 					<item>
 		<title>
 				Camera		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/camera/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/camera/</link>
 		<pubDate>Fri, 11 Jan 2019 17:19:37 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=224</guid>
@@ -3388,7 +3388,7 @@
 					<item>
 		<title>
 				Lens		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/lens/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/lens/</link>
 		<pubDate>Fri, 11 Jan 2019 17:19:37 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=225</guid>
@@ -3446,7 +3446,7 @@
 					<item>
 		<title>
 				Accessories		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/accessories/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/accessories/</link>
 		<pubDate>Fri, 11 Jan 2019 17:19:37 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=226</guid>
@@ -3504,7 +3504,7 @@
 					<item>
 		<title>
 				Roll Film		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/roll-film/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/roll-film/</link>
 		<pubDate>Fri, 11 Jan 2019 17:19:37 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?p=227</guid>
@@ -3562,7 +3562,7 @@
 					<item>
 		<title>
 						</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/252/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/252/</link>
 		<pubDate>Fri, 18 Jan 2019 12:20:39 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy-elementor/?p=252</guid>
@@ -3620,7 +3620,7 @@
 					<item>
 		<title>
 				Reflekta II		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/product/reflekta-ii/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/product/reflekta-ii/</link>
 		<pubDate>Thu, 08 Nov 2018 06:40:37 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?post_type=product&#038;p=32</guid>
@@ -3787,7 +3787,7 @@
 					<item>
 		<title>
 				Nikkor 14-42mm f1.4		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/product/nikkor-14-42mm-f1-4/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/product/nikkor-14-42mm-f1-4/</link>
 		<pubDate>Thu, 08 Nov 2018 06:42:47 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?post_type=product&#038;p=33</guid>
@@ -3958,7 +3958,7 @@
 					<item>
 		<title>
 				Apo Macro Elmarit 30mm f2.8		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/product/apo-macro-elmarit-30mm-f2-8/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/product/apo-macro-elmarit-30mm-f2-8/</link>
 		<pubDate>Thu, 08 Nov 2018 06:44:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?post_type=product&#038;p=34</guid>
@@ -4129,7 +4129,7 @@
 					<item>
 		<title>
 				G.Zuiko 25mm f1.4		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/product/g-zuiko-25mm-f1-4/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/product/g-zuiko-25mm-f1-4/</link>
 		<pubDate>Thu, 08 Nov 2018 06:46:00 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?post_type=product&#038;p=35</guid>
@@ -4296,7 +4296,7 @@
 					<item>
 		<title>
 				Portra 400		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/product/portra-400/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/product/portra-400/</link>
 		<pubDate>Thu, 08 Nov 2018 06:48:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?post_type=product&#038;p=36</guid>
@@ -4463,7 +4463,7 @@
 					<item>
 		<title>
 				Spartus Full Vue		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/product/spartus-full-vue/</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/product/spartus-full-vue/</link>
 		<pubDate>Thu, 08 Nov 2018 08:17:11 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?post_type=product&#038;p=52</guid>
@@ -4630,7 +4630,7 @@
 					<item>
 		<title>
 				Contact form		</title>
-		<link>https://demo.sukiwp.com/analogy-retro-online-store-elementor/?post_type=wpcf7_contact_form&#038;p=167</link>
+		<link>https://demo.sukiwp.com/analogy-elementor/?post_type=wpcf7_contact_form&#038;p=167</link>
 		<pubDate>Wed, 14 Nov 2018 11:11:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/analogy/?post_type=wpcf7_contact_form&#038;p=167</guid>
