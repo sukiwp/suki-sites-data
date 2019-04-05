@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.1.1" created="2019-03-19 18:27" -->
+	<!-- generator="WordPress/5.1.1" created="2019-04-05 01:25" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Delicious - Food Blog</title>
 	<link>https://demo.sukiwp.com/delicious</link>
-	<description>Collection of Suki&#039;s Secret Recipes</description>
-	<pubDate>Tue, 19 Mar 2019 18:27:00 +0000</pubDate>
+	<description>Food Reviews - Recipes - Cooking Tips</description>
+	<pubDate>Fri, 05 Apr 2019 01:25:47 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
