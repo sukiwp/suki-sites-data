@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.1.1" created="2019-04-29 11:06" -->
+	<!-- generator="WordPress/5.2" created="2019-05-15 08:38" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Paris &#38; Helen - Online Wedding RSVP (Elementor)</title>
 	<link>https://demo.sukiwp.com/paris-helen-elementor</link>
 	<description>Online Wedding RSVP</description>
-	<pubDate>Mon, 29 Apr 2019 11:06:44 +0000</pubDate>
+	<pubDate>Wed, 15 May 2019 08:38:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
@@ -46,20 +46,17 @@
 					<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<generator>https://wordpress.org/?v=5.2</generator>
 
 		<item>
-		<title>
-				home flower sparator 1		</title>
+		<title>home flower sparator 1</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/home-flower-sparator-1/</link>
 		<pubDate>Sat, 23 Feb 2019 13:29:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/02/home-flower-sparator-1.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 13:29:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 13:29:34]]></wp:post_date_gmt>
@@ -83,17 +80,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				groom		</title>
+		<title>groom</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/groom/</link>
 		<pubDate>Sat, 23 Feb 2019 14:03:22 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/02/groom.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 14:03:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 14:03:22]]></wp:post_date_gmt>
@@ -117,17 +111,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				flower bg 2		</title>
+		<title>flower bg 2</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/flower-bg-2/</link>
 		<pubDate>Sat, 23 Feb 2019 14:06:00 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/02/flower-bg-2.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 14:06:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 14:06:00]]></wp:post_date_gmt>
@@ -151,17 +142,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				flower bg 3		</title>
+		<title>flower bg 3</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/flower-bg-3/</link>
 		<pubDate>Sat, 23 Feb 2019 14:56:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/02/flower-bg-3.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 14:56:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 14:56:23]]></wp:post_date_gmt>
@@ -185,17 +173,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				bridge		</title>
+		<title>bridge</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/bridge/</link>
 		<pubDate>Sat, 23 Feb 2019 14:56:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/02/bridge.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 14:56:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 14:56:57]]></wp:post_date_gmt>
@@ -219,17 +204,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				separator and		</title>
+		<title>separator and</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/separator-and/</link>
 		<pubDate>Mon, 25 Feb 2019 12:33:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/02/separator-and.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-25 12:33:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-25 12:33:59]]></wp:post_date_gmt>
@@ -253,17 +235,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				flower bg 4		</title>
+		<title>flower bg 4</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/flower-bg-4/</link>
 		<pubDate>Mon, 25 Feb 2019 14:11:36 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/02/flower-bg-4.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-25 14:11:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-25 14:11:36]]></wp:post_date_gmt>
@@ -287,17 +266,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				flower bg 10 resized		</title>
+		<title>flower bg 10 resized</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/flower-bg-10-resized/</link>
 		<pubDate>Mon, 25 Feb 2019 14:37:53 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/02/flower-bg-10-resized.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>55</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-25 14:37:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-25 14:37:53]]></wp:post_date_gmt>
@@ -321,17 +297,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				flower bg 6		</title>
+		<title>flower bg 6</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/flower-bg-6/</link>
 		<pubDate>Mon, 25 Feb 2019 14:39:39 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/02/flower-bg-6.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-25 14:39:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-25 14:39:39]]></wp:post_date_gmt>
@@ -355,17 +328,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				logo		</title>
+		<title>logo</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/logo/</link>
 		<pubDate>Wed, 20 Mar 2019 08:46:13 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/logo.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>151</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-20 08:46:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-20 08:46:13]]></wp:post_date_gmt>
@@ -389,17 +359,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				header-logo		</title>
+		<title>header-logo</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/header-logo/</link>
 		<pubDate>Thu, 21 Mar 2019 15:08:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/header-logo.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>184</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-21 15:08:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-21 15:08:57]]></wp:post_date_gmt>
@@ -423,17 +390,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				gift registry 1		</title>
+		<title>gift registry 1</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/gift-registry-1-2/</link>
 		<pubDate>Mon, 25 Mar 2019 09:34:42 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/gift-registry-1.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>207</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 09:34:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 09:34:42]]></wp:post_date_gmt>
@@ -457,17 +421,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				gift registry 2		</title>
+		<title>gift registry 2</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/gift-registry-2-2/</link>
 		<pubDate>Mon, 25 Mar 2019 09:34:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/gift-registry-2.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>208</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 09:34:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 09:34:43]]></wp:post_date_gmt>
@@ -491,17 +452,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				gift registry 3		</title>
+		<title>gift registry 3</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/gift-registry-3-2/</link>
 		<pubDate>Mon, 25 Mar 2019 09:34:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/gift-registry-3.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>209</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 09:34:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 09:34:43]]></wp:post_date_gmt>
@@ -525,17 +483,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				gift registry 4		</title>
+		<title>gift registry 4</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/gift-registry-4-2/</link>
 		<pubDate>Mon, 25 Mar 2019 09:34:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/gift-registry-4.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>210</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 09:34:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 09:34:43]]></wp:post_date_gmt>
@@ -559,17 +514,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				captured moments 1		</title>
+		<title>captured moments 1</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-1/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:15 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-1.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>212</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:15]]></wp:post_date_gmt>
@@ -593,17 +545,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				captured moments 2		</title>
+		<title>captured moments 2</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-2/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:17 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-2.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>213</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:17]]></wp:post_date_gmt>
@@ -627,17 +576,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				captured moments 3		</title>
+		<title>captured moments 3</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-3/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:17 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-3.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>214</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:17]]></wp:post_date_gmt>
@@ -661,17 +607,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				captured moments 4		</title>
+		<title>captured moments 4</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-4/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:18 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-4.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>215</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:18]]></wp:post_date_gmt>
@@ -695,17 +638,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				captured moments 5		</title>
+		<title>captured moments 5</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-5/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-5.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>216</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:19]]></wp:post_date_gmt>
@@ -729,17 +669,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Groom &#038; Bride		</title>
+		<title>Groom &#038; Bride</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/groom-bride/</link>
 		<pubDate>Tue, 26 Feb 2019 07:13:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/?p=116</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-26 07:13:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-26 07:13:26]]></wp:post_date_gmt>
@@ -787,17 +724,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				When &#038; Where		</title>
+		<title>When &#038; Where</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/when-where/</link>
 		<pubDate>Tue, 26 Feb 2019 07:13:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/?p=117</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-26 07:13:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-26 07:13:26]]></wp:post_date_gmt>
@@ -845,17 +779,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Home		</title>
+		<title>Home</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/</link>
 		<pubDate>Thu, 21 Mar 2019 13:55:53 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/?p=177</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>177</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-21 13:55:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-21 13:55:53]]></wp:post_date_gmt>
@@ -903,17 +834,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Registry		</title>
+		<title>Registry</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/registry/</link>
 		<pubDate>Thu, 21 Mar 2019 13:56:46 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/?p=178</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>178</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-21 13:56:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-21 13:56:46]]></wp:post_date_gmt>
@@ -961,17 +889,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				captured moments 6		</title>
+		<title>captured moments 6</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-6/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:20 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-6.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>217</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:20]]></wp:post_date_gmt>
@@ -995,17 +920,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				captured moments 7		</title>
+		<title>captured moments 7</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-7/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:21 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-7.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>218</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:21]]></wp:post_date_gmt>
@@ -1029,17 +951,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				captured moments 8		</title>
+		<title>captured moments 8</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-8/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:22 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-8.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>219</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:22]]></wp:post_date_gmt>
@@ -1063,17 +982,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				captured moments 9		</title>
+		<title>captured moments 9</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-9/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-9.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>220</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:23]]></wp:post_date_gmt>
@@ -1097,17 +1013,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				captured moments 10		</title>
+		<title>captured moments 10</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-10/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-10.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>221</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:23]]></wp:post_date_gmt>
@@ -1131,17 +1044,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				captured moments 11		</title>
+		<title>captured moments 11</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-11/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-11.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>222</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:24]]></wp:post_date_gmt>
@@ -1165,17 +1075,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				captured moments 12		</title>
+		<title>captured moments 12</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-12/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:25 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-12.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>223</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:25]]></wp:post_date_gmt>
@@ -1199,17 +1106,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				home hero bg		</title>
+		<title>home hero bg</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/?attachment_id=227</link>
 		<pubDate>Tue, 26 Mar 2019 08:15:16 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/02/home-hero-bg.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>227</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:15:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:15:16]]></wp:post_date_gmt>
@@ -1233,17 +1137,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				home gallery 1		</title>
+		<title>home gallery 1</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home-gallery-1/</link>
 		<pubDate>Tue, 26 Mar 2019 08:16:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/home-gallery-1.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>228</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:16:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:16:40]]></wp:post_date_gmt>
@@ -1267,17 +1168,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				home gallery 2		</title>
+		<title>home gallery 2</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home-gallery-2/</link>
 		<pubDate>Tue, 26 Mar 2019 08:16:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/home-gallery-2.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>229</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:16:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:16:41]]></wp:post_date_gmt>
@@ -1301,17 +1199,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				home gallery 3		</title>
+		<title>home gallery 3</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home-gallery-3/</link>
 		<pubDate>Tue, 26 Mar 2019 08:16:42 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/home-gallery-3.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>230</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:16:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:16:42]]></wp:post_date_gmt>
@@ -1335,17 +1230,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				where when 3		</title>
+		<title>where when 3</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/where-when-3/</link>
 		<pubDate>Tue, 26 Mar 2019 08:26:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/where-when-3.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>233</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:26:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:26:06]]></wp:post_date_gmt>
@@ -1369,17 +1261,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				where when 1		</title>
+		<title>where when 1</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/where-when-1-2/</link>
 		<pubDate>Tue, 26 Mar 2019 08:26:29 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/where-when-1.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>234</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:26:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:26:29]]></wp:post_date_gmt>
@@ -1403,17 +1292,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				where when 2		</title>
+		<title>where when 2</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/where-when-2-2/</link>
 		<pubDate>Tue, 26 Mar 2019 08:26:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/where-when-2.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>235</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:26:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:26:50]]></wp:post_date_gmt>
@@ -1437,17 +1323,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				where when 5		</title>
+		<title>where when 5</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/where-when-5-2/</link>
 		<pubDate>Tue, 26 Mar 2019 08:27:31 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/where-when-5.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>236</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:27:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:27:31]]></wp:post_date_gmt>
@@ -1471,17 +1354,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				where when 4		</title>
+		<title>where when 4</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/where-when-4/</link>
 		<pubDate>Tue, 26 Mar 2019 08:28:03 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/where-when-4.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>237</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:28:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:28:03]]></wp:post_date_gmt>
@@ -1505,22 +1385,19 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Home		</title>
+		<title>Home</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/</link>
 		<pubDate>Sat, 23 Feb 2019 12:59:29 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/?page_id=5</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<h2>Paris Wilson</h2>		
+		<content:encoded><![CDATA[<h2>Paris Wilson</h2>		
 										<img width="150" height="150" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/separator-and-150x150.png" alt="" />											
 			<h2>Helen Marie</h2>		
-			<h3>are getting married</h3>		
-			<h3>14 February, 2020 — Bali, Indonesia</h3>		
+			<h3>are getting married<br>14 February, 2020 — Bali, Indonesia</h3>		
 				<figure><img src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/home-gallery-1-768x986.jpg" alt="home gallery 1" /></figure><figure><img src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/home-gallery-2-768x986.jpg" alt="home gallery 2" /></figure><figure><img src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/home-gallery-3-768x986.jpg" alt="home gallery 3" /></figure>			
 										<img width="178" height="104" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/home-flower-sparator-1.png" alt="" />											
-			<h2>Groom &amp; Bridge</h2>		
+			<h2>Groom & Bridge</h2>		
 			<h3>Paris Wilson</h3>		
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. </p>		
 							<a href="" target="_blank" rel="noopener noreferrer">
@@ -1535,8 +1412,8 @@
 							<a href="" target="_blank" rel="noopener noreferrer">
 					Linkedin
 				</a>
-										<img width="427" height="515" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/groom.jpg" alt="" />											
-										<img width="427" height="515" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/bridge.jpg" alt="" />											
+										<img width="427" height="515" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/groom.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/groom.jpg 427w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/groom-249x300.jpg 249w" sizes="(max-width: 427px) 100vw, 427px" />											
+										<img width="427" height="515" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/bridge.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/bridge.jpg 427w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/bridge-249x300.jpg 249w" sizes="(max-width: 427px) 100vw, 427px" />											
 			<h3>Helen Marie
 </h3>		
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. </p>		
@@ -1573,40 +1450,39 @@
 							<img width="207" height="60" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/gift-registry-3.png" alt="" />								</a>
 											<a href="#" data-elementor-open-lightbox="">
 							<img width="173" height="60" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/gift-registry-4.png" alt="" />								</a>
-										<img width="665" height="309" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/flower-bg-4.png" alt="" />											
+										<img width="665" height="309" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/flower-bg-4.png" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/flower-bg-4.png 665w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/flower-bg-4-300x139.png 300w" sizes="(max-width: 665px) 100vw, 665px" />											
 										<img width="178" height="104" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/home-flower-sparator-1.png" alt="" />											
 			<h2>Please sign your RSVP</h2>		
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est.</p>[contact-form-7 id="137" title="RSVP"]		
-										<img width="695" height="274" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/flower-bg-6.png" alt="" />											
+										<img width="695" height="274" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/flower-bg-6.png" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/flower-bg-6.png 695w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/flower-bg-6-300x118.png 300w" sizes="(max-width: 695px) 100vw, 695px" />											
 										<img width="178" height="104" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/02/home-flower-sparator-1.png" alt="" />											
 			<h2>Captured Moments</h2>		
 			<figure class='gallery-item'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-1.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-1-300x214.jpg" alt="" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-1.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-1-300x214.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-1-300x214.jpg 300w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-1-768x547.jpg 768w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-1-1024x730.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-2.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-2-300x214.jpg" alt="" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-2.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-2-300x214.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-2-300x214.jpg 300w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-2-768x547.jpg 768w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-2-1024x730.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-3.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-3-300x214.jpg" alt="" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-3.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-3-300x214.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-3-300x214.jpg 300w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-3-768x547.jpg 768w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-3-1024x730.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-4.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-4-300x214.jpg" alt="" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-4.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-4-300x214.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-4-300x214.jpg 300w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-4-768x547.jpg 768w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-4-1024x730.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-5.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-5-300x214.jpg" alt="" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-5.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-5-300x214.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-5-300x214.jpg 300w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-5-768x547.jpg 768w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-5-1024x730.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-6.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-6-300x214.jpg" alt="" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-6.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-6-300x214.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-6-300x214.jpg 300w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-6-768x547.jpg 768w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-6-1024x730.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-7.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-7-300x214.jpg" alt="" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-7.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-7-300x214.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-7-300x214.jpg 300w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-7-768x547.jpg 768w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-7-1024x730.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-8.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-8-300x214.jpg" alt="" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-8.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-8-300x214.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-8-300x214.jpg 300w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-8-768x547.jpg 768w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-8-1024x730.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-9.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-9-300x214.jpg" alt="" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-9.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-9-300x214.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-9-300x214.jpg 300w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-9-768x547.jpg 768w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-9-1024x730.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-10.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-10-300x214.jpg" alt="" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-10.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-10-300x214.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-10-300x214.jpg 300w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-10-768x547.jpg 768w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-10-1024x730.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-11.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-11-300x214.jpg" alt="" /></a>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-11.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-11-300x214.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-11-300x214.jpg 300w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-11-768x547.jpg 768w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-11-1024x730.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-12.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-12-300x214.jpg" alt="" /></a>
-			</figure>]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="fa2aa9f" href='https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-12.jpg'><img width="300" height="214" src="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-12-300x214.jpg" alt="" srcset="https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-12-300x214.jpg 300w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-12-768x547.jpg 768w, https://demo.sukiwp.com/paris-helen-elementor/wp-content/uploads/sites/15/2019/03/captured-moments-12-1024x730.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+			</figure>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 12:59:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 12:59:29]]></wp:post_date_gmt>
@@ -1641,25 +1517,22 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"be1a515","elType":"section","settings":{"background_background":"classic","background_position":"center center","background_repeat":"no-repeat","gap":"no","padding":{"unit":"px","top":"50","right":"20","bottom":"50","left":"20","isLinked":false}},"elements":[{"id":"d1e38ae","elType":"column","settings":{"_column_size":100,"align":"center"},"elements":[{"id":"d5dec67","elType":"widget","settings":{"anchor":"home"},"elements":[],"widgetType":"menu-anchor"},{"id":"01a3426","elType":"widget","settings":{"space":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"3001dd5","elType":"section","settings":{"content_width":{"unit":"px","size":720,"sizes":[]},"gap":"no","content_position":"middle","structure":"30"},"elements":[{"id":"9ebcbe5","elType":"column","settings":{"_column_size":33,"_inline_size":40},"elements":[{"id":"cc8efd4","elType":"widget","settings":{"title":"Paris Wilson","align":"right","typography_font_size":{"unit":"em","size":""},"typography_font_weight":"bold","typography_font_size_mobile":{"unit":"px","size":""},"_element_width_mobile":"inherit","align_mobile":"center"},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"cae5e2c","elType":"column","settings":{"_column_size":33,"_inline_size":20},"elements":[{"id":"8d41983","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/separator-and.png","id":33},"image_size":"thumbnail","width":{"unit":"px","size":100,"sizes":[]},"width_mobile":{"unit":"px","size":60,"sizes":[]},"_margin_mobile":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"_element_width_mobile":"inherit"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"b545c3c","elType":"column","settings":{"_column_size":33,"_inline_size":39.993},"elements":[{"id":"a456e11","elType":"widget","settings":{"title":"Helen Marie","align":"left","typography_font_size":{"unit":"em","size":""},"typography_font_weight":"bold","typography_font_size_mobile":{"unit":"px","size":""},"_element_width_mobile":"inherit","align_mobile":"center"},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"c7ce1f2","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"1028c1e","elType":"widget","settings":{"title":"are getting married","header_size":"h3","align":"center","title_color":"#b1898d","typography_font_size":{"unit":"em","size":1.5},"typography_font_size_mobile":{"unit":"px","size":20}},"elements":[],"widgetType":"heading"},{"id":"e9562d5","elType":"widget","settings":{"title":"14 February, 2020 \u2014 Bali, Indonesia","align":"center","title_color":"#b1898d","header_size":"h3","typography_font_size":{"unit":"em","size":1.5},"typography_font_size_mobile":{"unit":"px","size":20}},"elements":[],"widgetType":"heading"},{"id":"a170db4","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"29e07f7","elType":"widget","settings":{"carousel":[{"id":228,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/home-gallery-1.jpg"},{"id":229,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/home-gallery-2.jpg"},{"id":230,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/home-gallery-3.jpg"}],"thumbnail_size":"medium_large","slides_to_show":"3","navigation":"arrows","pause_on_hover":"no","autoplay":"no","infinite":"no","arrows_size":{"unit":"px","size":60},"arrows_color":"#ffffff","image_spacing":"custom","image_spacing_custom":{"unit":"px","size":20}},"elements":[],"widgetType":"image-carousel"}],"isInner":false}],"isInner":false},{"id":"d4c30ca","elType":"section","settings":{"padding":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false},"gap":"no"},"elements":[{"id":"a6b8adb","elType":"column","settings":{"_column_size":100},"elements":[{"id":"27ff1a1","elType":"widget","settings":{"anchor":"groom-and-bride"},"elements":[],"widgetType":"menu-anchor"},{"id":"9886594","elType":"widget","settings":{"space":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"fa9f361","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/home-flower-sparator-1.png","id":15},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"a249729","elType":"widget","settings":{"title":"Groom & Bridge","align":"center"},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"432d8a2","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/flower-bg-2.png","id":23},"background_position":"top right","background_repeat":"no-repeat","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"40","right":"20","bottom":"20","left":"20","isLinked":false},"reverse_order_mobile":"reverse-mobile","gap":"no","content_width":{"unit":"px","size":900,"sizes":[]},"content_position":"middle","background_size":"contain"},"elements":[{"id":"f10a0cb","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center","margin":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true}},"elements":[{"id":"60ba4d1","elType":"widget","settings":{"title":"Paris Wilson","header_size":"h3","align":"center","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"30ed194","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est.\u00a0<\/p>","align":"center","_margin":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"cef3633","elType":"widget","settings":{"social_icon_list":[{"social":"fa fa-facebook","_id":"26f47e4","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-twitter","_id":"5e54027","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-instagram","link":{"url":"","is_external":"true","nofollow":""},"_id":"0b9205e"},{"social":"fa fa-linkedin","link":{"url":"","is_external":"true","nofollow":""},"_id":"7a49e03"}],"shape":"circle","icon_color":"custom","icon_primary_color":"rgba(0,0,0,0)","icon_secondary_color":"#6d91a8","icon_size":{"unit":"px","size":20},"icon_spacing":{"unit":"px","size":0},"hover_primary_color":"rgba(0,0,0,0)","hover_secondary_color":"#b1898d"},"elements":[],"widgetType":"social-icons"}],"isInner":false},{"id":"de254a5","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"%","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[{"id":"22602cc","elType":"widget","settings":{"image_size":"full","image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/groom.jpg","id":22},"align":"right"},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"2373ab9","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/flower-bg-3.png","id":25},"background_position":"bottom left","background_repeat":"no-repeat","padding":{"unit":"px","top":"20","right":"20","bottom":"40","left":"20","isLinked":false},"gap":"no","content_width":{"unit":"px","size":900,"sizes":[]},"background_position_mobile":"top left","content_position":"middle","background_size":"contain"},"elements":[{"id":"8740ee7","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"%","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[{"id":"cbbe0ad","elType":"widget","settings":{"image_size":"full","image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/bridge.jpg","id":26}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"ea01b34","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center","margin":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true}},"elements":[{"id":"0cd8ee5","elType":"widget","settings":{"title":"Helen Marie\n\n","header_size":"h3","align":"center","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"6fcedb1","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est.\u00a0<\/p>","align":"center","_margin":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"9fcb5bf","elType":"widget","settings":{"social_icon_list":[{"social":"fa fa-facebook","_id":"26f47e4","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-twitter","_id":"5e54027","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-instagram","link":{"url":"","is_external":"true","nofollow":""},"_id":"0b9205e"},{"social":"fa fa-linkedin","link":{"url":"","is_external":"true","nofollow":""},"_id":"7a49e03"}],"shape":"circle","icon_color":"custom","icon_primary_color":"rgba(0,0,0,0)","icon_secondary_color":"#6d91a8","icon_size":{"unit":"px","size":20},"icon_spacing":{"unit":"px","size":0},"hover_primary_color":"rgba(0,0,0,0)","hover_secondary_color":"#b1898d"},"elements":[],"widgetType":"social-icons"}],"isInner":false}],"isInner":false},{"id":"196702d","elType":"section","settings":{"gap":"no"},"elements":[{"id":"8372de0","elType":"column","settings":{"_column_size":100},"elements":[{"id":"c29d75f","elType":"widget","settings":{"anchor":"when-and-where"},"elements":[],"widgetType":"menu-anchor"},{"id":"98c04a8","elType":"widget","settings":{"space":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"ecfa295","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/home-flower-sparator-1.png","id":15},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"725398b","elType":"widget","settings":{"title":"When &amp; Where","align":"center"},"elements":[],"widgetType":"heading"},{"id":"639dccf","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"0577280","elType":"section","settings":{"gap":"no","padding":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false}},"elements":[{"id":"ff9a92a","elType":"column","settings":{"_column_size":100},"elements":[{"id":"c2a610e","elType":"section","settings":{"gap":"no","height_inner":"min-height","custom_height_inner":{"unit":"px","size":300,"sizes":[]},"column_position":"stretch","content_position":"middle","structure":"32"},"elements":[{"id":"85bf671","elType":"column","settings":{"_column_size":50,"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_inline_size":null,"content_position":"center","background_background":"classic","background_color":"#f6f6f6","margin":{"unit":"px","top":"0","right":"20","bottom":"20","left":"0","isLinked":false},"padding_tablet":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"9801042","elType":"widget","settings":{"title":"Wedding Ceremony"},"elements":[],"widgetType":"heading"},{"id":"cc2587a","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.<\/p>","typography_font_size_tablet":{"unit":"px","size":""}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"074fa08","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/where-when-3.jpg","id":233},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"0","right":"10","bottom":"20","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"19fc585","elType":"widget","settings":{"space":{"unit":"px","size":200,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":true},{"id":"d023436","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_color":"#f6f6f6","margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"10","isLinked":false},"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"padding_tablet":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"8620dbf","elType":"widget","settings":{"title":"St. Peter Park,<br>Kuta, Bali","header_size":"div","align":"center","title_color":"#6d91a8","typography_typography":"custom","typography_font_size":{"unit":"em","size":1.5},"typography_font_weight":"bold","typography_line_height":{"unit":"em","size":1.2},"typography_font_size_tablet":{"unit":"px","size":""}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"78ed041","elType":"section","settings":{"gap":"no","height_inner":"min-height","custom_height_inner":{"unit":"px","size":300,"sizes":[]},"column_position":"stretch","content_position":"middle","structure":"32"},"elements":[{"id":"d8988b1","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/where-when-1.jpg","id":234},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"e35ab6c","elType":"widget","settings":{"space":{"unit":"px","size":200,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":true},{"id":"b91f3da","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_color":"#f6f6f6","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"padding_tablet":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"19f7ca5","elType":"widget","settings":{"title":"Sunday,<br>14 February, 2020<br>10.00 AM","header_size":"div","align":"center","title_color":"#6d91a8","typography_typography":"custom","typography_font_size":{"unit":"em","size":1.5},"typography_font_weight":"bold","typography_line_height":{"unit":"em","size":1.2},"typography_font_size_tablet":{"unit":"px","size":""}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"a97c7e8","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/where-when-2.jpg","id":235},"background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"71deb25","elType":"widget","settings":{"space":{"unit":"px","size":200,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"5d0684c","elType":"section","settings":{"structure":"21","background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/flower-bg-10-resized.png","id":55},"background_position":"bottom right","background_repeat":"no-repeat","padding":{"unit":"px","top":"50","right":"10","bottom":"50","left":"10","isLinked":false},"content_position":"middle","gap":"no"},"elements":[{"id":"de6f999","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#f6f6f6","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"9885087","elType":"widget","settings":{"title":"Wedding Party"},"elements":[],"widgetType":"heading"},{"id":"253524c","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.<\/p>"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"5f5d952","elType":"column","settings":{"_column_size":66,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"b8e4b30","elType":"section","settings":{"structure":"20","height_inner":"min-height","custom_height_inner":{"unit":"px","size":300},"custom_height_inner_mobile":{"unit":"px","size":400},"content_position":"middle","gap":"no"},"elements":[{"id":"a2b3ed3","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_color":"#f6f6f6","margin":{"unit":"px","top":"0","right":"10","bottom":"20","left":"0","isLinked":false},"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"2b48c68","elType":"widget","settings":{"title":"Grand Royale Resort,<br>Seminyak, Bali","header_size":"div","align":"center","title_color":"#6d91a8","typography_typography":"custom","typography_font_size":{"unit":"em","size":1.5},"typography_font_weight":"bold","typography_line_height":{"unit":"em","size":1.2},"typography_font_size_tablet":{"unit":"px","size":""}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"7749fd5","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"10","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/where-when-5.jpg","id":236},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"b302ab1","elType":"widget","settings":{"space":{"unit":"px","size":200,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":true}],"isInner":true},{"id":"d86b127","elType":"section","settings":{"structure":"20","height_inner":"min-height","custom_height_inner":{"unit":"px","size":300},"custom_height_inner_tablet":{"unit":"px","size":250},"custom_height_inner_mobile":{"unit":"px","size":400},"reverse_order_mobile":"reverse-mobile","content_position":"middle"},"elements":[{"id":"2d02923","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/where-when-4.jpg","id":237},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"87dc36c","elType":"widget","settings":{"space":{"unit":"px","size":200,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":true},{"id":"9c5c35f","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_color":"#f6f6f6","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"1e236cb","elType":"widget","settings":{"title":"Sunday,<br>14 February, 2020<br>06.00 PM\n\n","header_size":"div","align":"center","title_color":"#6d91a8","typography_typography":"custom","typography_font_size":{"unit":"em","size":1.5},"typography_font_weight":"bold","typography_line_height":{"unit":"em","size":1.2},"typography_font_size_tablet":{"unit":"px","size":""}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"6f4207f","elType":"section","settings":{"margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"padding":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false},"gap":"no"},"elements":[{"id":"f41d8a8","elType":"column","settings":{"_column_size":100},"elements":[{"id":"f5eadea","elType":"widget","settings":{"anchor":"gift-registry"},"elements":[],"widgetType":"menu-anchor"},{"id":"752d122","elType":"widget","settings":{"space":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"9f269e4","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/home-flower-sparator-1.png","id":15},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"f709b36","elType":"widget","settings":{"title":"Gift Registry","align":"center","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"b44152c","elType":"widget","settings":{"space":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"3720e6e","elType":"section","settings":{"content_width":{"unit":"px","size":720,"sizes":[]},"gap":"no"},"elements":[{"id":"a258c7f","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"69fdb1c","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est.<\/p>","typography_font_size_tablet":{"unit":"px","size":14},"align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"57eda14","elType":"widget","settings":{"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"},{"id":"23419a7","elType":"section","settings":{"structure":"40","content_position":"middle"},"elements":[{"id":"12361ed","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"12728bc","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/gift-registry-1.png","id":207},"image_size":"full","link_to":"custom","link":{"url":"#","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"a055873","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"cedbef8","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/gift-registry-2.png","id":208},"image_size":"full","link_to":"custom","link":{"url":"#","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"302f4c5","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"f49b59a","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/gift-registry-3.png","id":209},"image_size":"full","link_to":"custom","link":{"url":"#","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"7feed48","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"0e6219a","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/gift-registry-4.png","id":210},"image_size":"full","link_to":"custom","link":{"url":"#","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true},{"id":"6442a9a","elType":"widget","settings":{"space":{"unit":"px","size":80},"space_tablet":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"},{"id":"3b31a5c","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/flower-bg-4.png","id":49},"image_size":"full","width_tablet":{"unit":"%","size":65}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"8cda631","elType":"section","settings":{"background_background":"classic","background_color":"#f6f6f6","padding":{"unit":"px","top":"0","right":"20","bottom":"100","left":"20","isLinked":false},"gap":"no","content_position":"middle"},"elements":[{"id":"5e8ea84","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"c8a91a8","elType":"widget","settings":{"anchor":"rsvp"},"elements":[],"widgetType":"menu-anchor"},{"id":"5a1d33c","elType":"widget","settings":{"space":{"unit":"px","size":100,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"c5f021f","elType":"section","settings":{"gap":"no","structure":"20"},"elements":[{"id":"e6c4044","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"%","top":"0","right":"5","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"padding":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true}},"elements":[{"id":"da8d214","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/home-flower-sparator-1.png","id":15},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"c20e98b","elType":"widget","settings":{"title":"Please sign your RSVP","align":"center"},"elements":[],"widgetType":"heading"},{"id":"8e6801f","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est.<\/p>","typography_font_size_tablet":{"unit":"px","size":""},"align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"ee88139","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"%","top":"0","right":"0","bottom":"0","left":"5","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true}},"elements":[{"id":"f9b32f1","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"137\" title=\"RSVP\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":true}],"isInner":true},{"id":"b1b6b0b","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"7750f7b","elType":"section","settings":{"margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"padding":{"unit":"px","top":"0","right":"20","bottom":"140","left":"20","isLinked":false},"padding_tablet":{"unit":"px","top":"100","right":"20","bottom":"120","left":"20","isLinked":false},"gap":"no"},"elements":[{"id":"bf68336","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2f0a9bb","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/flower-bg-6.png","id":56},"image_size":"full","width_tablet":{"unit":"%","size":65}},"elements":[],"widgetType":"image"},{"id":"32285cc","elType":"widget","settings":{"anchor":"gallery"},"elements":[],"widgetType":"menu-anchor"},{"id":"64302b6","elType":"widget","settings":{"space":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"b77717c","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/home-flower-sparator-1.png","id":15},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"61ba5b5","elType":"widget","settings":{"title":"Captured Moments","align":"center","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"6961cb6","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"fa2aa9f","elType":"widget","settings":{"wp_gallery":[{"id":212,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-1.jpg"},{"id":213,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-2.jpg"},{"id":214,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-3.jpg"},{"id":215,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-4.jpg"},{"id":216,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-5.jpg"},{"id":217,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-6.jpg"},{"id":218,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-7.jpg"},{"id":219,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-8.jpg"},{"id":220,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-9.jpg"},{"id":221,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-10.jpg"},{"id":222,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-11.jpg"},{"id":223,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-12.jpg"}],"thumbnail_size":"medium","gallery_columns":"3","image_spacing":"custom","image_spacing_custom":{"unit":"px","size":20},"gallery_display_caption":"none","open_lightbox":"yes"},"elements":[],"widgetType":"image-gallery"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"be1a515","elType":"section","settings":{"background_background":"classic","background_position":"center center","background_repeat":"no-repeat","gap":"no","padding":{"unit":"px","top":"50","right":"20","bottom":"50","left":"20","isLinked":false}},"elements":[{"id":"d1e38ae","elType":"column","settings":{"_column_size":100,"align":"center"},"elements":[{"id":"d5dec67","elType":"widget","settings":{"anchor":"home"},"elements":[],"widgetType":"menu-anchor"},{"id":"01a3426","elType":"widget","settings":{"space":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"3001dd5","elType":"section","settings":{"content_width":{"unit":"px","size":720,"sizes":[]},"gap":"no","content_position":"middle","structure":"30"},"elements":[{"id":"9ebcbe5","elType":"column","settings":{"_column_size":33,"_inline_size":40},"elements":[{"id":"cc8efd4","elType":"widget","settings":{"title":"Paris Wilson","align":"right","typography_font_size":{"unit":"px","size":""},"typography_font_size_mobile":{"unit":"px","size":""},"_element_width_mobile":"inherit","align_mobile":"center","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.4,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"cae5e2c","elType":"column","settings":{"_column_size":33,"_inline_size":20},"elements":[{"id":"8d41983","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/separator-and.png","id":33},"image_size":"thumbnail","width":{"unit":"px","size":100,"sizes":[]},"width_mobile":{"unit":"px","size":60,"sizes":[]},"_margin_mobile":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"_element_width_mobile":"inherit"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"b545c3c","elType":"column","settings":{"_column_size":33,"_inline_size":39.993},"elements":[{"id":"a456e11","elType":"widget","settings":{"title":"Helen Marie","align":"left","typography_font_size":{"unit":"em","size":""},"typography_font_size_mobile":{"unit":"px","size":""},"_element_width_mobile":"inherit","align_mobile":"center","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.4,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"c7ce1f2","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"1028c1e","elType":"widget","settings":{"title":"are getting married<br>14 February, 2020 \u2014 Bali, Indonesia","header_size":"h3","align":"center","title_color":"#b1898d","typography_font_size":{"unit":"px","size":""},"typography_font_size_mobile":{"unit":"px","size":20},"typography_typography":"custom","typography_line_height":{"unit":"em","size":1.5,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"a170db4","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"29e07f7","elType":"widget","settings":{"carousel":[{"id":228,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/home-gallery-1.jpg"},{"id":229,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/home-gallery-2.jpg"},{"id":230,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/home-gallery-3.jpg"}],"thumbnail_size":"medium_large","slides_to_show":"3","navigation":"arrows","pause_on_hover":"no","autoplay":"no","infinite":"no","arrows_size":{"unit":"px","size":60},"arrows_color":"#ffffff","image_spacing":"custom","image_spacing_custom":{"unit":"px","size":20}},"elements":[],"widgetType":"image-carousel"}],"isInner":false}],"isInner":false},{"id":"d4c30ca","elType":"section","settings":{"padding":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false},"gap":"no"},"elements":[{"id":"a6b8adb","elType":"column","settings":{"_column_size":100},"elements":[{"id":"27ff1a1","elType":"widget","settings":{"anchor":"groom-and-bride"},"elements":[],"widgetType":"menu-anchor"},{"id":"9886594","elType":"widget","settings":{"space":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"fa9f361","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/home-flower-sparator-1.png","id":15},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"a249729","elType":"widget","settings":{"title":"Groom & Bridge","align":"center","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.4,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"432d8a2","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/flower-bg-2.png","id":23},"background_position":"top right","background_repeat":"no-repeat","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"40","right":"20","bottom":"20","left":"20","isLinked":false},"reverse_order_mobile":"reverse-mobile","gap":"no","content_width":{"unit":"px","size":900,"sizes":[]},"content_position":"middle","background_size":"contain"},"elements":[{"id":"f10a0cb","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center","margin":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true}},"elements":[{"id":"60ba4d1","elType":"widget","settings":{"title":"Paris Wilson","header_size":"h3","align":"center","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.5,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"30ed194","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est.\u00a0<\/p>","align":"center","_margin":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"cef3633","elType":"widget","settings":{"social_icon_list":[{"social":"fa fa-facebook","_id":"26f47e4","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-twitter","_id":"5e54027","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-instagram","link":{"url":"","is_external":"true","nofollow":""},"_id":"0b9205e"},{"social":"fa fa-linkedin","link":{"url":"","is_external":"true","nofollow":""},"_id":"7a49e03"}],"shape":"circle","icon_color":"custom","icon_primary_color":"rgba(0,0,0,0)","icon_secondary_color":"#6d91a8","icon_size":{"unit":"px","size":20},"icon_spacing":{"unit":"px","size":0},"hover_primary_color":"rgba(0,0,0,0)","hover_secondary_color":"#b1898d"},"elements":[],"widgetType":"social-icons"}],"isInner":false},{"id":"de254a5","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"%","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[{"id":"22602cc","elType":"widget","settings":{"image_size":"full","image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/groom.jpg","id":22},"align":"right"},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"2373ab9","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/flower-bg-3.png","id":25},"background_position":"bottom left","background_repeat":"no-repeat","padding":{"unit":"px","top":"20","right":"20","bottom":"40","left":"20","isLinked":false},"gap":"no","content_width":{"unit":"px","size":900,"sizes":[]},"background_position_mobile":"top left","content_position":"middle","background_size":"contain"},"elements":[{"id":"8740ee7","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"%","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[{"id":"cbbe0ad","elType":"widget","settings":{"image_size":"full","image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/bridge.jpg","id":26}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"ea01b34","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center","margin":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true}},"elements":[{"id":"0cd8ee5","elType":"widget","settings":{"title":"Helen Marie\n\n","header_size":"h3","align":"center","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.5,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"6fcedb1","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est.\u00a0<\/p>","align":"center","_margin":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"9fcb5bf","elType":"widget","settings":{"social_icon_list":[{"social":"fa fa-facebook","_id":"26f47e4","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-twitter","_id":"5e54027","link":{"url":"","is_external":"true","nofollow":""}},{"social":"fa fa-instagram","link":{"url":"","is_external":"true","nofollow":""},"_id":"0b9205e"},{"social":"fa fa-linkedin","link":{"url":"","is_external":"true","nofollow":""},"_id":"7a49e03"}],"shape":"circle","icon_color":"custom","icon_primary_color":"rgba(0,0,0,0)","icon_secondary_color":"#6d91a8","icon_size":{"unit":"px","size":20},"icon_spacing":{"unit":"px","size":0},"hover_primary_color":"rgba(0,0,0,0)","hover_secondary_color":"#b1898d"},"elements":[],"widgetType":"social-icons"}],"isInner":false}],"isInner":false},{"id":"196702d","elType":"section","settings":{"gap":"no"},"elements":[{"id":"8372de0","elType":"column","settings":{"_column_size":100},"elements":[{"id":"c29d75f","elType":"widget","settings":{"anchor":"when-and-where"},"elements":[],"widgetType":"menu-anchor"},{"id":"98c04a8","elType":"widget","settings":{"space":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"ecfa295","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/home-flower-sparator-1.png","id":15},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"725398b","elType":"widget","settings":{"title":"When &amp; Where","align":"center","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.4,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"639dccf","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"0577280","elType":"section","settings":{"gap":"no","padding":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false}},"elements":[{"id":"ff9a92a","elType":"column","settings":{"_column_size":100},"elements":[{"id":"c2a610e","elType":"section","settings":{"gap":"no","height_inner":"min-height","custom_height_inner":{"unit":"px","size":300,"sizes":[]},"column_position":"stretch","content_position":"middle","structure":"32"},"elements":[{"id":"85bf671","elType":"column","settings":{"_column_size":50,"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_inline_size":null,"content_position":"center","background_background":"classic","background_color":"#f6f6f6","margin":{"unit":"px","top":"0","right":"20","bottom":"20","left":"0","isLinked":false},"padding_tablet":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"9801042","elType":"widget","settings":{"title":"Wedding Ceremony","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.4,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"cc2587a","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.<\/p>","typography_font_size_tablet":{"unit":"px","size":""}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"074fa08","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/where-when-3.jpg","id":233},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"0","right":"10","bottom":"20","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"19fc585","elType":"widget","settings":{"space":{"unit":"px","size":200,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":true},{"id":"d023436","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_color":"#f6f6f6","margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"10","isLinked":false},"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"padding_tablet":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"8620dbf","elType":"widget","settings":{"title":"St. Peter Park,<br>Kuta, Bali","header_size":"div","align":"center","title_color":"#6d91a8","typography_typography":"custom","typography_font_size":{"unit":"px","size":27},"typography_font_weight":"bold","typography_line_height":{"unit":"em","size":1.2},"typography_font_size_tablet":{"unit":"px","size":""}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"78ed041","elType":"section","settings":{"gap":"no","height_inner":"min-height","custom_height_inner":{"unit":"px","size":300,"sizes":[]},"column_position":"stretch","content_position":"middle","structure":"32"},"elements":[{"id":"d8988b1","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/where-when-1.jpg","id":234},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"e35ab6c","elType":"widget","settings":{"space":{"unit":"px","size":200,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":true},{"id":"b91f3da","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_color":"#f6f6f6","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"padding_tablet":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"19f7ca5","elType":"widget","settings":{"title":"Sunday,<br>14 February, 2020<br>10.00 AM","header_size":"div","align":"center","title_color":"#6d91a8","typography_typography":"custom","typography_font_size":{"unit":"px","size":27},"typography_font_weight":"bold","typography_line_height":{"unit":"em","size":1.2},"typography_font_size_tablet":{"unit":"px","size":""}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"a97c7e8","elType":"column","settings":{"_column_size":25,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/where-when-2.jpg","id":235},"background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"71deb25","elType":"widget","settings":{"space":{"unit":"px","size":200,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"5d0684c","elType":"section","settings":{"structure":"21","background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/flower-bg-10-resized.png","id":55},"background_position":"bottom right","background_repeat":"no-repeat","padding":{"unit":"px","top":"50","right":"10","bottom":"50","left":"10","isLinked":false},"content_position":"middle","gap":"no"},"elements":[{"id":"de6f999","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#f6f6f6","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"9885087","elType":"widget","settings":{"title":"Wedding Party","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.4,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"253524c","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.<\/p>"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"5f5d952","elType":"column","settings":{"_column_size":66,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"b8e4b30","elType":"section","settings":{"structure":"20","height_inner":"min-height","custom_height_inner":{"unit":"px","size":300},"custom_height_inner_mobile":{"unit":"px","size":400},"content_position":"middle","gap":"no"},"elements":[{"id":"a2b3ed3","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_color":"#f6f6f6","margin":{"unit":"px","top":"0","right":"10","bottom":"20","left":"0","isLinked":false},"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"2b48c68","elType":"widget","settings":{"title":"Grand Royale Resort,<br>Seminyak, Bali","header_size":"div","align":"center","title_color":"#6d91a8","typography_typography":"custom","typography_font_size":{"unit":"px","size":27},"typography_font_weight":"bold","typography_line_height":{"unit":"em","size":1.2},"typography_font_size_tablet":{"unit":"px","size":""}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"7749fd5","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"10","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/where-when-5.jpg","id":236},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"b302ab1","elType":"widget","settings":{"space":{"unit":"px","size":200,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":true}],"isInner":true},{"id":"d86b127","elType":"section","settings":{"structure":"20","height_inner":"min-height","custom_height_inner":{"unit":"px","size":300},"custom_height_inner_tablet":{"unit":"px","size":250},"custom_height_inner_mobile":{"unit":"px","size":400},"reverse_order_mobile":"reverse-mobile","content_position":"middle"},"elements":[{"id":"2d02923","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/where-when-4.jpg","id":237},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"87dc36c","elType":"widget","settings":{"space":{"unit":"px","size":200,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":true},{"id":"9c5c35f","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_color":"#f6f6f6","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"1e236cb","elType":"widget","settings":{"title":"Sunday,<br>14 February, 2020<br>06.00 PM\n\n","header_size":"div","align":"center","title_color":"#6d91a8","typography_typography":"custom","typography_font_size":{"unit":"px","size":27},"typography_font_weight":"bold","typography_line_height":{"unit":"em","size":1.2},"typography_font_size_tablet":{"unit":"px","size":""}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"6f4207f","elType":"section","settings":{"margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"padding":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false},"gap":"no"},"elements":[{"id":"f41d8a8","elType":"column","settings":{"_column_size":100},"elements":[{"id":"f5eadea","elType":"widget","settings":{"anchor":"gift-registry"},"elements":[],"widgetType":"menu-anchor"},{"id":"752d122","elType":"widget","settings":{"space":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"9f269e4","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/home-flower-sparator-1.png","id":15},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"f709b36","elType":"widget","settings":{"title":"Gift Registry","align":"center","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.4,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"b44152c","elType":"widget","settings":{"space":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"3720e6e","elType":"section","settings":{"content_width":{"unit":"px","size":720,"sizes":[]},"gap":"no"},"elements":[{"id":"a258c7f","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"69fdb1c","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est.<\/p>","typography_font_size_tablet":{"unit":"px","size":14},"align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"57eda14","elType":"widget","settings":{"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"},{"id":"23419a7","elType":"section","settings":{"structure":"40","content_position":"middle"},"elements":[{"id":"12361ed","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"12728bc","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/gift-registry-1.png","id":207},"image_size":"full","link_to":"custom","link":{"url":"#","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"a055873","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"cedbef8","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/gift-registry-2.png","id":208},"image_size":"full","link_to":"custom","link":{"url":"#","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"302f4c5","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"f49b59a","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/gift-registry-3.png","id":209},"image_size":"full","link_to":"custom","link":{"url":"#","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"7feed48","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"0e6219a","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/gift-registry-4.png","id":210},"image_size":"full","link_to":"custom","link":{"url":"#","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true},{"id":"6442a9a","elType":"widget","settings":{"space":{"unit":"px","size":80},"space_tablet":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"},{"id":"3b31a5c","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/flower-bg-4.png","id":49},"image_size":"full","width_tablet":{"unit":"%","size":65}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"8cda631","elType":"section","settings":{"background_background":"classic","background_color":"#f6f6f6","padding":{"unit":"px","top":"0","right":"20","bottom":"100","left":"20","isLinked":false},"gap":"no","content_position":"middle"},"elements":[{"id":"5e8ea84","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"margin_mobile":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true},"padding_mobile":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"c8a91a8","elType":"widget","settings":{"anchor":"rsvp"},"elements":[],"widgetType":"menu-anchor"},{"id":"5a1d33c","elType":"widget","settings":{"space":{"unit":"px","size":100,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"c5f021f","elType":"section","settings":{"gap":"no","structure":"20"},"elements":[{"id":"e6c4044","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"%","top":"0","right":"5","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"padding":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true}},"elements":[{"id":"da8d214","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/home-flower-sparator-1.png","id":15},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"c20e98b","elType":"widget","settings":{"title":"Please sign your RSVP","align":"center","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.4,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"8e6801f","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est.<\/p>","typography_font_size_tablet":{"unit":"px","size":""},"align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"ee88139","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"%","top":"0","right":"0","bottom":"0","left":"5","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":true}},"elements":[{"id":"f9b32f1","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"137\" title=\"RSVP\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":true}],"isInner":true},{"id":"b1b6b0b","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"7750f7b","elType":"section","settings":{"margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"padding":{"unit":"px","top":"0","right":"20","bottom":"140","left":"20","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"20","bottom":"120","left":"20","isLinked":false},"gap":"no"},"elements":[{"id":"bf68336","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2f0a9bb","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/flower-bg-6.png","id":56},"image_size":"full","width_tablet":{"unit":"%","size":65}},"elements":[],"widgetType":"image"},{"id":"32285cc","elType":"widget","settings":{"anchor":"gallery"},"elements":[],"widgetType":"menu-anchor"},{"id":"64302b6","elType":"widget","settings":{"space":{"unit":"px","size":70,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"b77717c","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/02\/home-flower-sparator-1.png","id":15},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"61ba5b5","elType":"widget","settings":{"title":"Captured Moments","align":"center","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.4,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"6961cb6","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"fa2aa9f","elType":"widget","settings":{"wp_gallery":[{"id":212,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-1.jpg"},{"id":213,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-2.jpg"},{"id":214,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-3.jpg"},{"id":215,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-4.jpg"},{"id":216,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-5.jpg"},{"id":217,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-6.jpg"},{"id":218,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-7.jpg"},{"id":219,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-8.jpg"},{"id":220,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-9.jpg"},{"id":221,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-10.jpg"},{"id":222,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-11.jpg"},{"id":223,"url":"https:\/\/demo.sukiwp.com\/wedding-rsvp-elementor\/wp-content\/uploads\/sites\/15\/2019\/03\/captured-moments-12.jpg"}],"thumbnail_size":"medium","gallery_columns":"3","image_spacing":"custom","image_spacing_custom":{"unit":"px","size":20},"gallery_display_caption":"none","open_lightbox":"yes"},"elements":[],"widgetType":"image-gallery"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.14]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2.5.15]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Hero Section		</title>
+		<title>Hero Section</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/?suki_block=hero-section</link>
 		<pubDate>Tue, 26 Feb 2019 07:20:03 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/?post_type=suki_block&#038;p=123</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<img width="400" height="400" src="https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/logo.png" alt="">]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[<img width="400" height="400" src="https://demo.sukiwp.com/wedding-rsvp-elementor/wp-content/uploads/sites/15/2019/03/logo.png" alt="">]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-26 07:20:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-26 07:20:03]]></wp:post_date_gmt>
@@ -1706,15 +1579,13 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				RSVP		</title>
+		<title>RSVP</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/?post_type=wpcf7_contact_form&#038;p=137</link>
 		<pubDate>Tue, 26 Feb 2019 15:35:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/?post_type=wpcf7_contact_form&#038;p=137</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[[text* your-name placeholder "Name"]
+		<content:encoded><![CDATA[[text* your-name placeholder "Name"]
 
 [email* your-email placeholder "Email"]
 
@@ -1774,9 +1645,8 @@ The answer to the quiz is incorrect.
 Your entered code is incorrect.
 The e-mail address entered is invalid.
 The URL is invalid.
-The telephone number is invalid.]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+The telephone number is invalid.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>137</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-26 15:35:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-26 15:35:06]]></wp:post_date_gmt>
@@ -1834,17 +1704,14 @@ This e-mail was sent from a contact form on Paris &amp; Hellen - Wedding Online 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Gallery		</title>
+		<title>Gallery</title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/gallery/</link>
 		<pubDate>Thu, 21 Mar 2019 15:20:30 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/?p=190</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>190</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-21 15:20:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-21 15:20:30]]></wp:post_date_gmt>
