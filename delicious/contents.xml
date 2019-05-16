@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.1.1" created="2019-04-05 01:25" -->
+	<!-- generator="WordPress/5.2" created="2019-05-16 01:56" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Delicious - Food Blog</title>
 	<link>https://demo.sukiwp.com/delicious</link>
 	<description>Food Reviews - Recipes - Cooking Tips</description>
-	<pubDate>Fri, 05 Apr 2019 01:25:47 +0000</pubDate>
+	<pubDate>Thu, 16 May 2019 01:56:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
@@ -205,18 +205,16 @@
 			<wp:term><wp:term_id>19</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<generator>https://wordpress.org/?v=5.2</generator>
 
 		<item>
-		<title>
-				Never Eat More Than You Can Life		</title>
+		<title>Never Eat More Than You Can Life</title>
 		<link>https://demo.sukiwp.com/delicious/never-eat-more-than-you-can-life/</link>
 		<pubDate>Wed, 07 Nov 2018 04:52:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/?p=14</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words.</p>
 <!-- /wp:paragraph -->
 
@@ -242,9 +240,8 @@
 
 <!-- wp:paragraph -->
 <p>Aliquam pellentesque turpis orci, quis ullamcorper nisi feugiat eget. Cras dolor lorem, porta sit amet erat quis, dignissim dapibus ex. Phasellus quis aliquam orci. Morbi pellentesque sed ante sit amet venenatis. Etiam orci neque, gravida eget arcu vitae, maximus commodo mauris. Fusce magna urna, vehicula ut faucibus sit amet, pellentesque eget ante. Cras viverra sed mauris id tempor. Nullam ipsum lacus, maximus et egestas non, tincidunt vel purus.</p>
-<!-- /wp:paragraph -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-07 04:52:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-07 04:52:43]]></wp:post_date_gmt>
@@ -276,15 +273,13 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Contact		</title>
+		<title>Contact</title>
 		<link>https://demo.sukiwp.com/delicious/contact/</link>
 		<pubDate>Wed, 07 Nov 2018 07:13:15 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/?page_id=27</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:heading {"className":"contact_us_title"} -->
+		<content:encoded><![CDATA[<!-- wp:heading {"className":"contact_us_title"} -->
 <h2 class="contact_us_title">Any suggestions, feedback, or partnership ideas?</h2>
 <!-- /wp:heading -->
 
@@ -294,9 +289,8 @@
 
 <!-- wp:paragraph -->
 <p><strong>Call me:</strong>+65 6443 1859<br><strong>Locate me:</strong>2 Kallang Avenue, CT Hub @ Kallang, #09-27, Singapore 339407<br><strong>Email me:</strong> email@domain.com</p>
-<!-- /wp:paragraph -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-07 07:13:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-07 07:13:15]]></wp:post_date_gmt>
@@ -327,15 +321,13 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				About		</title>
+		<title>About</title>
 		<link>https://demo.sukiwp.com/delicious/about/</link>
 		<pubDate>Wed, 07 Nov 2018 07:13:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/?page_id=28</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:image {"id":168,"align":"center"} -->
+		<content:encoded><![CDATA[<!-- wp:image {"id":168,"align":"center"} -->
 <div class="wp-block-image"><figure class="aligncenter"><img src="https://demo.sukiwp.com/delicious/wp-content/uploads/sites/4/2019/01/adult-affection-baby-1024x683.jpg" alt="" class="wp-image-168" /></figure></div>
 <!-- /wp:image -->
 
@@ -353,9 +345,8 @@
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean et orci iaculis, bibendum neque vulputate, tincidunt enim. Sed ac metus et enim luctus vulputate et sit amet ante.</p></blockquote>
-<!-- /wp:quote -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:quote -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-07 07:13:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-07 07:13:34]]></wp:post_date_gmt>
@@ -386,15 +377,13 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Tokyo Food Guide		</title>
+		<title>Tokyo Food Guide</title>
 		<link>https://demo.sukiwp.com/delicious/tokyo-food-guide/</link>
 		<pubDate>Wed, 07 Nov 2018 07:24:04 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/?p=38</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words.</p>
 <!-- /wp:paragraph -->
 
@@ -420,9 +409,8 @@
 
 <!-- wp:paragraph -->
 <p>Aliquam pellentesque turpis orci, quis ullamcorper nisi feugiat eget. Cras dolor lorem, porta sit amet erat quis, dignissim dapibus ex. Phasellus quis aliquam orci. Morbi pellentesque sed ante sit amet venenatis. Etiam orci neque, gravida eget arcu vitae, maximus commodo mauris. Fusce magna urna, vehicula ut faucibus sit amet, pellentesque eget ante. Cras viverra sed mauris id tempor. Nullam ipsum lacus, maximus et egestas non, tincidunt vel purus.</p>
-<!-- /wp:paragraph -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-07 07:24:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-07 07:24:04]]></wp:post_date_gmt>
@@ -455,15 +443,13 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				What to Cook in November		</title>
+		<title>What to Cook in November</title>
 		<link>https://demo.sukiwp.com/delicious/what-to-cook-in-november/</link>
 		<pubDate>Wed, 07 Nov 2018 05:25:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/?p=40</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words.</p>
 <!-- /wp:paragraph -->
 
@@ -489,9 +475,8 @@
 
 <!-- wp:paragraph -->
 <p>Aliquam pellentesque turpis orci, quis ullamcorper nisi feugiat eget. Cras dolor lorem, porta sit amet erat quis, dignissim dapibus ex. Phasellus quis aliquam orci. Morbi pellentesque sed ante sit amet venenatis. Etiam orci neque, gravida eget arcu vitae, maximus commodo mauris. Fusce magna urna, vehicula ut faucibus sit amet, pellentesque eget ante. Cras viverra sed mauris id tempor. Nullam ipsum lacus, maximus et egestas non, tincidunt vel purus.</p>
-<!-- /wp:paragraph -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-07 05:25:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-07 05:25:50]]></wp:post_date_gmt>
@@ -523,17 +508,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Home		</title>
+		<title>Home</title>
 		<link>https://demo.sukiwp.com/delicious/home/</link>
 		<pubDate>Sat, 24 Nov 2018 16:54:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/?p=120</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>120</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-24 16:54:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-24 16:54:01]]></wp:post_date_gmt>
@@ -581,17 +563,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-						</title>
+		<title></title>
 		<link>https://demo.sukiwp.com/delicious/121/</link>
 		<pubDate>Sat, 24 Nov 2018 16:54:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/?p=121</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[ ]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>121</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-24 16:54:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-24 16:54:02]]></wp:post_date_gmt>
@@ -639,17 +618,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-						</title>
+		<title></title>
 		<link>https://demo.sukiwp.com/delicious/122/</link>
 		<pubDate>Sat, 24 Nov 2018 16:54:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/?p=122</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[ ]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-24 16:54:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-24 16:54:02]]></wp:post_date_gmt>
@@ -697,17 +673,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-						</title>
+		<title></title>
 		<link>https://demo.sukiwp.com/delicious/123/</link>
 		<pubDate>Sat, 24 Nov 2018 16:54:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/?p=123</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[ ]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-24 16:54:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-24 16:54:02]]></wp:post_date_gmt>
@@ -755,17 +728,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-						</title>
+		<title></title>
 		<link>https://demo.sukiwp.com/delicious/124/</link>
 		<pubDate>Sat, 24 Nov 2018 16:54:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/?p=124</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[ ]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>124</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-24 16:54:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-24 16:54:02]]></wp:post_date_gmt>
@@ -813,17 +783,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-						</title>
+		<title></title>
 		<link>https://demo.sukiwp.com/delicious/125/</link>
 		<pubDate>Sat, 24 Nov 2018 16:54:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/?p=125</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[ ]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>125</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-24 16:54:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-24 16:54:02]]></wp:post_date_gmt>
@@ -871,17 +838,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				suki-delicious-logo		</title>
+		<title>suki-delicious-logo</title>
 		<link>https://demo.sukiwp.com/delicious/suki-delicious-logo/</link>
 		<pubDate>Fri, 11 Jan 2019 15:31:39 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/wp-content/uploads/sites/4/2019/01/suki-delicious-logo.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>163</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-11 15:31:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-11 15:31:39]]></wp:post_date_gmt>
@@ -905,17 +869,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				bottle-bowl-breakfast		</title>
+		<title>bottle-bowl-breakfast</title>
 		<link>https://demo.sukiwp.com/delicious/bottle-bowl-breakfast/</link>
 		<pubDate>Tue, 15 Jan 2019 08:47:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/wp-content/uploads/sites/4/2019/01/bottle-bowl-breakfast.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>165</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-15 08:47:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-15 08:47:12]]></wp:post_date_gmt>
@@ -939,17 +900,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				baked-bowl-bread		</title>
+		<title>baked-bowl-bread</title>
 		<link>https://demo.sukiwp.com/delicious/baked-bowl-bread/</link>
 		<pubDate>Tue, 15 Jan 2019 08:47:13 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/wp-content/uploads/sites/4/2019/01/baked-bowl-bread.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>166</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-15 08:47:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-15 08:47:13]]></wp:post_date_gmt>
@@ -973,17 +931,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				baked-baking-chef		</title>
+		<title>baked-baking-chef</title>
 		<link>https://demo.sukiwp.com/delicious/baked-baking-chef/</link>
 		<pubDate>Tue, 15 Jan 2019 08:47:13 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/wp-content/uploads/sites/4/2019/01/baked-baking-chef.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>167</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-15 08:47:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-15 08:47:13]]></wp:post_date_gmt>
@@ -1007,17 +962,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				adult-affection-baby		</title>
+		<title>adult-affection-baby</title>
 		<link>https://demo.sukiwp.com/delicious/adult-affection-baby/</link>
 		<pubDate>Tue, 15 Jan 2019 08:47:14 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/wp-content/uploads/sites/4/2019/01/adult-affection-baby.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>168</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-15 08:47:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-15 08:47:14]]></wp:post_date_gmt>
@@ -1041,17 +993,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				cake-celebration-cream		</title>
+		<title>cake-celebration-cream</title>
 		<link>https://demo.sukiwp.com/delicious/cake-celebration-cream/</link>
 		<pubDate>Tue, 15 Jan 2019 08:47:15 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/wp-content/uploads/sites/4/2019/01/cake-celebration-cream.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>169</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-15 08:47:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-15 08:47:15]]></wp:post_date_gmt>
@@ -1075,17 +1024,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				bread-breakfast-delicious		</title>
+		<title>bread-breakfast-delicious</title>
 		<link>https://demo.sukiwp.com/delicious/bread-breakfast-delicious/</link>
 		<pubDate>Tue, 15 Jan 2019 08:47:16 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/wp-content/uploads/sites/4/2019/01/bread-breakfast-delicious.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>170</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-15 08:47:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-15 08:47:16]]></wp:post_date_gmt>
@@ -1109,17 +1055,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				title-bar-optimized		</title>
+		<title>title-bar-optimized</title>
 		<link>https://demo.sukiwp.com/delicious/title-bar-optimized/</link>
 		<pubDate>Tue, 15 Jan 2019 08:47:17 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/wp-content/uploads/sites/4/2019/01/title-bar-optimized.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>171</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-15 08:47:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-15 08:47:17]]></wp:post_date_gmt>
@@ -1143,17 +1086,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				bowls-close-up-delicious		</title>
+		<title>bowls-close-up-delicious</title>
 		<link>https://demo.sukiwp.com/delicious/bowls-close-up-delicious/</link>
 		<pubDate>Tue, 15 Jan 2019 08:48:44 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/delicious/wp-content/uploads/sites/4/2019/01/bowls-close-up-delicious.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>172</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-15 08:48:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-15 08:48:44]]></wp:post_date_gmt>
@@ -1177,15 +1117,13 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				What to Cook in December		</title>
+		<title>What to Cook in December</title>
 		<link>https://demo.sukiwp.com/delicious/what-to-cook-in-december/</link>
 		<pubDate>Wed, 07 Nov 2018 17:22:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/?p=37</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words.</p>
 <!-- /wp:paragraph -->
 
@@ -1211,9 +1149,8 @@
 
 <!-- wp:paragraph -->
 <p>Aliquam pellentesque turpis orci, quis ullamcorper nisi feugiat eget. Cras dolor lorem, porta sit amet erat quis, dignissim dapibus ex. Phasellus quis aliquam orci. Morbi pellentesque sed ante sit amet venenatis. Etiam orci neque, gravida eget arcu vitae, maximus commodo mauris. Fusce magna urna, vehicula ut faucibus sit amet, pellentesque eget ante. Cras viverra sed mauris id tempor. Nullam ipsum lacus, maximus et egestas non, tincidunt vel purus.</p>
-<!-- /wp:paragraph -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-07 17:22:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-07 17:22:32]]></wp:post_date_gmt>
@@ -1245,15 +1182,13 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Baked Bowl Bread		</title>
+		<title>Baked Bowl Bread</title>
 		<link>https://demo.sukiwp.com/delicious/baked-bowl-bread/</link>
 		<pubDate>Wed, 07 Nov 2018 07:25:17 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/?p=39</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words.</p>
 <!-- /wp:paragraph -->
 
@@ -1279,9 +1214,8 @@
 
 <!-- wp:paragraph -->
 <p>Aliquam pellentesque turpis orci, quis ullamcorper nisi feugiat eget. Cras dolor lorem, porta sit amet erat quis, dignissim dapibus ex. Phasellus quis aliquam orci. Morbi pellentesque sed ante sit amet venenatis. Etiam orci neque, gravida eget arcu vitae, maximus commodo mauris. Fusce magna urna, vehicula ut faucibus sit amet, pellentesque eget ante. Cras viverra sed mauris id tempor. Nullam ipsum lacus, maximus et egestas non, tincidunt vel purus.</p>
-<!-- /wp:paragraph -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-07 07:25:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-07 07:25:17]]></wp:post_date_gmt>
