@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.1.1" created="2019-04-08 13:22" -->
+	<!-- generator="WordPress/5.2.1" created="2019-06-15 05:05" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Aptitud - Gym &#38; Fitness Center (Elementor)</title>
 	<link>https://demo.sukiwp.com/aptitud-elementor</link>
 	<description>Gym &#38; Fitness Center</description>
-	<pubDate>Mon, 08 Apr 2019 13:22:06 +0000</pubDate>
+	<pubDate>Sat, 15 Jun 2019 05:05:02 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
@@ -46,20 +46,17 @@
 					<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
 
 		<item>
-		<title>
-				about hero		</title>
+		<title>about hero</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/about/about-hero-2/</link>
 		<pubDate>Mon, 25 Mar 2019 13:42:11 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/wp-content/uploads/sites/14/2019/03/about-hero.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>175</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 13:42:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 13:42:11]]></wp:post_date_gmt>
@@ -83,17 +80,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Home hero		</title>
+		<title>Home hero</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/home-hero/</link>
 		<pubDate>Mon, 25 Mar 2019 13:43:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/wp-content/uploads/sites/14/2019/03/Home-hero.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 13:43:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 13:43:26]]></wp:post_date_gmt>
@@ -117,17 +111,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				training program hero		</title>
+		<title>training program hero</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/training-programs/training-program-hero/</link>
 		<pubDate>Mon, 25 Mar 2019 13:44:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/wp-content/uploads/sites/14/2019/03/training-program-hero.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>177</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 13:44:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 13:44:57]]></wp:post_date_gmt>
@@ -151,17 +142,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				blog hero		</title>
+		<title>blog hero</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/blog-hero/</link>
 		<pubDate>Mon, 25 Mar 2019 13:46:22 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/wp-content/uploads/sites/14/2019/03/blog-hero.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>178</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 13:46:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 13:46:22]]></wp:post_date_gmt>
@@ -185,17 +173,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				header logo aptitud		</title>
+		<title>header logo aptitud</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/header-logo-aptitud/</link>
 		<pubDate>Tue, 26 Mar 2019 05:33:08 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/wp-content/uploads/sites/14/2019/03/header-logo-aptitud.png</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>182</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:33:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:33:08]]></wp:post_date_gmt>
@@ -219,17 +204,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				regular package bg		</title>
+		<title>regular package bg</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/training-programs/regular-package-bg/</link>
 		<pubDate>Mon, 08 Apr 2019 02:34:14 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/wp-content/uploads/sites/14/2019/04/regular-package-bg.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>255</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 02:34:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 02:34:14]]></wp:post_date_gmt>
@@ -253,17 +235,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				barbell-bodybuilder-bodybuilding-841131		</title>
+		<title>barbell-bodybuilder-bodybuilding-841131</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/barbell-bodybuilder-bodybuilding-841131/</link>
 		<pubDate>Mon, 08 Apr 2019 11:15:27 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/barbell-bodybuilder-bodybuilding-841131.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>260</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:15:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:15:27]]></wp:post_date_gmt>
@@ -287,17 +266,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				athlete-barbell-blurred-background-700446		</title>
+		<title>athlete-barbell-blurred-background-700446</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/athlete-barbell-blurred-background-700446/</link>
 		<pubDate>Mon, 08 Apr 2019 11:15:42 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/athlete-barbell-blurred-background-700446.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>261</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:15:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:15:42]]></wp:post_date_gmt>
@@ -321,17 +297,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				active-adult-athlete-1552102		</title>
+		<title>active-adult-athlete-1552102</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/active-adult-athlete-1552102/</link>
 		<pubDate>Mon, 08 Apr 2019 11:16:14 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/active-adult-athlete-1552102.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>262</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:16:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:16:14]]></wp:post_date_gmt>
@@ -355,17 +328,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				athlete-biceps-body-136405		</title>
+		<title>athlete-biceps-body-136405</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/athlete-biceps-body-136405/</link>
 		<pubDate>Mon, 08 Apr 2019 11:16:47 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/athlete-biceps-body-136405.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>263</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:16:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:16:47]]></wp:post_date_gmt>
@@ -389,17 +359,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				action-actor-adult-897065		</title>
+		<title>action-actor-adult-897065</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/action-actor-adult-897065/</link>
 		<pubDate>Mon, 08 Apr 2019 11:19:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/action-actor-adult-897065.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>264</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:19:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:19:38]]></wp:post_date_gmt>
@@ -423,17 +390,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				athlete-barbell-body-931321		</title>
+		<title>athlete-barbell-body-931321</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/athlete-barbell-body-931321/</link>
 		<pubDate>Mon, 08 Apr 2019 11:19:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/athlete-barbell-body-931321.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>266</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:19:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:19:38]]></wp:post_date_gmt>
@@ -457,17 +421,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				athletes-endurance-energy-685534		</title>
+		<title>athletes-endurance-energy-685534</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/athletes-endurance-energy-685534/</link>
 		<pubDate>Mon, 08 Apr 2019 11:19:39 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/athletes-endurance-energy-685534.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>267</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:19:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:19:39]]></wp:post_date_gmt>
@@ -491,17 +452,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				cooking-dough-flour-703008		</title>
+		<title>cooking-dough-flour-703008</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/cooking-dough-flour-703008/</link>
 		<pubDate>Mon, 08 Apr 2019 11:19:39 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/cooking-dough-flour-703008.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>269</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:19:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:19:39]]></wp:post_date_gmt>
@@ -525,17 +483,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				crossfit-crossfit-equipament-crossfit-games-897060		</title>
+		<title>crossfit-crossfit-equipament-crossfit-games-897060</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/crossfit-crossfit-equipament-crossfit-games-897060/</link>
 		<pubDate>Mon, 08 Apr 2019 11:19:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/crossfit-crossfit-equipament-crossfit-games-897060.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>270</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:19:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:19:40]]></wp:post_date_gmt>
@@ -559,17 +514,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				energy-exercise-gym-1552242		</title>
+		<title>energy-exercise-gym-1552242</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/energy-exercise-gym-1552242/</link>
 		<pubDate>Mon, 08 Apr 2019 11:19:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/energy-exercise-gym-1552242.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>271</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:19:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:19:40]]></wp:post_date_gmt>
@@ -593,17 +545,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				body-crossfit-dark-116079		</title>
+		<title>body-crossfit-dark-116079</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/about/body-crossfit-dark-116079/</link>
 		<pubDate>Mon, 08 Apr 2019 11:25:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/body-crossfit-dark-116079.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>273</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:25:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:25:38]]></wp:post_date_gmt>
@@ -627,17 +576,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				athlete-body-bodybuilder-775325		</title>
+		<title>athlete-body-bodybuilder-775325</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/about/athlete-body-bodybuilder-775325/</link>
 		<pubDate>Mon, 08 Apr 2019 11:25:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/athlete-body-bodybuilder-775325.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>274</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:25:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:25:52]]></wp:post_date_gmt>
@@ -661,17 +607,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				about quote-bg		</title>
+		<title>about quote-bg</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/about/about-quote-bg/</link>
 		<pubDate>Mon, 08 Apr 2019 11:29:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/about-quote-bg.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>276</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:29:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:29:34]]></wp:post_date_gmt>
@@ -695,17 +638,14 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				personal training bg		</title>
+		<title>personal training bg</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/training-programs/personal-training-bg-2/</link>
 		<pubDate>Mon, 08 Apr 2019 11:35:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/personal-training-bg.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>277</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:35:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:35:19]]></wp:post_date_gmt>
@@ -729,15 +669,13 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Contact form		</title>
+		<title>Contact form</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Fri, 15 Feb 2019 15:09:00 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?post_type=wpcf7_contact_form&#038;p=5</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[[text* your-name placeholder "Name"]
+		<content:encoded><![CDATA[[text* your-name placeholder "Name"]
 
 [email* your-email placeholder "Email"]
 
@@ -797,9 +735,8 @@ The answer to the quiz is incorrect.
 Your entered code is incorrect.
 The e-mail address entered is invalid.
 The URL is invalid.
-The telephone number is invalid.]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+The telephone number is invalid.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-15 15:09:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-15 15:09:00]]></wp:post_date_gmt>
@@ -857,15 +794,13 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Home		</title>
+		<title>Home</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/</link>
 		<pubDate>Fri, 15 Feb 2019 15:15:44 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?page_id=6</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<h1>Aptitud</h1>		
+		<content:encoded><![CDATA[<h1>Aptitud</h1>		
 			<h2>Your Heath Support</h2>		
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,</p>		
 			New Week<br>New Goals		
@@ -894,9 +829,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 				<img width="533" height="394" src="https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/athletes-endurance-energy-685534.jpg" alt="" />
 			</figure><figure class='gallery-item'>
 				<img width="533" height="394" src="https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/04/athlete-barbell-body-931321.jpg" alt="" />
-			</figure>]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+			</figure>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-15 15:15:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-15 15:15:44]]></wp:post_date_gmt>
@@ -943,15 +877,13 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				About		</title>
+		<title>About</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/about/</link>
 		<pubDate>Sat, 16 Feb 2019 09:47:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?page_id=54</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<h1>About</h1>		
+		<content:encoded><![CDATA[<h1>About</h1>		
 			<h2>Aptitud</h2>		
 			<h2>Your Heath Support</h2>		
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore.</p>		
@@ -961,9 +893,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 			“		
 			Nothing will work,&amp;nbsp		
 			unless you do		
-			— John Wooden]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+			— John Wooden]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>54</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-16 09:47:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-16 09:47:34]]></wp:post_date_gmt>
@@ -1010,15 +941,13 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Training Programs		</title>
+		<title>Training Programs</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/training-programs/</link>
 		<pubDate>Sat, 16 Feb 2019 14:29:46 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?page_id=62</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<h1>Training Programs</h1>		
+		<content:encoded><![CDATA[<h1>Training Programs</h1>		
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,</p>		
 			Boot Camp		
 			<h2>Boot Camp and Team Training 6 week camps</h2>		
@@ -1047,9 +976,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 			<h3>Gold</h3>		
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,</p>		
 			Monthly Fee
-			$15.00]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+			$15.00]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-16 14:29:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-16 14:29:46]]></wp:post_date_gmt>
@@ -1084,29 +1012,22 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"a55674a","elType":"section","settings":{"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/aptitud-gym-fitness-elementor\/wp-content\/uploads\/sites\/14\/2019\/03\/training-program-hero.jpg","id":177},"background_position":"bottom center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"300","right":"20","bottom":"200","left":"20","isLinked":false},"padding_tablet":{"unit":"px","top":"200","right":"20","bottom":"200","left":"20","isLinked":false},"gap":"no"},"elements":[{"id":"94a89da","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2bea9b9","elType":"widget","settings":{"title":"Training Programs","header_size":"h1","align":"center","typography_typography":"custom","typography_font_size":{"unit":"em","size":5},"typography_font_family":"Bangers","typography_font_size_mobile":{"unit":"px","size":""},"typography_letter_spacing":{"unit":"px","size":2.5,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"33eb453","elType":"section","settings":{"content_width":{"unit":"px","size":500},"gap":"no"},"elements":[{"id":"e3d0563","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"58d688e","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"c0855c1","elType":"section","settings":{"padding":{"unit":"px","top":"0","right":"20","bottom":"100","left":"20","isLinked":false},"gap":"no","margin":{"unit":"px","top":"-100","right":0,"bottom":"0","left":0,"isLinked":false},"margin_tablet":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"margin_mobile":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true}},"elements":[{"id":"79467c9","elType":"column","settings":{"_column_size":100},"elements":[{"id":"0af8e55","elType":"section","settings":{"structure":"20"},"elements":[{"id":"2eb1015","elType":"column","settings":{"_column_size":50,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"0","isLinked":false},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"background_color_stop":{"unit":"%","size":0,"sizes":[]},"background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_xpos":{"unit":"px","size":0,"sizes":[]},"background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_ypos":{"unit":"px","size":0,"sizes":[]},"background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_bg_width":{"unit":"%","size":100,"sizes":[]},"background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_hover_transition":{"unit":"px","size":0.3,"sizes":[]},"background_overlay_color_stop":{"unit":"%","size":0,"sizes":[]},"background_overlay_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_overlay_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_overlay_xpos":{"unit":"px","size":0,"sizes":[]},"background_overlay_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_overlay_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_overlay_ypos":{"unit":"px","size":0,"sizes":[]},"background_overlay_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_overlay_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_overlay_bg_width":{"unit":"%","size":100,"sizes":[]},"background_overlay_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_overlay_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_overlay_opacity":{"unit":"px","size":0.5,"sizes":[]},"css_filters_blur":{"unit":"px","size":0,"sizes":[]},"css_filters_brightness":{"unit":"px","size":100,"sizes":[]},"css_filters_contrast":{"unit":"px","size":100,"sizes":[]},"css_filters_saturate":{"unit":"px","size":100,"sizes":[]},"css_filters_hue":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"background_overlay_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_overlay_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_overlay_hover_xpos":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_ypos":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"background_overlay_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_overlay_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_overlay_hover_opacity":{"unit":"px","size":0.5,"sizes":[]},"css_filters_hover_blur":{"unit":"px","size":0,"sizes":[]},"css_filters_hover_brightness":{"unit":"px","size":100,"sizes":[]},"css_filters_hover_contrast":{"unit":"px","size":100,"sizes":[]},"css_filters_hover_saturate":{"unit":"px","size":100,"sizes":[]},"css_filters_hover_hue":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_transition":{"unit":"px","size":0.3,"sizes":[]},"border_hover_transition":{"unit":"px","size":0.3,"sizes":[]},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[{"id":"8eede19","elType":"widget","settings":{"title":"Boot Camp","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]},"title_color":"#ffffff","typography_font_weight":"700","typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"d0ab7ae","elType":"widget","settings":{"title":"Boot Camp and Team Training 6 week camps","typography_typography":"custom","typography_font_size":{"unit":"em","size":""},"typography_line_height":{"unit":"em","size":1.3},"typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"d95b270","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nisi turpis, finibus ac scelerisque eget, condimentum maximus libero. Morbi posuere, diam id mattis facilisis, ligula mauris feugiat felis, sed varius elit nulla sed justo. Integer at scelerisque sapien, ultricies bibendum lectus.<\/p>","typography_font_size":{"unit":"px","size":"","sizes":[]},"typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_line_height":{"unit":"em","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"column_gap":{"unit":"px","size":"","sizes":[]},"column_gap_tablet":{"unit":"px","size":"","sizes":[]},"column_gap_mobile":{"unit":"px","size":"","sizes":[]},"drop_cap_size":{"unit":"px","size":5,"sizes":[]},"drop_cap_space":{"unit":"px","size":10,"sizes":[]},"drop_cap_border_radius":{"unit":"%","size":"","sizes":[]},"drop_cap_typography_font_size":{"unit":"px","size":"","sizes":[]},"drop_cap_typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"drop_cap_typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"drop_cap_typography_line_height":{"unit":"em","size":"","sizes":[]},"drop_cap_typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"drop_cap_typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"7962ece","elType":"widget","settings":{"space":{"unit":"px","size":20},"space_tablet":{"unit":"px","size":"","sizes":[]},"space_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"7d17dbb","elType":"widget","settings":{"title":"Start from","header_size":"div","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_weight":"700","typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"1ff9e43","elType":"widget","settings":{"title":"$99\n\n","header_size":"div","title_color":"#fd1134","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"7d12e0c","elType":"column","settings":{"_column_size":50,"_inline_size":null,"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#ffffff","padding":{"unit":"%","top":"10","right":"0","bottom":"10","left":"10","isLinked":false},"margin_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"background_color_stop":{"unit":"%","size":0,"sizes":[]},"background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_xpos":{"unit":"px","size":0,"sizes":[]},"background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_ypos":{"unit":"px","size":0,"sizes":[]},"background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_bg_width":{"unit":"%","size":100,"sizes":[]},"background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_hover_transition":{"unit":"px","size":0.3,"sizes":[]},"background_overlay_color_stop":{"unit":"%","size":0,"sizes":[]},"background_overlay_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_overlay_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_overlay_xpos":{"unit":"px","size":0,"sizes":[]},"background_overlay_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_overlay_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_overlay_ypos":{"unit":"px","size":0,"sizes":[]},"background_overlay_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_overlay_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_overlay_bg_width":{"unit":"%","size":100,"sizes":[]},"background_overlay_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_overlay_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_overlay_opacity":{"unit":"px","size":0.5,"sizes":[]},"css_filters_blur":{"unit":"px","size":0,"sizes":[]},"css_filters_brightness":{"unit":"px","size":100,"sizes":[]},"css_filters_contrast":{"unit":"px","size":100,"sizes":[]},"css_filters_saturate":{"unit":"px","size":100,"sizes":[]},"css_filters_hue":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"background_overlay_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_overlay_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_overlay_hover_xpos":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_ypos":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"background_overlay_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_overlay_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_overlay_hover_opacity":{"unit":"px","size":0.5,"sizes":[]},"css_filters_hover_blur":{"unit":"px","size":0,"sizes":[]},"css_filters_hover_brightness":{"unit":"px","size":100,"sizes":[]},"css_filters_hover_contrast":{"unit":"px","size":100,"sizes":[]},"css_filters_hover_saturate":{"unit":"px","size":100,"sizes":[]},"css_filters_hover_hue":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_transition":{"unit":"px","size":0.3,"sizes":[]},"border_hover_transition":{"unit":"px","size":0.3,"sizes":[]}},"elements":[{"id":"117b08a","elType":"widget","settings":{"title":"Women","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]},"title_color":"#ffffff","typography_font_weight":"700","typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"65616c1","elType":"widget","settings":{"title":"Training For Women","typography_typography":"custom","typography_font_size":{"unit":"px","size":31},"typography_line_height":{"unit":"em","size":1.3},"typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"c9bf4f7","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nisi turpis, finibus ac scelerisque eget, condimentum maximus libero. Morbi posuere, diam id mattis facilisis, ligula mauris feugiat felis, sed varius elit nulla sed justo. Integer at scelerisque sapien, ultricies bibendum lectus. Nam sagittis ornare lectus, vitae efficitur nisl aliquet ut.<\/p>","typography_font_size":{"unit":"px","size":"","sizes":[]},"typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_line_height":{"unit":"em","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"column_gap":{"unit":"px","size":"","sizes":[]},"column_gap_tablet":{"unit":"px","size":"","sizes":[]},"column_gap_mobile":{"unit":"px","size":"","sizes":[]},"drop_cap_size":{"unit":"px","size":5,"sizes":[]},"drop_cap_space":{"unit":"px","size":10,"sizes":[]},"drop_cap_border_radius":{"unit":"%","size":"","sizes":[]},"drop_cap_typography_font_size":{"unit":"px","size":"","sizes":[]},"drop_cap_typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"drop_cap_typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"drop_cap_typography_line_height":{"unit":"em","size":"","sizes":[]},"drop_cap_typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"drop_cap_typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"8ba0f24","elType":"widget","settings":{"space":{"unit":"px","size":20},"space_tablet":{"unit":"px","size":"","sizes":[]},"space_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"2be5d2d","elType":"widget","settings":{"title":"Start from","header_size":"div","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_weight":"700","typography_text_transform":"uppercase","typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"a602ae0","elType":"widget","settings":{"title":"$99\n\n","header_size":"div","title_color":"#fd1134","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"f39f21d","elType":"widget","settings":{"space":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"fa1cfee","elType":"section","settings":{"content_width":{"unit":"px","size":"","sizes":[]},"gap":"no","structure":"21","background_background":"classic","background_color":"#222222","background_color_stop":{"unit":"%","size":0,"sizes":[]},"background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_xpos":{"unit":"px","size":0,"sizes":[]},"background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_ypos":{"unit":"px","size":0,"sizes":[]},"background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_bg_width":{"unit":"%","size":100,"sizes":[]},"background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_hover_transition":{"unit":"px","size":0.3,"sizes":[]},"background_overlay_background":"classic","background_overlay_color_stop":{"unit":"%","size":0,"sizes":[]},"background_overlay_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_overlay_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_overlay_image":{"url":"https:\/\/demo.sukiwp.com\/aptitud-elementor\/wp-content\/uploads\/sites\/14\/2019\/04\/personal-training-bg.jpg","id":277},"background_overlay_position":"center right","background_overlay_xpos":{"unit":"px","size":0,"sizes":[]},"background_overlay_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_overlay_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_overlay_ypos":{"unit":"px","size":0,"sizes":[]},"background_overlay_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_overlay_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_overlay_repeat":"no-repeat","background_overlay_size":"cover","background_overlay_bg_width":{"unit":"%","size":100,"sizes":[]},"background_overlay_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_overlay_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_overlay_opacity":{"unit":"px","size":0.5,"sizes":[]},"css_filters_blur":{"unit":"px","size":0,"sizes":[]},"css_filters_brightness":{"unit":"px","size":100,"sizes":[]},"css_filters_contrast":{"unit":"px","size":100,"sizes":[]},"css_filters_saturate":{"unit":"px","size":100,"sizes":[]},"css_filters_hue":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"background_overlay_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_overlay_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_overlay_hover_xpos":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_ypos":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"background_overlay_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_overlay_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_overlay_hover_opacity":{"unit":"px","size":0.5,"sizes":[]},"css_filters_hover_blur":{"unit":"px","size":0,"sizes":[]},"css_filters_hover_brightness":{"unit":"px","size":100,"sizes":[]},"css_filters_hover_contrast":{"unit":"px","size":100,"sizes":[]},"css_filters_hover_saturate":{"unit":"px","size":100,"sizes":[]},"css_filters_hover_hue":{"unit":"px","size":0,"sizes":[]},"background_overlay_hover_transition":{"unit":"px","size":0.3,"sizes":[]},"border_hover_transition":{"unit":"px","size":0.3,"sizes":[]},"shape_divider_top_width":{"unit":"%","size":"","sizes":[]},"shape_divider_top_width_tablet":{"unit":"%","size":"","sizes":[]},"shape_divider_top_width_mobile":{"unit":"%","size":"","sizes":[]},"shape_divider_top_height":{"unit":"px","size":"","sizes":[]},"shape_divider_top_height_tablet":{"unit":"px","size":"","sizes":[]},"shape_divider_top_height_mobile":{"unit":"px","size":"","sizes":[]},"shape_divider_bottom_width":{"unit":"%","size":"","sizes":[]},"shape_divider_bottom_width_tablet":{"unit":"%","size":"","sizes":[]},"shape_divider_bottom_width_mobile":{"unit":"%","size":"","sizes":[]},"shape_divider_bottom_height":{"unit":"px","size":"","sizes":[]},"shape_divider_bottom_height_tablet":{"unit":"px","size":"","sizes":[]},"shape_divider_bottom_height_mobile":{"unit":"px","size":"","sizes":[]},"padding":{"unit":"%","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true}},"elements":[{"id":"aa264fe","elType":"column","settings":{"_column_size":33,"_inline_size":39.981},"elements":[{"id":"f3dc3de","elType":"widget","settings":{"title":"Private","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]},"title_color":"#ffffff","typography_font_weight":"700","typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"6caef12","elType":"widget","settings":{"title":"Personal Training","typography_typography":"custom","typography_font_size":{"unit":"em","size":""},"typography_line_height":{"unit":"em","size":1.3},"typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"7a65cf1","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nisi turpis, finibus ac scelerisque eget, condimentum maximus libero. Morbi posuere, diam id mattis facilisis, ligula mauris feugiat felis, sed varius elit nulla sed justo. Integer at scelerisque sapien, ultricies bibendum lectus. Nam sagittis ornare lectus, vitae efficitur nisl aliquet ut.<\/p>","typography_font_size":{"unit":"px","size":"","sizes":[]},"typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_line_height":{"unit":"em","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"column_gap":{"unit":"px","size":"","sizes":[]},"column_gap_tablet":{"unit":"px","size":"","sizes":[]},"column_gap_mobile":{"unit":"px","size":"","sizes":[]},"drop_cap_size":{"unit":"px","size":5,"sizes":[]},"drop_cap_space":{"unit":"px","size":10,"sizes":[]},"drop_cap_border_radius":{"unit":"%","size":"","sizes":[]},"drop_cap_typography_font_size":{"unit":"px","size":"","sizes":[]},"drop_cap_typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"drop_cap_typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"drop_cap_typography_line_height":{"unit":"em","size":"","sizes":[]},"drop_cap_typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"drop_cap_typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"1ce89c7","elType":"widget","settings":{"space":{"unit":"px","size":20},"space_tablet":{"unit":"px","size":"","sizes":[]},"space_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"e095122","elType":"widget","settings":{"title":"Start from","header_size":"div","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_weight":"700","typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"958a4ec","elType":"widget","settings":{"title":"$199","header_size":"div","title_color":"#fd1134","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"05b796e","elType":"column","settings":{"_column_size":66,"_inline_size":60.018},"elements":[],"isInner":true}],"isInner":true},{"id":"1dea350","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"07f3dc3","elType":"section","settings":{"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/aptitud-gym-fitness-elementor\/wp-content\/uploads\/sites\/14\/2019\/04\/regular-package-bg.jpg","id":255},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"100","right":"20","bottom":"100","left":"20","isLinked":false},"gap":"no","background_attachment":"fixed"},"elements":[{"id":"64c82ec","elType":"column","settings":{"_column_size":100},"elements":[{"id":"6a1d4c1","elType":"widget","settings":{"title":"Regular Package","align":"center","typography_typography":"custom","typography_font_family":"Bangers","typography_font_size":{"unit":"em","size":3},"typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_line_height":{"unit":"em","size":"","sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":1.5,"sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"55efede","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"f22581a","elType":"section","settings":{"structure":"30","margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"gap":"no"},"elements":[{"id":"6468878","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#222222","padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true}},"elements":[{"id":"48c23c1","elType":"widget","settings":{"title":"Bronze","header_size":"h3","title_color":"#b78763","typography_typography":"custom","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"b9e979a","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,<\/p>"},"elements":[],"widgetType":"text-editor"},{"id":"e9a94de","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"bd113da","elType":"widget","settings":{"title":"Monthly Fee","header_size":"div","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_weight":"700","typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"7c4190c","elType":"widget","settings":{"title":"$15.00","header_size":"div","title_color":"#b78763","typography_typography":"custom","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"ce90417","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#222222","padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"margin_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true}},"elements":[{"id":"a3f7b0c","elType":"widget","settings":{"title":"Silver","header_size":"h3","title_color":"#999999","typography_typography":"custom","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"e16380a","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,<\/p>"},"elements":[],"widgetType":"text-editor"},{"id":"918c399","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"728f0e0","elType":"widget","settings":{"title":"Monthly Fee\n\n","header_size":"div","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_weight":"700","typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"d654f86","elType":"widget","settings":{"title":"$15.00","header_size":"div","title_color":"#999999","typography_typography":"custom","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"ec29fd2","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#222222","padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin":{"unit":"px","top":"0","right":"-9","bottom":"0","left":"20","isLinked":false},"margin_mobile":{"unit":"px","top":"29","right":"0","bottom":"0","left":"0","isLinked":false},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true}},"elements":[{"id":"2061ecb","elType":"widget","settings":{"title":"Gold","header_size":"h3","title_color":"#fdd011","typography_typography":"custom","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"7171164","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,<\/p>"},"elements":[],"widgetType":"text-editor"},{"id":"1e32709","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"dd68616","elType":"widget","settings":{"title":"Monthly Fee\n\n","header_size":"div","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_weight":"700","typography_font_size_tablet":{"unit":"px","size":"","sizes":[]},"typography_font_size_mobile":{"unit":"px","size":"","sizes":[]},"typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"typography_line_height_tablet":{"unit":"em","size":"","sizes":[]},"typography_line_height_mobile":{"unit":"em","size":"","sizes":[]},"typography_letter_spacing":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":"","sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":"","sizes":[]},"_background_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_xpos":{"unit":"px","size":0,"sizes":[]},"_background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_ypos":{"unit":"px","size":0,"sizes":[]},"_background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_color_stop":{"unit":"%","size":0,"sizes":[]},"_background_hover_color_b_stop":{"unit":"%","size":100,"sizes":[]},"_background_hover_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"_background_hover_xpos":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"_background_hover_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"_background_hover_bg_width":{"unit":"%","size":100,"sizes":[]},"_background_hover_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"_background_hover_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"_background_hover_transition":{"unit":"px","size":"","sizes":[]},"_border_hover_transition":{"unit":"px","size":"","sizes":[]},"_element_custom_width":{"unit":"px","size":"","sizes":[]},"_element_custom_width_tablet":{"unit":"px","size":"","sizes":[]},"_element_custom_width_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x":{"unit":"px","size":"0","sizes":[]},"_offset_x_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_mobile":{"unit":"px","size":"","sizes":[]},"_offset_x_end":{"unit":"px","size":"0","sizes":[]},"_offset_x_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_x_end_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y":{"unit":"px","size":"0","sizes":[]},"_offset_y_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_mobile":{"unit":"px","size":"","sizes":[]},"_offset_y_end":{"unit":"px","size":"0","sizes":[]},"_offset_y_end_tablet":{"unit":"px","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"px","size":"","sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"795d5b7","elType":"widget","settings":{"title":"$15.00","header_size":"div","title_color":"#fdd011","typography_typography":"custom","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"a55674a","elType":"section","settings":{"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/aptitud-gym-fitness-elementor\/wp-content\/uploads\/sites\/14\/2019\/03\/training-program-hero.jpg","id":177},"background_position":"bottom center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"300","right":"20","bottom":"200","left":"20","isLinked":false},"padding_tablet":{"unit":"px","top":"200","right":"20","bottom":"200","left":"20","isLinked":false},"gap":"no"},"elements":[{"id":"94a89da","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2bea9b9","elType":"widget","settings":{"title":"Training Programs","header_size":"h1","align":"center","typography_typography":"custom","typography_font_size":{"unit":"em","size":5},"typography_font_family":"Bangers","typography_font_size_mobile":{"unit":"px","size":""},"typography_letter_spacing":{"unit":"px","size":2.5,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"33eb453","elType":"section","settings":{"content_width":{"unit":"px","size":500},"gap":"no"},"elements":[{"id":"e3d0563","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"58d688e","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"c0855c1","elType":"section","settings":{"padding":{"unit":"px","top":"0","right":"20","bottom":"100","left":"20","isLinked":false},"gap":"no","margin":{"unit":"px","top":"-100","right":0,"bottom":"0","left":0,"isLinked":false},"margin_tablet":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"margin_mobile":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true}},"elements":[{"id":"79467c9","elType":"column","settings":{"_column_size":100},"elements":[{"id":"0af8e55","elType":"section","settings":{"structure":"20"},"elements":[{"id":"2eb1015","elType":"column","settings":{"_column_size":50,"_inline_size":null,"border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"0","isLinked":false},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[{"id":"8eede19","elType":"widget","settings":{"title":"Boot Camp","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"title_color":"#ffffff","typography_font_weight":"700","typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"d0ab7ae","elType":"widget","settings":{"title":"Boot Camp and Team Training 6 week camps","typography_typography":"custom","typography_font_size":{"unit":"em","size":""},"typography_line_height":{"unit":"em","size":1.3}},"elements":[],"widgetType":"heading"},{"id":"d95b270","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nisi turpis, finibus ac scelerisque eget, condimentum maximus libero. Morbi posuere, diam id mattis facilisis, ligula mauris feugiat felis, sed varius elit nulla sed justo. Integer at scelerisque sapien, ultricies bibendum lectus.<\/p>"},"elements":[],"widgetType":"text-editor"},{"id":"7962ece","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"7d17dbb","elType":"widget","settings":{"title":"Start from","header_size":"div","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_weight":"700","typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"1ff9e43","elType":"widget","settings":{"title":"$99\n\n","header_size":"div","title_color":"#fd1134","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"em","size":2},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"7d12e0c","elType":"column","settings":{"_column_size":50,"_inline_size":null,"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#ffffff","padding":{"unit":"%","top":"10","right":"0","bottom":"10","left":"10","isLinked":false},"margin_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"%","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"117b08a","elType":"widget","settings":{"title":"Women","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"title_color":"#ffffff","typography_font_weight":"700","typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"65616c1","elType":"widget","settings":{"title":"Training For Women","typography_typography":"custom","typography_font_size":{"unit":"px","size":31},"typography_line_height":{"unit":"em","size":1.3}},"elements":[],"widgetType":"heading"},{"id":"c9bf4f7","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nisi turpis, finibus ac scelerisque eget, condimentum maximus libero. Morbi posuere, diam id mattis facilisis, ligula mauris feugiat felis, sed varius elit nulla sed justo. Integer at scelerisque sapien, ultricies bibendum lectus. Nam sagittis ornare lectus, vitae efficitur nisl aliquet ut.<\/p>"},"elements":[],"widgetType":"text-editor"},{"id":"8ba0f24","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"2be5d2d","elType":"widget","settings":{"title":"Start from","header_size":"div","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_weight":"700","typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"a602ae0","elType":"widget","settings":{"title":"$99\n\n","header_size":"div","title_color":"#fd1134","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"em","size":2},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"f39f21d","elType":"widget","settings":{"space":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"fa1cfee","elType":"section","settings":{"gap":"no","structure":"21","background_background":"classic","background_color":"#222222","background_overlay_background":"classic","background_overlay_image":{"url":"https:\/\/demo.sukiwp.com\/aptitud-elementor\/wp-content\/uploads\/sites\/14\/2019\/04\/personal-training-bg.jpg","id":277},"background_overlay_position":"center right","background_overlay_repeat":"no-repeat","background_overlay_size":"cover","padding":{"unit":"%","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true}},"elements":[{"id":"aa264fe","elType":"column","settings":{"_column_size":33,"_inline_size":39.981},"elements":[{"id":"f3dc3de","elType":"widget","settings":{"title":"Private","header_size":"div","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"title_color":"#ffffff","typography_font_weight":"700","typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"6caef12","elType":"widget","settings":{"title":"Personal Training","typography_typography":"custom","typography_font_size":{"unit":"em","size":""},"typography_line_height":{"unit":"em","size":1.3}},"elements":[],"widgetType":"heading"},{"id":"7a65cf1","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nisi turpis, finibus ac scelerisque eget, condimentum maximus libero. Morbi posuere, diam id mattis facilisis, ligula mauris feugiat felis, sed varius elit nulla sed justo. Integer at scelerisque sapien, ultricies bibendum lectus. Nam sagittis ornare lectus, vitae efficitur nisl aliquet ut.<\/p>"},"elements":[],"widgetType":"text-editor"},{"id":"1ce89c7","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"e095122","elType":"widget","settings":{"title":"Start from","header_size":"div","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_weight":"700","typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"958a4ec","elType":"widget","settings":{"title":"$199","header_size":"div","title_color":"#fd1134","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"em","size":2},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"05b796e","elType":"column","settings":{"_column_size":66,"_inline_size":60.018},"elements":[],"isInner":true}],"isInner":true},{"id":"1dea350","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"07f3dc3","elType":"section","settings":{"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/aptitud-gym-fitness-elementor\/wp-content\/uploads\/sites\/14\/2019\/04\/regular-package-bg.jpg","id":255},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"100","right":"20","bottom":"100","left":"20","isLinked":false},"gap":"no","background_attachment":"fixed"},"elements":[{"id":"64c82ec","elType":"column","settings":{"_column_size":100},"elements":[{"id":"6a1d4c1","elType":"widget","settings":{"title":"Regular Package","align":"center","typography_typography":"custom","typography_font_family":"Bangers","typography_font_size":{"unit":"em","size":3},"typography_letter_spacing":{"unit":"px","size":1.5,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"55efede","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"f22581a","elType":"section","settings":{"structure":"30","margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"gap":"no"},"elements":[{"id":"6468878","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#222222","padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true}},"elements":[{"id":"48c23c1","elType":"widget","settings":{"title":"Bronze","header_size":"h3","title_color":"#b78763","typography_typography":"custom","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"b9e979a","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,<\/p>"},"elements":[],"widgetType":"text-editor"},{"id":"e9a94de","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"bd113da","elType":"widget","settings":{"title":"Monthly Fee","header_size":"div","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_weight":"700","typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"7c4190c","elType":"widget","settings":{"title":"$15.00","header_size":"div","title_color":"#b78763","typography_typography":"custom","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"ce90417","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#222222","padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"margin_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true}},"elements":[{"id":"a3f7b0c","elType":"widget","settings":{"title":"Silver","header_size":"h3","title_color":"#999999","typography_typography":"custom","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"e16380a","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,<\/p>"},"elements":[],"widgetType":"text-editor"},{"id":"918c399","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"728f0e0","elType":"widget","settings":{"title":"Monthly Fee\n\n","header_size":"div","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_weight":"700","typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"d654f86","elType":"widget","settings":{"title":"$15.00","header_size":"div","title_color":"#999999","typography_typography":"custom","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"ec29fd2","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic","background_color":"#222222","padding":{"unit":"%","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":false},"margin_mobile":{"unit":"px","top":"29","right":"0","bottom":"0","left":"0","isLinked":false},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true}},"elements":[{"id":"2061ecb","elType":"widget","settings":{"title":"Gold","header_size":"h3","title_color":"#fdd011","typography_typography":"custom","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"7171164","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,<\/p>"},"elements":[],"widgetType":"text-editor"},{"id":"1e32709","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"dd68616","elType":"widget","settings":{"title":"Monthly Fee\n\n","header_size":"div","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":""},"typography_font_weight":"700","typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1.7,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"795d5b7","elType":"widget","settings":{"title":"$15.00","header_size":"div","title_color":"#fdd011","typography_typography":"custom","typography_font_size":{"unit":"em","size":2},"typography_font_size_tablet":{"unit":"px","size":""},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.11]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:12:{s:21:"background_color_stop";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:23:"background_color_b_stop";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:100;s:5:"sizes";a:0:{}}s:25:"background_gradient_angle";a:3:{s:4:"unit";s:3:"deg";s:4:"size";i:180;s:5:"sizes";a:0:{}}s:15:"background_xpos";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_xpos_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_xpos_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:15:"background_ypos";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_ypos_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_ypos_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:19:"background_bg_width";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:100;s:5:"sizes";a:0:{}}s:26:"background_bg_width_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";s:5:"sizes";a:0:{}}s:26:"background_bg_width_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";s:5:"sizes";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2.5.15]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Blog		</title>
+		<title>Blog</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/blog/</link>
 		<pubDate>Sun, 17 Feb 2019 12:55:28 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?page_id=74</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 12:55:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 12:55:28]]></wp:post_date_gmt>
@@ -1129,15 +1050,13 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Aenean Consequat Elit		</title>
+		<title>Aenean Consequat Elit</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/aenean-consequat-elit/</link>
 		<pubDate>Sun, 17 Feb 2019 13:54:15 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?p=93</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat elit quis libero cursus semper. Vivamus auctor tempor dolor quis porta. Etiam a tempor diam. Ut quis pretium libero. Nulla quis porta nulla, in consectetur arcu. Nunc eget nunc justo. Nulla sollicitudin sagittis urna ut maximus. In hac habitasse platea dictumst. Suspendisse in malesuada leo. Duis scelerisque quis purus volutpat rhoncus. Ut sagittis dolor at est faucibus, non fermentum lorem posuere. Vivamus ac tempus leo. Mauris nec convallis tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed placerat blandit nunc ac varius. Etiam pulvinar dignissim felis, sit amet commodo felis aliquam quis.</p>
 <!-- /wp:paragraph -->
 
@@ -1155,9 +1074,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 
 <!-- wp:paragraph -->
 <p>Donec at congue dolor. Ut vitae eros placerat, rutrum quam eu, condimentum tellus. Nullam a mauris et lorem bibendum ullamcorper sit amet quis libero. Nullam tempus nulla libero. Curabitur dignissim sodales nunc eget pulvinar. Donec vel malesuada felis. Suspendisse sed dui turpis. In pulvinar nulla vitae enim cursus venenatis. Donec vulputate eget felis at maximus. Curabitur ac augue ac libero vestibulum rutrum at sed neque. Phasellus quam turpis, vehicula eget enim quis, vestibulum porttitor nibh. Mauris sed dui nec magna euismod volutpat. Donec vitae augue aliquet, tempus arcu quis, sodales elit. In lacinia sapien quis risus commodo scelerisque. Ut sed nunc quis ligula suscipit eleifend. Ut nulla ex, dignissim non lectus a, suscipit cursus mauris.</p>
-<!-- /wp:paragraph -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 13:54:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 13:54:15]]></wp:post_date_gmt>
@@ -1193,15 +1111,13 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Quis Libero		</title>
+		<title>Quis Libero</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/quis-libero/</link>
 		<pubDate>Sun, 17 Feb 2019 13:58:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?p=96</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat elit quis libero cursus semper. Vivamus auctor tempor dolor quis porta. Etiam a tempor diam. Ut quis pretium libero. Nulla quis porta nulla, in consectetur arcu. Nunc eget nunc justo. Nulla sollicitudin sagittis urna ut maximus. In hac habitasse platea dictumst. Suspendisse in malesuada leo. Duis scelerisque quis purus volutpat rhoncus. Ut sagittis dolor at est faucibus, non fermentum lorem posuere. Vivamus ac tempus leo. Mauris nec convallis tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed placerat blandit nunc ac varius. Etiam pulvinar dignissim felis, sit amet commodo felis aliquam quis.</p>
 <!-- /wp:paragraph -->
 
@@ -1219,9 +1135,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 
 <!-- wp:paragraph -->
 <p>Donec at congue dolor. Ut vitae eros placerat, rutrum quam eu, condimentum tellus. Nullam a mauris et lorem bibendum ullamcorper sit amet quis libero. Nullam tempus nulla libero. Curabitur dignissim sodales nunc eget pulvinar. Donec vel malesuada felis. Suspendisse sed dui turpis. In pulvinar nulla vitae enim cursus venenatis. Donec vulputate eget felis at maximus. Curabitur ac augue ac libero vestibulum rutrum at sed neque. Phasellus quam turpis, vehicula eget enim quis, vestibulum porttitor nibh. Mauris sed dui nec magna euismod volutpat. Donec vitae augue aliquet, tempus arcu quis, sodales elit. In lacinia sapien quis risus commodo scelerisque. Ut sed nunc quis ligula suscipit eleifend. Ut nulla ex, dignissim non lectus a, suscipit cursus mauris.</p>
-<!-- /wp:paragraph -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 13:58:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 13:58:43]]></wp:post_date_gmt>
@@ -1249,15 +1164,13 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Cursus Semper		</title>
+		<title>Cursus Semper</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/cursus-semper/</link>
 		<pubDate>Sun, 17 Feb 2019 14:01:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?p=98</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat elit quis libero cursus semper. Vivamus auctor tempor dolor quis porta. Etiam a tempor diam. Ut quis pretium libero. Nulla quis porta nulla, in consectetur arcu. Nunc eget nunc justo. Nulla sollicitudin sagittis urna ut maximus. In hac habitasse platea dictumst. Suspendisse in malesuada leo. Duis scelerisque quis purus volutpat rhoncus. Ut sagittis dolor at est faucibus, non fermentum lorem posuere. Vivamus ac tempus leo. Mauris nec convallis tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed placerat blandit nunc ac varius. Etiam pulvinar dignissim felis, sit amet commodo felis aliquam quis.</p>
 <!-- /wp:paragraph -->
 
@@ -1275,9 +1188,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 
 <!-- wp:paragraph -->
 <p>Donec at congue dolor. Ut vitae eros placerat, rutrum quam eu, condimentum tellus. Nullam a mauris et lorem bibendum ullamcorper sit amet quis libero. Nullam tempus nulla libero. Curabitur dignissim sodales nunc eget pulvinar. Donec vel malesuada felis. Suspendisse sed dui turpis. In pulvinar nulla vitae enim cursus venenatis. Donec vulputate eget felis at maximus. Curabitur ac augue ac libero vestibulum rutrum at sed neque. Phasellus quam turpis, vehicula eget enim quis, vestibulum porttitor nibh. Mauris sed dui nec magna euismod volutpat. Donec vitae augue aliquet, tempus arcu quis, sodales elit. In lacinia sapien quis risus commodo scelerisque. Ut sed nunc quis ligula suscipit eleifend. Ut nulla ex, dignissim non lectus a, suscipit cursus mauris.</p>
-<!-- /wp:paragraph -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:01:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:01:41]]></wp:post_date_gmt>
@@ -1305,15 +1217,13 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Vivamus Auctor		</title>
+		<title>Vivamus Auctor</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/vivamus-auctor/</link>
 		<pubDate>Sun, 17 Feb 2019 14:02:54 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?p=100</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean consequat elit quis libero cursus semper. Vivamus auctor tempor dolor quis porta. Etiam a tempor diam. Ut quis pretium libero. Nulla quis porta nulla, in consectetur arcu. Nunc eget nunc justo. Nulla sollicitudin sagittis urna ut maximus. In hac habitasse platea dictumst. Suspendisse in malesuada leo. Duis scelerisque quis purus volutpat rhoncus. Ut sagittis dolor at est faucibus, non fermentum lorem posuere. Vivamus ac tempus leo. Mauris nec convallis tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed placerat blandit nunc ac varius. Etiam pulvinar dignissim felis, sit amet commodo felis aliquam quis.</p>
 <!-- /wp:paragraph -->
 
@@ -1331,9 +1241,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 
 <!-- wp:paragraph -->
 <p>Donec at congue dolor. Ut vitae eros placerat, rutrum quam eu, condimentum tellus. Nullam a mauris et lorem bibendum ullamcorper sit amet quis libero. Nullam tempus nulla libero. Curabitur dignissim sodales nunc eget pulvinar. Donec vel malesuada felis. Suspendisse sed dui turpis. In pulvinar nulla vitae enim cursus venenatis. Donec vulputate eget felis at maximus. Curabitur ac augue ac libero vestibulum rutrum at sed neque. Phasellus quam turpis, vehicula eget enim quis, vestibulum porttitor nibh. Mauris sed dui nec magna euismod volutpat. Donec vitae augue aliquet, tempus arcu quis, sodales elit. In lacinia sapien quis risus commodo scelerisque. Ut sed nunc quis ligula suscipit eleifend. Ut nulla ex, dignissim non lectus a, suscipit cursus mauris.</p>
-<!-- /wp:paragraph -->]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>100</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:02:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:02:54]]></wp:post_date_gmt>
@@ -1361,19 +1270,16 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				Contact		</title>
+		<title>Contact</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/contact/</link>
 		<pubDate>Sun, 17 Feb 2019 14:12:29 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?page_id=106</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[<p>Don’t be shy to chat with us, because your ideas are truly valuable.</p>		
+		<content:encoded><![CDATA[<p>Don’t be shy to chat with us, because your ideas are truly valuable.</p>		
 		[contact-form-7 id="5" title="Contact form"]<p>Kalang Avenue 123, 45A<br />Singapore</p><p>+65 1234.5678<br />(10.00 - 18.00 WIB)</p>		
-			]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+			]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>106</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:12:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:12:29]]></wp:post_date_gmt>
@@ -1420,17 +1326,14 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-						</title>
+		<title></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/107/</link>
 		<pubDate>Sun, 17 Feb 2019 14:14:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?p=107</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[ ]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:14:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:14:24]]></wp:post_date_gmt>
@@ -1478,17 +1381,14 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-						</title>
+		<title></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/108/</link>
 		<pubDate>Sun, 17 Feb 2019 14:14:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?p=108</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[ ]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:14:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:14:24]]></wp:post_date_gmt>
@@ -1536,17 +1436,14 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-						</title>
+		<title></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/109/</link>
 		<pubDate>Sun, 17 Feb 2019 14:14:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?p=109</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[ ]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:14:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:14:24]]></wp:post_date_gmt>
@@ -1594,17 +1491,14 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-						</title>
+		<title></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/110/</link>
 		<pubDate>Sun, 17 Feb 2019 14:14:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?p=110</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[ ]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:14:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:14:24]]></wp:post_date_gmt>
@@ -1652,17 +1546,14 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-						</title>
+		<title></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/111/</link>
 		<pubDate>Sun, 17 Feb 2019 14:14:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?p=111</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[ ]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:14:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:14:24]]></wp:post_date_gmt>
@@ -1710,17 +1601,14 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				featured blog 3		</title>
+		<title>featured blog 3</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/aenean-consequat-elit/featured-blog-3-2/</link>
 		<pubDate>Mon, 08 Apr 2019 11:37:42 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/02/featured-blog-3.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>278</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:37:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:37:42]]></wp:post_date_gmt>
@@ -1744,17 +1632,14 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				featured blog 4		</title>
+		<title>featured blog 4</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/quis-libero/featured-blog-4/</link>
 		<pubDate>Mon, 08 Apr 2019 11:38:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/02/featured-blog-4.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>279</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:38:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:38:38]]></wp:post_date_gmt>
@@ -1778,17 +1663,14 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				featured blog 5		</title>
+		<title>featured blog 5</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/cursus-semper/featured-blog-5/</link>
 		<pubDate>Mon, 08 Apr 2019 11:39:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/02/featured-blog-5.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>280</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:39:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:39:38]]></wp:post_date_gmt>
@@ -1812,17 +1694,14 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>
-				featured blog 6		</title>
+		<title>featured blog 6</title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/vivamus-auctor/featured-blog-6-2/</link>
 		<pubDate>Mon, 08 Apr 2019 11:43:11 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/wp-content/uploads/sites/14/2019/02/featured-blog-6.jpg</guid>
 		<description></description>
-		<content:encoded>
-				<![CDATA[]]>		</content:encoded>
-		<excerpt:encoded>
-				<![CDATA[]]>		</excerpt:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>281</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:43:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:43:11]]></wp:post_date_gmt>
