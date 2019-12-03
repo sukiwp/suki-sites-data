@@ -1,1 +1,1 @@
-{"suki_theme_version":"1.1.2","show_on_front":"posts","suki_pro_version":"1.0.1","suki_custom_icons_add_social":[],"brizy":{"post-types":["page","post"]}}
+{"suki_theme_version":"1.1.2","show_on_front":"page","page_on_front":"[[post_id?post_type=page&slug=home]]","suki_pro_version":"1.0.1","suki_custom_icons_add_social":[],"brizy":{"post-types":["page","post"]}}
