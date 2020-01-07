@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3" created="2019-11-26 11:52" -->
+	<!-- generator="WordPress/5.3.2" created="2020-01-07 06:55" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Oorfone - Headphone Shop (Elementor)</title>
 	<link>https://demo.sukiwp.com/oorfone-elementor</link>
 	<description></description>
-	<pubDate>Tue, 26 Nov 2019 11:52:02 +0000</pubDate>
+	<pubDate>Tue, 07 Jan 2020 06:55:48 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
@@ -159,7 +159,7 @@
 	<wp:term><wp:term_id>21</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[mobile-menu]]></wp:term_slug><wp:term_name><![CDATA[Mobile Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.3</generator>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
 
 		<item>
 		<title>woocommerce-placeholder</title>
@@ -4513,23 +4513,23 @@ This e-mail was sent from a contact form on Oorfone - Headphone Shop (Elementor)
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/oorfone-elementor/?page_id=31</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img width="412" height="465" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-hero-pureWhite.png" alt="" />											
+		<content:encoded><![CDATA[<img width="412" height="465" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-hero-pureWhite.png" alt="" srcset="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-hero-pureWhite.png 412w, https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-hero-pureWhite-266x300.png 266w" sizes="(max-width: 412px) 100vw, 412px" />											
 			Introducing		
 			<h2>pureWhite</h2>		
 			WHT - 310		
-										<img width="160" height="23" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/feature-icons.png" alt="" />											
+										<img width="160" height="23" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/feature-icons.png" alt="" srcset="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/feature-icons.png 160w, https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/feature-icons-150x23.png 150w" sizes="(max-width: 160px) 100vw, 160px" />											
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed</p>		
 			<a href="#" role="button">
 						More
 					</a>
-										<img width="345" height="327" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-pureWhite-ill.png" alt="" />											
+										<img width="345" height="327" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-pureWhite-ill.png" alt="" srcset="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-pureWhite-ill.png 345w, https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-pureWhite-ill-300x284.png 300w" sizes="(max-width: 345px) 100vw, 345px" />											
 			<h2>pureWhite</h2>		
 			WHT - 610		
 		<p>Lorem ipsum dolor sit amet, consetetur</p>		
 			<a href="#" role="button">
 						More
 					</a>
-										<img width="340" height="345" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-deepBlack-ill.png" alt="" />											
+										<img width="340" height="345" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-deepBlack-ill.png" alt="" srcset="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-deepBlack-ill.png 340w, https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-deepBlack-ill-296x300.png 296w, https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-deepBlack-ill-100x100.png 100w" sizes="(max-width: 340px) 100vw, 340px" />											
 			<h2>deepBlack</h2>		
 			BLK - 210		
 		<p>Lorem ipsum dolor sit amet, consetetur</p>		
@@ -4543,15 +4543,15 @@ This e-mail was sent from a contact form on Oorfone - Headphone Shop (Elementor)
 					</a>
 			<h2>Well Crafted for Your Ear</h2>		
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>		
-										<img width="582" height="170" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-well-crafted.png" alt="" />											
+										<img width="582" height="170" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-well-crafted.png" alt="" srcset="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-well-crafted.png 582w, https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-well-crafted-300x88.png 300w" sizes="(max-width: 582px) 100vw, 582px" />											
 			<h2>Best Selling of All Time</h2>		
 		[products limit="2" columns="1" best_selling="true" page="1"]		
-										<img width="582" height="895" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-best-selling-ill.jpg" alt="" />											
+										<img width="582" height="895" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-best-selling-ill.jpg" alt="" srcset="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-best-selling-ill.jpg 582w, https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-best-selling-ill-195x300.jpg 195w" sizes="(max-width: 582px) 100vw, 582px" />											
 		[products limit="2" columns="1" best_selling="true" page="2"]		
-										<img width="479" height="514" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-the-best-technology.jpg" alt="" />											
+										<img width="479" height="514" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-the-best-technology.jpg" alt="" srcset="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-the-best-technology.jpg 479w, https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/home-the-best-technology-280x300.jpg 280w" sizes="(max-width: 479px) 100vw, 479px" />											
 			<h2>The Best Technology Is In Our Products</h2>		
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>		
-										<img width="160" height="23" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/feature-icons.png" alt="" />]]></content:encoded>
+										<img width="160" height="23" src="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/feature-icons.png" alt="" srcset="https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/feature-icons.png 160w, https://demo.sukiwp.com/oorfone-elementor/wp-content/uploads/sites/39/2019/11/feature-icons-150x23.png 150w" sizes="(max-width: 160px) 100vw, 160px" />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-22 09:36:08]]></wp:post_date>
