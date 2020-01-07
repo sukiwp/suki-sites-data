@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.4" created="2019-10-21 06:28" -->
+	<!-- generator="WordPress/5.3.2" created="2020-01-07 06:30" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Cactus Art - Plant Shop (Elementor)</title>
 	<link>https://demo.sukiwp.com/cactus-art-elementor</link>
 	<description>Just another Suki Demo site</description>
-	<pubDate>Mon, 21 Oct 2019 06:28:54 +0000</pubDate>
+	<pubDate>Tue, 07 Jan 2020 06:30:56 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
@@ -151,7 +151,7 @@
 	<wp:term><wp:term_id>16</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
 
 		<item>
 		<title>woocommerce-placeholder</title>
@@ -2458,7 +2458,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<guid isPermaLink="false">https://demo.sukiwp.com/cactus-art-elementor/?post_type=product&#038;p=22</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida. In et arcu tempor, volutpat tellus eu, gravida neque. Quisque laoreet vestibulum sapien maximus tincidunt. Donec posuere, velit nec convallis rutrum, ex nisi elementum magna, non tincidunt nisl eros interdum justo. Sed at ipsum arcu.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida.]]></excerpt:encoded>
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-11 05:17:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-11 05:17:40]]></wp:post_date_gmt>
@@ -2547,7 +2547,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -2570,7 +2570,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<guid isPermaLink="false">https://demo.sukiwp.com/cactus-art-elementor/?post_type=product&#038;p=27</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida. In et arcu tempor, volutpat tellus eu, gravida neque. Quisque laoreet vestibulum sapien maximus tincidunt. Donec posuere, velit nec convallis rutrum, ex nisi elementum magna, non tincidunt nisl eros interdum justo. Sed at ipsum arcu.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida.]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-11 07:00:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-11 07:00:33]]></wp:post_date_gmt>
@@ -2659,7 +2659,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -2682,7 +2682,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<guid isPermaLink="false">https://demo.sukiwp.com/cactus-art-elementor/?post_type=product&#038;p=31</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida. In et arcu tempor, volutpat tellus eu, gravida neque. Quisque laoreet vestibulum sapien maximus tincidunt. Donec posuere, velit nec convallis rutrum, ex nisi elementum magna, non tincidunt nisl eros interdum justo. Sed at ipsum arcu.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida.]]></excerpt:encoded>
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-11 07:02:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-11 07:02:52]]></wp:post_date_gmt>
@@ -2771,7 +2771,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -2794,7 +2794,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<guid isPermaLink="false">https://demo.sukiwp.com/cactus-art-elementor/?post_type=product&#038;p=37</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida. In et arcu tempor, volutpat tellus eu, gravida neque. Quisque laoreet vestibulum sapien maximus tincidunt. Donec posuere, velit nec convallis rutrum, ex nisi elementum magna, non tincidunt nisl eros interdum justo. Sed at ipsum arcu.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida.]]></excerpt:encoded>
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-11 09:41:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-11 09:41:34]]></wp:post_date_gmt>
@@ -2883,7 +2883,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -2906,7 +2906,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<guid isPermaLink="false">https://demo.sukiwp.com/cactus-art-elementor/?post_type=product&#038;p=41</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida. In et arcu tempor, volutpat tellus eu, gravida neque. Quisque laoreet vestibulum sapien maximus tincidunt. Donec posuere, velit nec convallis rutrum, ex nisi elementum magna, non tincidunt nisl eros interdum justo. Sed at ipsum arcu.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida.]]></excerpt:encoded>
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-11 09:42:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-11 09:42:53]]></wp:post_date_gmt>
@@ -2995,7 +2995,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -3018,7 +3018,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<guid isPermaLink="false">https://demo.sukiwp.com/cactus-art-elementor/?post_type=product&#038;p=45</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida. In et arcu tempor, volutpat tellus eu, gravida neque. Quisque laoreet vestibulum sapien maximus tincidunt. Donec posuere, velit nec convallis rutrum, ex nisi elementum magna, non tincidunt nisl eros interdum justo. Sed at ipsum arcu.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida.]]></excerpt:encoded>
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-11 09:43:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-11 09:43:51]]></wp:post_date_gmt>
@@ -3031,7 +3031,8 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+										<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3099,15 +3100,15 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -3121,7 +3122,33 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:5;i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>3</wp:comment_id>
+			<wp:comment_author><![CDATA[Suki WordPress Theme]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[support@sukiwp.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://sukiwp.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[202.80.212.237]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-01-07 04:44:23]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-01-07 04:44:23]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[review]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			</wp:commentmeta>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+							</wp:comment>
+					</item>
 					<item>
 		<title>Cereus tetragonous</title>
 		<link>https://demo.sukiwp.com/cactus-art-elementor/product/cereus-tetragonous/</link>
@@ -3130,7 +3157,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<guid isPermaLink="false">https://demo.sukiwp.com/cactus-art-elementor/?post_type=product&#038;p=49</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida. In et arcu tempor, volutpat tellus eu, gravida neque. Quisque laoreet vestibulum sapien maximus tincidunt. Donec posuere, velit nec convallis rutrum, ex nisi elementum magna, non tincidunt nisl eros interdum justo. Sed at ipsum arcu.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida.]]></excerpt:encoded>
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-11 09:44:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-11 09:44:49]]></wp:post_date_gmt>
@@ -3219,7 +3246,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -3242,7 +3269,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<guid isPermaLink="false">https://demo.sukiwp.com/cactus-art-elementor/?post_type=product&#038;p=53</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida. In et arcu tempor, volutpat tellus eu, gravida neque. Quisque laoreet vestibulum sapien maximus tincidunt. Donec posuere, velit nec convallis rutrum, ex nisi elementum magna, non tincidunt nisl eros interdum justo. Sed at ipsum arcu.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida.]]></excerpt:encoded>
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-11 09:46:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-11 09:46:08]]></wp:post_date_gmt>
@@ -3331,7 +3358,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -3354,7 +3381,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<guid isPermaLink="false">https://demo.sukiwp.com/cactus-art-elementor/?post_type=product&#038;p=57</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida. In et arcu tempor, volutpat tellus eu, gravida neque. Quisque laoreet vestibulum sapien maximus tincidunt. Donec posuere, velit nec convallis rutrum, ex nisi elementum magna, non tincidunt nisl eros interdum justo. Sed at ipsum arcu.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida.]]></excerpt:encoded>
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-11 09:47:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-11 09:47:14]]></wp:post_date_gmt>
@@ -3443,7 +3470,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -3466,7 +3493,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<guid isPermaLink="false">https://demo.sukiwp.com/cactus-art-elementor/?post_type=product&#038;p=61</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida. In et arcu tempor, volutpat tellus eu, gravida neque. Quisque laoreet vestibulum sapien maximus tincidunt. Donec posuere, velit nec convallis rutrum, ex nisi elementum magna, non tincidunt nisl eros interdum justo. Sed at ipsum arcu.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida.]]></excerpt:encoded>
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-11 09:48:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-11 09:48:50]]></wp:post_date_gmt>
@@ -3479,7 +3506,8 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<wp:post_type><![CDATA[product]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+										<category domain="product_visibility" nicename="rated-4"><![CDATA[rated-4]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_cat" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3547,15 +3575,15 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[4.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -3569,7 +3597,33 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:4;i:1;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>4</wp:comment_id>
+			<wp:comment_author><![CDATA[Suki WordPress Theme]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[support@sukiwp.com]]></wp:comment_author_email>
+			<wp:comment_author_url>https://sukiwp.com/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[202.80.212.237]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-01-07 04:45:08]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-01-07 04:45:08]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Phasellus ipsum turpis, vestibulum consequat interdum at, fermentum vitae libero.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[review]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+			</wp:commentmeta>
+						<wp:commentmeta>
+	<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+							</wp:comment>
+					</item>
 					<item>
 		<title>Ariocarpus confusus</title>
 		<link>https://demo.sukiwp.com/cactus-art-elementor/product/ariocarpus-confusus/</link>
@@ -3578,7 +3632,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<guid isPermaLink="false">https://demo.sukiwp.com/cactus-art-elementor/?post_type=product&#038;p=65</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida. In et arcu tempor, volutpat tellus eu, gravida neque. Quisque laoreet vestibulum sapien maximus tincidunt. Donec posuere, velit nec convallis rutrum, ex nisi elementum magna, non tincidunt nisl eros interdum justo. Sed at ipsum arcu.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida.]]></excerpt:encoded>
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-11 09:50:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-11 09:50:02]]></wp:post_date_gmt>
@@ -3667,7 +3721,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -3690,7 +3744,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		<guid isPermaLink="false">https://demo.sukiwp.com/cactus-art-elementor/?post_type=product&#038;p=69</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida. In et arcu tempor, volutpat tellus eu, gravida neque. Quisque laoreet vestibulum sapien maximus tincidunt. Donec posuere, velit nec convallis rutrum, ex nisi elementum magna, non tincidunt nisl eros interdum justo. Sed at ipsum arcu.]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pretium lorem magna, vitae dignissim augue pretium lobortis. Ut lobortis molestie ex, sed rhoncus tellus efficitur sed. Mauris rhoncus nulla sapien, et posuere nibh posuere sed. Ut vel felis vehicula, posuere libero ut, egestas felis. Nam posuere accumsan sem et gravida.]]></excerpt:encoded>
 		<wp:post_id>69</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-11 09:50:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-11 09:50:56]]></wp:post_date_gmt>
@@ -3779,7 +3833,7 @@ This e-mail was sent from a contact form on Cactus Art - Plant Shop (Elementor) 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
