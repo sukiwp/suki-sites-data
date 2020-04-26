@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.2" created="2020-01-13 08:04" -->
+	<!-- generator="WordPress/5.4" created="2020-04-26 10:19" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>JWLRY - Jewelry Shop (Elementor)</title>
 	<link>https://demo.sukiwp.com/jwlry-elementor</link>
 	<description>Jewelry Shop website built with Suki Pro and Elementor</description>
-	<pubDate>Mon, 13 Jan 2020 08:04:54 +0000</pubDate>
+	<pubDate>Sun, 26 Apr 2020 10:19:01 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
@@ -299,20 +299,6 @@
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[variable]]></wp:term_name>
 	</wp:term>
-		<wp:term>
-		<wp:term_id><![CDATA[31]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[action-group]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[wc_update_product_lookup_tables]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[wc_update_product_lookup_tables]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id><![CDATA[30]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[action-group]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[woocommerce-db-updates]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[woocommerce-db-updates]]></wp:term_name>
-	</wp:term>
 			<wp:term><wp:term_id>27</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu-1]]></wp:term_slug><wp:term_name><![CDATA[Footer Menu 1]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>28</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu-2]]></wp:term_slug><wp:term_name><![CDATA[Footer Menu 2]]></wp:term_name>
@@ -324,7 +310,7 @@
 	<wp:term><wp:term_id>26</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu-right]]></wp:term_slug><wp:term_name><![CDATA[Main Menu Right]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 
 		<item>
 		<title>ring a1</title>
@@ -6124,7 +6110,7 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:7:"content";a:1:{s:11:"section_map";a:3:{s:6:"height";i:1;s:13:"height_tablet";i:1;s:13:"height_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:14:"section_layout";a:2:{s:3:"gap";i:3;s:13:"content_width";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:1;s:6:"margin";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:1;s:5:"align";i:1;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:2:{s:21:"typography_typography";i:1;s:22:"typography_line_height";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:11:"section_map";a:3:{s:6:"height";i:1;s:13:"height_tablet";i:1;s:13:"height_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:14:"section_layout";a:2:{s:3:"gap";i:3;s:13:"content_width";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:1;s:6:"margin";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:1;s:5:"align";i:1;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:2:{s:21:"typography_typography";i:1;s:22:"typography_line_height";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
