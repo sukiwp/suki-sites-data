@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.2" created="2021-06-30 10:47" -->
+	<!-- generator="WordPress/5.7.2" created="2021-07-01 02:35" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Helena - Makeup Artist &#38; Beautician (Elementor)</title>
 	<link>https://demo.sukiwp.com/helena-elementor</link>
 	<description>Just another Suki Demo site</description>
-	<pubDate>Wed, 30 Jun 2021 10:47:12 +0000</pubDate>
+	<pubDate>Thu, 01 Jul 2021 02:35:43 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
