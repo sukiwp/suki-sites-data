@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.2" created="2021-08-18 12:11" -->
+	<!-- generator="WordPress/5.7.2" created="2021-08-18 15:16" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Tripventure - Travel Agency (Elementor)</title>
 	<link>https://demo.sukiwp.com/tripventure-elementor</link>
 	<description>Just another Suki Demo site</description>
-	<pubDate>Wed, 18 Aug 2021 12:11:50 +0000</pubDate>
+	<pubDate>Wed, 18 Aug 2021 15:16:10 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
@@ -4315,7 +4315,7 @@ Indonesia</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[suki_related_posts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:9:"timestamp";i:1628615298;s:7:"filters";s:42:"posts_per_page=3&order=rand&query=category";s:3:"ids";a:3:{i:0;i:191;i:1;i:204;i:2;i:185;}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:3:{s:9:"timestamp";i:1629291654;s:7:"filters";s:42:"posts_per_page=3&order=rand&query=category";s:3:"ids";a:3:{i:0;i:204;i:1;i:195;i:2;i:197;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4371,6 +4371,10 @@ Indonesia</p>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[suki_related_posts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:9:"timestamp";i:1629299032;s:7:"filters";s:42:"posts_per_page=3&order=rand&query=category";s:3:"ids";a:3:{i:0;i:191;i:1;i:199;i:2;i:185;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
