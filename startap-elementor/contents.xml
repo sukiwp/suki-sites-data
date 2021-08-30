@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3" created="2019-12-03 07:55" -->
+	<!-- generator="WordPress/5.8" created="2021-08-30 10:10" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Startap - Business (Elementor)</title>
 	<link>https://demo.sukiwp.com/startap-elementor</link>
 	<description>Just another Suki Demo site</description>
-	<pubDate>Tue, 03 Dec 2019 07:55:40 +0000</pubDate>
+	<pubDate>Mon, 30 Aug 2021 10:10:06 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
+	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.sukiwp.com/startap-elementor</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[sukiwp]]></wp:author_login><wp:author_email><![CDATA[admin@sukiwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin Suki]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[Suki]]></wp:author_last_name></wp:author>
@@ -45,14 +45,14 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -61,10 +61,10 @@
 			<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.3</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 		<item>
-		<title>home_hero</title>
+		<title><![CDATA[home_hero]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/home/home_hero/</link>
 		<pubDate>Wed, 13 Feb 2019 09:34:20 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -75,6 +75,8 @@
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 09:34:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 09:34:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 09:34:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 09:34:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home_hero]]></wp:post_name>
@@ -95,7 +97,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>why us-home_il</title>
+		<title><![CDATA[why us-home_il]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/home/why-us-home_il/</link>
 		<pubDate>Wed, 13 Feb 2019 09:59:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -106,6 +108,8 @@
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 09:59:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 09:59:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 09:59:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 09:59:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-us-home_il]]></wp:post_name>
@@ -126,7 +130,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hourglass</title>
+		<title><![CDATA[hourglass]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/home/hourglass/</link>
 		<pubDate>Wed, 13 Feb 2019 10:12:39 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -137,6 +141,8 @@
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 10:12:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 10:12:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 10:12:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 10:12:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hourglass]]></wp:post_name>
@@ -157,7 +163,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>success</title>
+		<title><![CDATA[success]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/home/success/</link>
 		<pubDate>Wed, 13 Feb 2019 10:14:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -168,6 +174,8 @@
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 10:14:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 10:14:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 10:14:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 10:14:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[success]]></wp:post_name>
@@ -188,7 +196,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>support</title>
+		<title><![CDATA[support]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/home/support/</link>
 		<pubDate>Wed, 13 Feb 2019 10:14:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -199,6 +207,8 @@
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 10:14:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 10:14:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 10:14:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 10:14:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[support]]></wp:post_name>
@@ -219,7 +229,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>what we do_il</title>
+		<title><![CDATA[what we do_il]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/home/what-we-do_il/</link>
 		<pubDate>Wed, 13 Feb 2019 10:37:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -230,6 +240,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 10:37:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 10:37:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 10:37:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 10:37:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-we-do_il]]></wp:post_name>
@@ -250,7 +262,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>avatar_testi</title>
+		<title><![CDATA[avatar_testi]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/home/avatar_testi/</link>
 		<pubDate>Wed, 13 Feb 2019 11:04:29 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -261,6 +273,8 @@
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:04:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:04:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 11:04:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 11:04:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[avatar_testi]]></wp:post_name>
@@ -281,7 +295,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>10 years of successfull work</title>
+		<title><![CDATA[10 years of successfull work]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/home/10-years-of-successfull-work/</link>
 		<pubDate>Wed, 13 Feb 2019 11:08:03 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -292,6 +306,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:08:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:08:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 11:08:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 11:08:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[10-years-of-successfull-work]]></wp:post_name>
@@ -312,7 +328,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>10 years_il@2x</title>
+		<title><![CDATA[10 years_il@2x]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/home/10-years_il2x/</link>
 		<pubDate>Wed, 13 Feb 2019 11:08:28 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -323,6 +339,8 @@
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:08:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:08:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 11:08:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 11:08:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[10-years_il2x]]></wp:post_name>
@@ -343,7 +361,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>companyilist</title>
+		<title><![CDATA[companyilist]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/home/companyilist/</link>
 		<pubDate>Wed, 13 Feb 2019 11:10:31 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -354,6 +372,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:10:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:10:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 11:10:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 11:10:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[companyilist]]></wp:post_name>
@@ -374,7 +394,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cta_bg</title>
+		<title><![CDATA[cta_bg]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/home/cta_bg/</link>
 		<pubDate>Wed, 13 Feb 2019 11:12:21 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -385,6 +405,8 @@
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:12:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:12:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 11:12:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 11:12:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cta_bg]]></wp:post_name>
@@ -405,7 +427,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-hero</title>
+		<title><![CDATA[about-hero]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/about/about-hero/</link>
 		<pubDate>Wed, 13 Feb 2019 11:21:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -416,6 +438,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:21:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:21:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 11:21:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 11:21:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-hero]]></wp:post_name>
@@ -436,7 +460,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>what we do_ill</title>
+		<title><![CDATA[what we do_ill]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/what-we-do/what-we-do_ill/</link>
 		<pubDate>Wed, 13 Feb 2019 11:28:04 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -447,6 +471,8 @@
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:28:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:28:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 11:28:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 11:28:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-we-do_ill]]></wp:post_name>
@@ -467,7 +493,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact us_hero</title>
+		<title><![CDATA[contact us_hero]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/contact/contact-us_hero/</link>
 		<pubDate>Wed, 13 Feb 2019 11:30:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -478,6 +504,8 @@
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:30:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:30:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 11:30:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 11:30:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us_hero]]></wp:post_name>
@@ -498,7 +526,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adam-smith</title>
+		<title><![CDATA[adam-smith]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/about/adam-smith/</link>
 		<pubDate>Thu, 14 Feb 2019 15:22:16 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -509,6 +537,8 @@
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-14 15:22:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-14 15:22:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-14 15:22:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-14 15:22:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adam-smith]]></wp:post_name>
@@ -529,7 +559,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adam-lin</title>
+		<title><![CDATA[adam-lin]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/about/adam-lin/</link>
 		<pubDate>Thu, 14 Feb 2019 15:25:49 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -540,6 +570,8 @@
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-14 15:25:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-14 15:25:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-14 15:25:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-14 15:25:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adam-lin]]></wp:post_name>
@@ -560,7 +592,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>our team 1</title>
+		<title><![CDATA[our team 1]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/about/our-team-1/</link>
 		<pubDate>Thu, 14 Feb 2019 15:29:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -571,6 +603,8 @@
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-14 15:29:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-14 15:29:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-14 15:29:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-14 15:29:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-team-1]]></wp:post_name>
@@ -591,7 +625,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>our team 2</title>
+		<title><![CDATA[our team 2]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/about/our-team-2/</link>
 		<pubDate>Thu, 14 Feb 2019 15:31:08 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -602,6 +636,8 @@
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-14 15:31:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-14 15:31:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-14 15:31:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-14 15:31:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-team-2]]></wp:post_name>
@@ -622,7 +658,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>our team 3</title>
+		<title><![CDATA[our team 3]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/about/our-team-3/</link>
 		<pubDate>Thu, 14 Feb 2019 15:31:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -633,6 +669,8 @@
 		<wp:post_id>66</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-14 15:31:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-14 15:31:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-14 15:31:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-14 15:31:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-team-3]]></wp:post_name>
@@ -653,7 +691,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>vision mission_bg</title>
+		<title><![CDATA[vision mission_bg]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/about/vision-mission_bg/</link>
 		<pubDate>Thu, 14 Feb 2019 15:34:51 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -664,6 +702,8 @@
 		<wp:post_id>67</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-14 15:34:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-14 15:34:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-14 15:34:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-14 15:34:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[vision-mission_bg]]></wp:post_name>
@@ -684,46 +724,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hello world!</title>
-		<link>https://demo.sukiwp.com/startap-elementor/hello-world/</link>
-		<pubDate>Tue, 12 Feb 2019 08:03:22 +0000</pubDate>
-		<dc:creator><![CDATA[sukiwp]]></dc:creator>
-		<guid isPermaLink="false">https://demo.sukiwp.com/startap-elementor/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.sukiwp.com/">Suki Demo</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2019-02-12 08:03:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-02-12 08:03:22]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2019-02-12 08:03:22]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2019-02-12 08:03:22]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title>Contact form</title>
+		<title><![CDATA[Contact form]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Wed, 13 Feb 2019 09:21:37 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -800,6 +801,8 @@ The telephone number is invalid.]]></content:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 09:21:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 09:21:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:21:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:21:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
@@ -861,7 +864,7 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/</link>
 		<pubDate>Wed, 13 Feb 2019 09:27:20 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -912,6 +915,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 09:27:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 09:27:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 15:50:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 15:50:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -951,11 +956,11 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:10:{s:7:"heading";a:3:{s:5:"count";i:8;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:8;s:5:"align";i:7;s:12:"align_tablet";i:1;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:3;s:21:"typography_typography";i:4;s:20:"typography_font_size";i:2;s:22:"typography_line_height";i:3;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:10;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_spacer";a:2:{s:5:"space";i:9;s:12:"space_tablet";i:1;}}s:8:"advanced";a:1:{s:19:"_section_responsive";a:2:{s:11:"hide_mobile";i:2;s:11:"hide_tablet";i:2;}}}}s:6:"button";a:3:{s:5:"count";i:5;s:15:"control_percent";i:6;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:5;s:5:"align";i:4;s:12:"align_tablet";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:12:{s:16:"background_color";i:5;s:13:"border_border";i:5;s:12:"border_width";i:5;s:13:"border_radius";i:5;s:12:"text_padding";i:5;s:21:"typography_typography";i:5;s:22:"typography_font_weight";i:5;s:17:"button_text_color";i:5;s:11:"hover_color";i:4;s:29:"button_background_hover_color";i:4;s:25:"button_hover_border_color";i:4;s:12:"border_color";i:5;}}}}s:6:"column";a:3:{s:5:"count";i:22;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:2;s:19:"_inline_size_tablet";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:11;s:13:"margin_mobile";i:10;s:7:"padding";i:3;s:13:"margin_tablet";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"background_background";i:2;s:16:"background_color";i:1;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:14;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:7;}s:14:"section_layout";a:5:{s:3:"gap";i:14;s:16:"content_position";i:1;s:13:"content_width";i:3;s:6:"layout";i:2;s:13:"custom_height";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:5;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:3;s:15:"background_size";i:3;s:16:"background_color";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:7:"padding";i:8;s:14:"padding_tablet";i:1;s:6:"margin";i:1;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:1;s:20:"reverse_order_mobile";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:21:"section_divider_style";a:2:{s:6:"weight";i:3;s:5:"color";i:3;}}s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:3;s:5:"align";i:3;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:13:"_border_color";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:5;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:12:"align_tablet";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:3;s:10:"image_size";i:3;s:5:"align";i:2;}}s:5:"style";a:1:{s:19:"section_style_image";a:3:{s:5:"width";i:2;s:12:"width_tablet";i:2;s:12:"width_mobile";i:2;}}}}s:9:"image-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:3;s:10:"title_text";i:3;s:16:"description_text";i:3;}}s:5:"style";a:2:{s:19:"section_style_image";a:2:{s:11:"image_space";i:3;s:10:"image_size";i:3;}s:21:"section_style_content";a:1:{s:11:"title_color";i:3;}}}}s:11:"testimonial";a:3:{s:5:"count";i:2;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_testimonial";a:5:{s:19:"testimonial_content";i:2;s:17:"testimonial_image";i:2;s:16:"testimonial_name";i:2;s:15:"testimonial_job";i:2;s:26:"testimonial_image_position";i:2;}}s:5:"style";a:2:{s:33:"section_style_testimonial_content";a:4:{s:21:"content_content_color";i:2;s:29:"content_typography_typography";i:2;s:28:"content_typography_font_size";i:2;s:29:"content_typography_font_style";i:2;}s:30:"section_style_testimonial_name";a:4:{s:15:"name_text_color";i:2;s:26:"name_typography_typography";i:2;s:25:"name_typography_font_size";i:2;s:27:"name_typography_font_weight";i:2;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:10:{s:7:"heading";a:3:{s:5:"count";i:8;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:8;s:5:"align";i:7;s:12:"align_tablet";i:1;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:3;s:21:"typography_typography";i:4;s:20:"typography_font_size";i:2;s:22:"typography_line_height";i:3;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:10;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_spacer";a:2:{s:5:"space";i:9;s:12:"space_tablet";i:1;}}s:8:"advanced";a:1:{s:19:"_section_responsive";a:2:{s:11:"hide_mobile";i:2;s:11:"hide_tablet";i:2;}}}}s:6:"button";a:3:{s:5:"count";i:5;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:5;s:5:"align";i:4;s:12:"align_tablet";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:12:{s:16:"background_color";i:5;s:13:"border_border";i:5;s:12:"border_width";i:5;s:13:"border_radius";i:5;s:12:"text_padding";i:5;s:21:"typography_typography";i:5;s:22:"typography_font_weight";i:5;s:17:"button_text_color";i:5;s:11:"hover_color";i:4;s:29:"button_background_hover_color";i:4;s:25:"button_hover_border_color";i:4;s:12:"border_color";i:5;}}}}s:6:"column";a:3:{s:5:"count";i:22;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:2;s:19:"_inline_size_tablet";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:11;s:13:"margin_mobile";i:10;s:7:"padding";i:3;s:13:"margin_tablet";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"background_background";i:2;s:16:"background_color";i:1;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:14;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:7;}s:14:"section_layout";a:5:{s:3:"gap";i:14;s:16:"content_position";i:1;s:13:"content_width";i:3;s:6:"layout";i:2;s:13:"custom_height";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:5;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:3;s:15:"background_size";i:3;s:16:"background_color";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:7:"padding";i:8;s:14:"padding_tablet";i:1;s:6:"margin";i:1;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:1;s:20:"reverse_order_mobile";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:21:"section_divider_style";a:2:{s:6:"weight";i:3;s:5:"color";i:3;}}s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:3;s:5:"align";i:3;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:13:"_border_color";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:5;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:12:"align_tablet";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:3;s:10:"image_size";i:3;s:5:"align";i:2;}}s:5:"style";a:1:{s:19:"section_style_image";a:3:{s:5:"width";i:2;s:12:"width_tablet";i:2;s:12:"width_mobile";i:2;}}}}s:9:"image-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:3;s:10:"title_text";i:3;s:16:"description_text";i:3;}}s:5:"style";a:2:{s:19:"section_style_image";a:2:{s:11:"image_space";i:3;s:10:"image_size";i:3;}s:21:"section_style_content";a:1:{s:11:"title_color";i:3;}}}}s:11:"testimonial";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_testimonial";a:5:{s:19:"testimonial_content";i:2;s:17:"testimonial_image";i:2;s:16:"testimonial_name";i:2;s:15:"testimonial_job";i:2;s:26:"testimonial_image_position";i:2;}}s:5:"style";a:2:{s:33:"section_style_testimonial_content";a:4:{s:21:"content_content_color";i:2;s:29:"content_typography_typography";i:2;s:28:"content_typography_font_size";i:2;s:29:"content_typography_font_style";i:2;}s:30:"section_style_testimonial_name";a:4:{s:15:"name_text_color";i:2;s:26:"name_typography_typography";i:2;s:25:"name_typography_font_size";i:2;s:27:"name_typography_font_weight";i:2;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/about/</link>
 		<pubDate>Wed, 13 Feb 2019 11:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -988,6 +993,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 14:49:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 14:49:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -1027,11 +1034,11 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:11;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:11;s:5:"align";i:5;s:11:"header_size";i:10;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:11;s:21:"typography_typography";i:11;s:20:"typography_font_size";i:11;s:22:"typography_font_weight";i:1;s:22:"typography_line_height";i:2;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:21:"section_divider_style";a:2:{s:6:"weight";i:2;s:5:"color";i:2;}}s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:2;s:5:"align";i:2;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:13:"_border_color";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:13;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:8;s:13:"margin_mobile";i:7;s:7:"padding";i:2;s:14:"padding_mobile";i:2;}}s:6:"layout";a:1:{s:6:"layout";a:2:{s:16:"content_position";i:2;s:12:"_inline_size";i:2;}}s:5:"style";a:1:{s:14:"section_border";a:4:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;s:19:"border_width_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:16:"background_color";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:5;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:2;s:6:"margin";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:3:"gap";i:8;s:21:"fix_columns_alignment";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:5;}}}}s:11:"text-editor";a:3:{s:5:"count";i:7;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:7;}}s:5:"style";a:1:{s:13:"section_style";a:3:{s:5:"align";i:2;s:10:"text_color";i:2;s:12:"align_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:2;}}}}s:6:"spacer";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:5;}}}}s:5:"image";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:5;s:10:"image_size";i:5;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:5:"width";i:2;s:5:"space";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:11;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:11;s:5:"align";i:5;s:11:"header_size";i:10;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:11;s:21:"typography_typography";i:11;s:20:"typography_font_size";i:11;s:22:"typography_font_weight";i:1;s:22:"typography_line_height";i:2;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:21:"section_divider_style";a:2:{s:6:"weight";i:2;s:5:"color";i:2;}}s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:2;s:5:"align";i:2;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:13:"_border_color";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:13;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:8;s:13:"margin_mobile";i:7;s:7:"padding";i:2;s:14:"padding_mobile";i:2;}}s:6:"layout";a:1:{s:6:"layout";a:2:{s:16:"content_position";i:2;s:12:"_inline_size";i:2;}}s:5:"style";a:1:{s:14:"section_border";a:4:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;s:19:"border_width_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:16:"background_color";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:5;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:2;s:6:"margin";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:3:"gap";i:8;s:21:"fix_columns_alignment";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:5;}}}}s:11:"text-editor";a:3:{s:5:"count";i:7;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:7;}}s:5:"style";a:1:{s:13:"section_style";a:3:{s:5:"align";i:2;s:10:"text_color";i:2;s:12:"align_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:2;}}}}s:6:"spacer";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:5;}}}}s:5:"image";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:5;s:10:"image_size";i:5;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:5:"width";i:2;s:5:"space";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>What We Do</title>
+		<title><![CDATA[What We Do]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/what-we-do/</link>
 		<pubDate>Wed, 13 Feb 2019 11:26:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1049,6 +1056,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:26:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:26:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-29 13:58:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-29 13:58:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-we-do]]></wp:post_name>
@@ -1088,11 +1097,11 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:7:"heading";a:3:{s:5:"count";i:5;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:5;s:5:"align";i:2;s:11:"header_size";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:5;s:21:"typography_typography";i:5;s:20:"typography_font_size";i:5;s:22:"typography_line_height";i:4;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:21:"section_divider_style";a:2:{s:6:"weight";i:1;s:5:"color";i:1;}}s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:1;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:13:"_border_color";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:6;s:13:"margin_tablet";i:3;s:7:"padding";i:1;s:14:"padding_mobile";i:1;}}s:6:"layout";a:1:{s:6:"layout";a:1:{s:19:"_inline_size_tablet";i:6;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:5;s:16:"background_image";i:5;s:19:"background_position";i:5;s:17:"background_repeat";i:5;s:15:"background_size";i:5;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:7:"padding";i:5;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:2;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:1;s:20:"reverse_order_mobile";i:1;}}s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:5;}s:17:"section_structure";a:1:{s:9:"structure";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:7:"heading";a:3:{s:5:"count";i:5;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:5;s:5:"align";i:2;s:11:"header_size";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:5;s:21:"typography_typography";i:5;s:20:"typography_font_size";i:5;s:22:"typography_line_height";i:4;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:21:"section_divider_style";a:2:{s:6:"weight";i:1;s:5:"color";i:1;}}s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:1;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:13:"_border_color";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:6;s:13:"margin_tablet";i:3;s:7:"padding";i:1;s:14:"padding_mobile";i:1;}}s:6:"layout";a:1:{s:6:"layout";a:1:{s:19:"_inline_size_tablet";i:6;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:5;s:16:"background_image";i:5;s:19:"background_position";i:5;s:17:"background_repeat";i:5;s:15:"background_size";i:5;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:7:"padding";i:5;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:2;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:1;s:20:"reverse_order_mobile";i:1;}}s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:5;}s:17:"section_structure";a:1:{s:9:"structure";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/contact/</link>
 		<pubDate>Wed, 13 Feb 2019 11:28:39 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1107,6 +1116,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:28:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:28:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-28 10:02:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-28 10:02:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1146,11 +1157,11 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:2;s:5:"align";i:1;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:3:{s:11:"title_color";i:2;s:21:"typography_typography";i:2;s:20:"typography_font_size";i:2;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:21:"section_divider_style";a:2:{s:6:"weight";i:2;s:5:"color";i:2;}}s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:2;s:5:"align";i:2;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:13:"_border_color";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:2;s:6:"margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:2;s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;}}s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:3:"gap";i:2;s:6:"layout";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:8:"advanced";a:1:{s:19:"_section_responsive";a:2:{s:12:"hide_desktop";i:1;s:11:"hide_tablet";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:3:{s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:11:"section_map";a:2:{s:7:"address";i:1;s:4:"zoom";i:1;}}s:5:"style";a:1:{s:17:"section_map_style";a:1:{s:22:"css_filters_css_filter";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:2;s:5:"align";i:1;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:3:{s:11:"title_color";i:2;s:21:"typography_typography";i:2;s:20:"typography_font_size";i:2;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:21:"section_divider_style";a:2:{s:6:"weight";i:2;s:5:"color";i:2;}}s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:2;s:5:"align";i:2;}}s:8:"advanced";a:1:{s:15:"_section_border";a:1:{s:13:"_border_color";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:2;s:6:"margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:2;s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;}}s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:3:"gap";i:2;s:6:"layout";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:8:"advanced";a:1:{s:19:"_section_responsive";a:2:{s:12:"hide_desktop";i:1;s:11:"hide_tablet";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:3:{s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:11:"section_map";a:2:{s:7:"address";i:1;s:4:"zoom";i:1;}}s:5:"style";a:1:{s:17:"section_map_style";a:1:{s:22:"css_filters_css_filter";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/51/</link>
 		<pubDate>Wed, 13 Feb 2019 11:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1161,6 +1172,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>51</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:30:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:30:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 11:30:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 11:30:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[51]]></wp:post_name>
@@ -1205,7 +1218,7 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/52/</link>
 		<pubDate>Wed, 13 Feb 2019 11:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1216,6 +1229,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:30:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:30:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 11:30:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 11:30:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[52]]></wp:post_name>
@@ -1260,7 +1275,7 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/53/</link>
 		<pubDate>Wed, 13 Feb 2019 11:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1271,6 +1286,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:30:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:30:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 11:30:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 11:30:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[53]]></wp:post_name>
@@ -1315,7 +1332,7 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/54/</link>
 		<pubDate>Wed, 13 Feb 2019 11:30:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1326,6 +1343,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>54</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-13 11:30:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-13 11:30:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-13 11:30:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-13 11:30:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[54]]></wp:post_name>
@@ -1370,7 +1389,7 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>branding consultant_bg</title>
+		<title><![CDATA[branding consultant_bg]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/what-we-do/branding-consultant_bg/</link>
 		<pubDate>Thu, 14 Feb 2019 16:11:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1381,6 +1400,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>69</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-14 16:11:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-14 16:11:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-14 16:11:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-14 16:11:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[branding-consultant_bg]]></wp:post_name>
@@ -1401,7 +1422,7 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>financial auditor_bg</title>
+		<title><![CDATA[financial auditor_bg]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/what-we-do/financial-auditor_bg/</link>
 		<pubDate>Thu, 14 Feb 2019 16:14:11 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1412,6 +1433,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>70</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-14 16:14:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-14 16:14:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-14 16:14:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-14 16:14:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[financial-auditor_bg]]></wp:post_name>
@@ -1432,7 +1455,7 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>trading assistant_bg</title>
+		<title><![CDATA[trading assistant_bg]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/what-we-do/trading-assistant_bg/</link>
 		<pubDate>Thu, 14 Feb 2019 16:16:08 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1443,6 +1466,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-14 16:16:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-14 16:16:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-14 16:16:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-14 16:16:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[trading-assistant_bg]]></wp:post_name>
@@ -1463,7 +1488,7 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>quote_bg</title>
+		<title><![CDATA[quote_bg]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/what-we-do/quote_bg/</link>
 		<pubDate>Thu, 14 Feb 2019 16:17:21 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1474,6 +1499,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>73</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-14 16:17:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-14 16:17:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-14 16:17:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-14 16:17:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[quote_bg]]></wp:post_name>
@@ -1494,7 +1521,7 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>what we do-bg</title>
+		<title><![CDATA[what we do-bg]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/home/what-we-do-bg/</link>
 		<pubDate>Fri, 15 Feb 2019 07:13:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1505,6 +1532,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-15 07:13:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-15 07:13:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-15 07:13:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-15 07:13:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[what-we-do-bg]]></wp:post_name>
@@ -1525,7 +1554,7 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Finstat-logo</title>
+		<title><![CDATA[Finstat-logo]]></title>
 		<link>https://demo.sukiwp.com/startap-elementor/finstat-logo/</link>
 		<pubDate>Sat, 16 Feb 2019 14:15:30 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1536,6 +1565,8 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-16 14:15:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-16 14:15:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-16 14:15:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-16 14:15:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[finstat-logo]]></wp:post_name>
@@ -1553,6 +1584,42 @@ This e-mail was sent from a contact form on Startap - Business (Elementor) (http
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:112;s:6:"height";i:41;s:4:"file";s:24:"2019/02/Finstat-logo.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Default Kit]]></title>
+		<link>https://demo.sukiwp.com/startap-elementor/?elementor_library=default-kit</link>
+		<pubDate>Sun, 26 Apr 2020 12:40:07 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/startap-elementor/?elementor_library=default-kit</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>109</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-26 12:40:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-26 12:40:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-26 12:40:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-26 12:40:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[kit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:10:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:21:"global_image_lightbox";s:3:"yes";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1278";}s:27:"stretched_section_container";s:5:"#page";s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:4:"1024";s:13:"custom_colors";a:4:{i:0;a:3:{s:3:"_id";s:8:"4ff52213";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:1;a:3:{s:3:"_id";s:8:"41dfc96e";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:2;a:3:{s:3:"_id";s:8:"732100e5";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:3;a:3:{s:3:"_id";s:7:"f194525";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";i:1023;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
