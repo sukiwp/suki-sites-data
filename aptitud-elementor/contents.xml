@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.2" created="2020-01-10 15:59" -->
+	<!-- generator="WordPress/5.8" created="2021-08-31 04:14" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Aptitud - Gym &#38; Fitness Center (Elementor)</title>
 	<link>https://demo.sukiwp.com/aptitud-elementor</link>
 	<description>Gym &#38; Fitness Center</description>
-	<pubDate>Fri, 10 Jan 2020 15:59:40 +0000</pubDate>
+	<pubDate>Tue, 31 Aug 2021 04:14:38 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
+	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.sukiwp.com/aptitud-elementor</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[author]]></wp:author_login><wp:author_email><![CDATA[support@sukiwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Suki WordPress Theme]]></wp:author_display_name><wp:author_first_name><![CDATA[Suki]]></wp:author_first_name><wp:author_last_name><![CDATA[WordPress Theme]]></wp:author_last_name></wp:author>
@@ -46,10 +46,10 @@
 					<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 		<item>
-		<title>about hero</title>
+		<title><![CDATA[about hero]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/about/about-hero-2/</link>
 		<pubDate>Mon, 25 Mar 2019 13:42:11 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -60,6 +60,8 @@
 		<wp:post_id>175</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 13:42:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 13:42:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 13:42:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 13:42:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-hero-2]]></wp:post_name>
@@ -80,7 +82,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home hero</title>
+		<title><![CDATA[Home hero]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/home-hero/</link>
 		<pubDate>Mon, 25 Mar 2019 13:43:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -91,6 +93,8 @@
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 13:43:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 13:43:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 13:43:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 13:43:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-hero]]></wp:post_name>
@@ -111,7 +115,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>training program hero</title>
+		<title><![CDATA[training program hero]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/training-programs/training-program-hero/</link>
 		<pubDate>Mon, 25 Mar 2019 13:44:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -122,6 +126,8 @@
 		<wp:post_id>177</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 13:44:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 13:44:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 13:44:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 13:44:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[training-program-hero]]></wp:post_name>
@@ -142,7 +148,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog hero</title>
+		<title><![CDATA[blog hero]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/blog-hero/</link>
 		<pubDate>Mon, 25 Mar 2019 13:46:22 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -153,6 +159,8 @@
 		<wp:post_id>178</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 13:46:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 13:46:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 13:46:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 13:46:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-hero]]></wp:post_name>
@@ -173,7 +181,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>header logo aptitud</title>
+		<title><![CDATA[header logo aptitud]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/header-logo-aptitud/</link>
 		<pubDate>Tue, 26 Mar 2019 05:33:08 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -184,6 +192,8 @@
 		<wp:post_id>182</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:33:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:33:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 05:33:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 05:33:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header-logo-aptitud]]></wp:post_name>
@@ -204,7 +214,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>regular package bg</title>
+		<title><![CDATA[regular package bg]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/training-programs/regular-package-bg/</link>
 		<pubDate>Mon, 08 Apr 2019 02:34:14 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -215,6 +225,8 @@
 		<wp:post_id>255</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 02:34:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 02:34:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 02:34:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 02:34:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[regular-package-bg]]></wp:post_name>
@@ -235,7 +247,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>barbell-bodybuilder-bodybuilding-841131</title>
+		<title><![CDATA[barbell-bodybuilder-bodybuilding-841131]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/barbell-bodybuilder-bodybuilding-841131/</link>
 		<pubDate>Mon, 08 Apr 2019 11:15:27 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -246,6 +258,8 @@
 		<wp:post_id>260</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:15:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:15:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:15:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:15:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[barbell-bodybuilder-bodybuilding-841131]]></wp:post_name>
@@ -266,7 +280,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>athlete-barbell-blurred-background-700446</title>
+		<title><![CDATA[athlete-barbell-blurred-background-700446]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/athlete-barbell-blurred-background-700446/</link>
 		<pubDate>Mon, 08 Apr 2019 11:15:42 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -277,6 +291,8 @@
 		<wp:post_id>261</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:15:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:15:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:15:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:15:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[athlete-barbell-blurred-background-700446]]></wp:post_name>
@@ -297,7 +313,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>active-adult-athlete-1552102</title>
+		<title><![CDATA[active-adult-athlete-1552102]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/active-adult-athlete-1552102/</link>
 		<pubDate>Mon, 08 Apr 2019 11:16:14 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -308,6 +324,8 @@
 		<wp:post_id>262</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:16:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:16:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:16:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:16:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[active-adult-athlete-1552102]]></wp:post_name>
@@ -328,7 +346,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>athlete-biceps-body-136405</title>
+		<title><![CDATA[athlete-biceps-body-136405]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/athlete-biceps-body-136405/</link>
 		<pubDate>Mon, 08 Apr 2019 11:16:47 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -339,6 +357,8 @@
 		<wp:post_id>263</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:16:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:16:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:16:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:16:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[athlete-biceps-body-136405]]></wp:post_name>
@@ -359,7 +379,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>action-actor-adult-897065</title>
+		<title><![CDATA[action-actor-adult-897065]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/action-actor-adult-897065/</link>
 		<pubDate>Mon, 08 Apr 2019 11:19:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -370,6 +390,8 @@
 		<wp:post_id>264</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:19:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:19:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:19:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:19:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[action-actor-adult-897065]]></wp:post_name>
@@ -390,7 +412,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>athlete-barbell-body-931321</title>
+		<title><![CDATA[athlete-barbell-body-931321]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/athlete-barbell-body-931321/</link>
 		<pubDate>Mon, 08 Apr 2019 11:19:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -401,6 +423,8 @@
 		<wp:post_id>266</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:19:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:19:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:19:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:19:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[athlete-barbell-body-931321]]></wp:post_name>
@@ -421,7 +445,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>athletes-endurance-energy-685534</title>
+		<title><![CDATA[athletes-endurance-energy-685534]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/athletes-endurance-energy-685534/</link>
 		<pubDate>Mon, 08 Apr 2019 11:19:39 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -432,6 +456,8 @@
 		<wp:post_id>267</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:19:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:19:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:19:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:19:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[athletes-endurance-energy-685534]]></wp:post_name>
@@ -452,7 +478,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cooking-dough-flour-703008</title>
+		<title><![CDATA[cooking-dough-flour-703008]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/cooking-dough-flour-703008/</link>
 		<pubDate>Mon, 08 Apr 2019 11:19:39 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -463,6 +489,8 @@
 		<wp:post_id>269</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:19:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:19:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:19:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:19:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cooking-dough-flour-703008]]></wp:post_name>
@@ -483,7 +511,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>crossfit-crossfit-equipament-crossfit-games-897060</title>
+		<title><![CDATA[crossfit-crossfit-equipament-crossfit-games-897060]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/crossfit-crossfit-equipament-crossfit-games-897060/</link>
 		<pubDate>Mon, 08 Apr 2019 11:19:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -494,6 +522,8 @@
 		<wp:post_id>270</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:19:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:19:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:19:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:19:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[crossfit-crossfit-equipament-crossfit-games-897060]]></wp:post_name>
@@ -514,7 +544,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>energy-exercise-gym-1552242</title>
+		<title><![CDATA[energy-exercise-gym-1552242]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/home/energy-exercise-gym-1552242/</link>
 		<pubDate>Mon, 08 Apr 2019 11:19:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -525,6 +555,8 @@
 		<wp:post_id>271</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:19:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:19:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:19:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:19:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[energy-exercise-gym-1552242]]></wp:post_name>
@@ -545,7 +577,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>body-crossfit-dark-116079</title>
+		<title><![CDATA[body-crossfit-dark-116079]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/about/body-crossfit-dark-116079/</link>
 		<pubDate>Mon, 08 Apr 2019 11:25:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -556,6 +588,8 @@
 		<wp:post_id>273</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:25:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:25:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:25:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:25:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[body-crossfit-dark-116079]]></wp:post_name>
@@ -576,7 +610,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>athlete-body-bodybuilder-775325</title>
+		<title><![CDATA[athlete-body-bodybuilder-775325]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/about/athlete-body-bodybuilder-775325/</link>
 		<pubDate>Mon, 08 Apr 2019 11:25:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -587,6 +621,8 @@
 		<wp:post_id>274</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:25:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:25:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:25:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:25:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[athlete-body-bodybuilder-775325]]></wp:post_name>
@@ -607,7 +643,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about quote-bg</title>
+		<title><![CDATA[about quote-bg]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/about/about-quote-bg/</link>
 		<pubDate>Mon, 08 Apr 2019 11:29:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -618,6 +654,8 @@
 		<wp:post_id>276</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:29:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:29:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:29:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:29:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-quote-bg]]></wp:post_name>
@@ -638,7 +676,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>personal training bg</title>
+		<title><![CDATA[personal training bg]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/training-programs/personal-training-bg-2/</link>
 		<pubDate>Mon, 08 Apr 2019 11:35:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -649,6 +687,8 @@
 		<wp:post_id>277</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:35:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:35:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:35:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:35:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[personal-training-bg-2]]></wp:post_name>
@@ -669,7 +709,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact form</title>
+		<title><![CDATA[Contact form]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Fri, 15 Feb 2019 15:09:00 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -740,6 +780,8 @@ The telephone number is invalid.]]></content:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-15 15:09:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-15 15:09:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-17 15:13:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-17 15:13:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
@@ -794,7 +836,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/</link>
 		<pubDate>Fri, 15 Feb 2019 15:15:44 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -834,6 +876,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-15 15:15:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-15 15:15:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 13:19:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 13:19:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -877,11 +921,11 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:6:"column";a:3:{s:5:"count";i:10;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:8;s:16:"content_position";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:7;s:6:"margin";i:1;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:16:"background_color";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:5;s:11:"header_size";i:2;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:2;s:21:"typography_typography";i:5;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:4;s:27:"typography_font_size_tablet";i:1;s:25:"typography_letter_spacing";i:2;s:22:"typography_line_height";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:10:"text_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:4;}s:14:"section_layout";a:5:{s:3:"gap";i:4;s:6:"layout";i:4;s:6:"height";i:1;s:15:"column_position";i:1;s:16:"content_position";i:2;}}s:5:"style";a:1:{s:18:"section_background";a:12:{s:21:"background_background";i:1;s:16:"background_color";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:26:"background_position_mobile";i:1;s:15:"background_size";i:1;s:22:"background_size_tablet";i:1;s:22:"background_size_mobile";i:1;s:26:"background_bg_width_tablet";i:1;s:26:"background_position_tablet";i:1;s:21:"background_attachment";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:2:{s:7:"padding";i:3;s:14:"padding_tablet";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:12:"space_mobile";i:2;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:2;s:10:"image_size";i:2;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:2;}}}}s:6:"button";a:3:{s:5:"count";i:2;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:2;s:4:"size";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:10:{s:16:"background_color";i:2;s:29:"button_background_hover_color";i:2;s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;s:13:"border_radius";i:2;s:21:"typography_typography";i:2;s:22:"typography_font_weight";i:2;s:25:"typography_text_transform";i:2;s:25:"button_hover_border_color";i:2;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_gallery";a:5:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;s:15:"gallery_columns";i:1;s:12:"gallery_link";i:1;s:13:"open_lightbox";i:1;}}s:5:"style";a:1:{s:22:"section_gallery_images";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:6:"column";a:3:{s:5:"count";i:10;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:8;s:16:"content_position";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:7;s:6:"margin";i:1;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:16:"background_color";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:5;s:11:"header_size";i:2;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:2;s:21:"typography_typography";i:5;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:4;s:27:"typography_font_size_tablet";i:1;s:25:"typography_letter_spacing";i:2;s:22:"typography_line_height";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:10:"text_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:4;}s:14:"section_layout";a:5:{s:3:"gap";i:4;s:6:"layout";i:4;s:6:"height";i:1;s:15:"column_position";i:1;s:16:"content_position";i:2;}}s:5:"style";a:1:{s:18:"section_background";a:12:{s:21:"background_background";i:1;s:16:"background_color";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:26:"background_position_mobile";i:1;s:15:"background_size";i:1;s:22:"background_size_tablet";i:1;s:22:"background_size_mobile";i:1;s:26:"background_bg_width_tablet";i:1;s:26:"background_position_tablet";i:1;s:21:"background_attachment";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:2:{s:7:"padding";i:3;s:14:"padding_tablet";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:12:"space_mobile";i:2;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:2;s:10:"image_size";i:2;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:2;}}}}s:6:"button";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:2;s:4:"size";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:10:{s:16:"background_color";i:2;s:29:"button_background_hover_color";i:2;s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;s:13:"border_radius";i:2;s:21:"typography_typography";i:2;s:22:"typography_font_weight";i:2;s:25:"typography_text_transform";i:2;s:25:"button_hover_border_color";i:2;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_gallery";a:5:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;s:15:"gallery_columns";i:1;s:12:"gallery_link";i:1;s:13:"open_lightbox";i:1;}}s:5:"style";a:1:{s:22:"section_gallery_images";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/about/</link>
 		<pubDate>Sat, 16 Feb 2019 09:47:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -902,6 +946,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>54</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-16 09:47:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-16 09:47:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 13:07:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 13:07:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -945,11 +991,11 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:7;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:7;s:11:"header_size";i:5;s:5:"align";i:7;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:21:"typography_typography";i:7;s:22:"typography_line_height";i:2;s:11:"title_color";i:4;s:22:"typography_font_family";i:4;s:20:"typography_font_size";i:5;s:25:"typography_letter_spacing";i:4;}}s:8:"advanced";a:2:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}s:17:"_section_position";a:1:{s:14:"_element_width";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:2;s:16:"content_position";i:1;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:2;s:13:"margin_mobile";i:2;s:7:"padding";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:3:{s:13:"content_width";i:1;s:3:"gap";i:2;s:16:"content_position";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:2;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:21:"background_attachment";i:1;}s:26:"section_background_overlay";a:1:{s:29:"background_overlay_background";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:3;s:14:"padding_tablet";i:1;s:6:"margin";i:1;s:13:"margin_mobile";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:2;s:10:"image_size";i:2;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:7;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:7;s:11:"header_size";i:5;s:5:"align";i:7;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:21:"typography_typography";i:7;s:22:"typography_line_height";i:2;s:11:"title_color";i:4;s:22:"typography_font_family";i:4;s:20:"typography_font_size";i:5;s:25:"typography_letter_spacing";i:4;}}s:8:"advanced";a:2:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}s:17:"_section_position";a:1:{s:14:"_element_width";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:2;s:16:"content_position";i:1;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:2;s:13:"margin_mobile";i:2;s:7:"padding";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:3:{s:13:"content_width";i:1;s:3:"gap";i:2;s:16:"content_position";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:2;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:21:"background_attachment";i:1;}s:26:"section_background_overlay";a:1:{s:29:"background_overlay_background";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:3;s:14:"padding_tablet";i:1;s:6:"margin";i:1;s:13:"margin_mobile";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:2;s:10:"image_size";i:2;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Training Programs</title>
+		<title><![CDATA[Training Programs]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/training-programs/</link>
 		<pubDate>Sat, 16 Feb 2019 14:29:46 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -989,6 +1035,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-16 14:29:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-16 14:29:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-14 11:54:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-14 11:54:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[training-programs]]></wp:post_name>
@@ -1028,11 +1076,11 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:7:"heading";a:3:{s:5:"count";i:23;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:23;s:11:"header_size";i:19;s:5:"align";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:10:{s:21:"typography_typography";i:23;s:20:"typography_font_size";i:23;s:22:"typography_font_family";i:5;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:2;s:22:"typography_line_height";i:21;s:11:"title_color";i:18;s:22:"typography_font_weight";i:9;s:25:"typography_text_transform";i:9;s:27:"typography_font_size_tablet";i:6;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:9;}}}}s:11:"text-editor";a:3:{s:5:"count";i:7;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:7;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:11;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:8;}}s:5:"style";a:2:{s:14:"section_border";a:4:{s:13:"border_border";i:4;s:12:"border_width";i:5;s:19:"border_width_mobile";i:1;s:12:"border_color";i:1;}s:13:"section_style";a:2:{s:21:"background_background";i:3;s:16:"background_color";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:5;s:13:"margin_mobile";i:5;s:14:"padding_mobile";i:2;s:6:"margin";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:7;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:13:"content_width";i:1;s:3:"gap";i:6;}s:17:"section_structure";a:1:{s:9:"structure";i:3;}}s:5:"style";a:3:{s:18:"section_background";a:7:{s:21:"background_background";i:3;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:16:"background_color";i:1;s:21:"background_attachment";i:1;}s:26:"section_background_overlay";a:5:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_image";i:1;s:27:"background_overlay_position";i:1;s:25:"background_overlay_repeat";i:1;s:23:"background_overlay_size";i:1;}s:14:"section_border";a:2:{s:13:"border_border";i:1;s:12:"border_width";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:7:"padding";i:4;s:14:"padding_tablet";i:1;s:6:"margin";i:2;s:13:"margin_tablet";i:1;s:13:"margin_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:9;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:9;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:7:"heading";a:3:{s:5:"count";i:23;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:23;s:11:"header_size";i:19;s:5:"align";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:10:{s:21:"typography_typography";i:23;s:20:"typography_font_size";i:23;s:22:"typography_font_family";i:5;s:27:"typography_font_size_mobile";i:1;s:25:"typography_letter_spacing";i:2;s:22:"typography_line_height";i:21;s:11:"title_color";i:18;s:22:"typography_font_weight";i:9;s:25:"typography_text_transform";i:9;s:27:"typography_font_size_tablet";i:6;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:9;}}}}s:11:"text-editor";a:3:{s:5:"count";i:7;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:7;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:11;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:8;}}s:5:"style";a:2:{s:14:"section_border";a:4:{s:13:"border_border";i:4;s:12:"border_width";i:5;s:19:"border_width_mobile";i:1;s:12:"border_color";i:1;}s:13:"section_style";a:2:{s:21:"background_background";i:3;s:16:"background_color";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:5;s:13:"margin_mobile";i:5;s:14:"padding_mobile";i:2;s:6:"margin";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:7;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:13:"content_width";i:1;s:3:"gap";i:6;}s:17:"section_structure";a:1:{s:9:"structure";i:3;}}s:5:"style";a:3:{s:18:"section_background";a:7:{s:21:"background_background";i:3;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:16:"background_color";i:1;s:21:"background_attachment";i:1;}s:26:"section_background_overlay";a:5:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_image";i:1;s:27:"background_overlay_position";i:1;s:25:"background_overlay_repeat";i:1;s:23:"background_overlay_size";i:1;}s:14:"section_border";a:2:{s:13:"border_border";i:1;s:12:"border_width";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:7:"padding";i:4;s:14:"padding_tablet";i:1;s:6:"margin";i:2;s:13:"margin_tablet";i:1;s:13:"margin_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:9;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:9;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/blog/</link>
 		<pubDate>Sun, 17 Feb 2019 12:55:28 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1043,6 +1091,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 12:55:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 12:55:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-17 12:55:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-17 12:55:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -1062,7 +1112,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Aenean Consequat Elit</title>
+		<title><![CDATA[Aenean Consequat Elit]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/aenean-consequat-elit/</link>
 		<pubDate>Sun, 17 Feb 2019 13:54:15 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1091,6 +1141,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 13:54:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 13:54:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:37:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:37:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[aenean-consequat-elit]]></wp:post_name>
@@ -1123,7 +1175,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Quis Libero</title>
+		<title><![CDATA[Quis Libero]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/quis-libero/</link>
 		<pubDate>Sun, 17 Feb 2019 13:58:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1152,6 +1204,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 13:58:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 13:58:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:38:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:38:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[quis-libero]]></wp:post_name>
@@ -1176,7 +1230,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Cursus Semper</title>
+		<title><![CDATA[Cursus Semper]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/cursus-semper/</link>
 		<pubDate>Sun, 17 Feb 2019 14:01:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1205,6 +1259,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:01:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:01:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:39:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:39:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[cursus-semper]]></wp:post_name>
@@ -1229,7 +1285,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Vivamus Auctor</title>
+		<title><![CDATA[Vivamus Auctor]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/vivamus-auctor/</link>
 		<pubDate>Sun, 17 Feb 2019 14:02:54 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1258,6 +1314,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>100</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:02:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:02:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:43:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:43:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[vivamus-auctor]]></wp:post_name>
@@ -1282,19 +1340,29 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/contact/</link>
 		<pubDate>Sun, 17 Feb 2019 14:12:29 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-gym-fitness-elementor/?page_id=106</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>Don’t be shy to chat with us, because your ideas are truly valuable.</p>		
-		[contact-form-7 id="5" title="Contact form"]<p>Kalang Avenue 123, 45A<br />Singapore</p><p>+65 1234.5678<br />(10.00 - 18.00 WIB)</p>		
-			]]></content:encoded>
+		<content:encoded><![CDATA[Don’t be shy to chat with us, because your ideas are truly valuable.
+
+[contact-form-7 id="5" title="Contact form"]
+
+Kalang Avenue 123, 45A
+Singapore
+
++65 1234.5678
+(10.00 - 18.00 WIB)
+
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Kalang%20Avenue&amp;t=m&amp;z=14&amp;output=embed&amp;iwloc=near" title="Kalang Avenue" aria-label="Kalang Avenue"></iframe>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>106</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:12:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:12:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-30 13:24:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-30 13:24:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1306,15 +1374,15 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:11:"page_header";i:1;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:4:"hero";i:1;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
@@ -1322,7 +1390,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
@@ -1330,19 +1398,19 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.11]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.4.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:12:{s:21:"background_color_stop";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:23:"background_color_b_stop";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:100;s:5:"sizes";a:0:{}}s:25:"background_gradient_angle";a:3:{s:4:"unit";s:3:"deg";s:4:"size";i:180;s:5:"sizes";a:0:{}}s:15:"background_xpos";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_xpos_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_xpos_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:15:"background_ypos";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_ypos_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_ypos_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:19:"background_bg_width";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:100;s:5:"sizes";a:0:{}}s:26:"background_bg_width_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";s:5:"sizes";a:0:{}}s:26:"background_bg_width_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";s:5:"sizes";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:1;s:11:"header_size";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:22:"typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:1;s:13:"margin_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:7:"content";a:1:{s:11:"section_map";a:3:{s:7:"address";i:1;s:4:"zoom";i:1;s:6:"height";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:2:{s:3:"gap";i:2;s:13:"content_width";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:1;s:11:"header_size";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:22:"typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:1;s:13:"margin_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:11:"section_map";a:3:{s:7:"address";i:1;s:4:"zoom";i:1;s:6:"height";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:2:{s:3:"gap";i:2;s:13:"content_width";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/107/</link>
 		<pubDate>Sun, 17 Feb 2019 14:14:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1353,6 +1421,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:14:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:14:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-17 14:14:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-17 14:14:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[107]]></wp:post_name>
@@ -1397,7 +1467,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/108/</link>
 		<pubDate>Sun, 17 Feb 2019 14:14:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1408,6 +1478,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:14:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:14:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-17 14:14:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-17 14:14:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[108]]></wp:post_name>
@@ -1452,7 +1524,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/109/</link>
 		<pubDate>Sun, 17 Feb 2019 14:14:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1463,6 +1535,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:14:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:14:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-17 14:14:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-17 14:14:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[109]]></wp:post_name>
@@ -1507,7 +1581,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/110/</link>
 		<pubDate>Sun, 17 Feb 2019 14:14:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1518,6 +1592,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:14:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:14:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-17 14:14:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-17 14:14:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[110]]></wp:post_name>
@@ -1562,7 +1638,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/111/</link>
 		<pubDate>Sun, 17 Feb 2019 14:14:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1573,6 +1649,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-17 14:14:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-17 14:14:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-17 14:14:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-17 14:14:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[111]]></wp:post_name>
@@ -1617,7 +1695,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>featured blog 3</title>
+		<title><![CDATA[featured blog 3]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/aenean-consequat-elit/featured-blog-3-2/</link>
 		<pubDate>Mon, 08 Apr 2019 11:37:42 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1628,6 +1706,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>278</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:37:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:37:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:37:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:37:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[featured-blog-3-2]]></wp:post_name>
@@ -1648,7 +1728,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>featured blog 4</title>
+		<title><![CDATA[featured blog 4]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/quis-libero/featured-blog-4/</link>
 		<pubDate>Mon, 08 Apr 2019 11:38:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1659,6 +1739,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>279</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:38:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:38:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:38:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:38:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[featured-blog-4]]></wp:post_name>
@@ -1679,7 +1761,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>featured blog 5</title>
+		<title><![CDATA[featured blog 5]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/cursus-semper/featured-blog-5/</link>
 		<pubDate>Mon, 08 Apr 2019 11:39:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1690,6 +1772,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>280</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:39:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:39:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:39:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:39:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[featured-blog-5]]></wp:post_name>
@@ -1710,7 +1794,7 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>featured blog 6</title>
+		<title><![CDATA[featured blog 6]]></title>
 		<link>https://demo.sukiwp.com/aptitud-elementor/vivamus-auctor/featured-blog-6-2/</link>
 		<pubDate>Mon, 08 Apr 2019 11:43:11 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1721,6 +1805,8 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 		<wp:post_id>281</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-08 11:43:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-08 11:43:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-08 11:43:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-08 11:43:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[featured-blog-6-2]]></wp:post_name>
@@ -1738,6 +1824,42 @@ This e-mail was sent from a contact form on Aptitud - Gym &amp; Fitness Center (
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:624;s:6:"height";i:409;s:4:"file";s:27:"2019/02/featured-blog-6.jpg";s:5:"sizes";a:2:{s:9:"thumbnail";a:4:{s:4:"file";s:27:"featured-blog-6-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:27:"featured-blog-6-300x197.jpg";s:5:"width";i:300;s:6:"height";i:197;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Default Kit]]></title>
+		<link>https://demo.sukiwp.com/aptitud-elementor/?elementor_library=default-kit</link>
+		<pubDate>Sun, 26 Apr 2020 11:33:52 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/aptitud-elementor/?elementor_library=default-kit</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>313</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-26 11:33:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-26 11:33:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-26 11:33:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-26 11:33:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[kit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:10:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:21:"global_image_lightbox";s:3:"yes";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1200";}s:27:"stretched_section_container";s:5:"#page";s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:4:"1024";s:13:"custom_colors";a:4:{i:0;a:3:{s:3:"_id";s:8:"7d9841e3";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:1;a:3:{s:3:"_id";s:8:"3687de87";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:2;a:3:{s:3:"_id";s:8:"2f6ecbec";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:3;a:3:{s:3:"_id";s:7:"d71436d";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";i:1023;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
