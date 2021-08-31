@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8" created="2021-08-31 14:38" -->
+	<!-- generator="WordPress/5.8" created="2021-08-31 15:15" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Sello - Clothing Shop (Elementor)</title>
 	<link>https://demo.sukiwp.com/sello-elementor</link>
 	<description>Clothing Shop</description>
-	<pubDate>Tue, 31 Aug 2021 14:38:59 +0000</pubDate>
+	<pubDate>Tue, 31 Aug 2021 15:15:30 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
@@ -364,39 +364,6 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 
 		<item>
-		<title><![CDATA[DRESS-1]]></title>
-		<link>https://demo.sukiwp.com/sello-elementor/?attachment_id=6</link>
-		<pubDate>Thu, 29 Nov 2018 09:21:36 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.sukiwp.com/sello/wp-content/uploads/sites/8/2018/11/DRESS-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2018-11-29 09:21:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-11-29 09:21:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-11-29 09:21:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-11-29 09:21:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[dress-1-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>5</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/sello-elementor/wp-content/uploads/sites/8/2018/11/DRESS-1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/11/DRESS-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:19:"2018/11/DRESS-1.jpg";s:5:"sizes";a:9:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:19:"DRESS-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:19:"DRESS-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"DRESS-1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"DRESS-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:19:"DRESS-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"DRESS-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:5:{s:4:"file";s:19:"DRESS-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:11:"shop_single";a:4:{s:4:"file";s:19:"DRESS-1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:19:"DRESS-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[DRESS-2]]></title>
 		<link>https://demo.sukiwp.com/sello-elementor/?attachment_id=8</link>
 		<pubDate>Thu, 29 Nov 2018 09:22:43 +0000</pubDate>
@@ -1024,6 +991,39 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[new collections_ill resize]]></title>
+		<link>https://demo.sukiwp.com/sello-elementor/home/new-collections_ill-resize/</link>
+		<pubDate>Tue, 04 Dec 2018 11:15:27 +0000</pubDate>
+		<dc:creator><![CDATA[author]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/sello/wp-content/uploads/sites/8/2018/12/new-collections_ill-resize.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>159</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-04 11:15:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-04 11:15:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2018-12-04 11:15:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-12-04 11:15:27]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[new-collections_ill-resize]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>24</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/sello-elementor/wp-content/uploads/sites/8/2018/12/new-collections_ill-resize.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/12/new-collections_ill-resize.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:470;s:6:"height";i:383;s:4:"file";s:38:"2018/12/new-collections_ill-resize.jpg";s:5:"sizes";a:6:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:38:"new-collections_ill-resize-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:38:"new-collections_ill-resize-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:38:"new-collections_ill-resize-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:38:"new-collections_ill-resize-300x244.jpg";s:5:"width";i:300;s:6:"height";i:244;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:5:{s:4:"file";s:38:"new-collections_ill-resize-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:14:"shop_thumbnail";a:4:{s:4:"file";s:38:"new-collections_ill-resize-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Home]]></title>
 		<link>https://demo.sukiwp.com/sello-elementor/</link>
 		<pubDate>Thu, 29 Nov 2018 16:14:08 +0000</pubDate>
@@ -1462,39 +1462,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[new collections_ill resize]]></title>
-		<link>https://demo.sukiwp.com/sello-elementor/home/new-collections_ill-resize/</link>
-		<pubDate>Tue, 04 Dec 2018 11:15:27 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.sukiwp.com/sello/wp-content/uploads/sites/8/2018/12/new-collections_ill-resize.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>159</wp:post_id>
-		<wp:post_date><![CDATA[2018-12-04 11:15:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-12-04 11:15:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-12-04 11:15:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-12-04 11:15:27]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[new-collections_ill-resize]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>24</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/sello-elementor/wp-content/uploads/sites/8/2018/12/new-collections_ill-resize.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018/12/new-collections_ill-resize.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:470;s:6:"height";i:383;s:4:"file";s:38:"2018/12/new-collections_ill-resize.jpg";s:5:"sizes";a:6:{s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:38:"new-collections_ill-resize-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:38:"new-collections_ill-resize-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:38:"new-collections_ill-resize-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:38:"new-collections_ill-resize-300x244.jpg";s:5:"width";i:300;s:6:"height";i:244;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:5:{s:4:"file";s:38:"new-collections_ill-resize-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:14:"shop_thumbnail";a:4:{s:4:"file";s:38:"new-collections_ill-resize-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2099,6 +2066,39 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[DRESS-1]]></title>
+		<link>https://demo.sukiwp.com/sello-elementor/?attachment_id=333</link>
+		<pubDate>Tue, 31 Aug 2021 15:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[sukiwp]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/sello-elementor/wp-content/uploads/sites/8/2018/11/DRESS-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>333</wp:post_id>
+		<wp:post_date><![CDATA[2021-08-31 15:08:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2021-08-31 15:08:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-31 15:08:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-31 15:08:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dress-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>5</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.sukiwp.com/sello-elementor/wp-content/uploads/sites/8/2018/11/DRESS-1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018/11/DRESS-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:19:"2018/11/DRESS-1.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:19:"DRESS-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:19:"DRESS-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:19:"DRESS-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:19:"DRESS-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:19:"DRESS-1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:19:"DRESS-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:19:"DRESS-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:19:"DRESS-1-600x600.jpg";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:19:"DRESS-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Black Dress]]></title>
 		<link>https://demo.sukiwp.com/sello-elementor/product/black-dress/</link>
 		<pubDate>Thu, 29 Nov 2018 09:21:13 +0000</pubDate>
@@ -2110,8 +2110,8 @@
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2018-11-29 09:21:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-11-29 09:21:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-01-25 01:51:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-01-25 01:51:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-08-31 15:08:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-31 15:08:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[black-dress]]></wp:post_name>
@@ -2142,15 +2142,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018-11-28]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
@@ -2262,7 +2258,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.5.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5.6.0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -2275,6 +2271,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[dress-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[333]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
