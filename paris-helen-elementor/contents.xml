@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2" created="2019-05-15 08:38" -->
+	<!-- generator="WordPress/5.8" created="2021-08-31 05:38" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Paris &#38; Helen - Online Wedding RSVP (Elementor)</title>
 	<link>https://demo.sukiwp.com/paris-helen-elementor</link>
 	<description>Online Wedding RSVP</description>
-	<pubDate>Wed, 15 May 2019 08:38:15 +0000</pubDate>
+	<pubDate>Tue, 31 Aug 2021 05:38:37 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
+	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.sukiwp.com/paris-helen-elementor</wp:base_blog_url>
 
 		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[author]]></wp:author_login><wp:author_email><![CDATA[support@sukiwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Suki WordPress Theme]]></wp:author_display_name><wp:author_first_name><![CDATA[Suki]]></wp:author_first_name><wp:author_last_name><![CDATA[WordPress Theme]]></wp:author_last_name></wp:author>
@@ -46,10 +46,10 @@
 					<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 		<item>
-		<title>home flower sparator 1</title>
+		<title><![CDATA[home flower sparator 1]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/home-flower-sparator-1/</link>
 		<pubDate>Sat, 23 Feb 2019 13:29:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -60,6 +60,8 @@
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 13:29:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 13:29:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-23 13:29:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-23 13:29:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-flower-sparator-1]]></wp:post_name>
@@ -80,7 +82,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>groom</title>
+		<title><![CDATA[groom]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/groom/</link>
 		<pubDate>Sat, 23 Feb 2019 14:03:22 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -91,6 +93,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 14:03:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 14:03:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-23 14:03:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-23 14:03:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[groom]]></wp:post_name>
@@ -111,7 +115,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>flower bg 2</title>
+		<title><![CDATA[flower bg 2]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/flower-bg-2/</link>
 		<pubDate>Sat, 23 Feb 2019 14:06:00 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -122,6 +126,8 @@
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 14:06:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 14:06:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-23 14:06:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-23 14:06:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[flower-bg-2]]></wp:post_name>
@@ -142,7 +148,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>flower bg 3</title>
+		<title><![CDATA[flower bg 3]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/flower-bg-3/</link>
 		<pubDate>Sat, 23 Feb 2019 14:56:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -153,6 +159,8 @@
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 14:56:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 14:56:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-23 14:56:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-23 14:56:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[flower-bg-3]]></wp:post_name>
@@ -173,7 +181,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bridge</title>
+		<title><![CDATA[bridge]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/bridge/</link>
 		<pubDate>Sat, 23 Feb 2019 14:56:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -184,6 +192,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 14:56:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 14:56:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-23 14:56:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-23 14:56:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bridge]]></wp:post_name>
@@ -204,7 +214,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>separator and</title>
+		<title><![CDATA[separator and]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/separator-and/</link>
 		<pubDate>Mon, 25 Feb 2019 12:33:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -215,6 +225,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-25 12:33:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-25 12:33:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-25 12:33:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-25 12:33:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[separator-and]]></wp:post_name>
@@ -235,7 +247,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>flower bg 4</title>
+		<title><![CDATA[flower bg 4]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/flower-bg-4/</link>
 		<pubDate>Mon, 25 Feb 2019 14:11:36 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -246,6 +258,8 @@
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-25 14:11:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-25 14:11:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-25 14:11:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-25 14:11:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[flower-bg-4]]></wp:post_name>
@@ -266,7 +280,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>flower bg 10 resized</title>
+		<title><![CDATA[flower bg 10 resized]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/flower-bg-10-resized/</link>
 		<pubDate>Mon, 25 Feb 2019 14:37:53 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -277,6 +291,8 @@
 		<wp:post_id>55</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-25 14:37:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-25 14:37:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-25 14:37:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-25 14:37:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[flower-bg-10-resized]]></wp:post_name>
@@ -297,7 +313,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>flower bg 6</title>
+		<title><![CDATA[flower bg 6]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/flower-bg-6/</link>
 		<pubDate>Mon, 25 Feb 2019 14:39:39 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -308,6 +324,8 @@
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-25 14:39:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-25 14:39:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-02-25 14:39:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-02-25 14:39:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[flower-bg-6]]></wp:post_name>
@@ -328,7 +346,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/logo/</link>
 		<pubDate>Wed, 20 Mar 2019 08:46:13 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -339,6 +357,8 @@
 		<wp:post_id>151</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-20 08:46:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-20 08:46:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-20 08:46:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-20 08:46:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -359,7 +379,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>header-logo</title>
+		<title><![CDATA[header-logo]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/header-logo/</link>
 		<pubDate>Thu, 21 Mar 2019 15:08:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -370,6 +390,8 @@
 		<wp:post_id>184</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-21 15:08:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-21 15:08:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-21 15:08:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-21 15:08:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header-logo]]></wp:post_name>
@@ -390,7 +412,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gift registry 1</title>
+		<title><![CDATA[gift registry 1]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/gift-registry-1-2/</link>
 		<pubDate>Mon, 25 Mar 2019 09:34:42 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -401,6 +423,8 @@
 		<wp:post_id>207</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 09:34:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 09:34:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 09:34:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 09:34:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gift-registry-1-2]]></wp:post_name>
@@ -421,7 +445,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gift registry 2</title>
+		<title><![CDATA[gift registry 2]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/gift-registry-2-2/</link>
 		<pubDate>Mon, 25 Mar 2019 09:34:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -432,6 +456,8 @@
 		<wp:post_id>208</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 09:34:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 09:34:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 09:34:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 09:34:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gift-registry-2-2]]></wp:post_name>
@@ -452,7 +478,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gift registry 3</title>
+		<title><![CDATA[gift registry 3]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/gift-registry-3-2/</link>
 		<pubDate>Mon, 25 Mar 2019 09:34:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -463,6 +489,8 @@
 		<wp:post_id>209</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 09:34:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 09:34:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 09:34:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 09:34:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gift-registry-3-2]]></wp:post_name>
@@ -483,7 +511,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gift registry 4</title>
+		<title><![CDATA[gift registry 4]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/gift-registry-4-2/</link>
 		<pubDate>Mon, 25 Mar 2019 09:34:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -494,6 +522,8 @@
 		<wp:post_id>210</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-25 09:34:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-25 09:34:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-25 09:34:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-25 09:34:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gift-registry-4-2]]></wp:post_name>
@@ -514,7 +544,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>captured moments 1</title>
+		<title><![CDATA[captured moments 1]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-1/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:15 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -525,6 +555,8 @@
 		<wp:post_id>212</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 05:04:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 05:04:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[captured-moments-1]]></wp:post_name>
@@ -545,7 +577,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>captured moments 2</title>
+		<title><![CDATA[captured moments 2]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-2/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:17 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -556,6 +588,8 @@
 		<wp:post_id>213</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 05:04:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 05:04:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[captured-moments-2]]></wp:post_name>
@@ -576,7 +610,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>captured moments 3</title>
+		<title><![CDATA[captured moments 3]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-3/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:17 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -587,6 +621,8 @@
 		<wp:post_id>214</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 05:04:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 05:04:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[captured-moments-3]]></wp:post_name>
@@ -607,7 +643,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>captured moments 4</title>
+		<title><![CDATA[captured moments 4]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-4/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:18 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -618,6 +654,8 @@
 		<wp:post_id>215</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 05:04:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 05:04:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[captured-moments-4]]></wp:post_name>
@@ -638,7 +676,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>captured moments 5</title>
+		<title><![CDATA[captured moments 5]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-5/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -649,6 +687,8 @@
 		<wp:post_id>216</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 05:04:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 05:04:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[captured-moments-5]]></wp:post_name>
@@ -669,7 +709,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Groom &#038; Bride</title>
+		<title><![CDATA[Groom &amp; Bride]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/groom-bride/</link>
 		<pubDate>Tue, 26 Feb 2019 07:13:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -680,6 +720,8 @@
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-26 07:13:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-26 07:13:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-21 15:20:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-21 15:20:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[groom-bride]]></wp:post_name>
@@ -724,7 +766,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>When &#038; Where</title>
+		<title><![CDATA[When &amp; Where]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/when-where/</link>
 		<pubDate>Tue, 26 Feb 2019 07:13:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -735,6 +777,8 @@
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-26 07:13:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-26 07:13:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-21 15:20:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-21 15:20:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[when-where]]></wp:post_name>
@@ -779,7 +823,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/</link>
 		<pubDate>Thu, 21 Mar 2019 13:55:53 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -790,6 +834,8 @@
 		<wp:post_id>177</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-21 13:55:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-21 13:55:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-21 15:20:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-21 15:20:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -834,62 +880,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Registry</title>
-		<link>https://demo.sukiwp.com/paris-helen-elementor/registry/</link>
-		<pubDate>Thu, 21 Mar 2019 13:56:46 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/?p=178</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>178</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-21 13:56:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-21 13:56:46]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[registry]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[178]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#gift-registry]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>captured moments 6</title>
+		<title><![CDATA[captured moments 6]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-6/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:20 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -900,6 +891,8 @@
 		<wp:post_id>217</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 05:04:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 05:04:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[captured-moments-6]]></wp:post_name>
@@ -920,7 +913,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>captured moments 7</title>
+		<title><![CDATA[captured moments 7]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-7/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:21 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -931,6 +924,8 @@
 		<wp:post_id>218</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 05:04:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 05:04:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[captured-moments-7]]></wp:post_name>
@@ -951,7 +946,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>captured moments 8</title>
+		<title><![CDATA[captured moments 8]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-8/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:22 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -962,6 +957,8 @@
 		<wp:post_id>219</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 05:04:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 05:04:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[captured-moments-8]]></wp:post_name>
@@ -982,7 +979,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>captured moments 9</title>
+		<title><![CDATA[captured moments 9]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-9/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -993,6 +990,8 @@
 		<wp:post_id>220</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 05:04:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 05:04:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[captured-moments-9]]></wp:post_name>
@@ -1013,7 +1012,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>captured moments 10</title>
+		<title><![CDATA[captured moments 10]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-10/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1024,6 +1023,8 @@
 		<wp:post_id>221</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 05:04:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 05:04:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[captured-moments-10]]></wp:post_name>
@@ -1044,7 +1045,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>captured moments 11</title>
+		<title><![CDATA[captured moments 11]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-11/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1055,6 +1056,8 @@
 		<wp:post_id>222</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 05:04:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 05:04:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[captured-moments-11]]></wp:post_name>
@@ -1075,7 +1078,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>captured moments 12</title>
+		<title><![CDATA[captured moments 12]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/captured-moments-12/</link>
 		<pubDate>Tue, 26 Mar 2019 05:04:25 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1086,6 +1089,8 @@
 		<wp:post_id>223</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 05:04:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 05:04:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 05:04:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 05:04:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[captured-moments-12]]></wp:post_name>
@@ -1106,7 +1111,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home hero bg</title>
+		<title><![CDATA[home hero bg]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/?attachment_id=227</link>
 		<pubDate>Tue, 26 Mar 2019 08:15:16 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1117,6 +1122,8 @@
 		<wp:post_id>227</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:15:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:15:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 08:15:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 08:15:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-hero-bg]]></wp:post_name>
@@ -1137,7 +1144,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home gallery 1</title>
+		<title><![CDATA[home gallery 1]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home-gallery-1/</link>
 		<pubDate>Tue, 26 Mar 2019 08:16:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1148,6 +1155,8 @@
 		<wp:post_id>228</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:16:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:16:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 08:16:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 08:16:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-gallery-1]]></wp:post_name>
@@ -1168,7 +1177,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home gallery 2</title>
+		<title><![CDATA[home gallery 2]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home-gallery-2/</link>
 		<pubDate>Tue, 26 Mar 2019 08:16:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1179,6 +1188,8 @@
 		<wp:post_id>229</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:16:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:16:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 08:16:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 08:16:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-gallery-2]]></wp:post_name>
@@ -1199,7 +1210,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home gallery 3</title>
+		<title><![CDATA[home gallery 3]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home-gallery-3/</link>
 		<pubDate>Tue, 26 Mar 2019 08:16:42 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1210,6 +1221,8 @@
 		<wp:post_id>230</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:16:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:16:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 08:16:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 08:16:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-gallery-3]]></wp:post_name>
@@ -1230,7 +1243,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>where when 3</title>
+		<title><![CDATA[where when 3]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/where-when-3/</link>
 		<pubDate>Tue, 26 Mar 2019 08:26:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1241,6 +1254,8 @@
 		<wp:post_id>233</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:26:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:26:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 08:26:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 08:26:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[where-when-3]]></wp:post_name>
@@ -1261,7 +1276,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>where when 1</title>
+		<title><![CDATA[where when 1]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/where-when-1-2/</link>
 		<pubDate>Tue, 26 Mar 2019 08:26:29 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1272,6 +1287,8 @@
 		<wp:post_id>234</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:26:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:26:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 08:26:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 08:26:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[where-when-1-2]]></wp:post_name>
@@ -1292,7 +1309,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>where when 2</title>
+		<title><![CDATA[where when 2]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/where-when-2-2/</link>
 		<pubDate>Tue, 26 Mar 2019 08:26:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1303,6 +1320,8 @@
 		<wp:post_id>235</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:26:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:26:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 08:26:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 08:26:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[where-when-2-2]]></wp:post_name>
@@ -1323,7 +1342,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>where when 5</title>
+		<title><![CDATA[where when 5]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/where-when-5-2/</link>
 		<pubDate>Tue, 26 Mar 2019 08:27:31 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1334,6 +1353,8 @@
 		<wp:post_id>236</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:27:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:27:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 08:27:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 08:27:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[where-when-5-2]]></wp:post_name>
@@ -1354,7 +1375,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>where when 4</title>
+		<title><![CDATA[where when 4]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/home/where-when-4/</link>
 		<pubDate>Tue, 26 Mar 2019 08:28:03 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1365,6 +1386,8 @@
 		<wp:post_id>237</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 08:28:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 08:28:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-26 08:28:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-26 08:28:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[where-when-4]]></wp:post_name>
@@ -1385,7 +1408,43 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Default Kit]]></title>
+		<link>https://demo.sukiwp.com/paris-helen-elementor/?elementor_library=default-kit</link>
+		<pubDate>Sun, 26 Apr 2020 15:59:25 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/paris-helen-elementor/?elementor_library=default-kit</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>264</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-26 15:59:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-26 15:59:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-26 15:59:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-26 15:59:25]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[kit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:11:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1140";}s:25:"enable_lightbox_in_editor";s:0:"";s:21:"global_image_lightbox";s:3:"yes";s:27:"stretched_section_container";s:5:"#page";s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:4:"1024";s:13:"custom_colors";a:4:{i:0;a:3:{s:3:"_id";s:8:"422ce3cf";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:1;a:3:{s:3:"_id";s:8:"36c610f5";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:2;a:3:{s:3:"_id";s:8:"56a9aae9";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:3;a:3:{s:3:"_id";s:8:"7a3d7a56";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";i:1023;}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/</link>
 		<pubDate>Sat, 23 Feb 2019 12:59:29 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1486,6 +1545,8 @@
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-23 12:59:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-23 12:59:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-05-14 14:10:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-05-14 14:10:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1513,7 +1574,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
@@ -1523,9 +1584,13 @@
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2.5.15]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:11:{s:11:"menu-anchor";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_anchor";a:1:{s:6:"anchor";i:6;}}}}s:6:"spacer";a:3:{s:5:"count";i:19;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:2:{s:5:"space";i:19;s:12:"space_tablet";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:16;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:16;s:5:"align";i:14;s:12:"align_mobile";i:2;s:11:"header_size";i:7;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:20:"typography_font_size";i:7;s:27:"typography_font_size_mobile";i:3;s:21:"typography_typography";i:16;s:22:"typography_line_height";i:16;s:11:"title_color";i:5;s:22:"typography_font_weight";i:4;s:27:"typography_font_size_tablet";i:4;}}s:8:"advanced";a:1:{s:17:"_section_position";a:1:{s:21:"_element_width_mobile";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:33;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:27;s:5:"align";i:1;s:16:"content_position";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:6:"margin";i:18;s:13:"margin_mobile";i:19;s:7:"padding";i:10;s:14:"padding_tablet";i:3;s:14:"padding_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"background_background";i:11;s:16:"background_color";i:6;s:16:"background_image";i:5;s:19:"background_position";i:4;s:17:"background_repeat";i:5;s:15:"background_size";i:5;}}}}s:5:"image";a:3:{s:5:"count";i:14;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:5:{s:5:"image";i:14;s:10:"image_size";i:14;s:5:"align";i:1;s:7:"link_to";i:4;s:4:"link";i:4;}}s:5:"style";a:1:{s:19:"section_style_image";a:3:{s:5:"width";i:1;s:12:"width_mobile";i:1;s:12:"width_tablet";i:2;}}s:8:"advanced";a:2:{s:14:"_section_style";a:1:{s:14:"_margin_mobile";i:1;}s:17:"_section_position";a:1:{s:21:"_element_width_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:18;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:8:{s:13:"content_width";i:4;s:3:"gap";i:16;s:16:"content_position";i:10;s:12:"height_inner";i:4;s:19:"custom_height_inner";i:4;s:15:"column_position";i:2;s:26:"custom_height_inner_mobile";i:2;s:26:"custom_height_inner_tablet";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:10;}}s:5:"style";a:1:{s:18:"section_background";a:7:{s:21:"background_background";i:5;s:19:"background_position";i:4;s:17:"background_repeat";i:4;s:16:"background_image";i:3;s:15:"background_size";i:2;s:26:"background_position_mobile";i:1;s:16:"background_color";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:7:"padding";i:9;s:6:"margin";i:3;s:14:"padding_tablet";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:2;}}}}s:14:"image-carousel";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:2:{s:22:"section_image_carousel";a:4:{s:8:"carousel";i:1;s:14:"thumbnail_size";i:1;s:14:"slides_to_show";i:1;s:10:"navigation";i:1;}s:26:"section_additional_options";a:3:{s:14:"pause_on_hover";i:1;s:8:"autoplay";i:1;s:8:"infinite";i:1;}}s:5:"style";a:2:{s:24:"section_style_navigation";a:2:{s:11:"arrows_size";i:1;s:12:"arrows_color";i:1;}s:19:"section_style_image";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:5:"align";i:4;s:27:"typography_font_size_tablet";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:12:"social-icons";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:2:{s:16:"social_icon_list";i:2;s:5:"shape";i:2;}}s:5:"style";a:2:{s:20:"section_social_style";a:5:{s:10:"icon_color";i:2;s:18:"icon_primary_color";i:2;s:20:"icon_secondary_color";i:2;s:9:"icon_size";i:2;s:12:"icon_spacing";i:2;}s:20:"section_social_hover";a:2:{s:19:"hover_primary_color";i:2;s:21:"hover_secondary_color";i:2;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_gallery";a:4:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;s:15:"gallery_columns";i:1;s:13:"open_lightbox";i:1;}}s:5:"style";a:2:{s:22:"section_gallery_images";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}s:15:"section_caption";a:1:{s:23:"gallery_display_caption";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hero Section</title>
+		<title><![CDATA[Hero Section]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/?suki_block=hero-section</link>
 		<pubDate>Tue, 26 Feb 2019 07:20:03 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -1536,6 +1601,8 @@
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-26 07:20:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-26 07:20:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-05 12:37:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-05 12:37:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hero-section]]></wp:post_name>
@@ -1577,9 +1644,13 @@
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:12:{s:21:"background_color_stop";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:23:"background_color_b_stop";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:100;s:5:"sizes";a:0:{}}s:25:"background_gradient_angle";a:3:{s:4:"unit";s:3:"deg";s:4:"size";i:180;s:5:"sizes";a:0:{}}s:15:"background_xpos";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_xpos_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_xpos_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:15:"background_ypos";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_ypos_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_ypos_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:19:"background_bg_width";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:100;s:5:"sizes";a:0:{}}s:26:"background_bg_width_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";s:5:"sizes";a:0:{}}s:26:"background_bg_width_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";s:5:"sizes";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:1:{s:5:"image";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:6:"layout";a:1:{s:14:"section_layout";a:5:{s:6:"height";i:1;s:16:"content_position";i:1;s:20:"custom_height_mobile";i:1;s:3:"gap";i:1;s:13:"custom_height";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:7:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:21:"background_attachment";i:1;s:22:"background_size_mobile";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title>RSVP</title>
+		<title><![CDATA[RSVP]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/?post_type=wpcf7_contact_form&#038;p=137</link>
 		<pubDate>Tue, 26 Feb 2019 15:35:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1650,6 +1721,8 @@ The telephone number is invalid.]]></content:encoded>
 		<wp:post_id>137</wp:post_id>
 		<wp:post_date><![CDATA[2019-02-26 15:35:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-02-26 15:35:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 00:05:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 00:05:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
@@ -1704,7 +1777,64 @@ This e-mail was sent from a contact form on Paris &amp; Hellen - Wedding Online 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gallery</title>
+		<title><![CDATA[Registry]]></title>
+		<link>https://demo.sukiwp.com/paris-helen-elementor/registry/</link>
+		<pubDate>Thu, 21 Mar 2019 13:56:46 +0000</pubDate>
+		<dc:creator><![CDATA[author]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/wedding-rsvp-elementor/?p=178</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>178</wp:post_id>
+		<wp:post_date><![CDATA[2019-03-21 13:56:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-03-21 13:56:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-21 15:20:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-21 15:20:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[registry]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[178]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#gift-registry]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Gallery]]></title>
 		<link>https://demo.sukiwp.com/paris-helen-elementor/gallery/</link>
 		<pubDate>Thu, 21 Mar 2019 15:20:30 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1715,6 +1845,8 @@ This e-mail was sent from a contact form on Paris &amp; Hellen - Wedding Online 
 		<wp:post_id>190</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-21 15:20:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-21 15:20:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-21 15:20:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-21 15:20:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery]]></wp:post_name>
