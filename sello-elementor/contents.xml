@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8" created="2021-08-26 15:41" -->
+	<!-- generator="WordPress/5.8" created="2021-08-31 14:38" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Sello - Clothing Shop (Elementor)</title>
 	<link>https://demo.sukiwp.com/sello-elementor</link>
 	<description>Clothing Shop</description>
-	<pubDate>Thu, 26 Aug 2021 15:41:54 +0000</pubDate>
+	<pubDate>Tue, 31 Aug 2021 14:38:59 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
@@ -50,6 +50,10 @@
 		<wp:term_slug><![CDATA[accesories]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Accesories]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>25</wp:term_id>
@@ -57,6 +61,10 @@
 		<wp:term_slug><![CDATA[clothes]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Clothes]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>7</wp:term_id>
@@ -92,6 +100,10 @@
 		<wp:term_slug><![CDATA[footwears]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Footwears]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>19</wp:term_id>
