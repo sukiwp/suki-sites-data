@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.4" created="2019-11-20 14:36" -->
+	<!-- generator="WordPress/5.8" created="2021-09-01 03:17" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Popina - Restaurant (Elementor)</title>
 	<link>https://demo.sukiwp.com/popina-elementor</link>
 	<description>Restaurant</description>
-	<pubDate>Wed, 20 Nov 2019 14:36:29 +0000</pubDate>
+	<pubDate>Wed, 01 Sep 2021 03:17:31 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
+	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.sukiwp.com/popina-elementor</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[sukiwp]]></wp:author_login><wp:author_email><![CDATA[admin@sukiwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin Suki]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[Suki]]></wp:author_last_name></wp:author>
@@ -45,7 +45,7 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -58,10 +58,10 @@
 	<wp:term><wp:term_id>5</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[mobile-menu]]></wp:term_slug><wp:term_name><![CDATA[Mobile Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 		<item>
-		<title>home hero_ill</title>
+		<title><![CDATA[home hero_ill]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-hero_ill/</link>
 		<pubDate>Wed, 27 Mar 2019 00:45:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -72,6 +72,8 @@
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 00:45:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 00:45:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 00:45:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 00:45:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-hero_ill]]></wp:post_name>
@@ -92,7 +94,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home about us_bg</title>
+		<title><![CDATA[home about us_bg]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-about-us_bg/</link>
 		<pubDate>Wed, 27 Mar 2019 00:52:00 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -103,6 +105,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 00:52:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 00:52:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 00:52:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 00:52:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-about-us_bg]]></wp:post_name>
@@ -123,7 +127,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home about us_ill</title>
+		<title><![CDATA[home about us_ill]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-about-us_ill/</link>
 		<pubDate>Wed, 27 Mar 2019 00:53:03 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -134,6 +138,8 @@
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 00:53:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 00:53:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 00:53:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 00:53:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-about-us_ill]]></wp:post_name>
@@ -154,7 +160,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>signature</title>
+		<title><![CDATA[signature]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/signature/</link>
 		<pubDate>Wed, 27 Mar 2019 07:41:20 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -165,6 +171,8 @@
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 07:41:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 07:41:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 07:41:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 07:41:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[signature]]></wp:post_name>
@@ -185,7 +193,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home Our Choices For You_bg</title>
+		<title><![CDATA[home Our Choices For You_bg]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-our-choices-for-you_bg/</link>
 		<pubDate>Wed, 27 Mar 2019 07:58:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -196,6 +204,8 @@
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 07:58:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 07:58:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 07:58:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 07:58:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-our-choices-for-you_bg]]></wp:post_name>
@@ -216,7 +226,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home testimonial_bg</title>
+		<title><![CDATA[home testimonial_bg]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-testimonial_bg/</link>
 		<pubDate>Wed, 27 Mar 2019 08:09:39 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -227,6 +237,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 08:09:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 08:09:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 08:09:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 08:09:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-testimonial_bg]]></wp:post_name>
@@ -247,7 +259,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ava1</title>
+		<title><![CDATA[ava1]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/ava1/</link>
 		<pubDate>Wed, 27 Mar 2019 08:44:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -258,6 +270,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 08:44:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 08:44:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 08:44:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 08:44:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ava1]]></wp:post_name>
@@ -278,7 +292,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home Our Choices For You plate_ill</title>
+		<title><![CDATA[home Our Choices For You plate_ill]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-our-choices-for-you-plate_ill/</link>
 		<pubDate>Wed, 27 Mar 2019 09:11:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -289,6 +303,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 09:11:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 09:11:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 09:11:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 09:11:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-our-choices-for-you-plate_ill]]></wp:post_name>
@@ -309,7 +325,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home Our Main Menus 1</title>
+		<title><![CDATA[home Our Main Menus 1]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-our-main-menus-1/</link>
 		<pubDate>Wed, 27 Mar 2019 09:26:49 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -320,6 +336,8 @@
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 09:26:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 09:26:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 09:26:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 09:26:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-our-main-menus-1]]></wp:post_name>
@@ -340,7 +358,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home Our Main Menus 3</title>
+		<title><![CDATA[home Our Main Menus 3]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-our-main-menus-3/</link>
 		<pubDate>Wed, 27 Mar 2019 11:00:16 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -351,6 +369,8 @@
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 11:00:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 11:00:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 11:00:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 11:00:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-our-main-menus-3]]></wp:post_name>
@@ -371,7 +391,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home Our Chefs 1</title>
+		<title><![CDATA[home Our Chefs 1]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-our-chefs-1/</link>
 		<pubDate>Wed, 27 Mar 2019 11:05:31 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -382,6 +402,8 @@
 		<wp:post_id>36</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 11:05:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 11:05:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 11:05:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 11:05:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-our-chefs-1]]></wp:post_name>
@@ -402,7 +424,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home Our Main Menus 2</title>
+		<title><![CDATA[home Our Main Menus 2]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-our-main-menus-2/</link>
 		<pubDate>Wed, 27 Mar 2019 11:18:25 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -413,6 +435,8 @@
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 11:18:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 11:18:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 11:18:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 11:18:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-our-main-menus-2]]></wp:post_name>
@@ -433,7 +457,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>menu hero_bg</title>
+		<title><![CDATA[menu hero_bg]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/menu/menu-hero_bg/</link>
 		<pubDate>Wed, 27 Mar 2019 11:58:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -444,6 +468,8 @@
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 11:58:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 11:58:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 11:58:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 11:58:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menu-hero_bg]]></wp:post_name>
@@ -464,7 +490,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>menu hero_ill</title>
+		<title><![CDATA[menu hero_ill]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/menu/menu-hero_ill/</link>
 		<pubDate>Wed, 27 Mar 2019 12:10:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -475,6 +501,8 @@
 		<wp:post_id>54</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 12:10:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 12:10:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 12:10:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 12:10:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menu-hero_ill]]></wp:post_name>
@@ -495,7 +523,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>menu plate 1</title>
+		<title><![CDATA[menu plate 1]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/menu/menu-plate-1/</link>
 		<pubDate>Wed, 27 Mar 2019 17:22:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -506,6 +534,8 @@
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 17:22:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 17:22:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 17:22:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 17:22:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menu-plate-1]]></wp:post_name>
@@ -526,7 +556,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>menu plate 2</title>
+		<title><![CDATA[menu plate 2]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/menu/menu-plate-2/</link>
 		<pubDate>Wed, 27 Mar 2019 17:31:51 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -537,6 +567,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 17:31:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 17:31:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 17:31:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 17:31:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menu-plate-2]]></wp:post_name>
@@ -557,7 +589,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>menu plate 3</title>
+		<title><![CDATA[menu plate 3]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/menu/menu-plate-3/</link>
 		<pubDate>Wed, 27 Mar 2019 17:32:53 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -568,6 +600,8 @@
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 17:32:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 17:32:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 17:32:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 17:32:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menu-plate-3]]></wp:post_name>
@@ -588,7 +622,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>menu plate 4</title>
+		<title><![CDATA[menu plate 4]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/menu/menu-plate-4/</link>
 		<pubDate>Wed, 27 Mar 2019 17:33:20 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -599,6 +633,8 @@
 		<wp:post_id>59</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 17:33:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 17:33:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-27 17:33:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-27 17:33:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menu-plate-4]]></wp:post_name>
@@ -619,7 +655,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about hero_bg</title>
+		<title><![CDATA[about hero_bg]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/about/about-hero_bg/</link>
 		<pubDate>Fri, 29 Mar 2019 00:44:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -630,6 +666,8 @@
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 00:44:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 00:44:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 00:44:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 00:44:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-hero_bg]]></wp:post_name>
@@ -650,7 +688,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about thumb 1</title>
+		<title><![CDATA[about thumb 1]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/about/about-thumb-1/</link>
 		<pubDate>Fri, 29 Mar 2019 01:05:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -661,6 +699,8 @@
 		<wp:post_id>66</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 01:05:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 01:05:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 01:05:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 01:05:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-thumb-1]]></wp:post_name>
@@ -681,7 +721,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about thumb 2</title>
+		<title><![CDATA[about thumb 2]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/about/about-thumb-2/</link>
 		<pubDate>Fri, 29 Mar 2019 01:05:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -692,6 +732,8 @@
 		<wp:post_id>67</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 01:05:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 01:05:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 01:05:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 01:05:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-thumb-2]]></wp:post_name>
@@ -712,7 +754,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about thumb 3</title>
+		<title><![CDATA[about thumb 3]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/about/about-thumb-3/</link>
 		<pubDate>Fri, 29 Mar 2019 01:05:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -723,6 +765,8 @@
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 01:05:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 01:05:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 01:05:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 01:05:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-thumb-3]]></wp:post_name>
@@ -743,7 +787,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about thumb 4</title>
+		<title><![CDATA[about thumb 4]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/about/about-thumb-4/</link>
 		<pubDate>Fri, 29 Mar 2019 01:05:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -754,6 +798,8 @@
 		<wp:post_id>69</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 01:05:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 01:05:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 01:05:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 01:05:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-thumb-4]]></wp:post_name>
@@ -774,7 +820,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about thumb 5</title>
+		<title><![CDATA[about thumb 5]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/about/about-thumb-5/</link>
 		<pubDate>Fri, 29 Mar 2019 01:05:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -785,6 +831,8 @@
 		<wp:post_id>70</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 01:05:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 01:05:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 01:05:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 01:05:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-thumb-5]]></wp:post_name>
@@ -805,7 +853,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about Our Resto is Very Comfortable</title>
+		<title><![CDATA[about Our Resto is Very Comfortable]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/about/about-our-resto-is-very-comfortable/</link>
 		<pubDate>Fri, 29 Mar 2019 01:15:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -816,6 +864,8 @@
 		<wp:post_id>71</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 01:15:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 01:15:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 01:15:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 01:15:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-our-resto-is-very-comfortable]]></wp:post_name>
@@ -836,7 +886,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about Every Detail Is Important</title>
+		<title><![CDATA[about Every Detail Is Important]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/about/about-every-detail-is-important/</link>
 		<pubDate>Fri, 29 Mar 2019 07:34:54 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -847,6 +897,8 @@
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 07:34:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 07:34:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 07:34:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 07:34:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-every-detail-is-important]]></wp:post_name>
@@ -867,7 +919,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery hero_bg</title>
+		<title><![CDATA[gallery hero_bg]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/gallery/gallery-hero_bg/</link>
 		<pubDate>Fri, 29 Mar 2019 07:39:04 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -878,6 +930,8 @@
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 07:39:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 07:39:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 07:39:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 07:39:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-hero_bg]]></wp:post_name>
@@ -898,7 +952,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery Come to our Resto and feel it</title>
+		<title><![CDATA[gallery Come to our Resto and feel it]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/gallery/gallery-come-to-our-resto-and-feel-it/</link>
 		<pubDate>Fri, 29 Mar 2019 07:53:13 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -909,6 +963,8 @@
 		<wp:post_id>79</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 07:53:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 07:53:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 07:53:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 07:53:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-come-to-our-resto-and-feel-it]]></wp:post_name>
@@ -929,7 +985,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home Our Chefs 2</title>
+		<title><![CDATA[home Our Chefs 2]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-our-chefs-2/</link>
 		<pubDate>Fri, 29 Mar 2019 09:56:58 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -940,6 +996,8 @@
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 09:56:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 09:56:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 09:56:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 09:56:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-our-chefs-2]]></wp:post_name>
@@ -960,7 +1018,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home Our Chefs 3</title>
+		<title><![CDATA[home Our Chefs 3]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-our-chefs-3/</link>
 		<pubDate>Fri, 29 Mar 2019 09:58:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -971,6 +1029,8 @@
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 09:58:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 09:58:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 09:58:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 09:58:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-our-chefs-3]]></wp:post_name>
@@ -991,7 +1051,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home Our Chefs 4</title>
+		<title><![CDATA[home Our Chefs 4]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-our-chefs-4/</link>
 		<pubDate>Fri, 29 Mar 2019 09:59:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1002,6 +1062,8 @@
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 09:59:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 09:59:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 09:59:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 09:59:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-our-chefs-4]]></wp:post_name>
@@ -1022,7 +1084,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home Our Chefs 5</title>
+		<title><![CDATA[home Our Chefs 5]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-our-chefs-5/</link>
 		<pubDate>Fri, 29 Mar 2019 09:59:30 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1033,6 +1095,8 @@
 		<wp:post_id>99</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 09:59:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 09:59:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 09:59:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 09:59:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-our-chefs-5]]></wp:post_name>
@@ -1053,7 +1117,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog hero_bg</title>
+		<title><![CDATA[blog hero_bg]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/?attachment_id=116</link>
 		<pubDate>Fri, 29 Mar 2019 10:22:58 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1064,6 +1128,8 @@
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 10:22:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 10:22:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 10:22:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 10:22:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-hero_bg]]></wp:post_name>
@@ -1084,7 +1150,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog hero_ill</title>
+		<title><![CDATA[blog hero_ill]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/?attachment_id=117</link>
 		<pubDate>Fri, 29 Mar 2019 10:23:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1095,6 +1161,8 @@
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 10:23:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 10:23:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 10:23:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 10:23:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-hero_ill]]></wp:post_name>
@@ -1115,7 +1183,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>appetizer-close-up-cucumber-406152</title>
+		<title><![CDATA[appetizer-close-up-cucumber-406152]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/lorem-ipsum-dolor-sit-amet/appetizer-close-up-cucumber-406152/</link>
 		<pubDate>Sat, 30 Mar 2019 04:23:18 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1126,6 +1194,8 @@
 		<wp:post_id>129</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-30 04:23:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-30 04:23:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-30 04:23:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-30 04:23:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[appetizer-close-up-cucumber-406152]]></wp:post_name>
@@ -1146,7 +1216,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>appetizer-brunch-close-up-1095550</title>
+		<title><![CDATA[appetizer-brunch-close-up-1095550]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/lorem-ipsum-dolor-sit-amet/appetizer-brunch-close-up-1095550/</link>
 		<pubDate>Sat, 30 Mar 2019 04:23:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1157,6 +1227,8 @@
 		<wp:post_id>130</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-30 04:23:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-30 04:23:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-30 04:23:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-30 04:23:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[appetizer-brunch-close-up-1095550]]></wp:post_name>
@@ -1177,7 +1249,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>appetite-butternut-squash-close-up-1851468</title>
+		<title><![CDATA[appetite-butternut-squash-close-up-1851468]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/appetite-butternut-squash-close-up-1851468/</link>
 		<pubDate>Tue, 02 Apr 2019 15:27:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1188,6 +1260,8 @@
 		<wp:post_id>169</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-02 15:27:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-02 15:27:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-02 15:27:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-02 15:27:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[appetite-butternut-squash-close-up-1851468]]></wp:post_name>
@@ -1208,7 +1282,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>barbecue-beef-cooking-1251208</title>
+		<title><![CDATA[barbecue-beef-cooking-1251208]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/barbecue-beef-cooking-1251208/</link>
 		<pubDate>Tue, 02 Apr 2019 15:28:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1219,6 +1293,8 @@
 		<wp:post_id>170</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-02 15:28:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-02 15:28:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-02 15:28:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-02 15:28:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[barbecue-beef-cooking-1251208]]></wp:post_name>
@@ -1239,7 +1315,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bar-cafe-caffeine-1002740</title>
+		<title><![CDATA[bar-cafe-caffeine-1002740]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/bar-cafe-caffeine-1002740/</link>
 		<pubDate>Tue, 02 Apr 2019 15:28:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1250,6 +1326,8 @@
 		<wp:post_id>171</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-02 15:28:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-02 15:28:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-02 15:28:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-02 15:28:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bar-cafe-caffeine-1002740]]></wp:post_name>
@@ -1270,7 +1348,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>clean-eating-close-up-cuisine-1410235</title>
+		<title><![CDATA[clean-eating-close-up-cuisine-1410235]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/clean-eating-close-up-cuisine-1410235/</link>
 		<pubDate>Tue, 02 Apr 2019 15:28:03 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1281,6 +1359,8 @@
 		<wp:post_id>172</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-02 15:28:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-02 15:28:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-02 15:28:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-02 15:28:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[clean-eating-close-up-cuisine-1410235]]></wp:post_name>
@@ -1301,7 +1381,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/43/</link>
 		<pubDate>Wed, 27 Mar 2019 11:50:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1312,6 +1392,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 11:50:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 11:50:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 10:04:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 10:04:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[43]]></wp:post_name>
@@ -1356,7 +1438,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pizza-366111</title>
+		<title><![CDATA[pizza-366111]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/pizza-366111/</link>
 		<pubDate>Tue, 02 Apr 2019 15:28:04 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1367,6 +1449,8 @@
 		<wp:post_id>173</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-02 15:28:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-02 15:28:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-02 15:28:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-02 15:28:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pizza-366111]]></wp:post_name>
@@ -1387,7 +1471,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>restaurant-690569</title>
+		<title><![CDATA[restaurant-690569]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/restaurant-690569/</link>
 		<pubDate>Tue, 02 Apr 2019 15:28:05 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1398,6 +1482,8 @@
 		<wp:post_id>174</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-02 15:28:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-02 15:28:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-02 15:28:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-02 15:28:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[restaurant-690569]]></wp:post_name>
@@ -1418,7 +1504,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>restaurant-3597677</title>
+		<title><![CDATA[restaurant-3597677]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/restaurant-3597677/</link>
 		<pubDate>Tue, 02 Apr 2019 15:28:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1429,6 +1515,8 @@
 		<wp:post_id>175</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-02 15:28:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-02 15:28:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-02 15:28:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-02 15:28:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[restaurant-3597677]]></wp:post_name>
@@ -1449,7 +1537,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>salmon-518032</title>
+		<title><![CDATA[salmon-518032]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/salmon-518032/</link>
 		<pubDate>Tue, 02 Apr 2019 15:28:07 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1460,6 +1548,8 @@
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-02 15:28:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-02 15:28:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-02 15:28:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-02 15:28:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[salmon-518032]]></wp:post_name>
@@ -1480,7 +1570,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ava 2</title>
+		<title><![CDATA[ava 2]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/ava-2/</link>
 		<pubDate>Mon, 22 Apr 2019 09:16:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1491,6 +1581,8 @@
 		<wp:post_id>183</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-22 09:16:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-22 09:16:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 09:16:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 09:16:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ava-2]]></wp:post_name>
@@ -1511,7 +1603,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>ava 3</title>
+		<title><![CDATA[ava 3]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/ava-3/</link>
 		<pubDate>Mon, 22 Apr 2019 09:16:53 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1522,6 +1614,8 @@
 		<wp:post_id>184</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-22 09:16:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-22 09:16:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 09:16:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 09:16:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[ava-3]]></wp:post_name>
@@ -1542,7 +1636,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery Come to our Resto and feel it</title>
+		<title><![CDATA[gallery Come to our Resto and feel it]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/gallery/gallery-come-to-our-resto-and-feel-it-2/</link>
 		<pubDate>Mon, 22 Apr 2019 09:43:55 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1553,6 +1647,8 @@
 		<wp:post_id>187</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-22 09:43:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-22 09:43:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 09:43:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 09:43:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-come-to-our-resto-and-feel-it-2]]></wp:post_name>
@@ -1573,7 +1669,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>menu hero_ill</title>
+		<title><![CDATA[menu hero_ill]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/menu/menu-hero_ill-2/</link>
 		<pubDate>Mon, 22 Apr 2019 14:25:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1584,6 +1680,8 @@
 		<wp:post_id>190</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-22 14:25:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-22 14:25:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 14:25:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 14:25:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menu-hero_ill-2]]></wp:post_name>
@@ -1604,7 +1702,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pizza-1</title>
+		<title><![CDATA[pizza-1]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/lorem-ipsum-dolor-sit-amet/pizza-1/</link>
 		<pubDate>Mon, 22 Apr 2019 15:43:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1615,6 +1713,8 @@
 		<wp:post_id>198</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-22 15:43:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-22 15:43:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 15:43:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 15:43:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pizza-1]]></wp:post_name>
@@ -1635,7 +1735,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog1</title>
+		<title><![CDATA[blog1]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/lorem-ipsum-dolor-sit-amet/blog1/</link>
 		<pubDate>Mon, 22 Apr 2019 15:57:33 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1646,6 +1746,8 @@
 		<wp:post_id>205</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-22 15:57:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-22 15:57:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 15:57:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 15:57:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog1]]></wp:post_name>
@@ -1666,7 +1768,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog2</title>
+		<title><![CDATA[blog2]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/imperdiet-egestas-eros/blog2/</link>
 		<pubDate>Mon, 22 Apr 2019 15:57:58 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1677,6 +1779,8 @@
 		<wp:post_id>206</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-22 15:57:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-22 15:57:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 15:57:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 15:57:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog2]]></wp:post_name>
@@ -1697,7 +1801,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog3</title>
+		<title><![CDATA[blog3]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/vestibulum-tristique-lectus-sed/blog3/</link>
 		<pubDate>Mon, 22 Apr 2019 15:58:17 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1708,6 +1812,8 @@
 		<wp:post_id>207</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-22 15:58:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-22 15:58:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 15:58:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 15:58:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog3]]></wp:post_name>
@@ -1728,7 +1834,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog4</title>
+		<title><![CDATA[blog4]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/sed-diam-nonumy-eirmod/blog4/</link>
 		<pubDate>Mon, 22 Apr 2019 15:58:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1739,6 +1845,8 @@
 		<wp:post_id>208</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-22 15:58:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-22 15:58:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 15:58:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 15:58:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog4]]></wp:post_name>
@@ -1759,7 +1867,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog5</title>
+		<title><![CDATA[blog5]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/consetetur-sadipscing-elitr/blog5/</link>
 		<pubDate>Mon, 22 Apr 2019 15:58:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1770,6 +1878,8 @@
 		<wp:post_id>209</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-22 15:58:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-22 15:58:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 15:58:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 15:58:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog5]]></wp:post_name>
@@ -1790,7 +1900,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog6</title>
+		<title><![CDATA[blog6]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/morbi-justo-odio/blog6/</link>
 		<pubDate>Mon, 22 Apr 2019 15:59:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1801,6 +1911,8 @@
 		<wp:post_id>210</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-22 15:59:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-22 15:59:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 15:59:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 15:59:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog6]]></wp:post_name>
@@ -1821,7 +1933,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>pattern bg</title>
+		<title><![CDATA[pattern bg]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/gallery/pattern-bg/</link>
 		<pubDate>Tue, 23 Apr 2019 02:39:17 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1832,6 +1944,8 @@
 		<wp:post_id>217</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-23 02:39:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-23 02:39:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-23 02:39:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-23 02:39:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pattern-bg]]></wp:post_name>
@@ -1852,7 +1966,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home hero bg img</title>
+		<title><![CDATA[home hero bg img]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/home/home-hero-bg-img/</link>
 		<pubDate>Thu, 25 Apr 2019 08:15:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1863,6 +1977,8 @@
 		<wp:post_id>225</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-25 08:15:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-25 08:15:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-25 08:15:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-25 08:15:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-hero-bg-img]]></wp:post_name>
@@ -1883,7 +1999,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Logo</title>
+		<title><![CDATA[Logo]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/logo/</link>
 		<pubDate>Thu, 25 Apr 2019 10:14:17 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1894,6 +2010,8 @@
 		<wp:post_id>226</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-25 10:14:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-25 10:14:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-25 10:14:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-25 10:14:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -1914,67 +2032,43 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Book Table</title>
-		<link>https://demo.sukiwp.com/popina-elementor/?elementor_library=book-table__trashed</link>
-		<pubDate>Fri, 15 Nov 2019 07:31:06 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.sukiwp.com/popina-elementor/?elementor_library=book-table</guid>
+		<title><![CDATA[Default Kit]]></title>
+		<link>https://demo.sukiwp.com/popina-elementor/?elementor_library=default-kit</link>
+		<pubDate>Sun, 26 Apr 2020 14:28:02 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/popina-elementor/?elementor_library=default-kit</guid>
 		<description></description>
-		<content:encoded><![CDATA[Reservation		
-			<h2>Book a Table Now</h2>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita</p>		
-			<a href="#" role="button">
-						BOOK NOW
-					</a>]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>237</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-15 07:31:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-15 07:31:06]]></wp:post_date_gmt>
+		<wp:post_id>251</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-26 14:28:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-26 14:28:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-26 14:28:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-26 14:28:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[book-table__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="elementor_library_type" nicename="section"><![CDATA[section]]></category>
-						<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[section]]></wp:meta_value>
+		<wp:meta_value><![CDATA[kit]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.7.5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"daf5e43","elType":"section","settings":{"structure":"30","background_background":"classic","background_color":"#009b39","padding":{"unit":"px","top":"40","right":"20","bottom":"40","left":"20","isLinked":""},"fix_columns_alignment":"enabled"},"elements":[{"id":"bc5d369","elType":"column","settings":{"_column_size":"33","_inline_size":"30.047","content_position":"center"},"elements":[{"id":"bbc0adb","elType":"widget","settings":{"title":"Reservation","header_size":"div","title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"a057954","elType":"widget","settings":{"title":"Book a Table Now","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"}],"isInner":""},{"id":"e95ec3e","elType":"column","settings":{"_column_size":"33","_inline_size":"44.992"},"elements":[{"id":"5cb6542","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita<\/p>","text_color":"#ffffff","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"align":"center","typography_typography":"custom","align_mobile":"left"},"elements":[],"widgetType":"text-editor"}],"isInner":""},{"id":"b33f9c0","elType":"column","settings":{"_column_size":"33","_inline_size":"24.957","content_position":"center"},"elements":[{"id":"9fe148e","elType":"widget","settings":{"text":"BOOK NOW","align":"right","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14","sizes":[]},"background_color":"#2d2e33","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"text_padding":{"unit":"px","top":"15","right":"55","bottom":"15","left":"55","isLinked":""},"align_mobile":"left","button_background_hover_color":"#00802f"},"elements":[],"widgetType":"button"}],"isInner":""}],"isInner":""}]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1574160428]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[book-table]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:10:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1140";}s:27:"stretched_section_container";s:5:"#page";s:21:"global_image_lightbox";s:3:"yes";s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:4:"1024";s:13:"custom_colors";a:4:{i:0;a:3:{s:3:"_id";s:8:"25d33b07";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:1;a:3:{s:3:"_id";s:8:"69074c81";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:2;a:3:{s:3:"_id";s:8:"6ed583d9";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:3;a:3:{s:3:"_id";s:8:"27820bf6";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";i:1023;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/</link>
 		<pubDate>Tue, 26 Mar 2019 06:18:42 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1988,7 +2082,7 @@
 			<a href="#" role="button">
 						OUR MENUS
 					</a>
-										<img width="911" height="545" src="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-about-us_ill.png" alt="" srcset="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-about-us_ill.png 911w, https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-about-us_ill-300x179.png 300w, https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-about-us_ill-768x459.png 768w" sizes="(max-width: 911px) 100vw, 911px" />											
+										<img width="911" height="545" src="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-about-us_ill.png" alt="" />											
 			<h2>About Us</h2>		
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>		
 			<a href="#" role="button">
@@ -2020,14 +2114,14 @@
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.</p>		
 			Start form		
 			<h3>$7.2</h3>		
-										<img width="672" height="711" src="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-Our-Main-Menus-1.png" alt="" srcset="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-Our-Main-Menus-1.png 672w, https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-Our-Main-Menus-1-284x300.png 284w" sizes="(max-width: 672px) 100vw, 672px" />											
-										<img width="655" height="714" src="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-Our-Main-Menus-2.png" alt="" srcset="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-Our-Main-Menus-2.png 655w, https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-Our-Main-Menus-2-275x300.png 275w" sizes="(max-width: 655px) 100vw, 655px" />											
+										<img width="672" height="711" src="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-Our-Main-Menus-1.png" alt="" />											
+										<img width="655" height="714" src="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-Our-Main-Menus-2.png" alt="" />											
 			Main Course		
 			<h3>Aglio Olio Spaghetti</h3>		
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod</p>		
 			Start form		
 			<h3>$7.2</h3>		
-										<img width="677" height="655" src="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-Our-Main-Menus-3.png" alt="" srcset="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-Our-Main-Menus-3.png 677w, https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-Our-Main-Menus-3-300x290.png 300w" sizes="(max-width: 677px) 100vw, 677px" />											
+										<img width="677" height="655" src="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/home-Our-Main-Menus-3.png" alt="" />											
 			Desert		
 			<h3>Puff Pastry</h3>		
 		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod</p>		
@@ -2046,6 +2140,8 @@
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-26 06:18:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-26 06:18:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-20 16:40:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-20 16:40:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2081,15 +2177,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"594567a","elType":"section","settings":{"background_background":"video","background_image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-hero_bg.jpg","id":"7"},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"200","right":"20","bottom":"120","left":"20","isLinked":""},"background_color":"#54595f","background_attachment":"fixed","height":"full","custom_height":{"unit":"px","size":"","sizes":[]},"gap":"no","content_width":{"unit":"px","size":"800","sizes":[]},"background_video_link":"https:\/\/www.youtube.com\/watch?v=ApsbFxXwNrI","background_video_fallback":{"url":"https:\/\/demo.sukiwp.com\/popina-elementor\/wp-content\/uploads\/sites\/17\/2019\/04\/home-hero-bg-img.jpg","id":"225"},"background_overlay_background":"classic","background_overlay_color":"#000000"},"elements":[{"id":"8c0c9fb","elType":"column","settings":{"_column_size":"100","content_position":"center","padding":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":"1"},"_inline_size_tablet":"100","padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"margin":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":"1"},"margin_tablet":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":""},"text_align":"center"},"elements":[{"id":"5e8428f","elType":"widget","settings":{"title":"Best Italian Food in Town","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"60","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"header_size":"h1"},"elements":[],"widgetType":"heading"},{"id":"1abb8f9","elType":"widget","settings":{"text_color":"#ffffff","editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<\/p>","typography_typography":"custom","typography_font_size":{"unit":"em","size":"1.2","sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"3d413c5","elType":"section","settings":{"structure":"20"},"elements":[{"id":"833c258","elType":"column","settings":{"_column_size":"50"},"elements":[{"id":"3901da8","elType":"widget","settings":{"text":"BOOK NOW","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14","sizes":[]},"background_color":"#009b39","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"text_padding":{"unit":"px","top":"15","right":"55","bottom":"15","left":"55","isLinked":""},"button_background_hover_color":"#00802f","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":""},"align":"right","align_mobile":"center","button_hover_border_color":"#00802f","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":"1"},"border_color":"#009b39"},"elements":[],"widgetType":"button"}],"isInner":"1"},{"id":"b56bfc1","elType":"column","settings":{"_column_size":"50"},"elements":[{"id":"b5d55ed","elType":"widget","settings":{"text":"OUR MENUS","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14","sizes":[]},"background_color":"rgba(255,255,255,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"text_padding":{"unit":"px","top":"15","right":"55","bottom":"15","left":"55","isLinked":""},"button_background_hover_color":"#00802f","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":""},"align":"left","align_mobile":"center","button_hover_border_color":"#00802f","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":"1"},"border_color":"#ffffff"},"elements":[],"widgetType":"button"}],"isInner":"1"}],"isInner":"1"}],"isInner":""}],"isInner":""},{"id":"c925ad2","elType":"section","settings":{"background_image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-about-us_bg.jpg","id":"11"},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"120","right":"20","bottom":"120","left":"20","isLinked":""},"gap":"no","background_background":"classic"},"elements":[{"id":"36a82f8","elType":"column","settings":{"_column_size":"100","padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"}},"elements":[{"id":"8b02e0e","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-about-us_ill.png","id":"12"},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"53db39d","elType":"section","settings":{"content_width":{"unit":"px","size":"640","sizes":[]},"gap":"no"},"elements":[{"id":"bed034c","elType":"column","settings":{"_column_size":"100","padding_mobile":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":""}},"elements":[{"id":"7042b81","elType":"widget","settings":{"title":"About Us","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","align":"center","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"},{"id":"c4bf96e","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"},{"id":"4aae6df","elType":"widget","settings":{"text":"READ MORE","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14","sizes":[]},"background_color":"#009b39","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"text_padding":{"unit":"px","top":"15","right":"55","bottom":"15","left":"55","isLinked":""},"_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":""},"button_background_hover_color":"#00802f"},"elements":[],"widgetType":"button"}],"isInner":"1"}],"isInner":"1"}],"isInner":""}],"isInner":""},{"id":"088f46e","elType":"section","settings":{"structure":"21","background_background":"classic","background_color":"#2d2e33","background_position":"bottom center","background_repeat":"repeat-x","background_overlay_background":"classic","background_overlay_image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-Our-Choices-For-You-plate_ill.png","id":"30"},"background_overlay_position":"center right","background_overlay_repeat":"no-repeat","background_overlay_opacity":{"unit":"px","size":"1","sizes":[]},"padding":{"unit":"px","top":"120","right":"20","bottom":"200","left":"20","isLinked":""},"background_overlay_size":"initial","background_overlay_bg_width":{"unit":"%","size":"55","sizes":[]},"background_overlay_position_tablet":"initial","background_overlay_xpos_tablet":{"unit":"%","size":"100","sizes":[]},"background_overlay_ypos_tablet":{"unit":"%","size":"10","sizes":[]},"background_overlay_size_tablet":"contain","padding_tablet":{"unit":"px","top":"380","right":"20","bottom":"180","left":"20","isLinked":""},"gap":"no","background_image":{"url":"https:\/\/demo.sukiwp.com\/popina-elementor\/wp-content\/uploads\/sites\/17\/2019\/04\/pattern-bg.png","id":"217"},"background_size":"initial","background_bg_width":{"unit":"px","size":"800","sizes":[]},"padding_mobile":{"unit":"px","top":"250","right":"20","bottom":"180","left":"20","isLinked":false}},"elements":[{"id":"b72bff4","elType":"column","settings":{"_column_size":"33","_inline_size_tablet":"100"},"elements":[{"id":"ba95a9d","elType":"widget","settings":{"title":"Our Choices For You","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"},{"id":"8800fcc","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.<\/p>","text_color":"#ffffff"},"elements":[],"widgetType":"text-editor"},{"id":"fac5dfc","elType":"widget","settings":{"text":"BOOK NOW","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14","sizes":[]},"background_color":"#009b39","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"text_padding":{"unit":"px","top":"15","right":"55","bottom":"15","left":"55","isLinked":""},"button_background_hover_color":"#00802f","_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":""}},"elements":[],"widgetType":"button"}],"isInner":""},{"id":"a06b843","elType":"column","settings":{"_column_size":"66","_inline_size_tablet":"100"},"elements":[],"isInner":""}],"isInner":""},{"id":"6973953","elType":"section","settings":{"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-testimonial_bg.jpg","id":"22"},"background_overlay_background":"classic","padding":{"unit":"px","top":"120","right":"20","bottom":"120","left":"20","isLinked":""},"background_color":"#7a7a7a","gap":"no","background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover"},"elements":[{"id":"ce964dc","elType":"column","settings":{"_column_size":"100","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"}},"elements":[{"id":"b4652f0","elType":"section","settings":{"content_width":{"unit":"px","size":"640","sizes":[]},"gap":"no"},"elements":[{"id":"490a654","elType":"column","settings":{"_column_size":"100"},"elements":[{"id":"72b0224","elType":"widget","settings":{"title":"Testimonials","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","align":"center","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"},{"id":"3b6a8af","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<\/p>","align":"center","text_color":"#ffffff"},"elements":[],"widgetType":"text-editor"}],"isInner":"1"}],"isInner":"1"},{"id":"10a8036","elType":"widget","settings":{"space":{"unit":"px","size":"20","sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"0d02c1c","elType":"section","settings":{"structure":"30","gap":"no"},"elements":[{"id":"8f1cca0","elType":"column","settings":{"_column_size":"33","background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":""},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":"1"},"background_overlay_background":"classic","_inline_size_tablet":"100","margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""}},"elements":[{"id":"e2c783f","elType":"widget","settings":{"testimonial_content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","testimonial_image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/ava1.png","id":"26"},"testimonial_name":"DIANA LIN","testimonial_job":"foodcritics.com","content_typography_typography":"custom","content_typography_font_size":{"unit":"px","size":"14","sizes":[]},"name_typography_typography":"custom","name_typography_font_weight":"600","_border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"}},"elements":[],"widgetType":"testimonial"}],"isInner":"1"},{"id":"4c4317b","elType":"column","settings":{"_column_size":"33","background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":""},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":"1"},"_inline_size_tablet":"100","margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""},"background_overlay_background":"classic"},"elements":[{"id":"84a7d60","elType":"widget","settings":{"testimonial_content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","testimonial_image":{"url":"https:\/\/demo.sukiwp.com\/popina-elementor\/wp-content\/uploads\/sites\/17\/2019\/04\/ava-2.png","id":"183"},"testimonial_name":"SANDRA WONG","testimonial_job":"foodcritics.com","content_typography_typography":"custom","content_typography_font_size":{"unit":"px","size":"14","sizes":[]},"name_typography_typography":"custom","name_typography_font_weight":"600","_border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"}},"elements":[],"widgetType":"testimonial"}],"isInner":"1"},{"id":"7f97cba","elType":"column","settings":{"_column_size":"33","background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":""},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":"1"},"_inline_size_tablet":"100","margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""},"background_overlay_background":"classic"},"elements":[{"id":"5e1c6ef","elType":"widget","settings":{"testimonial_content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","testimonial_image":{"url":"https:\/\/demo.sukiwp.com\/popina-elementor\/wp-content\/uploads\/sites\/17\/2019\/04\/ava-3.png","id":"184"},"testimonial_name":"NANCY WHITE","testimonial_job":"foodcritics.com","content_typography_typography":"custom","content_typography_font_size":{"unit":"px","size":"14","sizes":[]},"name_typography_font_weight":"600","_border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"name_typography_typography":"custom"},"elements":[],"widgetType":"testimonial"}],"isInner":"1"}],"isInner":"1"}],"isInner":""}],"isInner":""},{"id":"4463f91","elType":"section","settings":{"background_background":"classic","background_color":"#2d2e33","padding":{"unit":"px","top":"120","right":"20","bottom":"120","left":"20","isLinked":""},"gap":"no"},"elements":[{"id":"20029fa","elType":"column","settings":{"_column_size":"100","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"}},"elements":[{"id":"e7d0090","elType":"section","settings":{"content_width":{"unit":"px","size":"640","sizes":[]},"gap":"no"},"elements":[{"id":"6f6e9d5","elType":"column","settings":{"_column_size":"100"},"elements":[{"id":"acad602","elType":"widget","settings":{"title":"Our Main Menus","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","align":"center","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"},{"id":"14294cd","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<\/p>","align":"center","text_color":"#ffffff"},"elements":[],"widgetType":"text-editor"}],"isInner":"1"}],"isInner":"1"},{"id":"218dc53","elType":"widget","settings":{"space":{"unit":"px","size":"20","sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"351fd23","elType":"section","settings":{"structure":"20","gap":"no","reverse_order_mobile":"reverse-mobile"},"elements":[{"id":"9f57170","elType":"column","settings":{"_column_size":"50","_inline_size":"60","content_position":"center"},"elements":[{"id":"4a83fdd","elType":"widget","settings":{"title":"Main Course","header_size":"div","title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"912fb63","elType":"widget","settings":{"title":"Marinara Chicken Soup","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"header_size":"h3","typography_line_height":{"unit":"em","size":"1.4","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"f20d3b1","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.<\/p>","text_color":"#ffffff","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"text-editor"},{"id":"23f9647","elType":"widget","settings":{"title":"Start form","header_size":"div","title_color":"#919191"},"elements":[],"widgetType":"heading"},{"id":"278ed18","elType":"widget","settings":{"title":"$7.2","header_size":"h3","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":"1"},{"id":"928b807","elType":"column","settings":{"_column_size":"50","_inline_size":"40"},"elements":[{"id":"5ba6412","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-Our-Main-Menus-1.png","id":"32"},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":"1"}],"isInner":"1"},{"id":"039a96a","elType":"section","settings":{"structure":"40","gap":"no","margin":{"unit":"px","top":"","right":"0","bottom":"","left":"0","isLinked":"1"},"padding":{"unit":"px","top":"160","right":"0","bottom":"0","left":"0","isLinked":""}},"elements":[{"id":"f26ae8c","elType":"column","settings":{"_column_size":"25"},"elements":[{"id":"4abf5e9","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-Our-Main-Menus-2.png","id":"38"},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":"1"},{"id":"51de485","elType":"column","settings":{"_column_size":"25","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""},"padding":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":""}},"elements":[{"id":"f49795a","elType":"widget","settings":{"title":"Main Course","header_size":"div","title_color":"#ffffff","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"0e942d5","elType":"widget","settings":{"title":"Aglio Olio Spaghetti","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"header_size":"h3","typography_line_height":{"unit":"em","size":"1.4","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"357db39","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod<\/p>","text_color":"#ffffff","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"typography_typography":"custom"},"elements":[],"widgetType":"text-editor"},{"id":"acb12d2","elType":"widget","settings":{"title":"Start form","header_size":"div","title_color":"#919191","_margin":{"unit":"px","top":"0","right":"0","bottom":"-20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"},{"id":"eb2430e","elType":"widget","settings":{"title":"$7.2","header_size":"h3","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":"1"},{"id":"7062e32","elType":"column","settings":{"_column_size":"25"},"elements":[{"id":"e1d204f","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-Our-Main-Menus-3.png","id":"34"},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":"1"},{"id":"0845b4d","elType":"column","settings":{"_column_size":"25","padding":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":""}},"elements":[{"id":"26c0d6c","elType":"widget","settings":{"title":"Desert","header_size":"div","title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"a972e90","elType":"widget","settings":{"title":"Puff Pastry","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"header_size":"h3","typography_line_height":{"unit":"em","size":"1.4","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"24b6e15","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod<\/p>","text_color":"#ffffff","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"text-editor"},{"id":"01b77b1","elType":"widget","settings":{"title":"Start form","header_size":"div","title_color":"#919191"},"elements":[],"widgetType":"heading"},{"id":"5de2f8f","elType":"widget","settings":{"title":"$7.2","header_size":"h3","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":"1"}],"isInner":"1"},{"id":"969688c","elType":"widget","settings":{"space":{"unit":"px","size":"80","sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"e86dec1","elType":"widget","settings":{"text":"MORE MENU","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14","sizes":[]},"background_color":"#009b39","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"text_padding":{"unit":"px","top":"15","right":"55","bottom":"15","left":"55","isLinked":""},"button_background_hover_color":"#00802f"},"elements":[],"widgetType":"button"}],"isInner":""}],"isInner":""},{"id":"742f4184","elType":"section","settings":{"structure":"30","background_background":"classic","background_color":"#009b39","padding":{"unit":"px","top":"40","right":"20","bottom":"40","left":"20","isLinked":""},"fix_columns_alignment":"enabled"},"elements":[{"id":"179888e8","elType":"column","settings":{"_column_size":"33","_inline_size":"30.047","content_position":"center"},"elements":[{"id":"26fcd987","elType":"widget","settings":{"title":"Reservation","header_size":"div","title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"2cae63b9","elType":"widget","settings":{"title":"Book a Table Now","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"}],"isInner":""},{"id":"77a9d021","elType":"column","settings":{"_column_size":"33","_inline_size":"44.992"},"elements":[{"id":"296dcd84","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita<\/p>","text_color":"#ffffff","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"align":"center","typography_typography":"custom","align_mobile":"left"},"elements":[],"widgetType":"text-editor"}],"isInner":""},{"id":"2dc4ea52","elType":"column","settings":{"_column_size":"33","_inline_size":"24.957","content_position":"center"},"elements":[{"id":"6ee3d645","elType":"widget","settings":{"text":"BOOK NOW","align":"right","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14","sizes":[]},"background_color":"#2d2e33","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"text_padding":{"unit":"px","top":"15","right":"55","bottom":"15","left":"55","isLinked":""},"align_mobile":"left","button_background_hover_color":"#00802f"},"elements":[],"widgetType":"button"}],"isInner":""}],"isInner":""}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"594567a","elType":"section","settings":{"background_background":"video","background_image":{"url":"https:\/\/demo.sukiwp.com\/popina-elementor\/wp-content\/uploads\/sites\/17\/2019\/04\/home-hero-bg-img.jpg","id":"225"},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"200","right":"20","bottom":"120","left":"20","isLinked":""},"background_color":"#54595f","height":"full","custom_height":{"unit":"px","size":"","sizes":[]},"gap":"no","content_width":{"unit":"px","size":"800","sizes":[]},"background_video_link":"https:\/\/www.youtube.com\/watch?v=ApsbFxXwNrI","background_video_fallback":{"url":"https:\/\/demo.sukiwp.com\/popina-elementor\/wp-content\/uploads\/sites\/17\/2019\/04\/home-hero-bg-img.jpg","id":"225"},"background_overlay_background":"classic","background_overlay_color":"#000000","background_attachment":"fixed"},"elements":[{"id":"8c0c9fb","elType":"column","settings":{"_column_size":"100","content_position":"center","padding":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":"1"},"_inline_size_tablet":"100","padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"margin":{"unit":"%","top":"","right":"","bottom":"","left":"","isLinked":"1"},"margin_tablet":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":""},"text_align":"center"},"elements":[{"id":"5e8428f","elType":"widget","settings":{"title":"Best Italian Food in Town","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"60","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"header_size":"h1"},"elements":[],"widgetType":"heading"},{"id":"1abb8f9","elType":"widget","settings":{"text_color":"#ffffff","editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<\/p>","typography_typography":"custom","typography_font_size":{"unit":"em","size":"1.2","sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"3d413c5","elType":"section","settings":{"structure":"20"},"elements":[{"id":"833c258","elType":"column","settings":{"_column_size":"50"},"elements":[{"id":"3901da8","elType":"widget","settings":{"text":"BOOK NOW","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14","sizes":[]},"background_color":"#009b39","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"text_padding":{"unit":"px","top":"15","right":"55","bottom":"15","left":"55","isLinked":""},"button_background_hover_color":"#00802f","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":""},"align":"right","align_mobile":"center","button_hover_border_color":"#00802f","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":"1"},"border_color":"#009b39"},"elements":[],"widgetType":"button"}],"isInner":"1"},{"id":"b56bfc1","elType":"column","settings":{"_column_size":"50"},"elements":[{"id":"b5d55ed","elType":"widget","settings":{"text":"OUR MENUS","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14","sizes":[]},"background_color":"rgba(255,255,255,0)","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"text_padding":{"unit":"px","top":"15","right":"55","bottom":"15","left":"55","isLinked":""},"button_background_hover_color":"#00802f","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":""},"align":"left","align_mobile":"center","button_hover_border_color":"#00802f","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":"1"},"border_color":"#ffffff"},"elements":[],"widgetType":"button"}],"isInner":"1"}],"isInner":"1"}],"isInner":""}],"isInner":""},{"id":"c925ad2","elType":"section","settings":{"background_image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-about-us_bg.jpg","id":"11"},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"120","right":"20","bottom":"120","left":"20","isLinked":""},"gap":"no","background_background":"classic"},"elements":[{"id":"36a82f8","elType":"column","settings":{"_column_size":"100","padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"}},"elements":[{"id":"8b02e0e","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-about-us_ill.png","id":"12"},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"53db39d","elType":"section","settings":{"content_width":{"unit":"px","size":"640","sizes":[]},"gap":"no"},"elements":[{"id":"bed034c","elType":"column","settings":{"_column_size":"100","padding_mobile":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":""}},"elements":[{"id":"7042b81","elType":"widget","settings":{"title":"About Us","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","align":"center","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"},{"id":"c4bf96e","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"},{"id":"4aae6df","elType":"widget","settings":{"text":"READ MORE","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14","sizes":[]},"background_color":"#009b39","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"text_padding":{"unit":"px","top":"15","right":"55","bottom":"15","left":"55","isLinked":""},"_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":""},"button_background_hover_color":"#00802f"},"elements":[],"widgetType":"button"}],"isInner":"1"}],"isInner":"1"}],"isInner":""}],"isInner":""},{"id":"088f46e","elType":"section","settings":{"structure":"21","background_background":"classic","background_color":"#2d2e33","background_position":"bottom center","background_repeat":"repeat-x","background_overlay_background":"classic","background_overlay_image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-Our-Choices-For-You-plate_ill.png","id":"30"},"background_overlay_position":"center right","background_overlay_repeat":"no-repeat","background_overlay_opacity":{"unit":"px","size":"1","sizes":[]},"padding":{"unit":"px","top":"120","right":"20","bottom":"200","left":"20","isLinked":""},"background_overlay_size":"initial","background_overlay_bg_width":{"unit":"%","size":"55","sizes":[]},"background_overlay_position_tablet":"initial","background_overlay_xpos_tablet":{"unit":"%","size":"100","sizes":[]},"background_overlay_ypos_tablet":{"unit":"%","size":"10","sizes":[]},"background_overlay_size_tablet":"contain","padding_tablet":{"unit":"px","top":"380","right":"20","bottom":"180","left":"20","isLinked":""},"gap":"no","background_image":{"url":"https:\/\/demo.sukiwp.com\/popina-elementor\/wp-content\/uploads\/sites\/17\/2019\/04\/pattern-bg.png","id":"217"},"background_size":"initial","background_bg_width":{"unit":"px","size":"800","sizes":[]},"padding_mobile":{"unit":"px","top":"250","right":"20","bottom":"180","left":"20","isLinked":""}},"elements":[{"id":"b72bff4","elType":"column","settings":{"_column_size":"33","_inline_size_tablet":"100"},"elements":[{"id":"ba95a9d","elType":"widget","settings":{"title":"Our Choices For You","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"},{"id":"8800fcc","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.<\/p>","text_color":"#ffffff"},"elements":[],"widgetType":"text-editor"},{"id":"fac5dfc","elType":"widget","settings":{"text":"BOOK NOW","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14","sizes":[]},"background_color":"#009b39","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"text_padding":{"unit":"px","top":"15","right":"55","bottom":"15","left":"55","isLinked":""},"button_background_hover_color":"#00802f","_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":""}},"elements":[],"widgetType":"button"}],"isInner":""},{"id":"a06b843","elType":"column","settings":{"_column_size":"66","_inline_size_tablet":"100"},"elements":[],"isInner":""}],"isInner":""},{"id":"6973953","elType":"section","settings":{"background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-testimonial_bg.jpg","id":"22"},"background_overlay_background":"classic","padding":{"unit":"px","top":"120","right":"20","bottom":"120","left":"20","isLinked":""},"background_color":"#7a7a7a","gap":"no","background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover"},"elements":[{"id":"ce964dc","elType":"column","settings":{"_column_size":"100","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"}},"elements":[{"id":"b4652f0","elType":"section","settings":{"content_width":{"unit":"px","size":"640","sizes":[]},"gap":"no"},"elements":[{"id":"490a654","elType":"column","settings":{"_column_size":"100"},"elements":[{"id":"72b0224","elType":"widget","settings":{"title":"Testimonials","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","align":"center","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"},{"id":"3b6a8af","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<\/p>","align":"center","text_color":"#ffffff"},"elements":[],"widgetType":"text-editor"}],"isInner":"1"}],"isInner":"1"},{"id":"10a8036","elType":"widget","settings":{"space":{"unit":"px","size":"20","sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"0d02c1c","elType":"section","settings":{"structure":"30","gap":"no"},"elements":[{"id":"8f1cca0","elType":"column","settings":{"_column_size":"33","background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":""},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":"1"},"background_overlay_background":"classic","_inline_size_tablet":"100","margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""}},"elements":[{"id":"e2c783f","elType":"widget","settings":{"testimonial_content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","testimonial_image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/ava1.png","id":"26"},"testimonial_name":"DIANA LIN","testimonial_job":"foodcritics.com","content_typography_typography":"custom","content_typography_font_size":{"unit":"px","size":"14","sizes":[]},"name_typography_typography":"custom","name_typography_font_weight":"600","_border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"}},"elements":[],"widgetType":"testimonial"}],"isInner":"1"},{"id":"4c4317b","elType":"column","settings":{"_column_size":"33","background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":""},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":"1"},"_inline_size_tablet":"100","margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""},"background_overlay_background":"classic"},"elements":[{"id":"84a7d60","elType":"widget","settings":{"testimonial_content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","testimonial_image":{"url":"https:\/\/demo.sukiwp.com\/popina-elementor\/wp-content\/uploads\/sites\/17\/2019\/04\/ava-2.png","id":"183"},"testimonial_name":"SANDRA WONG","testimonial_job":"foodcritics.com","content_typography_typography":"custom","content_typography_font_size":{"unit":"px","size":"14","sizes":[]},"name_typography_typography":"custom","name_typography_font_weight":"600","_border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"}},"elements":[],"widgetType":"testimonial"}],"isInner":"1"},{"id":"7f97cba","elType":"column","settings":{"_column_size":"33","background_background":"classic","background_color":"#ffffff","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":""},"padding":{"unit":"px","top":"40","right":"40","bottom":"40","left":"40","isLinked":"1"},"_inline_size_tablet":"100","margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""},"background_overlay_background":"classic"},"elements":[{"id":"5e1c6ef","elType":"widget","settings":{"testimonial_content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.","testimonial_image":{"url":"https:\/\/demo.sukiwp.com\/popina-elementor\/wp-content\/uploads\/sites\/17\/2019\/04\/ava-3.png","id":"184"},"testimonial_name":"NANCY WHITE","testimonial_job":"foodcritics.com","content_typography_typography":"custom","content_typography_font_size":{"unit":"px","size":"14","sizes":[]},"name_typography_font_weight":"600","_border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"name_typography_typography":"custom"},"elements":[],"widgetType":"testimonial"}],"isInner":"1"}],"isInner":"1"}],"isInner":""}],"isInner":""},{"id":"4463f91","elType":"section","settings":{"background_background":"classic","background_color":"#2d2e33","padding":{"unit":"px","top":"120","right":"20","bottom":"120","left":"20","isLinked":""},"gap":"no"},"elements":[{"id":"20029fa","elType":"column","settings":{"_column_size":"100","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"}},"elements":[{"id":"e7d0090","elType":"section","settings":{"content_width":{"unit":"px","size":"640","sizes":[]},"gap":"no"},"elements":[{"id":"6f6e9d5","elType":"column","settings":{"_column_size":"100"},"elements":[{"id":"acad602","elType":"widget","settings":{"title":"Our Main Menus","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","align":"center","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"},{"id":"14294cd","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<\/p>","align":"center","text_color":"#ffffff"},"elements":[],"widgetType":"text-editor"}],"isInner":"1"}],"isInner":"1"},{"id":"218dc53","elType":"widget","settings":{"space":{"unit":"px","size":"20","sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"351fd23","elType":"section","settings":{"structure":"20","gap":"no","reverse_order_mobile":"reverse-mobile"},"elements":[{"id":"9f57170","elType":"column","settings":{"_column_size":"50","_inline_size":"60","content_position":"center"},"elements":[{"id":"4a83fdd","elType":"widget","settings":{"title":"Main Course","header_size":"div","title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"912fb63","elType":"widget","settings":{"title":"Marinara Chicken Soup","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"header_size":"h3","typography_line_height":{"unit":"em","size":"1.4","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"f20d3b1","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor.<\/p>","text_color":"#ffffff","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"text-editor"},{"id":"23f9647","elType":"widget","settings":{"title":"Start form","header_size":"div","title_color":"#919191"},"elements":[],"widgetType":"heading"},{"id":"278ed18","elType":"widget","settings":{"title":"$7.2","header_size":"h3","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":"1"},{"id":"928b807","elType":"column","settings":{"_column_size":"50","_inline_size":"40"},"elements":[{"id":"5ba6412","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-Our-Main-Menus-1.png","id":"32"},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":"1"}],"isInner":"1"},{"id":"039a96a","elType":"section","settings":{"structure":"40","gap":"no","margin":{"unit":"px","top":"","right":"0","bottom":"","left":"0","isLinked":"1"},"padding":{"unit":"px","top":"160","right":"0","bottom":"0","left":"0","isLinked":""}},"elements":[{"id":"f26ae8c","elType":"column","settings":{"_column_size":"25"},"elements":[{"id":"4abf5e9","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-Our-Main-Menus-2.png","id":"38"},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":"1"},{"id":"51de485","elType":"column","settings":{"_column_size":"25","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":""},"padding":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":""}},"elements":[{"id":"f49795a","elType":"widget","settings":{"title":"Main Course","header_size":"div","title_color":"#ffffff","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"0e942d5","elType":"widget","settings":{"title":"Aglio Olio Spaghetti","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"header_size":"h3","typography_line_height":{"unit":"em","size":"1.4","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"357db39","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod<\/p>","text_color":"#ffffff","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"typography_typography":"custom"},"elements":[],"widgetType":"text-editor"},{"id":"acb12d2","elType":"widget","settings":{"title":"Start form","header_size":"div","title_color":"#919191","_margin":{"unit":"px","top":"0","right":"0","bottom":"-20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"},{"id":"eb2430e","elType":"widget","settings":{"title":"$7.2","header_size":"h3","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":"1"},{"id":"7062e32","elType":"column","settings":{"_column_size":"25"},"elements":[{"id":"e1d204f","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/home-Our-Main-Menus-3.png","id":"34"},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":"1"},{"id":"0845b4d","elType":"column","settings":{"_column_size":"25","padding":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":""}},"elements":[{"id":"26c0d6c","elType":"widget","settings":{"title":"Desert","header_size":"div","title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"a972e90","elType":"widget","settings":{"title":"Puff Pastry","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"30","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"header_size":"h3","typography_line_height":{"unit":"em","size":"1.4","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"24b6e15","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod<\/p>","text_color":"#ffffff","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"text-editor"},{"id":"01b77b1","elType":"widget","settings":{"title":"Start form","header_size":"div","title_color":"#919191"},"elements":[],"widgetType":"heading"},{"id":"5de2f8f","elType":"widget","settings":{"title":"$7.2","header_size":"h3","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":"1"}],"isInner":"1"},{"id":"969688c","elType":"widget","settings":{"space":{"unit":"px","size":"80","sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"e86dec1","elType":"widget","settings":{"text":"MORE MENU","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14","sizes":[]},"background_color":"#009b39","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"text_padding":{"unit":"px","top":"15","right":"55","bottom":"15","left":"55","isLinked":""},"button_background_hover_color":"#00802f"},"elements":[],"widgetType":"button"}],"isInner":""}],"isInner":""},{"id":"742f4184","elType":"section","settings":{"structure":"30","background_background":"classic","background_color":"#009b39","padding":{"unit":"px","top":"40","right":"20","bottom":"40","left":"20","isLinked":""},"fix_columns_alignment":"enabled"},"elements":[{"id":"179888e8","elType":"column","settings":{"_column_size":"33","_inline_size":"30.047","content_position":"center"},"elements":[{"id":"26fcd987","elType":"widget","settings":{"title":"Reservation","header_size":"div","title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"2cae63b9","elType":"widget","settings":{"title":"Book a Table Now","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"}],"isInner":""},{"id":"77a9d021","elType":"column","settings":{"_column_size":"33","_inline_size":"44.992"},"elements":[{"id":"296dcd84","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita<\/p>","text_color":"#ffffff","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""},"align":"center","typography_typography":"custom","align_mobile":"left"},"elements":[],"widgetType":"text-editor"}],"isInner":""},{"id":"2dc4ea52","elType":"column","settings":{"_column_size":"33","_inline_size":"24.957","content_position":"center"},"elements":[{"id":"6ee3d645","elType":"widget","settings":{"text":"BOOK NOW","align":"right","typography_typography":"custom","typography_font_size":{"unit":"px","size":"14","sizes":[]},"background_color":"#2d2e33","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":"1"},"text_padding":{"unit":"px","top":"15","right":"55","bottom":"15","left":"55","isLinked":""},"align_mobile":"left","button_background_hover_color":"#00802f"},"elements":[],"widgetType":"button"}],"isInner":""}],"isInner":""}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:19;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:19;s:11:"header_size";i:14;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:18;s:21:"typography_typography";i:13;s:20:"typography_font_size";i:12;s:22:"typography_font_weight";i:9;s:22:"typography_line_height";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:10;}}}}s:11:"text-editor";a:3:{s:5:"count";i:9;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:5:"style";a:1:{s:13:"section_style";a:5:{s:10:"text_color";i:8;s:21:"typography_typography";i:3;s:20:"typography_font_size";i:1;s:5:"align";i:4;s:12:"align_mobile";i:1;}}s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:9;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:6:"button";a:3:{s:5:"count";i:6;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:6;s:5:"align";i:5;s:12:"align_mobile";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:10:{s:21:"typography_typography";i:6;s:20:"typography_font_size";i:6;s:16:"background_color";i:6;s:13:"border_radius";i:6;s:12:"text_padding";i:6;s:29:"button_background_hover_color";i:6;s:25:"button_hover_border_color";i:2;s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:6:"column";a:3:{s:5:"count";i:23;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:16:"content_position";i:4;s:19:"_inline_size_tablet";i:6;s:12:"_inline_size";i:5;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:7:"padding";i:8;s:14:"padding_mobile";i:3;s:6:"margin";i:4;s:13:"margin_tablet";i:4;s:13:"margin_mobile";i:1;}}s:5:"style";a:3:{s:12:"section_typo";a:1:{s:10:"text_align";i:1;}s:13:"section_style";a:2:{s:21:"background_background";i:3;s:16:"background_color";i:3;}s:26:"section_background_overlay";a:1:{s:29:"background_overlay_background";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:13;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:6;}s:14:"section_layout";a:4:{s:6:"height";i:1;s:13:"custom_height";i:1;s:3:"gap";i:11;s:13:"content_width";i:4;}}s:5:"style";a:2:{s:18:"section_background";a:10:{s:21:"background_background";i:6;s:16:"background_image";i:4;s:19:"background_position";i:4;s:17:"background_repeat";i:4;s:15:"background_size";i:4;s:16:"background_color";i:5;s:21:"background_attachment";i:2;s:21:"background_video_link";i:1;s:25:"background_video_fallback";i:1;s:19:"background_bg_width";i:1;}s:26:"section_background_overlay";a:12:{s:29:"background_overlay_background";i:3;s:24:"background_overlay_color";i:1;s:24:"background_overlay_image";i:1;s:27:"background_overlay_position";i:1;s:25:"background_overlay_repeat";i:1;s:26:"background_overlay_opacity";i:1;s:23:"background_overlay_size";i:1;s:27:"background_overlay_bg_width";i:1;s:34:"background_overlay_position_tablet";i:1;s:30:"background_overlay_xpos_tablet";i:1;s:30:"background_overlay_ypos_tablet";i:1;s:30:"background_overlay_size_tablet";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:7;s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;s:6:"margin";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:4;s:10:"image_size";i:4;}}}}s:6:"spacer";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:3;}}}}s:11:"testimonial";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_testimonial";a:4:{s:19:"testimonial_content";i:3;s:17:"testimonial_image";i:3;s:16:"testimonial_name";i:3;s:15:"testimonial_job";i:3;}}s:5:"style";a:2:{s:33:"section_style_testimonial_content";a:2:{s:29:"content_typography_typography";i:3;s:28:"content_typography_font_size";i:3;}s:30:"section_style_testimonial_name";a:2:{s:26:"name_typography_typography";i:3;s:27:"name_typography_font_weight";i:3;}}s:8:"advanced";a:1:{s:15:"_section_border";a:2:{s:13:"_border_width";i:3;s:14:"_border_radius";i:3;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:19;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:19;s:11:"header_size";i:14;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:18;s:21:"typography_typography";i:13;s:20:"typography_font_size";i:12;s:22:"typography_font_weight";i:9;s:22:"typography_line_height";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:10;}}}}s:11:"text-editor";a:3:{s:5:"count";i:9;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:13:"section_style";a:5:{s:10:"text_color";i:8;s:21:"typography_typography";i:3;s:20:"typography_font_size";i:1;s:5:"align";i:4;s:12:"align_mobile";i:1;}}s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:9;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:6:"button";a:3:{s:5:"count";i:6;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:6;s:5:"align";i:5;s:12:"align_mobile";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:10:{s:21:"typography_typography";i:6;s:20:"typography_font_size";i:6;s:16:"background_color";i:6;s:13:"border_radius";i:6;s:12:"text_padding";i:6;s:29:"button_background_hover_color";i:6;s:25:"button_hover_border_color";i:2;s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:6:"column";a:3:{s:5:"count";i:23;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:16:"content_position";i:4;s:19:"_inline_size_tablet";i:6;s:12:"_inline_size";i:5;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:7:"padding";i:8;s:14:"padding_mobile";i:3;s:6:"margin";i:4;s:13:"margin_tablet";i:4;s:13:"margin_mobile";i:1;}}s:5:"style";a:3:{s:12:"section_typo";a:1:{s:10:"text_align";i:1;}s:13:"section_style";a:2:{s:21:"background_background";i:3;s:16:"background_color";i:3;}s:26:"section_background_overlay";a:1:{s:29:"background_overlay_background";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:13;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:6;}s:14:"section_layout";a:4:{s:6:"height";i:1;s:13:"custom_height";i:1;s:3:"gap";i:11;s:13:"content_width";i:4;}}s:5:"style";a:2:{s:18:"section_background";a:10:{s:21:"background_background";i:6;s:16:"background_image";i:4;s:19:"background_position";i:4;s:17:"background_repeat";i:4;s:15:"background_size";i:4;s:16:"background_color";i:5;s:21:"background_video_link";i:1;s:25:"background_video_fallback";i:1;s:21:"background_attachment";i:2;s:19:"background_bg_width";i:1;}s:26:"section_background_overlay";a:12:{s:29:"background_overlay_background";i:3;s:24:"background_overlay_color";i:1;s:24:"background_overlay_image";i:1;s:27:"background_overlay_position";i:1;s:25:"background_overlay_repeat";i:1;s:26:"background_overlay_opacity";i:1;s:23:"background_overlay_size";i:1;s:27:"background_overlay_bg_width";i:1;s:34:"background_overlay_position_tablet";i:1;s:30:"background_overlay_xpos_tablet";i:1;s:30:"background_overlay_ypos_tablet";i:1;s:30:"background_overlay_size_tablet";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:7;s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;s:6:"margin";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:4;s:10:"image_size";i:4;}}}}s:6:"spacer";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:3;}}}}s:11:"testimonial";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_testimonial";a:4:{s:19:"testimonial_content";i:3;s:17:"testimonial_image";i:3;s:16:"testimonial_name";i:3;s:15:"testimonial_job";i:3;}}s:5:"style";a:2:{s:33:"section_style_testimonial_content";a:2:{s:29:"content_typography_typography";i:3;s:28:"content_typography_font_size";i:3;}s:30:"section_style_testimonial_name";a:2:{s:26:"name_typography_typography";i:3;s:27:"name_typography_font_weight";i:3;}}s:8:"advanced";a:1:{s:15:"_section_border";a:2:{s:13:"_border_width";i:3;s:14:"_border_radius";i:3;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Menu</title>
+		<title><![CDATA[Menu]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/menu/</link>
 		<pubDate>Wed, 27 Mar 2019 11:57:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2234,6 +2330,8 @@
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 11:57:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 11:57:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 22:16:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 22:16:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menu]]></wp:post_name>
@@ -2273,11 +2371,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"image";a:3:{s:5:"count";i:25;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:25;s:10:"image_size";i:25;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:24;s:8:"_z_index";i:24;}}}}s:6:"column";a:3:{s:5:"count";i:83;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:80;s:19:"_inline_size_tablet";i:2;s:16:"content_position";i:4;s:21:"space_between_widgets";i:24;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:49;s:14:"padding_mobile";i:1;s:6:"margin";i:1;s:13:"margin_tablet";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:78;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:78;s:12:"align_tablet";i:1;s:5:"align";i:75;s:11:"header_size";i:73;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:11:"title_color";i:27;s:21:"typography_typography";i:77;s:20:"typography_font_size";i:77;s:22:"typography_font_weight";i:29;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:7:"_margin";i:5;s:8:"_padding";i:24;}s:19:"_section_background";a:2:{s:22:"_background_background";i:24;s:17:"_background_color";i:24;}}}}s:11:"text-editor";a:3:{s:5:"count";i:29;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:5:"style";a:1:{s:13:"section_style";a:7:{s:10:"text_color";i:2;s:12:"align_tablet";i:1;s:5:"align";i:4;s:21:"typography_typography";i:25;s:20:"typography_font_size";i:24;s:22:"typography_line_height";i:24;s:12:"align_mobile";i:1;}}s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:29;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:38;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:32;}s:14:"section_layout";a:4:{s:3:"gap";i:7;s:13:"custom_height";i:1;s:16:"content_position";i:1;s:13:"content_width";i:3;}}s:5:"style";a:2:{s:18:"section_background";a:7:{s:21:"background_background";i:2;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:2;s:21:"background_attachment";i:1;}s:26:"section_background_overlay";a:14:{s:29:"background_overlay_background";i:1;s:27:"background_overlay_position";i:1;s:25:"background_overlay_repeat";i:1;s:23:"background_overlay_size";i:1;s:27:"background_overlay_bg_width";i:1;s:26:"background_overlay_opacity";i:1;s:34:"background_overlay_position_tablet";i:1;s:34:"background_overlay_position_mobile";i:1;s:30:"background_overlay_xpos_tablet";i:1;s:30:"background_overlay_ypos_tablet";i:1;s:30:"background_overlay_ypos_mobile";i:1;s:30:"background_overlay_size_tablet";i:1;s:34:"background_overlay_bg_width_tablet";i:1;s:23:"background_overlay_ypos";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:11;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:16:"background_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:29:"button_background_hover_color";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"image";a:3:{s:5:"count";i:25;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:25;s:10:"image_size";i:25;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:24;s:8:"_z_index";i:24;}}}}s:6:"column";a:3:{s:5:"count";i:83;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:80;s:19:"_inline_size_tablet";i:2;s:16:"content_position";i:4;s:21:"space_between_widgets";i:24;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:49;s:14:"padding_mobile";i:1;s:6:"margin";i:1;s:13:"margin_tablet";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:78;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:78;s:12:"align_tablet";i:1;s:5:"align";i:75;s:11:"header_size";i:73;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:11:"title_color";i:27;s:21:"typography_typography";i:77;s:20:"typography_font_size";i:77;s:22:"typography_font_weight";i:29;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:7:"_margin";i:5;s:8:"_padding";i:24;}s:19:"_section_background";a:2:{s:22:"_background_background";i:24;s:17:"_background_color";i:24;}}}}s:11:"text-editor";a:3:{s:5:"count";i:29;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:13:"section_style";a:7:{s:10:"text_color";i:2;s:12:"align_tablet";i:1;s:5:"align";i:4;s:21:"typography_typography";i:25;s:20:"typography_font_size";i:24;s:22:"typography_line_height";i:24;s:12:"align_mobile";i:1;}}s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:29;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:38;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:32;}s:14:"section_layout";a:4:{s:3:"gap";i:7;s:13:"custom_height";i:1;s:16:"content_position";i:1;s:13:"content_width";i:3;}}s:5:"style";a:2:{s:18:"section_background";a:7:{s:21:"background_background";i:2;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:2;s:21:"background_attachment";i:1;}s:26:"section_background_overlay";a:14:{s:29:"background_overlay_background";i:1;s:27:"background_overlay_position";i:1;s:25:"background_overlay_repeat";i:1;s:23:"background_overlay_size";i:1;s:27:"background_overlay_bg_width";i:1;s:26:"background_overlay_opacity";i:1;s:34:"background_overlay_position_tablet";i:1;s:34:"background_overlay_position_mobile";i:1;s:30:"background_overlay_xpos_tablet";i:1;s:30:"background_overlay_ypos_tablet";i:1;s:30:"background_overlay_ypos_mobile";i:1;s:30:"background_overlay_size_tablet";i:1;s:34:"background_overlay_bg_width_tablet";i:1;s:23:"background_overlay_ypos";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:11;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:16:"background_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:29:"button_background_hover_color";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/about/</link>
 		<pubDate>Wed, 27 Mar 2019 17:41:14 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2392,6 +2490,8 @@
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-27 17:41:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-27 17:41:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-25 08:50:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-25 08:50:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -2431,11 +2531,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:5:"image";a:3:{s:5:"count";i:8;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:8;s:10:"image_size";i:7;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:5:"width";i:5;s:12:"width_tablet";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:19;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:5:{s:12:"_inline_size";i:17;s:16:"content_position";i:6;s:5:"align";i:1;s:19:"_inline_size_tablet";i:8;s:19:"_inline_size_mobile";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:7:"padding";i:5;s:14:"padding_tablet";i:4;s:14:"padding_mobile";i:6;s:6:"margin";i:1;s:13:"margin_tablet";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:12;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:12;s:5:"align";i:6;s:11:"header_size";i:6;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:9;s:21:"typography_typography";i:11;s:20:"typography_font_size";i:11;s:22:"typography_font_weight";i:11;s:22:"typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:11;}}}}s:11:"text-editor";a:3:{s:5:"count";i:11;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:5:"style";a:1:{s:13:"section_style";a:4:{s:10:"text_color";i:3;s:5:"align";i:7;s:21:"typography_typography";i:1;s:12:"align_mobile";i:1;}}s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:11;}}s:8:"advanced";a:2:{s:17:"_section_position";a:1:{s:21:"_element_custom_width";i:2;}s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:10;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:6;}s:14:"section_layout";a:5:{s:13:"custom_height";i:1;s:3:"gap";i:8;s:6:"height";i:1;s:6:"layout";i:1;s:13:"content_width";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:3:{s:21:"background_background";i:2;s:16:"background_image";i:1;s:16:"background_color";i:2;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:6;s:14:"padding_tablet";i:3;s:6:"margin";i:1;s:14:"padding_mobile";i:2;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:2;s:20:"reverse_order_mobile";i:2;}}}}s:6:"spacer";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:3;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_gallery";a:4:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;s:15:"gallery_columns";i:1;s:12:"gallery_link";i:1;}}s:5:"style";a:1:{s:22:"section_gallery_images";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:5;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:2:{s:16:"social_icon_list";i:5;s:5:"align";i:1;}}s:5:"style";a:2:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:5;s:18:"icon_primary_color";i:5;s:20:"icon_secondary_color";i:5;s:9:"icon_size";i:5;s:12:"icon_padding";i:5;s:12:"icon_spacing";i:5;}s:20:"section_social_hover";a:2:{s:19:"hover_primary_color";i:5;s:21:"hover_secondary_color";i:5;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:16:"background_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:29:"button_background_hover_color";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:9:{s:5:"image";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:8;s:10:"image_size";i:7;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:5:"width";i:5;s:12:"width_tablet";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:19;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:5:{s:12:"_inline_size";i:17;s:16:"content_position";i:6;s:5:"align";i:1;s:19:"_inline_size_tablet";i:8;s:19:"_inline_size_mobile";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:7:"padding";i:5;s:14:"padding_tablet";i:4;s:14:"padding_mobile";i:6;s:6:"margin";i:1;s:13:"margin_tablet";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:12;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:12;s:5:"align";i:6;s:11:"header_size";i:6;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:9;s:21:"typography_typography";i:11;s:20:"typography_font_size";i:11;s:22:"typography_font_weight";i:11;s:22:"typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:11;}}}}s:11:"text-editor";a:3:{s:5:"count";i:11;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:13:"section_style";a:4:{s:10:"text_color";i:3;s:5:"align";i:7;s:21:"typography_typography";i:1;s:12:"align_mobile";i:1;}}s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:11;}}s:8:"advanced";a:2:{s:17:"_section_position";a:1:{s:21:"_element_custom_width";i:2;}s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:10;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:6;}s:14:"section_layout";a:5:{s:13:"custom_height";i:1;s:3:"gap";i:8;s:6:"height";i:1;s:6:"layout";i:1;s:13:"content_width";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:3:{s:21:"background_background";i:2;s:16:"background_image";i:1;s:16:"background_color";i:2;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:6;s:14:"padding_tablet";i:3;s:6:"margin";i:1;s:14:"padding_mobile";i:2;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:2;s:20:"reverse_order_mobile";i:2;}}}}s:6:"spacer";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:3;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_gallery";a:4:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;s:15:"gallery_columns";i:1;s:12:"gallery_link";i:1;}}s:5:"style";a:1:{s:22:"section_gallery_images";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:5;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:2:{s:16:"social_icon_list";i:5;s:5:"align";i:1;}}s:5:"style";a:2:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:5;s:18:"icon_primary_color";i:5;s:20:"icon_secondary_color";i:5;s:9:"icon_size";i:5;s:12:"icon_padding";i:5;s:12:"icon_spacing";i:5;}s:20:"section_social_hover";a:2:{s:19:"hover_primary_color";i:5;s:21:"hover_secondary_color";i:5;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:16:"background_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:29:"button_background_hover_color";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gallery</title>
+		<title><![CDATA[Gallery]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/gallery/</link>
 		<pubDate>Fri, 29 Mar 2019 07:37:37 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2475,6 +2575,8 @@ BOOK NOW
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 07:37:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 07:37:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-15 08:18:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-15 08:18:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery]]></wp:post_name>
@@ -2514,11 +2616,11 @@ BOOK NOW
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:5;s:5:"align";i:2;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:21:"typography_typography";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;s:11:"title_color";i:4;s:22:"typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:5:"align";i:2;s:10:"text_color";i:3;s:21:"typography_typography";i:1;s:12:"align_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:5;s:16:"content_position";i:3;s:19:"_inline_size_tablet";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:2;s:14:"padding_tablet";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:5:{s:13:"content_width";i:1;s:3:"gap";i:3;s:6:"height";i:1;s:13:"custom_height";i:1;s:6:"layout";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:2;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:3;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:1:{s:7:"padding";i:3;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:1;s:20:"reverse_order_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:2;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_gallery";a:2:{s:14:"thumbnail_size";i:1;s:10:"wp_gallery";i:1;}}s:5:"style";a:1:{s:22:"section_gallery_images";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:16:"background_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:29:"button_background_hover_color";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:5;s:5:"align";i:2;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:21:"typography_typography";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;s:11:"title_color";i:4;s:22:"typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:5:"align";i:2;s:10:"text_color";i:3;s:21:"typography_typography";i:1;s:12:"align_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:5;s:16:"content_position";i:3;s:19:"_inline_size_tablet";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:2;s:14:"padding_tablet";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:5:{s:13:"content_width";i:1;s:3:"gap";i:3;s:6:"height";i:1;s:13:"custom_height";i:1;s:6:"layout";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:2;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:3;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:1:{s:7:"padding";i:3;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:1;s:20:"reverse_order_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:2;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_gallery";a:2:{s:14:"thumbnail_size";i:1;s:10:"wp_gallery";i:1;}}s:5:"style";a:1:{s:22:"section_gallery_images";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:16:"background_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:29:"button_background_hover_color";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/103/</link>
 		<pubDate>Fri, 29 Mar 2019 10:04:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2529,6 +2631,8 @@ BOOK NOW
 		<wp:post_id>103</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 10:04:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 10:04:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 10:04:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 10:04:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[103]]></wp:post_name>
@@ -2573,7 +2677,7 @@ BOOK NOW
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/104/</link>
 		<pubDate>Fri, 29 Mar 2019 10:04:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2584,6 +2688,8 @@ BOOK NOW
 		<wp:post_id>104</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 10:04:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 10:04:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 10:04:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 10:04:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[104]]></wp:post_name>
@@ -2628,7 +2734,7 @@ BOOK NOW
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/105/</link>
 		<pubDate>Fri, 29 Mar 2019 10:04:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2639,6 +2745,8 @@ BOOK NOW
 		<wp:post_id>105</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 10:04:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 10:04:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 10:08:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 10:08:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[105]]></wp:post_name>
@@ -2683,7 +2791,7 @@ BOOK NOW
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/blog/</link>
 		<pubDate>Fri, 29 Mar 2019 10:07:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2694,6 +2802,8 @@ BOOK NOW
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 10:07:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 10:07:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 10:07:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 10:07:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -2713,7 +2823,7 @@ BOOK NOW
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/contact/</link>
 		<pubDate>Fri, 29 Mar 2019 10:07:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2743,6 +2853,8 @@ Instagram
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 10:07:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 10:07:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-02 16:36:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-02 16:36:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -2786,11 +2898,11 @@ Instagram
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_mobile";i:1;s:22:"typography_font_weight";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:8:"advanced";a:1:{s:19:"_section_responsive";a:2:{s:12:"hide_desktop";i:1;s:11:"hide_tablet";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:2;s:21:"space_between_widgets";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:1;s:7:"padding";i:2;s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:5:"style";a:1:{s:21:"section_divider_style";a:1:{s:5:"color";i:1;}}s:7:"content";a:1:{s:15:"section_divider";a:1:{s:5:"width";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:1;s:5:"shape";i:1;s:5:"align";i:1;}}s:5:"style";a:2:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;s:20:"icon_secondary_color";i:1;s:9:"icon_size";i:1;s:12:"icon_padding";i:1;s:12:"icon_spacing";i:1;}s:20:"section_social_hover";a:2:{s:19:"hover_primary_color";i:1;s:21:"hover_secondary_color";i:1;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:7:"content";a:1:{s:11:"section_map";a:4:{s:7:"address";i:1;s:4:"zoom";i:1;s:6:"height";i:1;s:13:"height_tablet";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:1:{s:3:"gap";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:27:"typography_font_size_mobile";i:1;s:22:"typography_font_weight";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:8:"advanced";a:1:{s:19:"_section_responsive";a:2:{s:12:"hide_desktop";i:1;s:11:"hide_tablet";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:2;s:21:"space_between_widgets";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:1;s:7:"padding";i:2;s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:5:"style";a:1:{s:21:"section_divider_style";a:1:{s:5:"color";i:1;}}s:7:"content";a:1:{s:15:"section_divider";a:1:{s:5:"width";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:1;s:5:"shape";i:1;s:5:"align";i:1;}}s:5:"style";a:2:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;s:20:"icon_secondary_color";i:1;s:9:"icon_size";i:1;s:12:"icon_padding";i:1;s:12:"icon_spacing";i:1;}s:20:"section_social_hover";a:2:{s:19:"hover_primary_color";i:1;s:21:"hover_secondary_color";i:1;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:7:"content";a:1:{s:11:"section_map";a:4:{s:7:"address";i:1;s:4:"zoom";i:1;s:6:"height";i:1;s:13:"height_tablet";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:1:{s:3:"gap";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/110/</link>
 		<pubDate>Fri, 29 Mar 2019 10:07:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2801,6 +2913,8 @@ Instagram
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 10:07:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 10:07:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 10:08:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 10:08:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[110]]></wp:post_name>
@@ -2845,7 +2959,7 @@ Instagram
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/111/</link>
 		<pubDate>Fri, 29 Mar 2019 10:07:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2856,6 +2970,8 @@ Instagram
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 10:07:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 10:07:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-03-29 10:08:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-03-29 10:08:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[111]]></wp:post_name>
@@ -2900,7 +3016,7 @@ Instagram
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Lorem Ipsum Dolor Sit Amet</title>
+		<title><![CDATA[Lorem Ipsum Dolor Sit Amet]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/lorem-ipsum-dolor-sit-amet/</link>
 		<pubDate>Sat, 30 Mar 2019 04:05:28 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2941,6 +3057,8 @@ Instagram
 		<wp:post_id>120</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-30 04:05:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-30 04:05:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 15:57:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 15:57:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[lorem-ipsum-dolor-sit-amet]]></wp:post_name>
@@ -2965,7 +3083,7 @@ Instagram
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Imperdiet Egestas Eros</title>
+		<title><![CDATA[Imperdiet Egestas Eros]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/imperdiet-egestas-eros/</link>
 		<pubDate>Sat, 30 Mar 2019 04:37:03 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2997,6 +3115,8 @@ Instagram
 		<wp:post_id>132</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-30 04:37:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-30 04:37:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 15:58:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 15:58:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[imperdiet-egestas-eros]]></wp:post_name>
@@ -3029,7 +3149,7 @@ Instagram
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Reservation</title>
+		<title><![CDATA[Reservation]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/reservation/</link>
 		<pubDate>Sat, 30 Mar 2019 05:31:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3042,6 +3162,8 @@ Instagram
 		<wp:post_id>151</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-30 05:31:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-30 05:31:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-02 16:39:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-02 16:39:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[reservation]]></wp:post_name>
@@ -3085,11 +3207,11 @@ Instagram
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:2;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:11:"title_color";i:2;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:10:"text_color";i:1;s:21:"typography_typography";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:2;s:16:"content_position";i:1;}}s:5:"style";a:2:{s:13:"section_style";a:2:{s:21:"background_background";i:2;s:16:"background_color";i:2;}s:12:"section_typo";a:1:{s:10:"color_text";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:2;s:14:"padding_mobile";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:6:"layout";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:2;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:11:"title_color";i:2;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:10:"text_color";i:1;s:21:"typography_typography";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:2;s:16:"content_position";i:1;}}s:5:"style";a:2:{s:13:"section_style";a:2:{s:21:"background_background";i:2;s:16:"background_color";i:2;}s:12:"section_typo";a:1:{s:10:"color_text";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:2;s:14:"padding_mobile";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:6:"layout";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/241/</link>
 		<pubDate>Tue, 19 Nov 2019 10:45:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3100,6 +3222,8 @@ Instagram
 		<wp:post_id>241</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-19 10:45:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-19 10:45:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-19 10:45:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-19 10:45:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[241]]></wp:post_name>
@@ -3148,7 +3272,7 @@ Instagram
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/242/</link>
 		<pubDate>Tue, 19 Nov 2019 10:45:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3159,6 +3283,8 @@ Instagram
 		<wp:post_id>242</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-19 10:45:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-19 10:45:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-19 10:45:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-19 10:45:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[242]]></wp:post_name>
@@ -3207,7 +3333,7 @@ Instagram
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/243/</link>
 		<pubDate>Tue, 19 Nov 2019 10:45:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3218,6 +3344,8 @@ Instagram
 		<wp:post_id>243</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-19 10:45:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-19 10:45:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-19 10:45:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-19 10:45:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[243]]></wp:post_name>
@@ -3266,7 +3394,7 @@ Instagram
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/244/</link>
 		<pubDate>Tue, 19 Nov 2019 10:45:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3277,6 +3405,8 @@ Instagram
 		<wp:post_id>244</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-19 10:45:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-19 10:45:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-19 10:45:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-19 10:45:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[244]]></wp:post_name>
@@ -3325,7 +3455,7 @@ Instagram
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/245/</link>
 		<pubDate>Tue, 19 Nov 2019 10:45:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3336,6 +3466,8 @@ Instagram
 		<wp:post_id>245</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-19 10:45:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-19 10:45:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-19 10:45:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-19 10:45:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[245]]></wp:post_name>
@@ -3384,7 +3516,7 @@ Instagram
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/246/</link>
 		<pubDate>Tue, 19 Nov 2019 10:45:31 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3395,6 +3527,8 @@ Instagram
 		<wp:post_id>246</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-19 10:45:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-19 10:45:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-19 10:45:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-19 10:45:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[246]]></wp:post_name>
@@ -3443,21 +3577,21 @@ Instagram
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog Header</title>
+		<title><![CDATA[Blog Header]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/?suki_block=blog-header</link>
 		<pubDate>Fri, 29 Mar 2019 10:19:02 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/popina-restaurant-elementor/?post_type=suki_block&#038;p=114</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img width="672" height="548" src="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/blog-hero_ill.png" alt="">
-<h2>Latest News</h2>
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-Lorem Ipsum Dolor]]></content:encoded>
+		<content:encoded><![CDATA[<img width="672" height="548" src="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/blog-hero_ill.png" alt="" loading="lazy" srcset="https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/blog-hero_ill.png 672w, https://demo.sukiwp.com/popina-elementor/wp-content/uploads/sites/17/2019/03/blog-hero_ill-300x245.png 300w" sizes="(max-width: 672px) 100vw, 672px" />														
+			<h2>Latest News</h2>		
+		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-29 10:19:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-29 10:19:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-09-01 03:03:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-01 03:03:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-header]]></wp:post_name>
@@ -3481,11 +3615,11 @@ Lorem Ipsum Dolor]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.14]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.4.3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -3497,15 +3631,19 @@ Lorem Ipsum Dolor]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"7ab869b","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/blog-hero_bg.jpg","id":116},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"140","right":"20","bottom":"120","left":"20","isLinked":false},"background_color":"#54595f","height":"min-height","custom_height":{"unit":"px","size":460,"sizes":[]}},"elements":[{"id":"bfe0df2","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"6605ae0","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/blog-hero_ill.png","id":117},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"1838f55","elType":"column","settings":{"_column_size":50,"_inline_size":null,"content_position":"center","padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"b646c69","elType":"widget","settings":{"title":"Latest News","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":37,"sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"fe39750","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<\/p>","text_color":"#ffffff"},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"10e9ff0","elType":"section","settings":[],"elements":[{"id":"344fc5f","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"ce61aa4","elType":"widget","settings":{"title":"Lorem Ipsum Dolor","header_size":"div","title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"b78f2df","elType":"widget","settings":{"space":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"7ab869b","elType":"section","settings":{"structure":"20","background_background":"classic","background_image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/blog-hero_bg.jpg","id":"116"},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"140","right":"20","bottom":"120","left":"20","isLinked":""},"background_color":"#54595f","height":"min-height","custom_height":{"unit":"px","size":"460","sizes":[]}},"elements":[{"id":"bfe0df2","elType":"column","settings":{"_column_size":"50"},"elements":[{"id":"6605ae0","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/popina-restaurant-elementor\/wp-content\/uploads\/sites\/17\/2019\/03\/blog-hero_ill.png","id":"117"},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":""},{"id":"1838f55","elType":"column","settings":{"_column_size":"50","content_position":"center","padding":{"unit":"%","top":"0","right":"0","bottom":"0","left":"15","isLinked":""},"padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[{"id":"b646c69","elType":"widget","settings":{"title":"Latest News","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":"37","sizes":[]},"typography_font_weight":"bold","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":""}},"elements":[],"widgetType":"heading"},{"id":"fe39750","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<\/p>","text_color":"#ffffff"},"elements":[],"widgetType":"text-editor"}],"isInner":""}],"isInner":""}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:3;s:16:"content_position";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:1;s:14:"padding_mobile";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:2;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:11:"title_color";i:2;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:10:"text_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:2:{s:6:"height";i:1;s:13:"custom_height";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:16:"content_position";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:1;s:14:"padding_mobile";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:5:"title";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:10:"text_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:2:{s:6:"height";i:1;s:13:"custom_height";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Vestibulum Tristique Lectus Sed</title>
+		<title><![CDATA[Vestibulum Tristique Lectus Sed]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/vestibulum-tristique-lectus-sed/</link>
 		<pubDate>Sat, 30 Mar 2019 04:38:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3530,6 +3668,8 @@ Lorem Ipsum Dolor]]></content:encoded>
 		<wp:post_id>134</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-30 04:38:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-30 04:38:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 15:58:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 15:58:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[vestibulum-tristique-lectus-sed]]></wp:post_name>
@@ -3562,7 +3702,7 @@ Lorem Ipsum Dolor]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sed Diam Nonumy Eirmod</title>
+		<title><![CDATA[Sed Diam Nonumy Eirmod]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/sed-diam-nonumy-eirmod/</link>
 		<pubDate>Sat, 30 Mar 2019 04:54:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3587,6 +3727,8 @@ Lorem Ipsum Dolor]]></content:encoded>
 		<wp:post_id>136</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-30 04:54:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-30 04:54:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 15:58:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 15:58:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sed-diam-nonumy-eirmod]]></wp:post_name>
@@ -3619,7 +3761,7 @@ Lorem Ipsum Dolor]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Consetetur Sadipscing Elitr</title>
+		<title><![CDATA[Consetetur Sadipscing Elitr]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/consetetur-sadipscing-elitr/</link>
 		<pubDate>Sat, 30 Mar 2019 04:55:55 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3644,6 +3786,8 @@ Lorem Ipsum Dolor]]></content:encoded>
 		<wp:post_id>138</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-30 04:55:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-30 04:55:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 15:58:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 15:58:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[consetetur-sadipscing-elitr]]></wp:post_name>
@@ -3676,7 +3820,7 @@ Lorem Ipsum Dolor]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Morbi Justo Odio</title>
+		<title><![CDATA[Morbi Justo Odio]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/morbi-justo-odio/</link>
 		<pubDate>Sat, 30 Mar 2019 04:56:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3701,6 +3845,8 @@ Lorem Ipsum Dolor]]></content:encoded>
 		<wp:post_id>140</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-30 04:56:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-30 04:56:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-22 15:59:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-22 15:59:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[morbi-justo-odio]]></wp:post_name>
@@ -3741,7 +3887,7 @@ Lorem Ipsum Dolor]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact form</title>
+		<title><![CDATA[Contact form]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/?post_type=wpcf7_contact_form&#038;p=146</link>
 		<pubDate>Sat, 30 Mar 2019 05:04:46 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -3812,6 +3958,8 @@ The telephone number is invalid.]]></content:encoded>
 		<wp:post_id>146</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-30 05:04:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-30 05:04:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-16 09:18:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-16 09:18:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
@@ -3866,7 +4014,7 @@ This e-mail was sent from a contact form on Popina - Restaurant (Elementor) (htt
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Reservation</title>
+		<title><![CDATA[Reservation]]></title>
 		<link>https://demo.sukiwp.com/popina-elementor/?post_type=wpcf7_contact_form&#038;p=153</link>
 		<pubDate>Sat, 30 Mar 2019 05:48:10 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3942,6 +4090,8 @@ The telephone number is invalid.]]></content:encoded>
 		<wp:post_id>153</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-30 05:48:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-30 05:48:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-04-02 16:34:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-04-02 16:34:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[reservation]]></wp:post_name>
