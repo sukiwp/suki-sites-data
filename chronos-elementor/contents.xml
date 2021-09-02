@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.2" created="2020-01-13 10:36" -->
+	<!-- generator="WordPress/5.8" created="2021-09-02 13:53" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Chronos - Luxury Watch Shop (Elementor)</title>
 	<link>https://demo.sukiwp.com/chronos-elementor</link>
 	<description>Just another Suki Demo site</description>
-	<pubDate>Mon, 13 Jan 2020 10:36:08 +0000</pubDate>
+	<pubDate>Thu, 02 Sep 2021 13:53:45 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
+	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.sukiwp.com/chronos-elementor</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[sukiwp]]></wp:author_login><wp:author_email><![CDATA[admin@sukiwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin Suki]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[Suki]]></wp:author_last_name></wp:author>
@@ -45,42 +45,42 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[7]]></wp:term_id>
+		<wp:term_id>7</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[exclude-from-catalog]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[exclude-from-catalog]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[6]]></wp:term_id>
+		<wp:term_id>6</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[exclude-from-search]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[exclude-from-search]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[5]]></wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[external]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[external]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[8]]></wp:term_id>
+		<wp:term_id>8</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[featured]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[featured]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[grouped]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[grouped]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[18]]></wp:term_id>
+		<wp:term_id>18</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[limited-edition]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -95,56 +95,56 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[9]]></wp:term_id>
+		<wp:term_id>9</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[outofstock]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[outofstock]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[10]]></wp:term_id>
+		<wp:term_id>10</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[rated-1]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[rated-1]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[11]]></wp:term_id>
+		<wp:term_id>11</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[rated-2]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[rated-2]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[12]]></wp:term_id>
+		<wp:term_id>12</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[rated-3]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[rated-3]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[13]]></wp:term_id>
+		<wp:term_id>13</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[rated-4]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[rated-4]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[14]]></wp:term_id>
+		<wp:term_id>14</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_visibility]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[rated-5]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[rated-5]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[2]]></wp:term_id>
+		<wp:term_id>2</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[simple]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[simple]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[15]]></wp:term_id>
+		<wp:term_id>15</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -155,18 +155,11 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[variable]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[variable]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id><![CDATA[21]]></wp:term_id>
-		<wp:term_taxonomy><![CDATA[action-group]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[woocommerce-db-updates]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[woocommerce-db-updates]]></wp:term_name>
 	</wp:term>
 			<wp:term><wp:term_id>19</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu-col-2]]></wp:term_slug><wp:term_name><![CDATA[Footer Menu Col 2]]></wp:term_name>
 </wp:term>
@@ -177,10 +170,10 @@
 	<wp:term><wp:term_id>17</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu-right]]></wp:term_slug><wp:term_name><![CDATA[Main Menu Right]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 		<item>
-		<title>woocommerce-placeholder</title>
+		<title><![CDATA[woocommerce-placeholder]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/woocommerce-placeholder/</link>
 		<pubDate>Thu, 01 Aug 2019 09:40:27 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -191,6 +184,8 @@
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-01 09:40:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-01 09:40:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-01 09:40:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-01 09:40:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woocommerce-placeholder]]></wp:post_name>
@@ -211,7 +206,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-hero-bg</title>
+		<title><![CDATA[home-hero-bg]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/home/home-hero-bg/</link>
 		<pubDate>Fri, 02 Aug 2019 05:34:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -222,6 +217,8 @@
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 05:34:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 05:34:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 05:34:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 05:34:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-hero-bg]]></wp:post_name>
@@ -242,7 +239,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/logo/</link>
 		<pubDate>Fri, 02 Aug 2019 05:59:29 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -253,6 +250,8 @@
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 05:59:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 05:59:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 05:59:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 05:59:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -273,7 +272,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home-hero-fg</title>
+		<title><![CDATA[home-hero-fg]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/home/home-hero-fg/</link>
 		<pubDate>Fri, 02 Aug 2019 06:08:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -284,6 +283,8 @@
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:08:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:08:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 06:08:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 06:08:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-hero-fg]]></wp:post_name>
@@ -304,7 +305,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>braun</title>
+		<title><![CDATA[braun]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/home/braun/</link>
 		<pubDate>Fri, 02 Aug 2019 06:14:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -315,6 +316,8 @@
 		<wp:post_id>37</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:14:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:14:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 06:14:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 06:14:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[braun]]></wp:post_name>
@@ -335,7 +338,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>cluse</title>
+		<title><![CDATA[cluse]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/home/cluse/</link>
 		<pubDate>Fri, 02 Aug 2019 06:23:56 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -346,6 +349,8 @@
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:23:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:23:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 06:23:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 06:23:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cluse]]></wp:post_name>
@@ -366,7 +371,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>swatch</title>
+		<title><![CDATA[swatch]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/home/swatch/</link>
 		<pubDate>Fri, 02 Aug 2019 06:32:21 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -377,6 +382,8 @@
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:32:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:32:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 06:32:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 06:32:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[swatch]]></wp:post_name>
@@ -397,7 +404,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>why choose our store</title>
+		<title><![CDATA[why choose our store]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/home/why-choose-our-store/</link>
 		<pubDate>Fri, 02 Aug 2019 06:40:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -408,6 +415,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:40:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:40:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 06:40:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 06:40:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-choose-our-store]]></wp:post_name>
@@ -428,7 +437,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product1</title>
+		<title><![CDATA[product1]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=68</link>
 		<pubDate>Fri, 02 Aug 2019 08:59:39 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -439,6 +448,8 @@
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 08:59:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 08:59:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 08:59:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 08:59:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product1]]></wp:post_name>
@@ -459,7 +470,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product2</title>
+		<title><![CDATA[product2]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=69</link>
 		<pubDate>Fri, 02 Aug 2019 09:00:25 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -470,6 +481,8 @@
 		<wp:post_id>69</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 09:00:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 09:00:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 09:00:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 09:00:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product2]]></wp:post_name>
@@ -490,7 +503,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product3</title>
+		<title><![CDATA[product3]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=70</link>
 		<pubDate>Fri, 02 Aug 2019 09:01:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -501,6 +514,8 @@
 		<wp:post_id>70</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 09:01:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 09:01:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 09:01:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 09:01:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product3]]></wp:post_name>
@@ -521,7 +536,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product4</title>
+		<title><![CDATA[product4]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=71</link>
 		<pubDate>Fri, 02 Aug 2019 09:02:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -532,6 +547,8 @@
 		<wp:post_id>71</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 09:02:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 09:02:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 09:02:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 09:02:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product4]]></wp:post_name>
@@ -552,7 +569,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product5</title>
+		<title><![CDATA[product5]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=72</link>
 		<pubDate>Fri, 02 Aug 2019 09:02:51 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -563,6 +580,8 @@
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 09:02:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 09:02:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 09:02:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 09:02:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product5]]></wp:post_name>
@@ -583,7 +602,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product6</title>
+		<title><![CDATA[product6]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=73</link>
 		<pubDate>Fri, 02 Aug 2019 09:04:00 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -594,6 +613,8 @@
 		<wp:post_id>73</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 09:04:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 09:04:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 09:04:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 09:04:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product6]]></wp:post_name>
@@ -614,7 +635,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product7</title>
+		<title><![CDATA[product7]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=74</link>
 		<pubDate>Fri, 02 Aug 2019 09:05:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -625,6 +646,8 @@
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 09:05:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 09:05:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 09:05:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 09:05:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product7]]></wp:post_name>
@@ -645,7 +668,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product8</title>
+		<title><![CDATA[product8]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=75</link>
 		<pubDate>Fri, 02 Aug 2019 09:07:30 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -656,6 +679,8 @@
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 09:07:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 09:07:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 09:07:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 09:07:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product8]]></wp:post_name>
@@ -676,7 +701,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product9</title>
+		<title><![CDATA[product9]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=76</link>
 		<pubDate>Fri, 02 Aug 2019 09:08:33 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -687,6 +712,8 @@
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 09:08:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 09:08:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 09:08:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 09:08:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product9]]></wp:post_name>
@@ -707,7 +734,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product12</title>
+		<title><![CDATA[product12]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=77</link>
 		<pubDate>Fri, 02 Aug 2019 09:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -718,6 +745,8 @@
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 09:09:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 09:09:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 09:09:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 09:09:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product12]]></wp:post_name>
@@ -738,7 +767,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-hero-bg</title>
+		<title><![CDATA[about-hero-bg]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/about/about-hero-bg/</link>
 		<pubDate>Fri, 02 Aug 2019 09:36:53 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -749,6 +778,8 @@
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 09:36:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 09:36:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 09:36:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 09:36:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-hero-bg]]></wp:post_name>
@@ -769,7 +800,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about-hero-fg</title>
+		<title><![CDATA[about-hero-fg]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/about/about-hero-fg/</link>
 		<pubDate>Fri, 02 Aug 2019 09:37:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -780,6 +811,8 @@
 		<wp:post_id>86</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 09:37:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 09:37:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 09:37:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 09:37:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-hero-fg]]></wp:post_name>
@@ -800,7 +833,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>beauty in everything</title>
+		<title><![CDATA[beauty in everything]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/about/beauty-in-everything/</link>
 		<pubDate>Fri, 02 Aug 2019 10:41:03 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -811,6 +844,8 @@
 		<wp:post_id>89</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 10:41:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 10:41:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 10:41:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 10:41:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beauty-in-everything]]></wp:post_name>
@@ -831,7 +866,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>classy is us</title>
+		<title><![CDATA[classy is us]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/about/classy-is-us/</link>
 		<pubDate>Fri, 02 Aug 2019 10:47:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -842,6 +877,8 @@
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 10:47:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 10:47:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 10:47:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 10:47:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[classy-is-us]]></wp:post_name>
@@ -862,7 +899,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>complete collection</title>
+		<title><![CDATA[complete collection]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/about/complete-collection/</link>
 		<pubDate>Fri, 02 Aug 2019 10:52:22 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -873,6 +910,8 @@
 		<wp:post_id>91</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 10:52:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 10:52:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 10:52:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 10:52:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[complete-collection]]></wp:post_name>
@@ -893,7 +932,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>jakarta outlet</title>
+		<title><![CDATA[jakarta outlet]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/about/jakarta-outlet/</link>
 		<pubDate>Fri, 02 Aug 2019 11:38:13 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -904,6 +943,8 @@
 		<wp:post_id>92</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 11:38:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 11:38:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 11:38:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 11:38:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[jakarta-outlet]]></wp:post_name>
@@ -924,7 +965,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>kuala lumpur outlet</title>
+		<title><![CDATA[kuala lumpur outlet]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/about/kuala-lumpur-outlet/</link>
 		<pubDate>Fri, 02 Aug 2019 11:44:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -935,6 +976,8 @@
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 11:44:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 11:44:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 11:44:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 11:44:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[kuala-lumpur-outlet]]></wp:post_name>
@@ -955,7 +998,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>singapore outlet</title>
+		<title><![CDATA[singapore outlet]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/about/singapore-outlet/</link>
 		<pubDate>Fri, 02 Aug 2019 11:45:30 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -966,6 +1009,8 @@
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 11:45:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 11:45:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 11:45:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 11:45:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[singapore-outlet]]></wp:post_name>
@@ -986,7 +1031,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>shop-hero-fg</title>
+		<title><![CDATA[shop-hero-fg]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/our-shop/shop-hero-fg/</link>
 		<pubDate>Fri, 02 Aug 2019 11:53:35 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -997,6 +1042,8 @@
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 11:53:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 11:53:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 11:53:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 11:53:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shop-hero-fg]]></wp:post_name>
@@ -1017,7 +1064,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>shop-hero-bg</title>
+		<title><![CDATA[shop-hero-bg]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/our-shop/shop-hero-bg/</link>
 		<pubDate>Fri, 02 Aug 2019 11:54:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1028,6 +1075,8 @@
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 11:54:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 11:54:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 11:54:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 11:54:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shop-hero-bg]]></wp:post_name>
@@ -1048,7 +1097,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact us-hero-bg</title>
+		<title><![CDATA[contact us-hero-bg]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/contact/contact-us-hero-bg/</link>
 		<pubDate>Fri, 02 Aug 2019 16:41:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1059,6 +1108,8 @@
 		<wp:post_id>101</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 16:41:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 16:41:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 16:41:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 16:41:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us-hero-bg]]></wp:post_name>
@@ -1079,7 +1130,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>sidney outlet</title>
+		<title><![CDATA[sidney outlet]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/about/sidney-outlet/</link>
 		<pubDate>Wed, 07 Aug 2019 14:49:09 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1090,6 +1141,8 @@
 		<wp:post_id>133</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-07 14:49:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-07 14:49:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-07 14:49:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-07 14:49:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sidney-outlet]]></wp:post_name>
@@ -1110,7 +1163,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 12b</title>
+		<title><![CDATA[product 12b]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=149</link>
 		<pubDate>Wed, 14 Aug 2019 05:21:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1121,6 +1174,8 @@
 		<wp:post_id>149</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:21:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:21:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:21:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:21:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-12b]]></wp:post_name>
@@ -1141,7 +1196,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 12c</title>
+		<title><![CDATA[product 12c]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=150</link>
 		<pubDate>Wed, 14 Aug 2019 05:21:14 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1152,6 +1207,8 @@
 		<wp:post_id>150</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:21:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:21:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:21:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:21:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-12c]]></wp:post_name>
@@ -1172,7 +1229,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 9b</title>
+		<title><![CDATA[product 9b]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=151</link>
 		<pubDate>Wed, 14 Aug 2019 05:29:11 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1183,6 +1240,8 @@
 		<wp:post_id>151</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:29:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:29:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:29:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:29:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-9b]]></wp:post_name>
@@ -1203,7 +1262,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 9c</title>
+		<title><![CDATA[product 9c]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=152</link>
 		<pubDate>Wed, 14 Aug 2019 05:29:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1214,6 +1273,8 @@
 		<wp:post_id>152</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:29:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:29:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:29:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:29:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-9c]]></wp:post_name>
@@ -1234,7 +1295,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 8b</title>
+		<title><![CDATA[product 8b]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=153</link>
 		<pubDate>Wed, 14 Aug 2019 05:29:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1245,6 +1306,8 @@
 		<wp:post_id>153</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:29:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:29:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:29:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:29:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-8b]]></wp:post_name>
@@ -1265,7 +1328,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 8c</title>
+		<title><![CDATA[product 8c]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=154</link>
 		<pubDate>Wed, 14 Aug 2019 05:29:51 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1276,6 +1339,8 @@
 		<wp:post_id>154</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:29:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:29:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:29:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:29:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-8c]]></wp:post_name>
@@ -1296,7 +1361,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 7b</title>
+		<title><![CDATA[product 7b]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=156</link>
 		<pubDate>Wed, 14 Aug 2019 05:30:45 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1307,6 +1372,8 @@
 		<wp:post_id>156</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:30:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:30:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:30:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:30:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-7b]]></wp:post_name>
@@ -1327,7 +1394,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 7c</title>
+		<title><![CDATA[product 7c]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=157</link>
 		<pubDate>Wed, 14 Aug 2019 05:30:46 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1338,6 +1405,8 @@
 		<wp:post_id>157</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:30:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:30:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:30:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:30:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-7c]]></wp:post_name>
@@ -1358,7 +1427,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 6b</title>
+		<title><![CDATA[product 6b]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=158</link>
 		<pubDate>Wed, 14 Aug 2019 05:31:29 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1369,6 +1438,8 @@
 		<wp:post_id>158</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:31:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:31:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:31:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:31:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-6b]]></wp:post_name>
@@ -1389,7 +1460,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 6c</title>
+		<title><![CDATA[product 6c]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=159</link>
 		<pubDate>Wed, 14 Aug 2019 05:31:30 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1400,6 +1471,8 @@
 		<wp:post_id>159</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:31:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:31:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:31:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:31:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-6c]]></wp:post_name>
@@ -1420,7 +1493,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/24/</link>
 		<pubDate>Fri, 02 Aug 2019 05:41:33 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1431,6 +1504,8 @@
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 05:41:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 05:41:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 05:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 05:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[24]]></wp:post_name>
@@ -1475,7 +1550,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/25/</link>
 		<pubDate>Fri, 02 Aug 2019 05:41:33 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1486,6 +1561,8 @@
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 05:41:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 05:41:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 05:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 05:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[25]]></wp:post_name>
@@ -1530,7 +1607,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/26/</link>
 		<pubDate>Fri, 02 Aug 2019 05:41:51 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1541,6 +1618,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 05:41:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 05:41:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 05:42:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 05:42:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[26]]></wp:post_name>
@@ -1585,7 +1664,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/27/</link>
 		<pubDate>Fri, 02 Aug 2019 05:41:51 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1596,6 +1675,8 @@
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 05:41:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 05:41:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 05:42:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 05:42:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[27]]></wp:post_name>
@@ -1640,7 +1721,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/112/</link>
 		<pubDate>Mon, 05 Aug 2019 07:43:22 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1651,6 +1732,8 @@
 		<wp:post_id>112</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-05 07:43:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-05 07:43:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-27 10:37:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-27 10:37:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[112]]></wp:post_name>
@@ -1695,7 +1778,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/113/</link>
 		<pubDate>Mon, 05 Aug 2019 07:43:22 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1706,6 +1789,8 @@
 		<wp:post_id>113</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-05 07:43:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-05 07:43:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-27 10:37:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-27 10:37:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[113]]></wp:post_name>
@@ -1750,7 +1835,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/114/</link>
 		<pubDate>Mon, 05 Aug 2019 07:43:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1761,6 +1846,8 @@
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-05 07:43:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-05 07:43:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-27 10:37:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-27 10:37:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[114]]></wp:post_name>
@@ -1805,7 +1892,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/115/</link>
 		<pubDate>Mon, 05 Aug 2019 07:43:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1816,6 +1903,8 @@
 		<wp:post_id>115</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-05 07:43:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-05 07:43:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-27 10:37:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-27 10:37:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[115]]></wp:post_name>
@@ -1860,7 +1949,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>F.A.Q</title>
+		<title><![CDATA[F.A.Q]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/f-a-q/</link>
 		<pubDate>Mon, 05 Aug 2019 07:46:33 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1871,6 +1960,8 @@
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-05 07:46:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-05 07:46:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-05 07:46:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-05 07:46:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[f-a-q]]></wp:post_name>
@@ -1915,62 +2006,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Privacy Policy</title>
-		<link>https://demo.sukiwp.com/chronos-elementor/privacy-policy/</link>
-		<pubDate>Mon, 05 Aug 2019 07:46:33 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.sukiwp.com/chronos-elementor/privacy-policy/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>118</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-05 07:46:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-05 07:46:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu-col-3"><![CDATA[Footer Menu Col 3]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[118]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>product 5b</title>
+		<title><![CDATA[product 5b]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=160</link>
 		<pubDate>Wed, 14 Aug 2019 05:31:56 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1981,6 +2017,8 @@
 		<wp:post_id>160</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:31:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:31:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:31:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:31:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-5b]]></wp:post_name>
@@ -2001,7 +2039,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 5c</title>
+		<title><![CDATA[product 5c]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=161</link>
 		<pubDate>Wed, 14 Aug 2019 05:31:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2012,6 +2050,8 @@
 		<wp:post_id>161</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:31:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:31:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:31:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:31:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-5c]]></wp:post_name>
@@ -2032,7 +2072,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 4b</title>
+		<title><![CDATA[product 4b]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=162</link>
 		<pubDate>Wed, 14 Aug 2019 05:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2043,6 +2083,8 @@
 		<wp:post_id>162</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:32:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:32:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:32:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:32:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-4b]]></wp:post_name>
@@ -2063,7 +2105,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 4c</title>
+		<title><![CDATA[product 4c]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=163</link>
 		<pubDate>Wed, 14 Aug 2019 05:32:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2074,6 +2116,8 @@
 		<wp:post_id>163</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:32:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:32:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:32:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:32:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-4c]]></wp:post_name>
@@ -2094,7 +2138,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 3b</title>
+		<title><![CDATA[product 3b]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=164</link>
 		<pubDate>Wed, 14 Aug 2019 05:33:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2105,6 +2149,8 @@
 		<wp:post_id>164</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:33:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:33:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:33:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:33:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-3b]]></wp:post_name>
@@ -2125,7 +2171,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 3c</title>
+		<title><![CDATA[product 3c]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=165</link>
 		<pubDate>Wed, 14 Aug 2019 05:33:13 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2136,6 +2182,8 @@
 		<wp:post_id>165</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:33:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:33:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:33:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:33:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-3c]]></wp:post_name>
@@ -2156,7 +2204,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 2b</title>
+		<title><![CDATA[product 2b]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=166</link>
 		<pubDate>Wed, 14 Aug 2019 05:33:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2167,6 +2215,8 @@
 		<wp:post_id>166</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:33:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:33:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:33:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:33:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-2b]]></wp:post_name>
@@ -2187,7 +2237,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 2c</title>
+		<title><![CDATA[product 2c]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=167</link>
 		<pubDate>Wed, 14 Aug 2019 05:33:42 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2198,6 +2248,8 @@
 		<wp:post_id>167</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:33:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:33:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:33:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:33:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-2c]]></wp:post_name>
@@ -2218,7 +2270,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 1b</title>
+		<title><![CDATA[product 1b]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=168</link>
 		<pubDate>Wed, 14 Aug 2019 05:34:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2229,6 +2281,8 @@
 		<wp:post_id>168</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:34:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:34:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:34:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:34:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-1b]]></wp:post_name>
@@ -2249,7 +2303,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>product 1c</title>
+		<title><![CDATA[product 1c]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/?attachment_id=169</link>
 		<pubDate>Wed, 14 Aug 2019 05:34:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2260,6 +2314,8 @@
 		<wp:post_id>169</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-14 05:34:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-14 05:34:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:34:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:34:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[product-1c]]></wp:post_name>
@@ -2280,132 +2336,43 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact form</title>
-		<link>https://demo.sukiwp.com/chronos-elementor/?post_type=wpcf7_contact_form&#038;p=4</link>
-		<pubDate>Thu, 01 Aug 2019 09:40:08 +0000</pubDate>
-		<dc:creator><![CDATA[sukiwp]]></dc:creator>
-		<guid isPermaLink="false">https://demo.sukiwp.com/chronos-elementor/?post_type=wpcf7_contact_form&#038;p=4</guid>
+		<title><![CDATA[Default Kit]]></title>
+		<link>https://demo.sukiwp.com/chronos-elementor/?elementor_library=default-kit</link>
+		<pubDate>Sun, 26 Apr 2020 14:27:57 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/chronos-elementor/?elementor_library=default-kit</guid>
 		<description></description>
-		<content:encoded><![CDATA[[text* your-name placeholder "Name"]
-
-[email* your-email placeholder "Email"]
-
-[text your-subject placeholder "Subject"]
-
-[textarea your-message x5 placeholder "Message"]
-
-[submit "SUBMIT"]
-1
-Chronos - Luxury Watch Shop "[your-subject]"
-Chronos - Luxury Watch Shop 
-noreply@sukiwp.com
-From: [your-name] 
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https://demo.sukiwp.com/chronos-elementor)
-Reply-To: [your-email]
-
-
-
-
-Chronos - Luxury Watch Shop "[your-subject]"
-Chronos - Luxury Watch Shop 
-[your-email]
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https://demo.sukiwp.com/chronos-elementor)
-Reply-To: admin@sukiwp.com
-
-
-
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The file is too big.
-There was an error uploading the file.
-The number format is invalid.
-The number is smaller than the minimum allowed.
-The number is larger than the maximum allowed.
-The answer to the quiz is incorrect.
-Your entered code is incorrect.
-The e-mail address entered is invalid.
-The URL is invalid.
-The telephone number is invalid.]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-01 09:40:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-01 09:40:08]]></wp:post_date_gmt>
+		<wp:post_id>210</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-26 14:27:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-26 14:27:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-26 14:27:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-26 14:27:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[text* your-name placeholder "Name"]
-
-[email* your-email placeholder "Email"]
-
-[text your-subject placeholder "Subject"]
-
-[textarea your-message x5 placeholder "Message"]
-
-[submit "SUBMIT"]]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:44:"Chronos - Luxury Watch Shop "[your-subject]"";s:6:"sender";s:55:"Chronos - Luxury Watch Shop <wordpress@demo.sukiwp.com>";s:9:"recipient";s:18:"noreply@sukiwp.com";s:4:"body";s:207:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https://demo.sukiwp.com/chronos-elementor)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[kit]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:44:"Chronos - Luxury Watch Shop "[your-subject]"";s:6:"sender";s:55:"Chronos - Luxury Watch Shop <wordpress@demo.sukiwp.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:149:"Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https://demo.sukiwp.com/chronos-elementor)";s:18:"additional_headers";s:26:"Reply-To: admin@sukiwp.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:10:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:21:"global_image_lightbox";s:3:"yes";s:27:"stretched_section_container";s:5:"#page";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1200";}s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:4:"1024";s:13:"custom_colors";a:4:{i:0;a:3:{s:3:"_id";s:8:"370cf4e2";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:1;a:3:{s:3:"_id";s:8:"3c2361ca";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:2;a:3:{s:3:"_id";s:8:"4f429391";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:3;a:3:{s:3:"_id";s:8:"304b37ef";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";i:1023;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Shop</title>
+		<title><![CDATA[Shop]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/shop/</link>
 		<pubDate>Fri, 02 Aug 2019 04:17:00 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -2416,6 +2383,8 @@ This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https:/
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 04:17:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 04:17:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-27 10:36:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-27 10:36:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shop]]></wp:post_name>
@@ -2435,7 +2404,7 @@ This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https:/
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Cart</title>
+		<title><![CDATA[Cart]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/cart/</link>
 		<pubDate>Fri, 02 Aug 2019 04:17:00 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -2446,6 +2415,8 @@ This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https:/
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 04:17:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 04:17:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 04:17:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 04:17:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cart]]></wp:post_name>
@@ -2457,7 +2428,7 @@ This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https:/
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Checkout</title>
+		<title><![CDATA[Checkout]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/checkout/</link>
 		<pubDate>Fri, 02 Aug 2019 04:17:00 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -2468,6 +2439,8 @@ This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https:/
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 04:17:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 04:17:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 04:17:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 04:17:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[checkout]]></wp:post_name>
@@ -2479,7 +2452,7 @@ This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https:/
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>My account</title>
+		<title><![CDATA[My account]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/my-account/</link>
 		<pubDate>Fri, 02 Aug 2019 04:17:00 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -2490,6 +2463,8 @@ This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https:/
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 04:17:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 04:17:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 04:17:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 04:17:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[my-account]]></wp:post_name>
@@ -2501,7 +2476,7 @@ This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https:/
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/</link>
 		<pubDate>Fri, 02 Aug 2019 04:18:07 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2539,6 +2514,8 @@ This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https:/
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 04:18:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 04:18:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-01-13 08:39:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-01-13 08:39:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2578,11 +2555,11 @@ This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https:/
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:7;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:7;s:5:"align";i:3;s:11:"header_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:21:"typography_typography";i:7;s:22:"typography_line_height";i:7;s:11:"title_color";i:3;s:20:"typography_font_size";i:4;}}}}s:11:"text-editor";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:5;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:14:"_margin_tablet";i:1;}s:19:"_section_background";a:1:{s:22:"_background_background";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:2;}}}}s:6:"button";a:3:{s:5:"count";i:4;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:4;s:5:"align";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:14:{s:21:"typography_typography";i:4;s:20:"typography_font_size";i:4;s:25:"typography_text_transform";i:4;s:22:"typography_line_height";i:4;s:17:"button_text_color";i:4;s:16:"background_color";i:4;s:11:"hover_color";i:4;s:29:"button_background_hover_color";i:4;s:25:"button_hover_border_color";i:4;s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;s:13:"border_radius";i:4;s:12:"text_padding";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:9;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:2;s:16:"content_position";i:4;s:19:"_inline_size_tablet";i:6;s:21:"space_between_widgets";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:13:"margin_mobile";i:1;s:7:"padding";i:4;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:3;s:6:"margin";i:1;}}s:5:"style";a:2:{s:13:"section_style";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:16:"background_color";i:1;}s:26:"section_background_overlay";a:2:{s:29:"background_overlay_background";i:1;s:26:"background_overlay_opacity";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:3;s:10:"image_size";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:12:"width_mobile";i:1;s:5:"width";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:4;}s:14:"section_layout";a:3:{s:3:"gap";i:5;s:16:"content_position";i:1;s:6:"layout";i:2;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:2;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:1:{s:7:"padding";i:3;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:7;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:7;s:5:"align";i:3;s:11:"header_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:21:"typography_typography";i:7;s:22:"typography_line_height";i:7;s:11:"title_color";i:3;s:20:"typography_font_size";i:4;}}}}s:11:"text-editor";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:5;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:14:"_margin_tablet";i:1;}s:19:"_section_background";a:1:{s:22:"_background_background";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:2;}}}}s:6:"button";a:3:{s:5:"count";i:4;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:4;s:5:"align";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:14:{s:21:"typography_typography";i:4;s:20:"typography_font_size";i:4;s:25:"typography_text_transform";i:4;s:22:"typography_line_height";i:4;s:17:"button_text_color";i:4;s:16:"background_color";i:4;s:11:"hover_color";i:4;s:29:"button_background_hover_color";i:4;s:25:"button_hover_border_color";i:4;s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;s:13:"border_radius";i:4;s:12:"text_padding";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:9;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:2;s:16:"content_position";i:4;s:19:"_inline_size_tablet";i:6;s:21:"space_between_widgets";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:13:"margin_mobile";i:1;s:7:"padding";i:4;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:3;s:6:"margin";i:1;}}s:5:"style";a:2:{s:13:"section_style";a:6:{s:21:"background_background";i:3;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:16:"background_color";i:1;}s:26:"section_background_overlay";a:2:{s:29:"background_overlay_background";i:1;s:26:"background_overlay_opacity";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:3;s:10:"image_size";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:12:"width_mobile";i:1;s:5:"width";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:4;}s:14:"section_layout";a:3:{s:3:"gap";i:5;s:16:"content_position";i:1;s:6:"layout";i:2;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:2;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:1:{s:7:"padding";i:3;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/about/</link>
 		<pubDate>Fri, 02 Aug 2019 05:35:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2703,6 +2680,8 @@ Direction
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 05:35:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 05:35:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-25 02:14:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-25 02:14:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -2742,11 +2721,11 @@ Direction
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:12;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:12;s:11:"header_size";i:11;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:21:"typography_typography";i:12;s:20:"typography_font_size";i:1;s:25:"typography_text_transform";i:1;s:22:"typography_line_height";i:12;s:11:"title_color";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:9;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:9;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:19;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:10;s:16:"content_position";i:8;s:21:"space_between_widgets";i:1;s:19:"_inline_size_tablet";i:7;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:14:"padding_tablet";i:8;s:14:"padding_mobile";i:4;s:6:"margin";i:15;s:13:"margin_tablet";i:15;s:13:"margin_mobile";i:11;s:7:"padding";i:8;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"background_background";i:13;s:19:"background_position";i:5;s:17:"background_repeat";i:5;s:15:"background_size";i:5;s:16:"background_color";i:8;s:16:"background_image";i:4;}}}}s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:4;s:10:"image_size";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:12:"width_tablet";i:1;s:5:"width";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:10;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:10;}s:17:"section_structure";a:1:{s:9:"structure";i:8;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:7:"padding";i:3;s:14:"padding_mobile";i:1;s:6:"margin";i:7;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_mobile";i:4;s:20:"reverse_order_tablet";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:1;}}s:5:"style";a:1:{s:17:"section_icon_list";a:1:{s:13:"space_between";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:5;}}}}s:12:"social-icons";a:3:{s:5:"count";i:4;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:4;s:5:"shape";i:4;s:5:"align";i:4;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:4;s:18:"icon_primary_color";i:4;s:20:"icon_secondary_color";i:4;s:9:"icon_size";i:4;s:12:"icon_padding";i:4;s:12:"icon_spacing";i:4;}}}}s:6:"button";a:3:{s:5:"count";i:4;s:15:"control_percent";i:7;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:1:{s:4:"text";i:4;}}s:5:"style";a:1:{s:13:"section_style";a:14:{s:21:"typography_typography";i:4;s:20:"typography_font_size";i:4;s:25:"typography_text_transform";i:4;s:22:"typography_line_height";i:4;s:17:"button_text_color";i:4;s:16:"background_color";i:4;s:11:"hover_color";i:4;s:29:"button_background_hover_color";i:4;s:25:"button_hover_border_color";i:4;s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;s:13:"border_radius";i:4;s:12:"text_padding";i:4;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:12;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:12;s:11:"header_size";i:11;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:21:"typography_typography";i:12;s:20:"typography_font_size";i:1;s:25:"typography_text_transform";i:1;s:22:"typography_line_height";i:12;s:11:"title_color";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:9;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:9;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:19;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:10;s:16:"content_position";i:8;s:21:"space_between_widgets";i:1;s:19:"_inline_size_tablet";i:7;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:14:"padding_tablet";i:8;s:14:"padding_mobile";i:4;s:6:"margin";i:15;s:13:"margin_tablet";i:15;s:13:"margin_mobile";i:11;s:7:"padding";i:8;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:21:"background_background";i:13;s:19:"background_position";i:5;s:17:"background_repeat";i:5;s:15:"background_size";i:5;s:16:"background_color";i:8;s:16:"background_image";i:4;}}}}s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:4;s:10:"image_size";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:12:"width_tablet";i:1;s:5:"width";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:10;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:10;}s:17:"section_structure";a:1:{s:9:"structure";i:8;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:7:"padding";i:3;s:14:"padding_mobile";i:1;s:6:"margin";i:7;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_mobile";i:4;s:20:"reverse_order_tablet";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:1;}}s:5:"style";a:1:{s:17:"section_icon_list";a:1:{s:13:"space_between";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:5;}}}}s:12:"social-icons";a:3:{s:5:"count";i:4;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:4;s:5:"shape";i:4;s:5:"align";i:4;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:4;s:18:"icon_primary_color";i:4;s:20:"icon_secondary_color";i:4;s:9:"icon_size";i:4;s:12:"icon_padding";i:4;s:12:"icon_spacing";i:4;}}}}s:6:"button";a:3:{s:5:"count";i:4;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:1:{s:4:"text";i:4;}}s:5:"style";a:1:{s:13:"section_style";a:14:{s:21:"typography_typography";i:4;s:20:"typography_font_size";i:4;s:25:"typography_text_transform";i:4;s:22:"typography_line_height";i:4;s:17:"button_text_color";i:4;s:16:"background_color";i:4;s:11:"hover_color";i:4;s:29:"button_background_hover_color";i:4;s:25:"button_hover_border_color";i:4;s:13:"border_border";i:4;s:12:"border_width";i:4;s:12:"border_color";i:4;s:13:"border_radius";i:4;s:12:"text_padding";i:4;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/contact/</link>
 		<pubDate>Fri, 02 Aug 2019 05:36:08 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2776,6 +2755,8 @@ Instagram
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 05:36:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 05:36:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-25 02:15:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-25 02:15:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -2815,11 +2796,11 @@ Instagram
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:2;s:16:"background_image";i:1;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:2;}}s:6:"layout";a:1:{s:14:"section_layout";a:2:{s:13:"content_width";i:1;s:3:"gap";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:1;s:5:"align";i:1;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:2:{s:21:"typography_typography";i:1;s:25:"typography_text_transform";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:2:{s:16:"social_icon_list";i:1;s:5:"shape";i:1;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;s:20:"icon_secondary_color";i:1;s:9:"icon_size";i:1;s:12:"icon_padding";i:1;s:12:"icon_spacing";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:2;s:16:"background_image";i:1;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:2;}}s:6:"layout";a:1:{s:14:"section_layout";a:2:{s:13:"content_width";i:1;s:3:"gap";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:1;s:5:"align";i:1;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:2:{s:21:"typography_typography";i:1;s:25:"typography_text_transform";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:2:{s:16:"social_icon_list";i:1;s:5:"shape";i:1;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;s:20:"icon_secondary_color";i:1;s:9:"icon_size";i:1;s:12:"icon_padding";i:1;s:12:"icon_spacing";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Shop</title>
+		<title><![CDATA[Shop]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/our-shop/</link>
 		<pubDate>Fri, 02 Aug 2019 05:41:00 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2839,6 +2820,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 05:41:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 05:41:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-12-27 10:36:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-12-27 10:36:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-shop]]></wp:post_name>
@@ -2878,11 +2861,11 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:4;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:3:{s:21:"typography_typography";i:4;s:25:"typography_text_transform";i:1;s:22:"typography_line_height";i:4;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:2;s:16:"content_position";i:1;s:21:"space_between_widgets";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:4;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:2:{s:7:"padding";i:4;s:14:"padding_mobile";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:3;}}}}s:9:"shortcode";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:3;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:4;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:3:{s:21:"typography_typography";i:4;s:25:"typography_text_transform";i:1;s:22:"typography_line_height";i:4;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:2;s:16:"content_position";i:1;s:21:"space_between_widgets";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:14:"padding_tablet";i:1;s:14:"padding_mobile";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:4;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:2:{s:7:"padding";i:4;s:14:"padding_mobile";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:3;}}}}s:9:"shortcode";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:3;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Swatch Silver1</title>
+		<title><![CDATA[Swatch Silver1]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/product/swatch-silver1/</link>
 		<pubDate>Fri, 02 Aug 2019 06:50:08 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2895,6 +2878,8 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 06:50:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 06:50:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:34:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:34:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[swatch-silver1]]></wp:post_name>
@@ -2955,10 +2940,6 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
@@ -2992,7 +2973,7 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Braun 1DX</title>
+		<title><![CDATA[Braun 1DX]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/product/braun-1dx/</link>
 		<pubDate>Fri, 02 Aug 2019 07:05:04 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3005,6 +2986,8 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 07:05:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 07:05:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:33:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:33:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[braun-1dx]]></wp:post_name>
@@ -3065,10 +3048,6 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
@@ -3102,7 +3081,7 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Swatch 44DX</title>
+		<title><![CDATA[Swatch 44DX]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/product/swatch-44dx/</link>
 		<pubDate>Fri, 02 Aug 2019 07:08:07 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3115,6 +3094,8 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 07:08:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 07:08:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:33:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:33:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[swatch-44dx]]></wp:post_name>
@@ -3175,10 +3156,6 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
@@ -3212,7 +3189,7 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Swatch 1z</title>
+		<title><![CDATA[Swatch 1z]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/product/swatch-1z/</link>
 		<pubDate>Fri, 02 Aug 2019 07:37:18 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3225,6 +3202,8 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 07:37:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 07:37:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:32:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:32:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[swatch-1z]]></wp:post_name>
@@ -3285,10 +3264,6 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
@@ -3322,7 +3297,7 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Braun B3</title>
+		<title><![CDATA[Braun B3]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/product/braun-b3/</link>
 		<pubDate>Fri, 02 Aug 2019 07:42:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3335,6 +3310,8 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:post_id>54</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 07:42:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 07:42:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:32:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:32:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[braun-b3]]></wp:post_name>
@@ -3395,10 +3372,6 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
@@ -3432,7 +3405,7 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Cluse 34X</title>
+		<title><![CDATA[Cluse 34X]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/product/cluse-34x/</link>
 		<pubDate>Fri, 02 Aug 2019 07:50:49 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3445,6 +3418,8 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 07:50:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 07:50:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:31:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:31:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cluse-34x]]></wp:post_name>
@@ -3505,10 +3480,6 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
@@ -3542,7 +3513,7 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Swatch Arm</title>
+		<title><![CDATA[Swatch Arm]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/product/swatch-arm/</link>
 		<pubDate>Fri, 02 Aug 2019 07:52:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3555,6 +3526,8 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:post_id>59</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 07:52:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 07:52:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:30:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:30:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[swatch-arm]]></wp:post_name>
@@ -3619,10 +3592,6 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
 		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
@@ -3656,7 +3625,7 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Swatch Marine</title>
+		<title><![CDATA[Swatch Marine]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/product/swatch-marine/</link>
 		<pubDate>Fri, 02 Aug 2019 07:53:25 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3669,6 +3638,8 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 07:53:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 07:53:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:30:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:30:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[swatch-marine]]></wp:post_name>
@@ -3770,7 +3741,7 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Swatch BlazeBlue</title>
+		<title><![CDATA[Swatch BlazeBlue]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/product/swatch-blazeblue/</link>
 		<pubDate>Fri, 02 Aug 2019 08:13:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3783,6 +3754,8 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 08:13:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 08:13:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:29:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:29:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[swatch-blazeblue]]></wp:post_name>
@@ -3884,7 +3857,411 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Braun Leather</title>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>https://demo.sukiwp.com/chronos-elementor/privacy-policy/</link>
+		<pubDate>Mon, 05 Aug 2019 07:46:33 +0000</pubDate>
+		<dc:creator><![CDATA[author]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/chronos-elementor/privacy-policy/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>118</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-05 07:46:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-05 07:46:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-05 07:46:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-05 07:46:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu-col-3"><![CDATA[Footer Menu Col 3]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[118]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Term & Conditions]]></title>
+		<link>https://demo.sukiwp.com/chronos-elementor/term-conditions/</link>
+		<pubDate>Mon, 05 Aug 2019 07:46:33 +0000</pubDate>
+		<dc:creator><![CDATA[author]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/chronos-elementor/term-conditions/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>119</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-05 07:46:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-05 07:46:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-05 07:46:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-05 07:46:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[term-conditions]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu-col-3"><![CDATA[Footer Menu Col 3]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[119]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Refund and Returns Policy]]></title>
+		<link>https://demo.sukiwp.com/chronos-elementor/?page_id=213</link>
+		<pubDate></pubDate>
+		<dc:creator><![CDATA[sukiwp]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/chronos-elementor/?page_id=213</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><b>This is a sample page.</b></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<h3>Overview</h3>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our refund and returns policy lasts 30 days. If 30 days have passed since your purchase, we can’t offer you a full refund or exchange.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To be eligible for a return, your item must be unused and in the same condition that you received it. It must also be in the original packaging.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Several types of goods are exempt from being returned. Perishable goods such as food, flowers, newspapers or magazines cannot be returned. We also do not accept products that are intimate or sanitary goods, hazardous materials, or flammable liquids or gases.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Additional non-returnable items:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li>Gift cards</li>
+<li>Downloadable software products</li>
+<li>Some health and personal care items</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>To complete your return, we require a receipt or proof of purchase.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Please do not send your purchase back to the manufacturer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are certain situations where only partial refunds are granted:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li>Book with obvious signs of use</li>
+<li>CD, DVD, VHS tape, software, video game, cassette tape, or vinyl record that has been opened.</li>
+<li>Any item not in its original condition, is damaged or missing parts for reasons not due to our error.</li>
+<li>Any item that is returned more than 30 days after delivery</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<h2>Refunds</h2>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Once your return is received and inspected, we will send you an email to notify you that we have received your returned item. We will also notify you of the approval or rejection of your refund.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you are approved, then your refund will be processed, and a credit will automatically be applied to your credit card or original method of payment, within a certain amount of days.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<b>Late or missing refunds</b>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you haven’t received a refund yet, first check your bank account again.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Then contact your credit card company, it may take some time before your refund is officially posted.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Next contact your bank. There is often some processing time before a refund is posted.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you’ve done all of this and you still have not received your refund yet, please contact us at {email address}.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<b>Sale items</b>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Only regular priced items may be refunded. Sale items cannot be refunded.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<h2>Exchanges</h2>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We only replace items if they are defective or damaged. If you need to exchange it for the same item, send us an email at {email address} and send your item to: {physical address}.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<h2>Gifts</h2>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If the item was marked as a gift when purchased and shipped directly to you, you’ll receive a gift credit for the value of your return. Once the returned item is received, a gift certificate will be mailed to you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If the item wasn’t marked as a gift when purchased, or the gift giver had the order shipped to themselves to give to you later, we will send a refund to the gift giver and they will find out about your return.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<h2>Shipping returns</h2>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To return your product, you should mail your product to: {physical address}.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You will be responsible for paying for your own shipping costs for returning your item. Shipping costs are non-refundable. If you receive a refund, the cost of return shipping will be deducted from your refund.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Depending on where you live, the time it may take for your exchanged product to reach you may vary.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you are returning more expensive items, you may consider using a trackable shipping service or purchasing shipping insurance. We don’t guarantee that we will receive your returned item.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<h2>Need help?</h2>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Contact us at {email} for questions related to refunds and returns.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>213</wp:post_id>
+		<wp:post_date><![CDATA[2021-09-02 13:43:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-09-02 13:43:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[refund_returns]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Contact form]]></title>
+		<link>https://demo.sukiwp.com/chronos-elementor/?post_type=wpcf7_contact_form&#038;p=4</link>
+		<pubDate>Thu, 01 Aug 2019 09:40:08 +0000</pubDate>
+		<dc:creator><![CDATA[sukiwp]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/chronos-elementor/?post_type=wpcf7_contact_form&#038;p=4</guid>
+		<description></description>
+		<content:encoded><![CDATA[[text* your-name placeholder "Name"]
+
+[email* your-email placeholder "Email"]
+
+[text your-subject placeholder "Subject"]
+
+[textarea your-message x5 placeholder "Message"]
+
+[submit "SUBMIT"]
+1
+Chronos - Luxury Watch Shop "[your-subject]"
+Chronos - Luxury Watch Shop 
+noreply@sukiwp.com
+From: [your-name] 
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https://demo.sukiwp.com/chronos-elementor)
+Reply-To: [your-email]
+
+
+
+
+Chronos - Luxury Watch Shop "[your-subject]"
+Chronos - Luxury Watch Shop 
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https://demo.sukiwp.com/chronos-elementor)
+Reply-To: admin@sukiwp.com
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+The field is required.
+The field is too long.
+The field is too short.
+The date format is incorrect.
+The date is before the earliest one allowed.
+The date is after the latest one allowed.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The file is too big.
+There was an error uploading the file.
+The number format is invalid.
+The number is smaller than the minimum allowed.
+The number is larger than the maximum allowed.
+The answer to the quiz is incorrect.
+Your entered code is incorrect.
+The e-mail address entered is invalid.
+The URL is invalid.
+The telephone number is invalid.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-01 09:40:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-01 09:40:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-02 16:52:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-02 16:52:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[text* your-name placeholder "Name"]
+
+[email* your-email placeholder "Email"]
+
+[text your-subject placeholder "Subject"]
+
+[textarea your-message x5 placeholder "Message"]
+
+[submit "SUBMIT"]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:44:"Chronos - Luxury Watch Shop "[your-subject]"";s:6:"sender";s:55:"Chronos - Luxury Watch Shop <wordpress@demo.sukiwp.com>";s:9:"recipient";s:18:"noreply@sukiwp.com";s:4:"body";s:207:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https://demo.sukiwp.com/chronos-elementor)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:44:"Chronos - Luxury Watch Shop "[your-subject]"";s:6:"sender";s:55:"Chronos - Luxury Watch Shop <wordpress@demo.sukiwp.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:149:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on Chronos - Luxury Watch Shop (https://demo.sukiwp.com/chronos-elementor)";s:18:"additional_headers";s:26:"Reply-To: admin@sukiwp.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Braun Leather]]></title>
 		<link>https://demo.sukiwp.com/chronos-elementor/product/braun-leather/</link>
 		<pubDate>Fri, 02 Aug 2019 08:16:15 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3897,6 +4274,8 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 		<wp:post_id>66</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-02 08:16:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-02 08:16:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 05:21:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 05:21:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[braun-leather]]></wp:post_name>
@@ -3991,61 +4370,6 @@ Duis eu malesuada odio, eu ullamcorper est. Nulla suscipit scelerisque urna quis
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
 		<wp:meta_value><![CDATA[149,150]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Term &amp; Conditions</title>
-		<link>https://demo.sukiwp.com/chronos-elementor/term-conditions/</link>
-		<pubDate>Mon, 05 Aug 2019 07:46:33 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.sukiwp.com/chronos-elementor/term-conditions/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>119</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-05 07:46:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-05 07:46:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[term-conditions]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu-col-3"><![CDATA[Footer Menu Col 3]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[119]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
