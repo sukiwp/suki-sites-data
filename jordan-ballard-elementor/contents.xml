@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.3" created="2019-10-04 07:08" -->
+	<!-- generator="WordPress/5.8" created="2021-09-02 11:38" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Jordan Ballard - Motivational Speaker (Elementor)</title>
 	<link>https://demo.sukiwp.com/jordan-ballard-elementor</link>
 	<description>Just another Suki Demo site</description>
-	<pubDate>Fri, 04 Oct 2019 07:08:17 +0000</pubDate>
+	<pubDate>Thu, 02 Sep 2021 11:38:11 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
+	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.sukiwp.com/jordan-ballard-elementor</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[sukiwp]]></wp:author_login><wp:author_email><![CDATA[admin@sukiwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin Suki]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[Suki]]></wp:author_last_name></wp:author>
@@ -45,14 +45,14 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
-		<wp:term_id><![CDATA[4]]></wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -61,10 +61,10 @@
 			<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.2.3</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 		<item>
-		<title>hero bg 1</title>
+		<title><![CDATA[hero bg 1]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/home/hero-bg-1/</link>
 		<pubDate>Tue, 25 Jun 2019 07:40:42 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -75,6 +75,8 @@
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 07:40:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 07:40:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-25 07:40:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-25 07:40:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hero-bg-1]]></wp:post_name>
@@ -95,7 +97,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>book bg</title>
+		<title><![CDATA[book bg]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/home/book-bg/</link>
 		<pubDate>Tue, 25 Jun 2019 09:48:35 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -106,6 +108,8 @@
 		<wp:post_id>38</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 09:48:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 09:48:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-25 09:48:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-25 09:48:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[book-bg]]></wp:post_name>
@@ -126,7 +130,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>book</title>
+		<title><![CDATA[book]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/home/book/</link>
 		<pubDate>Tue, 25 Jun 2019 09:49:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -137,6 +141,8 @@
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 09:49:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 09:49:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-25 09:49:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-25 09:49:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[book]]></wp:post_name>
@@ -157,7 +163,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>newsletter bg</title>
+		<title><![CDATA[newsletter bg]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/home/newsletter-bg/</link>
 		<pubDate>Tue, 25 Jun 2019 09:55:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -168,6 +174,8 @@
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 09:55:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 09:55:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-25 09:55:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-25 09:55:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[newsletter-bg]]></wp:post_name>
@@ -188,7 +196,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>coaching</title>
+		<title><![CDATA[coaching]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/about/coaching/</link>
 		<pubDate>Thu, 27 Jun 2019 04:30:14 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -199,6 +207,8 @@
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-27 04:30:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-27 04:30:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-27 04:30:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-27 04:30:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[coaching]]></wp:post_name>
@@ -219,7 +229,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>speaking</title>
+		<title><![CDATA[speaking]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/about/speaking/</link>
 		<pubDate>Thu, 27 Jun 2019 05:29:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -230,6 +240,8 @@
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-27 05:29:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-27 05:29:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-27 05:29:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-27 05:29:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[speaking]]></wp:post_name>
@@ -250,7 +262,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>writing</title>
+		<title><![CDATA[writing]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/about/writing/</link>
 		<pubDate>Thu, 27 Jun 2019 05:35:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -261,6 +273,8 @@
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-27 05:35:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-27 05:35:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-27 05:35:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-27 05:35:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[writing]]></wp:post_name>
@@ -281,7 +295,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>page header bg</title>
+		<title><![CDATA[page header bg]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/page-header-bg/</link>
 		<pubDate>Thu, 27 Jun 2019 06:02:00 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -292,6 +306,8 @@
 		<wp:post_id>54</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-27 06:02:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-27 06:02:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-27 06:02:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-27 06:02:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[page-header-bg]]></wp:post_name>
@@ -312,7 +328,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>achievement-adult-battle-1496189</title>
+		<title><![CDATA[achievement-adult-battle-1496189]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/approach-to-inspiring-change/achievement-adult-battle-1496189/</link>
 		<pubDate>Fri, 28 Jun 2019 09:38:20 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -323,6 +339,8 @@
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-28 09:38:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-28 09:38:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-28 09:38:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-28 09:38:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[achievement-adult-battle-1496189]]></wp:post_name>
@@ -343,7 +361,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>business-businessman-contemporary-532220</title>
+		<title><![CDATA[business-businessman-contemporary-532220]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/success-stories/business-businessman-contemporary-532220/</link>
 		<pubDate>Fri, 28 Jun 2019 09:54:14 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -354,6 +372,8 @@
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-28 09:54:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-28 09:54:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-28 09:54:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-28 09:54:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-businessman-contemporary-532220]]></wp:post_name>
@@ -374,7 +394,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adult-brainstorming-briefing-1157859</title>
+		<title><![CDATA[adult-brainstorming-briefing-1157859]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/the-power-to-create-change/adult-brainstorming-briefing-1157859/</link>
 		<pubDate>Fri, 28 Jun 2019 15:21:46 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -385,6 +405,8 @@
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-28 15:21:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-28 15:21:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-28 15:21:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-28 15:21:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adult-brainstorming-briefing-1157859]]></wp:post_name>
@@ -405,7 +427,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adult-composition-corporate-attire-959816</title>
+		<title><![CDATA[adult-composition-corporate-attire-959816]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/building-tomorrows-reality/adult-composition-corporate-attire-959816/</link>
 		<pubDate>Fri, 28 Jun 2019 15:22:05 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -416,6 +438,8 @@
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-28 15:22:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-28 15:22:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-28 15:22:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-28 15:22:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adult-composition-corporate-attire-959816]]></wp:post_name>
@@ -436,7 +460,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adults-analysis-brainstorming-1661004</title>
+		<title><![CDATA[adults-analysis-brainstorming-1661004]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/the-greatest-solution/adults-analysis-brainstorming-1661004/</link>
 		<pubDate>Fri, 28 Jun 2019 15:22:18 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -447,6 +471,8 @@
 		<wp:post_id>95</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-28 15:22:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-28 15:22:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-28 15:22:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-28 15:22:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adults-analysis-brainstorming-1661004]]></wp:post_name>
@@ -467,7 +493,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bump-collaboration-colleagues-1068523</title>
+		<title><![CDATA[bump-collaboration-colleagues-1068523]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/lifes-highest-reward/bump-collaboration-colleagues-1068523/</link>
 		<pubDate>Fri, 28 Jun 2019 15:23:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -478,6 +504,8 @@
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-28 15:23:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-28 15:23:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-28 15:23:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-28 15:23:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bump-collaboration-colleagues-1068523]]></wp:post_name>
@@ -498,7 +526,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>camera-coffee-composition-1509428</title>
+		<title><![CDATA[camera-coffee-composition-1509428]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/the-secret-of-personal-development/camera-coffee-composition-1509428/</link>
 		<pubDate>Fri, 28 Jun 2019 15:23:15 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -509,6 +537,8 @@
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-28 15:23:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-28 15:23:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-28 15:23:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-28 15:23:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[camera-coffee-composition-1509428]]></wp:post_name>
@@ -529,7 +559,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Hero</title>
+		<title><![CDATA[Hero]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/home/hero/</link>
 		<pubDate>Mon, 01 Jul 2019 07:53:35 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -540,6 +570,8 @@
 		<wp:post_id>105</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-01 07:53:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-01 07:53:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-01 07:53:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-01 07:53:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hero]]></wp:post_name>
@@ -560,7 +592,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>business-businessman-contemporary-532220 thumb</title>
+		<title><![CDATA[business-businessman-contemporary-532220 thumb]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/home/business-businessman-contemporary-532220-thumb-2/</link>
 		<pubDate>Mon, 01 Jul 2019 08:04:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -571,6 +603,8 @@
 		<wp:post_id>106</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-01 08:04:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-01 08:04:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-01 08:04:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-01 08:04:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[business-businessman-contemporary-532220-thumb-2]]></wp:post_name>
@@ -591,7 +625,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>attractive-background-beautiful-756453 thumb</title>
+		<title><![CDATA[attractive-background-beautiful-756453 thumb]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/home/attractive-background-beautiful-756453-thumb-2/</link>
 		<pubDate>Mon, 01 Jul 2019 08:04:27 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -602,6 +636,8 @@
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-01 08:04:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-01 08:04:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-01 08:04:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-01 08:04:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[attractive-background-beautiful-756453-thumb-2]]></wp:post_name>
@@ -622,7 +658,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adult-beard-blur-437645 thumb</title>
+		<title><![CDATA[adult-beard-blur-437645 thumb]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/success-stories/adult-beard-blur-437645-thumb-2/</link>
 		<pubDate>Mon, 01 Jul 2019 08:05:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -633,6 +669,8 @@
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-01 08:05:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-01 08:05:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-01 08:05:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-01 08:05:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adult-beard-blur-437645-thumb-2]]></wp:post_name>
@@ -653,7 +691,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adult-beautiful-close-up-1776862 thumb</title>
+		<title><![CDATA[adult-beautiful-close-up-1776862 thumb]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/success-stories/adult-beautiful-close-up-1776862-thumb-2/</link>
 		<pubDate>Mon, 01 Jul 2019 08:05:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -664,6 +702,8 @@
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-01 08:05:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-01 08:05:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-01 08:05:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-01 08:05:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adult-beautiful-close-up-1776862-thumb-2]]></wp:post_name>
@@ -684,7 +724,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/</link>
 		<pubDate>Tue, 25 Jun 2019 07:29:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -744,6 +784,8 @@
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 07:29:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 07:29:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-20 04:31:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-20 04:31:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -783,11 +825,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:17;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:17;s:11:"header_size";i:13;s:12:"align_tablet";i:5;s:12:"align_mobile";i:1;s:5:"align";i:7;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:11;s:21:"typography_typography";i:11;s:22:"typography_line_height";i:11;s:27:"typography_font_size_mobile";i:3;s:21:"typography_font_style";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_family";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:7;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:4:{s:4:"text";i:7;s:4:"size";i:7;s:12:"align_tablet";i:2;s:5:"align";i:5;}}s:5:"style";a:1:{s:13:"section_style";a:14:{s:21:"typography_typography";i:7;s:25:"typography_text_transform";i:7;s:17:"button_text_color";i:7;s:16:"background_color";i:7;s:29:"button_background_hover_color";i:7;s:13:"border_radius";i:7;s:12:"text_padding";i:7;s:20:"typography_font_size";i:4;s:11:"hover_color";i:1;s:25:"button_hover_border_color";i:1;s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;s:19:"text_padding_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:17;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:6;s:19:"_inline_size_tablet";i:10;s:16:"content_position";i:5;s:19:"_inline_size_mobile";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:14:"padding_tablet";i:1;s:7:"padding";i:6;s:6:"margin";i:10;s:13:"margin_mobile";i:4;s:13:"margin_tablet";i:7;s:14:"padding_mobile";i:2;}}s:5:"style";a:2:{s:13:"section_style";a:4:{s:21:"background_background";i:6;s:16:"background_color";i:5;s:18:"background_color_b";i:2;s:25:"background_gradient_angle";i:2;}s:14:"section_border";a:1:{s:13:"border_radius";i:3;}}}}s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:4;s:10:"image_size";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:2;s:14:"_margin_tablet";i:2;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:5:"width";i:2;s:12:"width_tablet";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:10;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:7;}s:14:"section_layout";a:3:{s:3:"gap";i:10;s:13:"content_width";i:1;s:16:"content_position";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:5;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:3;s:15:"background_size";i:3;s:16:"background_color";i:4;}s:26:"section_background_overlay";a:14:{s:29:"background_overlay_background";i:2;s:27:"background_overlay_position";i:2;s:25:"background_overlay_repeat";i:2;s:23:"background_overlay_size";i:2;s:26:"background_overlay_opacity";i:2;s:34:"background_overlay_position_tablet";i:2;s:30:"background_overlay_size_tablet";i:2;s:30:"background_overlay_size_mobile";i:2;s:34:"background_overlay_bg_width_tablet";i:2;s:34:"background_overlay_bg_width_mobile";i:2;s:23:"background_overlay_xpos";i:1;s:23:"background_overlay_ypos";i:1;s:30:"background_overlay_xpos_tablet";i:1;s:30:"background_overlay_ypos_tablet";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:5;s:14:"padding_tablet";i:4;s:14:"padding_mobile";i:4;s:6:"margin";i:2;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:2;s:20:"reverse_order_mobile";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:8;}}s:5:"style";a:1:{s:13:"section_style";a:10:{s:12:"align_mobile";i:1;s:5:"align";i:4;s:10:"text_color";i:2;s:21:"typography_typography";i:2;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:2;s:21:"typography_font_style";i:2;s:22:"typography_line_height";i:2;s:22:"typography_font_weight";i:2;s:12:"align_tablet";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:3:{s:5:"space";i:3;s:12:"space_tablet";i:1;s:12:"space_mobile";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:17;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:5:{s:5:"title";i:17;s:11:"header_size";i:13;s:12:"align_tablet";i:5;s:12:"align_mobile";i:1;s:5:"align";i:7;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:11;s:21:"typography_typography";i:11;s:22:"typography_line_height";i:11;s:27:"typography_font_size_mobile";i:3;s:21:"typography_font_style";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_family";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:7;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:4:{s:4:"text";i:7;s:4:"size";i:7;s:12:"align_tablet";i:2;s:5:"align";i:5;}}s:5:"style";a:1:{s:13:"section_style";a:14:{s:21:"typography_typography";i:7;s:25:"typography_text_transform";i:7;s:17:"button_text_color";i:7;s:16:"background_color";i:7;s:29:"button_background_hover_color";i:7;s:13:"border_radius";i:7;s:12:"text_padding";i:7;s:20:"typography_font_size";i:4;s:11:"hover_color";i:1;s:25:"button_hover_border_color";i:1;s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;s:19:"text_padding_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:17;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:6;s:19:"_inline_size_tablet";i:10;s:16:"content_position";i:5;s:19:"_inline_size_mobile";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:14:"padding_tablet";i:1;s:7:"padding";i:6;s:6:"margin";i:10;s:13:"margin_mobile";i:4;s:13:"margin_tablet";i:7;s:14:"padding_mobile";i:2;}}s:5:"style";a:2:{s:13:"section_style";a:4:{s:21:"background_background";i:6;s:16:"background_color";i:5;s:18:"background_color_b";i:2;s:25:"background_gradient_angle";i:2;}s:14:"section_border";a:1:{s:13:"border_radius";i:3;}}}}s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:4;s:10:"image_size";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:2;s:14:"_margin_tablet";i:2;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:5:"width";i:2;s:12:"width_tablet";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:10;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:7;}s:14:"section_layout";a:3:{s:3:"gap";i:10;s:13:"content_width";i:1;s:16:"content_position";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:5;s:16:"background_image";i:3;s:19:"background_position";i:3;s:17:"background_repeat";i:3;s:15:"background_size";i:3;s:16:"background_color";i:4;}s:26:"section_background_overlay";a:14:{s:29:"background_overlay_background";i:2;s:27:"background_overlay_position";i:2;s:25:"background_overlay_repeat";i:2;s:23:"background_overlay_size";i:2;s:26:"background_overlay_opacity";i:2;s:34:"background_overlay_position_tablet";i:2;s:30:"background_overlay_size_tablet";i:2;s:30:"background_overlay_size_mobile";i:2;s:34:"background_overlay_bg_width_tablet";i:2;s:34:"background_overlay_bg_width_mobile";i:2;s:23:"background_overlay_xpos";i:1;s:23:"background_overlay_ypos";i:1;s:30:"background_overlay_xpos_tablet";i:1;s:30:"background_overlay_ypos_tablet";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:4:{s:7:"padding";i:5;s:14:"padding_tablet";i:4;s:14:"padding_mobile";i:4;s:6:"margin";i:2;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:2;s:20:"reverse_order_mobile";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:8;}}s:5:"style";a:1:{s:13:"section_style";a:10:{s:12:"align_mobile";i:1;s:5:"align";i:4;s:10:"text_color";i:2;s:21:"typography_typography";i:2;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:2;s:21:"typography_font_style";i:2;s:22:"typography_line_height";i:2;s:22:"typography_font_weight";i:2;s:12:"align_tablet";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:3:{s:5:"space";i:3;s:12:"space_tablet";i:1;s:12:"space_mobile";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/about/</link>
 		<pubDate>Tue, 25 Jun 2019 08:26:51 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -814,6 +856,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 08:26:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 08:26:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-14 04:50:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-14 04:50:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -853,11 +897,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:7;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:7;s:5:"align";i:5;s:11:"header_size";i:5;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:21:"typography_typography";i:5;s:22:"typography_line_height";i:5;s:20:"typography_font_size";i:3;s:11:"title_color";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:4;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:11;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:6;s:16:"content_position";i:6;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:7:"padding";i:6;s:14:"padding_tablet";i:3;s:6:"margin";i:6;s:13:"margin_tablet";i:4;s:13:"margin_mobile";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:7:"padding";i:5;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:2;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:2;}}s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:13:"content_width";i:1;s:3:"gap";i:8;}s:17:"section_structure";a:1:{s:9:"structure";i:3;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:4;s:16:"background_color";i:4;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:3;s:10:"image_size";i:3;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:4:"size";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:21:"typography_typography";i:1;s:25:"typography_text_transform";i:1;s:17:"button_text_color";i:1;s:16:"background_color";i:1;s:29:"button_background_hover_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:7;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:7;s:5:"align";i:5;s:11:"header_size";i:5;s:12:"align_mobile";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:21:"typography_typography";i:5;s:22:"typography_line_height";i:5;s:20:"typography_font_size";i:3;s:11:"title_color";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:4;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:11;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:6;s:16:"content_position";i:6;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:7:"padding";i:6;s:14:"padding_tablet";i:3;s:6:"margin";i:6;s:13:"margin_tablet";i:4;s:13:"margin_mobile";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:7:"padding";i:5;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:2;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:2;}}s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:13:"content_width";i:1;s:3:"gap";i:8;}s:17:"section_structure";a:1:{s:9:"structure";i:3;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:4;s:16:"background_color";i:4;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:3;s:10:"image_size";i:3;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:4:"size";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:21:"typography_typography";i:1;s:25:"typography_text_transform";i:1;s:17:"button_text_color";i:1;s:16:"background_color";i:1;s:29:"button_background_hover_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Success Stories</title>
+		<title><![CDATA[Success Stories]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/success-stories/</link>
 		<pubDate>Tue, 25 Jun 2019 08:29:11 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -900,6 +944,8 @@ Contact Us
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 08:29:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 08:29:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-13 09:43:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-13 09:43:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[success-stories]]></wp:post_name>
@@ -939,11 +985,11 @@ Contact Us
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:6;s:10:"image_size";i:6;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:6;}}}}s:6:"column";a:3:{s:5:"count";i:14;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:12;s:19:"_inline_size_tablet";i:12;s:16:"content_position";i:6;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:12;s:13:"margin_tablet";i:12;s:7:"padding";i:6;s:14:"padding_mobile";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:21:"background_background";i:6;s:16:"background_color";i:6;s:18:"background_color_b";i:6;s:25:"background_gradient_angle";i:6;}}}}s:7:"heading";a:3:{s:5:"count";i:15;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:15;s:11:"header_size";i:14;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:15;s:21:"typography_typography";i:13;s:22:"typography_line_height";i:13;s:20:"typography_font_size";i:6;s:21:"typography_font_style";i:6;}}}}s:11:"text-editor";a:3:{s:5:"count";i:6;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:10:"text_color";i:6;s:21:"typography_typography";i:6;s:22:"typography_font_family";i:6;s:20:"typography_font_size";i:6;s:21:"typography_font_style";i:6;s:22:"typography_line_height";i:6;s:22:"typography_font_weight";i:6;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:8;}s:17:"section_structure";a:1:{s:9:"structure";i:6;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:6:"margin";i:6;s:13:"margin_tablet";i:1;s:7:"padding";i:2;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:3;s:20:"reverse_order_mobile";i:3;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:4:"size";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:21:"typography_typography";i:1;s:25:"typography_text_transform";i:1;s:17:"button_text_color";i:1;s:16:"background_color";i:1;s:29:"button_background_hover_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:5:"image";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:6;s:10:"image_size";i:6;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:6;}}}}s:6:"column";a:3:{s:5:"count";i:14;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:12;s:19:"_inline_size_tablet";i:12;s:16:"content_position";i:6;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:12;s:13:"margin_tablet";i:12;s:7:"padding";i:6;s:14:"padding_mobile";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:21:"background_background";i:6;s:16:"background_color";i:6;s:18:"background_color_b";i:6;s:25:"background_gradient_angle";i:6;}}}}s:7:"heading";a:3:{s:5:"count";i:15;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:15;s:11:"header_size";i:14;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:15;s:21:"typography_typography";i:13;s:22:"typography_line_height";i:13;s:20:"typography_font_size";i:6;s:21:"typography_font_style";i:6;}}}}s:11:"text-editor";a:3:{s:5:"count";i:6;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:10:"text_color";i:6;s:21:"typography_typography";i:6;s:22:"typography_font_family";i:6;s:20:"typography_font_size";i:6;s:21:"typography_font_style";i:6;s:22:"typography_line_height";i:6;s:22:"typography_font_weight";i:6;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:8;}s:17:"section_structure";a:1:{s:9:"structure";i:6;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:6:"margin";i:6;s:13:"margin_tablet";i:1;s:7:"padding";i:2;}s:19:"_section_responsive";a:2:{s:20:"reverse_order_tablet";i:3;s:20:"reverse_order_mobile";i:3;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:4:"size";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:21:"typography_typography";i:1;s:25:"typography_text_transform";i:1;s:17:"button_text_color";i:1;s:16:"background_color";i:1;s:29:"button_background_hover_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Community Info</title>
+		<title><![CDATA[Community Info]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/community-info/</link>
 		<pubDate>Tue, 25 Jun 2019 08:29:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -954,6 +1000,8 @@ Contact Us
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 08:29:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 08:29:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-25 08:29:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-25 08:29:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[community-info]]></wp:post_name>
@@ -973,7 +1021,7 @@ Contact Us
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/contact/</link>
 		<pubDate>Tue, 25 Jun 2019 08:29:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -988,6 +1036,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 08:29:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 08:29:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-12 11:51:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-12 11:51:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1027,11 +1077,11 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:1;s:13:"margin_mobile";i:2;s:7:"padding";i:1;s:14:"padding_mobile";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:11:"header_size";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:6:"weight";i:1;s:5:"color";i:1;s:3:"gap";i:1;}}s:7:"content";a:1:{s:15:"section_divider";a:1:{s:5:"width";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:1;s:13:"margin_mobile";i:2;s:7:"padding";i:1;s:14:"padding_mobile";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:11:"header_size";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:6:"weight";i:1;s:5:"color";i:1;s:3:"gap";i:1;}}s:7:"content";a:1:{s:15:"section_divider";a:1:{s:5:"width";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/26/</link>
 		<pubDate>Tue, 25 Jun 2019 08:30:21 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1042,6 +1092,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 08:30:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 08:30:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-29 12:24:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-29 12:24:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[26]]></wp:post_name>
@@ -1086,7 +1138,7 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/27/</link>
 		<pubDate>Tue, 25 Jun 2019 08:30:21 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1097,6 +1149,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 08:30:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 08:30:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-29 12:24:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-29 12:24:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[27]]></wp:post_name>
@@ -1141,7 +1195,7 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/28/</link>
 		<pubDate>Tue, 25 Jun 2019 08:30:21 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1152,6 +1206,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>28</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 08:30:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 08:30:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-29 12:24:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-29 12:24:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[28]]></wp:post_name>
@@ -1196,7 +1252,7 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/29/</link>
 		<pubDate>Tue, 25 Jun 2019 08:30:21 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1207,6 +1263,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 08:30:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 08:30:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-29 12:24:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-29 12:24:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[29]]></wp:post_name>
@@ -1251,7 +1309,7 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/30/</link>
 		<pubDate>Tue, 25 Jun 2019 08:30:21 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1262,6 +1320,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-25 08:30:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-25 08:30:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-29 12:24:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-29 12:24:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[30]]></wp:post_name>
@@ -1306,107 +1366,7 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Success Stories Section Photo Left</title>
-		<link>https://demo.sukiwp.com/jordan-ballard-elementor/?elementor_library=success-stories-section-photo-left</link>
-		<pubDate>Thu, 27 Jun 2019 06:09:08 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.sukiwp.com/jordan-ballard-elementor/?elementor_library=success-stories-section-photo-left</guid>
-		<description></description>
-		<content:encoded><![CDATA[<img width="486" height="406" src="https://demo.sukiwp.com/jordan-ballard-elementor/wp-content/uploads/sites/28/2019/06/business-businessman-contemporary-532220-thumb.jpg" alt="" />											
-			<h3>Steven Brill</h3>		
-			<h4>— Contractor Property</h4>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-27 06:09:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-27 06:09:08]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[success-stories-section-photo-left]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="elementor_library_type" nicename="section"><![CDATA[section]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[section]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"826c9fd","elType":"section","settings":{"gap":"no","structure":"20","margin":{"unit":"px","top":"0","right":0,"bottom":"30","left":0,"isLinked":false}},"elements":[{"id":"a238d90","elType":"column","settings":{"_column_size":50,"_inline_size":40,"margin":{"unit":"px","top":"0","right":"12","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"ef226e7","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/jordan-ballard-elementor\/wp-content\/uploads\/sites\/28\/2019\/06\/business-businessman-contemporary-532220-thumb.jpg","id":35},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"7648faa","elType":"column","settings":{"_column_size":50,"_inline_size":60,"background_background":"gradient","background_color":"#b034d5","background_color_b":"#1c9faa","background_gradient_angle":{"unit":"deg","size":120,"sizes":[]},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"12","isLinked":false},"padding":{"unit":"px","top":"80","right":"100","bottom":"80","left":"100","isLinked":false}},"elements":[{"id":"5a779a0","elType":"widget","settings":{"title":"Steven Brill","header_size":"h3","title_color":"#ffffff","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"c6d734c","elType":"widget","settings":{"title":"\u2014 Contractor Property","header_size":"h4","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_style":"italic","typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"01bfd80","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<\/p>","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Raleway","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_style":"italic","typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.16]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:2;s:7:"padding";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:21:"background_background";i:1;s:16:"background_color";i:1;s:18:"background_color_b";i:1;s:25:"background_gradient_angle";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:2;s:11:"header_size";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:2;s:21:"typography_typography";i:2;s:22:"typography_line_height";i:2;s:20:"typography_font_size";i:1;s:21:"typography_font_style";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:21:"typography_font_style";i:1;s:22:"typography_line_height";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:1;}}}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Success Stories Section Photo Right</title>
-		<link>https://demo.sukiwp.com/jordan-ballard-elementor/?elementor_library=success-stories-section-photo-right</link>
-		<pubDate>Thu, 27 Jun 2019 06:09:31 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.sukiwp.com/jordan-ballard-elementor/?elementor_library=success-stories-section-photo-right</guid>
-		<description></description>
-		<content:encoded><![CDATA[<h3>Elizabeth Banks</h3>		
-			<h4>— Animation Producer</h4>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>		
-										<img width="486" height="406" src="https://demo.sukiwp.com/jordan-ballard-elementor/wp-content/uploads/sites/28/2019/06/attractive-background-beautiful-756453-thumb.jpg" alt="" />]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-27 06:09:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-27 06:09:31]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[success-stories-section-photo-right]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="elementor_library_type" nicename="section"><![CDATA[section]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[section]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"c5be8b4","elType":"section","settings":{"gap":"no","structure":"20","margin":{"unit":"px","top":"0","right":0,"bottom":"30","left":0,"isLinked":false}},"elements":[{"id":"89e73ca","elType":"column","settings":{"_column_size":50,"_inline_size":60,"background_background":"gradient","background_color":"#b034d5","background_color_b":"#1c9faa","background_gradient_angle":{"unit":"deg","size":120,"sizes":[]},"margin":{"unit":"px","top":"0","right":"12","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"80","right":"100","bottom":"80","left":"100","isLinked":false}},"elements":[{"id":"6652c2c","elType":"widget","settings":{"title":"Elizabeth Banks","header_size":"h3","title_color":"#ffffff","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"2bc76b8","elType":"widget","settings":{"title":"\u2014 Animation Producer","header_size":"h4","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_style":"italic","typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"fe262d6","elType":"widget","settings":{"editor":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<\/p>","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Raleway","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_style":"italic","typography_line_height":{"unit":"em","size":1.3,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"9c218ce","elType":"column","settings":{"_column_size":50,"_inline_size":40,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"12","isLinked":false}},"elements":[{"id":"44824e3","elType":"widget","settings":{"image":{"url":"https:\/\/demo.sukiwp.com\/jordan-ballard-elementor\/wp-content\/uploads\/sites\/28\/2019\/06\/attractive-background-beautiful-756453-thumb.jpg","id":36},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true}]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.16]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:2;s:11:"header_size";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:2;s:21:"typography_typography";i:2;s:22:"typography_line_height";i:2;s:20:"typography_font_size";i:1;s:21:"typography_font_style";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:6:{s:10:"text_color";i:1;s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;s:21:"typography_font_style";i:1;s:22:"typography_line_height";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:21:"background_background";i:1;s:16:"background_color";i:1;s:18:"background_color_b";i:1;s:25:"background_gradient_angle";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:2;s:7:"padding";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:1;}}}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>The Secret of Personal Development</title>
+		<title><![CDATA[The Secret of Personal Development]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/the-secret-of-personal-development/</link>
 		<pubDate>Fri, 28 Jun 2019 07:01:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1423,6 +1383,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-28 07:01:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-28 07:01:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-28 15:23:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-28 15:23:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-secret-of-personal-development]]></wp:post_name>
@@ -1447,7 +1409,7 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Life’s Highest Reward</title>
+		<title><![CDATA[Life’s Highest Reward]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/lifes-highest-reward/</link>
 		<pubDate>Fri, 28 Jun 2019 07:02:11 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1464,6 +1426,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-28 07:02:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-28 07:02:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-28 15:23:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-28 15:23:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[lifes-highest-reward]]></wp:post_name>
@@ -1488,7 +1452,7 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The Greatest Solution</title>
+		<title><![CDATA[The Greatest Solution]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/the-greatest-solution/</link>
 		<pubDate>Fri, 28 Jun 2019 07:02:33 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1505,6 +1469,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-28 07:02:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-28 07:02:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-28 15:22:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-28 15:22:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-greatest-solution]]></wp:post_name>
@@ -1529,7 +1495,7 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Building Tomorrow’s Reality</title>
+		<title><![CDATA[Building Tomorrow’s Reality]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/building-tomorrows-reality/</link>
 		<pubDate>Fri, 28 Jun 2019 07:02:56 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1546,6 +1512,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-28 07:02:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-28 07:02:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-28 15:22:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-28 15:22:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[building-tomorrows-reality]]></wp:post_name>
@@ -1570,7 +1538,50 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>afro-beautiful-beauty-819105 thumb</title>
+		<title><![CDATA[The Power to Create Change]]></title>
+		<link>https://demo.sukiwp.com/jordan-ballard-elementor/the-power-to-create-change/</link>
+		<pubDate>Fri, 28 Jun 2019 07:03:16 +0000</pubDate>
+		<dc:creator><![CDATA[author]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/jordan-ballard-elementor/?p=78</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>78</wp:post_id>
+		<wp:post_date><![CDATA[2019-06-28 07:03:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-06-28 07:03:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-28 15:21:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-28 15:21:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-power-to-create-change]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[93]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[afro-beautiful-beauty-819105 thumb]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/success-stories/afro-beautiful-beauty-819105-thumb-2/</link>
 		<pubDate>Mon, 01 Jul 2019 08:06:11 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1581,6 +1592,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-01 08:06:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-01 08:06:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-01 08:06:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-01 08:06:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[afro-beautiful-beauty-819105-thumb-2]]></wp:post_name>
@@ -1601,7 +1614,7 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>adult-beard-cement-845434 thumb</title>
+		<title><![CDATA[adult-beard-cement-845434 thumb]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/success-stories/adult-beard-cement-845434-thumb-2/</link>
 		<pubDate>Mon, 01 Jul 2019 08:06:22 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1612,6 +1625,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-01 08:06:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-01 08:06:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-07-01 08:06:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-07-01 08:06:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[adult-beard-cement-845434-thumb-2]]></wp:post_name>
@@ -1632,7 +1647,7 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hero home</title>
+		<title><![CDATA[hero home]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/home/hero-home/</link>
 		<pubDate>Tue, 20 Aug 2019 04:18:18 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1643,6 +1658,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>125</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-20 04:18:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-20 04:18:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-08-20 04:18:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-08-20 04:18:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hero-home]]></wp:post_name>
@@ -1663,7 +1680,7 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo JB</title>
+		<title><![CDATA[logo JB]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/logo-jb/</link>
 		<pubDate>Tue, 03 Sep 2019 05:22:45 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1674,6 +1691,8 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		<wp:post_id>128</wp:post_id>
 		<wp:post_date><![CDATA[2019-09-03 05:22:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-09-03 05:22:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-09-03 05:22:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-09-03 05:22:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-jb]]></wp:post_name>
@@ -1694,7 +1713,43 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact form</title>
+		<title><![CDATA[Default Kit]]></title>
+		<link>https://demo.sukiwp.com/jordan-ballard-elementor/?elementor_library=default-kit</link>
+		<pubDate>Sun, 26 Apr 2020 10:15:38 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/jordan-ballard-elementor/?elementor_library=default-kit</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>131</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-26 10:15:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-26 10:15:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-26 10:15:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-26 10:15:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[kit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:10:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:21:"global_image_lightbox";s:3:"yes";s:27:"stretched_section_container";s:5:"#page";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1200";}s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:4:"1024";s:13:"custom_colors";a:4:{i:0;a:3:{s:3:"_id";s:8:"5c3b3efa";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:1;a:3:{s:3:"_id";s:8:"53d202d8";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:2;a:3:{s:3:"_id";s:7:"c12203f";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:3;a:3:{s:3:"_id";s:8:"387ba0ed";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";i:1023;}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact form]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/?post_type=wpcf7_contact_form&#038;p=63</link>
 		<pubDate>Thu, 27 Jun 2019 07:14:37 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -1710,10 +1765,10 @@ info@sukiwp.com | +65 1234 5678]]></content:encoded>
 
 [submit "Submit"]
 1
-Jordan Ballard - Motivational Speaker (Elementor) "[your-subject]"
-Jordan Ballard - Motivational Speaker (Elementor) 
+Jordan Ballard - Motivational Speaker "[your-subject]"
+[your-name] <wordpress@demo.sukiwp.com>
 noreply@sukiwp.com
-From: [your-name] 
+From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -1727,7 +1782,7 @@ Reply-To: [your-email]
 
 
 Jordan Ballard - Motivational Speaker (Elementor) "[your-subject]"
-Jordan Ballard - Motivational Speaker (Elementor) 
+Jordan Ballard - Motivational Speaker (Elementor) <wordpress@demo.sukiwp.com>
 [your-email]
 Message Body:
 [your-message]
@@ -1765,6 +1820,8 @@ The telephone number is invalid.]]></content:encoded>
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-27 07:14:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-27 07:14:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-04 11:22:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-04 11:22:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
@@ -1788,7 +1845,7 @@ The telephone number is invalid.]]></content:encoded>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:66:"Jordan Ballard - Motivational Speaker (Elementor) "[your-subject]"";s:6:"sender";s:77:"Jordan Ballard - Motivational Speaker (Elementor) <wordpress@demo.sukiwp.com>";s:9:"recipient";s:18:"noreply@sukiwp.com";s:4:"body";s:236:"From: [your-name] <[your-email]>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:54:"Jordan Ballard - Motivational Speaker "[your-subject]"";s:6:"sender";s:39:"[your-name] <wordpress@demo.sukiwp.com>";s:9:"recipient";s:18:"noreply@sukiwp.com";s:4:"body";s:236:"From: [your-name] <[your-email]>
 Subject: [your-subject]
 
 Message Body:
@@ -1819,48 +1876,7 @@ This e-mail was sent from a contact form on Jordan Ballard - Motivational Speake
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>The Power to Create Change</title>
-		<link>https://demo.sukiwp.com/jordan-ballard-elementor/the-power-to-create-change/</link>
-		<pubDate>Fri, 28 Jun 2019 07:03:16 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.sukiwp.com/jordan-ballard-elementor/?p=78</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>78</wp:post_id>
-		<wp:post_date><![CDATA[2019-06-28 07:03:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-06-28 07:03:16]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[the-power-to-create-change]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[93]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Approach to Inspiring Change</title>
+		<title><![CDATA[Approach to Inspiring Change]]></title>
 		<link>https://demo.sukiwp.com/jordan-ballard-elementor/approach-to-inspiring-change/</link>
 		<pubDate>Fri, 28 Jun 2019 07:03:56 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1877,6 +1893,8 @@ This e-mail was sent from a contact form on Jordan Ballard - Motivational Speake
 		<wp:post_id>79</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-28 07:03:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-06-28 07:03:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-06-28 09:38:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-06-28 09:38:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[approach-to-inspiring-change]]></wp:post_name>
