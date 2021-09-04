@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-01-11 15:17" -->
+	<!-- generator="WordPress/5.8" created="2021-09-04 14:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Donutime - Donut Shop (Elementor)</title>
 	<link>https://demo.sukiwp.com/donutime-elementor</link>
 	<description>Just another Suki Demo site</description>
-	<pubDate>Mon, 11 Jan 2021 15:17:39 +0000</pubDate>
+	<pubDate>Sat, 04 Sep 2021 14:59:22 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
+	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.sukiwp.com/donutime-elementor</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[sukiwp]]></wp:author_login><wp:author_email><![CDATA[admin@sukiwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin Suki]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[Suki]]></wp:author_last_name></wp:author>
@@ -62,17 +62,24 @@
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-					<wp:term><wp:term_id>17</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-column-2]]></wp:term_slug><wp:term_name><![CDATA[Footer Column 2]]></wp:term_name>
+				<wp:term>
+		<wp:term_id>22</wp:term_id>
+		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[page]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[page]]></wp:term_name>
+	</wp:term>
+			<wp:term><wp:term_id>17</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-column-2]]></wp:term_slug><wp:term_name><![CDATA[Footer Column 2]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>21</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[mobile-menu]]></wp:term_slug><wp:term_name><![CDATA[Mobile Menu]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>16</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 		<item>
-		<title>woocommerce-placeholder</title>
+		<title><![CDATA[woocommerce-placeholder]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/woocommerce-placeholder/</link>
 		<pubDate>Thu, 24 Dec 2020 12:19:09 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -83,6 +90,8 @@
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 12:19:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 12:19:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-24 12:19:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-24 12:19:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woocommerce-placeholder]]></wp:post_name>
@@ -103,7 +112,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo navy</title>
+		<title><![CDATA[logo navy]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/logo-navy/</link>
 		<pubDate>Mon, 28 Dec 2020 04:19:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -114,6 +123,8 @@
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-28 04:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-28 04:19:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-28 04:19:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-28 04:19:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-navy]]></wp:post_name>
@@ -134,7 +145,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bg hero</title>
+		<title><![CDATA[bg hero]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/home/bg-hero/</link>
 		<pubDate>Tue, 29 Dec 2020 09:32:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -145,6 +156,8 @@
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 09:32:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 09:32:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 09:32:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 09:32:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bg-hero]]></wp:post_name>
@@ -165,7 +178,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>icon donut</title>
+		<title><![CDATA[icon donut]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/home/icon-donut/</link>
 		<pubDate>Tue, 29 Dec 2020 13:51:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -176,6 +189,8 @@
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 13:51:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 13:51:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 13:51:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 13:51:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[icon-donut]]></wp:post_name>
@@ -196,7 +211,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>icon party</title>
+		<title><![CDATA[icon party]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/home/icon-party/</link>
 		<pubDate>Tue, 29 Dec 2020 14:28:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -207,6 +222,8 @@
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 14:28:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 14:28:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 14:28:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 14:28:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[icon-party]]></wp:post_name>
@@ -227,7 +244,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>icon gift</title>
+		<title><![CDATA[icon gift]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/home/icon-gift/</link>
 		<pubDate>Tue, 29 Dec 2020 14:29:42 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -238,6 +255,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 14:29:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 14:29:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 14:29:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 14:29:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[icon-gift]]></wp:post_name>
@@ -258,7 +277,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hero-img</title>
+		<title><![CDATA[hero-img]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/home/hero-img/</link>
 		<pubDate>Tue, 29 Dec 2020 15:01:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -269,6 +288,8 @@
 		<wp:post_id>44</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 15:01:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 15:01:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 15:01:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 15:01:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hero-img]]></wp:post_name>
@@ -289,7 +310,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>boy-eating-donut</title>
+		<title><![CDATA[boy-eating-donut]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/home/boy-eating-donut/</link>
 		<pubDate>Tue, 29 Dec 2020 15:02:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -300,6 +321,8 @@
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-29 15:02:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-29 15:02:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-29 15:02:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-29 15:02:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[boy-eating-donut]]></wp:post_name>
@@ -320,7 +343,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Donut2</title>
+		<title><![CDATA[Donut2]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/home/donut2/</link>
 		<pubDate>Wed, 30 Dec 2020 10:31:10 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -331,6 +354,8 @@
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 10:31:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 10:31:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 10:31:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 10:31:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donut2]]></wp:post_name>
@@ -351,7 +376,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Donut1</title>
+		<title><![CDATA[Donut1]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/home/donut1/</link>
 		<pubDate>Wed, 30 Dec 2020 10:31:25 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -362,6 +387,8 @@
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 10:31:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 10:31:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 10:31:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 10:31:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donut1]]></wp:post_name>
@@ -382,7 +409,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Donut5</title>
+		<title><![CDATA[Donut5]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/home/donut5/</link>
 		<pubDate>Wed, 30 Dec 2020 10:31:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -393,6 +420,8 @@
 		<wp:post_id>54</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 10:31:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 10:31:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 10:31:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 10:31:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donut5]]></wp:post_name>
@@ -413,7 +442,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo white</title>
+		<title><![CDATA[logo white]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/logo-white/</link>
 		<pubDate>Wed, 30 Dec 2020 11:01:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -424,6 +453,8 @@
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:01:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:01:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:01:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:01:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-white]]></wp:post_name>
@@ -444,7 +475,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>img-our-story</title>
+		<title><![CDATA[img-our-story]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/our-story/img-our-story/</link>
 		<pubDate>Wed, 30 Dec 2020 13:26:07 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -455,6 +486,8 @@
 		<wp:post_id>95</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 13:26:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 13:26:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 13:26:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 13:26:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[img-our-story]]></wp:post_name>
@@ -475,7 +508,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bg ourstory</title>
+		<title><![CDATA[bg ourstory]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/our-story/bg-ourstory/</link>
 		<pubDate>Wed, 30 Dec 2020 13:28:50 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -486,6 +519,8 @@
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 13:28:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 13:28:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 13:28:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 13:28:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bg-ourstory]]></wp:post_name>
@@ -506,7 +541,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>img-our-dream</title>
+		<title><![CDATA[img-our-dream]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/our-story/img-our-dream/</link>
 		<pubDate>Wed, 30 Dec 2020 13:34:10 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -517,6 +552,8 @@
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 13:34:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 13:34:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 13:34:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 13:34:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[img-our-dream]]></wp:post_name>
@@ -537,7 +574,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bg team</title>
+		<title><![CDATA[bg team]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/our-story/bg-team/</link>
 		<pubDate>Wed, 30 Dec 2020 13:39:07 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -548,6 +585,8 @@
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 13:39:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 13:39:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 13:39:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 13:39:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bg-team]]></wp:post_name>
@@ -568,7 +607,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>1</title>
+		<title><![CDATA[1]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/our-story/attachment/1/</link>
 		<pubDate>Wed, 30 Dec 2020 13:43:51 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -579,6 +618,8 @@
 		<wp:post_id>100</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 13:43:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 13:43:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 13:43:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 13:43:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1]]></wp:post_name>
@@ -599,7 +640,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>2</title>
+		<title><![CDATA[2]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/our-story/attachment/2/</link>
 		<pubDate>Thu, 31 Dec 2020 07:58:25 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -610,6 +651,8 @@
 		<wp:post_id>103</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-31 07:58:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-31 07:58:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-31 07:58:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-31 07:58:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[2]]></wp:post_name>
@@ -630,7 +673,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>3</title>
+		<title><![CDATA[3]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/our-story/attachment/3/</link>
 		<pubDate>Thu, 31 Dec 2020 07:58:36 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -641,6 +684,8 @@
 		<wp:post_id>104</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-31 07:58:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-31 07:58:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-31 07:58:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-31 07:58:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[3]]></wp:post_name>
@@ -661,7 +706,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>2000</title>
+		<title><![CDATA[2000]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/our-story/attachment/2000/</link>
 		<pubDate>Thu, 31 Dec 2020 08:40:57 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -672,6 +717,8 @@
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-31 08:40:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-31 08:40:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-31 08:40:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-31 08:40:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[2000]]></wp:post_name>
@@ -692,7 +739,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>2005</title>
+		<title><![CDATA[2005]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/our-story/attachment/2005/</link>
 		<pubDate>Thu, 31 Dec 2020 09:23:32 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -703,6 +750,8 @@
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-31 09:23:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-31 09:23:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-31 09:23:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-31 09:23:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[2005]]></wp:post_name>
@@ -723,7 +772,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>2018</title>
+		<title><![CDATA[2018]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/our-story/attachment/2018/</link>
 		<pubDate>Thu, 31 Dec 2020 09:25:34 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -734,6 +783,8 @@
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-31 09:25:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-31 09:25:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-31 09:25:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-31 09:25:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[2018]]></wp:post_name>
@@ -754,7 +805,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>banner product</title>
+		<title><![CDATA[banner product]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/menus/banner-product/</link>
 		<pubDate>Tue, 05 Jan 2021 07:08:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -765,6 +816,8 @@
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 07:08:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 07:08:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 07:08:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 07:08:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[banner-product]]></wp:post_name>
@@ -785,7 +838,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Donut3</title>
+		<title><![CDATA[Donut3]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/menus/donut3/</link>
 		<pubDate>Tue, 05 Jan 2021 10:43:07 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -796,6 +849,8 @@
 		<wp:post_id>117</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 10:43:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 10:43:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 10:43:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 10:43:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donut3]]></wp:post_name>
@@ -816,7 +871,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Donut8</title>
+		<title><![CDATA[Donut8]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/menus/donut8/</link>
 		<pubDate>Tue, 05 Jan 2021 10:44:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -827,6 +882,8 @@
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 10:44:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 10:44:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 10:44:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 10:44:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donut8]]></wp:post_name>
@@ -847,7 +904,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Donut4</title>
+		<title><![CDATA[Donut4]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/menus/donut4/</link>
 		<pubDate>Tue, 05 Jan 2021 10:44:21 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -858,6 +915,8 @@
 		<wp:post_id>119</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 10:44:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 10:44:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 10:44:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 10:44:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donut4]]></wp:post_name>
@@ -878,7 +937,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Donut10</title>
+		<title><![CDATA[Donut10]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/menus/donut10/</link>
 		<pubDate>Tue, 05 Jan 2021 10:46:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -889,6 +948,8 @@
 		<wp:post_id>120</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 10:46:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 10:46:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 10:46:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 10:46:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donut10]]></wp:post_name>
@@ -909,7 +970,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Donut7</title>
+		<title><![CDATA[Donut7]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/menus/donut7/</link>
 		<pubDate>Tue, 05 Jan 2021 10:46:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -920,6 +981,8 @@
 		<wp:post_id>121</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 10:46:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 10:46:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 10:46:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 10:46:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donut7]]></wp:post_name>
@@ -940,7 +1003,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Donut9</title>
+		<title><![CDATA[Donut9]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/menus/donut9/</link>
 		<pubDate>Tue, 05 Jan 2021 10:47:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -951,6 +1014,8 @@
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 10:47:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 10:47:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 10:47:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 10:47:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donut9]]></wp:post_name>
@@ -971,7 +1036,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact-img</title>
+		<title><![CDATA[contact-img]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/contact-img/</link>
 		<pubDate>Tue, 05 Jan 2021 11:03:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -982,6 +1047,8 @@
 		<wp:post_id>124</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 11:03:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 11:03:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:03:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:03:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-img]]></wp:post_name>
@@ -1002,7 +1069,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bg contact</title>
+		<title><![CDATA[bg contact]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/bg-contact/</link>
 		<pubDate>Tue, 05 Jan 2021 11:38:55 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1013,6 +1080,8 @@
 		<wp:post_id>128</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 11:38:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 11:38:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:38:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:38:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bg-contact]]></wp:post_name>
@@ -1033,7 +1102,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bg location</title>
+		<title><![CDATA[bg location]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/bg-location/</link>
 		<pubDate>Tue, 05 Jan 2021 11:41:14 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1044,6 +1113,8 @@
 		<wp:post_id>129</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 11:41:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 11:41:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:41:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:41:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bg-location]]></wp:post_name>
@@ -1064,7 +1135,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>store 1</title>
+		<title><![CDATA[store 1]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/store-1/</link>
 		<pubDate>Tue, 05 Jan 2021 11:48:36 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1075,6 +1146,8 @@
 		<wp:post_id>131</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 11:48:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 11:48:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:48:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:48:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[store-1]]></wp:post_name>
@@ -1095,7 +1168,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>store 2</title>
+		<title><![CDATA[store 2]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/store-2/</link>
 		<pubDate>Tue, 05 Jan 2021 11:50:11 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1106,6 +1179,8 @@
 		<wp:post_id>132</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 11:50:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 11:50:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:50:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:50:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[store-2]]></wp:post_name>
@@ -1126,7 +1201,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>store 3</title>
+		<title><![CDATA[store 3]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/store-3/</link>
 		<pubDate>Tue, 05 Jan 2021 11:52:11 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1137,6 +1212,8 @@
 		<wp:post_id>133</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 11:52:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 11:52:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:52:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:52:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[store-3]]></wp:post_name>
@@ -1157,7 +1234,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>store 4</title>
+		<title><![CDATA[store 4]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/store-4/</link>
 		<pubDate>Tue, 05 Jan 2021 11:55:31 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1168,6 +1245,8 @@
 		<wp:post_id>134</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 11:55:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 11:55:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:55:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:55:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[store-4]]></wp:post_name>
@@ -1188,7 +1267,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>store 5</title>
+		<title><![CDATA[store 5]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/store-5/</link>
 		<pubDate>Tue, 05 Jan 2021 11:56:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1199,6 +1278,8 @@
 		<wp:post_id>135</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 11:56:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 11:56:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:56:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:56:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[store-5]]></wp:post_name>
@@ -1219,7 +1300,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>store 6</title>
+		<title><![CDATA[store 6]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/store-6/</link>
 		<pubDate>Tue, 05 Jan 2021 11:56:46 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1230,6 +1311,8 @@
 		<wp:post_id>136</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 11:56:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 11:56:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:56:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:56:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[store-6]]></wp:post_name>
@@ -1250,7 +1333,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>store 7</title>
+		<title><![CDATA[store 7]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/store-7/</link>
 		<pubDate>Tue, 05 Jan 2021 11:58:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1261,6 +1344,8 @@
 		<wp:post_id>137</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 11:58:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 11:58:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:58:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:58:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[store-7]]></wp:post_name>
@@ -1281,7 +1366,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>store 8</title>
+		<title><![CDATA[store 8]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/store-8/</link>
 		<pubDate>Tue, 05 Jan 2021 11:59:00 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1292,6 +1377,8 @@
 		<wp:post_id>138</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 11:59:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 11:59:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:59:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:59:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[store-8]]></wp:post_name>
@@ -1312,7 +1399,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/?elementor_library=default-kit</link>
 		<pubDate>Sat, 26 Dec 2020 05:50:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1323,6 +1410,8 @@
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-26 05:50:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-26 05:50:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-08-19 07:23:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-08-19 07:23:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -1342,7 +1431,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.0.15]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.3.0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -1350,15 +1439,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:17:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#61CE70";}}s:13:"custom_colors";a:0:{}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:11:"Roboto Slab";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:29:"button_typography_font_weight";s:3:"400";s:9:"site_name";s:33:"Donutime - Donut Shop (Elementor)";s:16:"site_description";s:27:"Just another Suki Demo site";s:19:"page_title_selector";s:14:"h1.entry-title";s:11:"__globals__";a:1:{s:28:"button_typography_typography";s:0:"";}s:15:"activeItemIndex";s:1:"1";s:27:"button_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"18";s:5:"sizes";a:0:{}}s:29:"button_typography_line_height";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"27";s:5:"sizes";a:0:{}}s:22:"container_width_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1140";s:5:"sizes";a:0:{}}s:27:"stretched_section_container";s:5:"#page";s:11:"viewport_lg";s:4:"1024";s:31:"form_label_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"27";s:5:"sizes";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:19:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#61CE70";}}s:13:"custom_colors";a:0:{}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:11:"Roboto Slab";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:29:"button_typography_font_weight";s:3:"400";s:9:"site_name";s:33:"Donutime - Donut Shop (Elementor)";s:16:"site_description";s:27:"Just another Suki Demo site";s:19:"page_title_selector";s:14:"h1.entry-title";s:11:"__globals__";a:1:{s:28:"button_typography_typography";s:0:"";}s:15:"activeItemIndex";i:1;s:27:"button_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"18";s:5:"sizes";a:0:{}}s:29:"button_typography_line_height";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"27";s:5:"sizes";a:0:{}}s:22:"container_width_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1140";s:5:"sizes";a:0:{}}s:27:"stretched_section_container";s:5:"#page";s:11:"viewport_lg";i:1025;s:31:"form_label_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"27";s:5:"sizes";a:0:{}}s:15:"viewport_tablet";i:1024;s:11:"viewport_md";i:768;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[[]]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/76/</link>
 		<pubDate>Wed, 30 Dec 2020 11:13:37 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -1369,6 +1462,8 @@
 		<wp:post_id>76</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:13:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:13:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:13:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:13:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[76]]></wp:post_name>
@@ -1413,7 +1508,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/?p=77</link>
 		<pubDate></pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -1424,6 +1519,8 @@
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:13:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:13:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[]]></wp:post_name>
@@ -1471,7 +1568,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/78/</link>
 		<pubDate>Wed, 30 Dec 2020 11:13:37 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -1482,6 +1579,8 @@
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:13:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:13:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:13:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:13:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[78]]></wp:post_name>
@@ -1526,7 +1625,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/79/</link>
 		<pubDate>Wed, 30 Dec 2020 11:13:37 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -1537,6 +1636,8 @@
 		<wp:post_id>79</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:13:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:13:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:13:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:13:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[79]]></wp:post_name>
@@ -1581,7 +1682,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/80/</link>
 		<pubDate>Wed, 30 Dec 2020 11:14:13 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -1592,6 +1693,8 @@
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:14:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:14:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:14:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:14:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[80]]></wp:post_name>
@@ -1636,7 +1739,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/81/</link>
 		<pubDate>Wed, 30 Dec 2020 11:14:13 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -1647,6 +1750,8 @@
 		<wp:post_id>81</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:14:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:14:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:14:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:14:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[81]]></wp:post_name>
@@ -1691,7 +1796,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/82/</link>
 		<pubDate>Wed, 30 Dec 2020 11:14:13 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -1702,6 +1807,8 @@
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:14:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:14:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:14:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:14:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[82]]></wp:post_name>
@@ -1746,7 +1853,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>store 9</title>
+		<title><![CDATA[store 9]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/store-9/</link>
 		<pubDate>Tue, 05 Jan 2021 11:59:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1757,6 +1864,8 @@
 		<wp:post_id>139</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 11:59:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 11:59:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:59:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:59:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[store-9]]></wp:post_name>
@@ -1777,7 +1886,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>bg cta</title>
+		<title><![CDATA[bg cta]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/bg-cta/</link>
 		<pubDate>Tue, 05 Jan 2021 12:01:53 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1788,6 +1897,8 @@
 		<wp:post_id>140</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-05 12:01:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-05 12:01:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 12:01:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 12:01:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[bg-cta]]></wp:post_name>
@@ -1808,7 +1919,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Detail (1)</title>
+		<title><![CDATA[Detail (1)]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/sed-ultrices-tincidunt-commodo-nisnunc-pulvinar-felis-sed-ultrices-tincidunt-commodo-nisl-pulvinar-sed/detail-1/</link>
 		<pubDate>Thu, 07 Jan 2021 08:38:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1819,6 +1930,8 @@
 		<wp:post_id>156</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 08:38:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 08:38:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 08:38:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 08:38:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[detail-1]]></wp:post_name>
@@ -1839,7 +1952,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Detail (2)</title>
+		<title><![CDATA[Detail (2)]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/rutrum-risus-metus-nulla/detail-2/</link>
 		<pubDate>Thu, 07 Jan 2021 09:04:00 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1850,6 +1963,8 @@
 		<wp:post_id>159</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 09:04:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 09:04:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 09:04:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 09:04:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[detail-2]]></wp:post_name>
@@ -1870,7 +1985,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Detail (3)</title>
+		<title><![CDATA[Detail (3)]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/cras-habitasse-commodo-mollis/detail-3/</link>
 		<pubDate>Thu, 07 Jan 2021 09:28:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1881,6 +1996,8 @@
 		<wp:post_id>161</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 09:28:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 09:28:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 09:28:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 09:28:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[detail-3]]></wp:post_name>
@@ -1901,7 +2018,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Detail (4)</title>
+		<title><![CDATA[Detail (4)]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/proin-turpis-interdum-viverra/detail-4/</link>
 		<pubDate>Thu, 07 Jan 2021 09:40:37 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1912,6 +2029,8 @@
 		<wp:post_id>163</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 09:40:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 09:40:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 09:40:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 09:40:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[detail-4]]></wp:post_name>
@@ -1932,7 +2051,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Detail (5)</title>
+		<title><![CDATA[Detail (5)]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/ultricies-aliquam-fringilla-sit/detail-5/</link>
 		<pubDate>Thu, 07 Jan 2021 11:08:36 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1943,6 +2062,8 @@
 		<wp:post_id>166</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 11:08:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 11:08:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:08:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:08:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[detail-5]]></wp:post_name>
@@ -1963,7 +2084,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Detail (6)</title>
+		<title><![CDATA[Detail (6)]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/aliquam-id-congue-quam/detail-6/</link>
 		<pubDate>Thu, 07 Jan 2021 11:09:58 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1974,6 +2095,8 @@
 		<wp:post_id>168</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 11:09:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 11:09:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:09:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:09:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[detail-6]]></wp:post_name>
@@ -1994,7 +2117,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Detail (7)</title>
+		<title><![CDATA[Detail (7)]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/risus-ac-tincidunt-sapien/detail-7/</link>
 		<pubDate>Thu, 07 Jan 2021 11:12:28 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2005,6 +2128,8 @@
 		<wp:post_id>170</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 11:12:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 11:12:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:12:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:12:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[detail-7]]></wp:post_name>
@@ -2025,7 +2150,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Detail (8)</title>
+		<title><![CDATA[Detail (8)]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/fusce-ac-pellentesque-mauris/detail-8/</link>
 		<pubDate>Thu, 07 Jan 2021 11:14:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2036,6 +2161,8 @@
 		<wp:post_id>172</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 11:14:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 11:14:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:14:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:14:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[detail-8]]></wp:post_name>
@@ -2056,7 +2183,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Detail (9)</title>
+		<title><![CDATA[Detail (9)]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/integer-dolor-nulla-interdum-nec-accumsan-ac/detail-9/</link>
 		<pubDate>Thu, 07 Jan 2021 11:16:14 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2067,6 +2194,8 @@
 		<wp:post_id>174</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 11:16:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 11:16:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:16:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:16:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[detail-9]]></wp:post_name>
@@ -2087,7 +2216,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Detail (10)</title>
+		<title><![CDATA[Detail (10)]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/praesent-ac-eleifend-tellus-quis-suscipit-lacus/detail-10/</link>
 		<pubDate>Thu, 07 Jan 2021 11:17:36 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2098,6 +2227,8 @@
 		<wp:post_id>176</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 11:17:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 11:17:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:17:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:17:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[detail-10]]></wp:post_name>
@@ -2118,7 +2249,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/</link>
 		<pubDate>Sat, 26 Dec 2020 05:49:58 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2173,6 +2304,8 @@ Donuts</h2>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-26 05:49:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-26 05:49:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-06 21:57:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-06 21:57:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2212,11 +2345,11 @@ Donuts</h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:8;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:8;s:11:"header_size";i:4;s:5:"align";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:1;s:21:"typography_typography";i:8;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:1;s:25:"typography_letter_spacing";i:5;s:27:"typography_font_size_tablet";i:4;s:22:"typography_line_height";i:7;}}}}s:11:"text-editor";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:5;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"typography_typography";i:2;s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:3;}}}}s:6:"button";a:3:{s:5:"count";i:4;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:4;s:5:"align";i:1;}}s:8:"advanced";a:2:{s:17:"_section_position";a:2:{s:14:"_element_width";i:2;s:21:"_element_width_tablet";i:2;}s:14:"_section_style";a:2:{s:14:"_margin_tablet";i:2;s:7:"_margin";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:10:{s:21:"typography_typography";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;s:22:"typography_line_height";i:4;s:17:"button_text_color";i:4;s:16:"background_color";i:4;s:11:"hover_color";i:4;s:29:"button_background_hover_color";i:4;s:13:"border_radius";i:4;s:12:"text_padding";i:4;}}}}s:6:"column";a:3:{s:5:"count";i:13;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:16:"content_position";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:5;s:14:"padding_tablet";i:2;s:13:"margin_mobile";i:8;s:6:"margin";i:7;}}s:5:"style";a:2:{s:13:"section_style";a:2:{s:21:"background_background";i:3;s:16:"background_color";i:3;}s:14:"section_border";a:3:{s:13:"border_radius";i:3;s:26:"box_shadow_box_shadow_type";i:3;s:21:"box_shadow_box_shadow";i:3;}}}}s:5:"image";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:5;s:10:"image_size";i:5;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:4;}}s:8:"advanced";a:3:{s:14:"_section_style";a:2:{s:7:"_margin";i:2;s:8:"_padding";i:3;}s:19:"_section_background";a:2:{s:22:"_background_background";i:3;s:17:"_background_color";i:3;}s:15:"_section_border";a:1:{s:14:"_border_radius";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:6;}s:17:"section_structure";a:1:{s:9:"structure";i:5;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:7:{s:7:"padding";i:2;s:14:"padding_tablet";i:4;s:14:"padding_mobile";i:1;s:6:"margin";i:3;s:7:"z_index";i:1;s:13:"margin_tablet";i:1;s:13:"margin_mobile";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:1;}}s:5:"style";a:3:{s:18:"section_icon_style";a:3:{s:10:"icon_color";i:1;s:9:"icon_size";i:1;s:15:"icon_self_align";i:1;}s:17:"section_icon_list";a:1:{s:13:"space_between";i:1;}s:18:"section_text_style";a:1:{s:11:"text_indent";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:3;s:10:"title_text";i:3;s:16:"description_text";i:3;}}s:5:"style";a:2:{s:19:"section_style_image";a:2:{s:11:"image_space";i:3;s:10:"image_size";i:3;}s:21:"section_style_content";a:3:{s:27:"title_typography_typography";i:3;s:26:"title_typography_font_size";i:3;s:33:"description_typography_typography";i:3;}}}}s:6:"spacer";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:4;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:8;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:8;s:11:"header_size";i:4;s:5:"align";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:1;s:21:"typography_typography";i:8;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:1;s:25:"typography_letter_spacing";i:5;s:27:"typography_font_size_tablet";i:4;s:22:"typography_line_height";i:7;}}}}s:11:"text-editor";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:5;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"typography_typography";i:2;s:5:"align";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_padding";i:3;}}}}s:6:"button";a:3:{s:5:"count";i:4;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:4;s:5:"align";i:1;}}s:8:"advanced";a:2:{s:17:"_section_position";a:2:{s:14:"_element_width";i:2;s:21:"_element_width_tablet";i:2;}s:14:"_section_style";a:2:{s:14:"_margin_tablet";i:2;s:7:"_margin";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:10:{s:21:"typography_typography";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;s:22:"typography_line_height";i:4;s:17:"button_text_color";i:4;s:16:"background_color";i:4;s:11:"hover_color";i:4;s:29:"button_background_hover_color";i:4;s:13:"border_radius";i:4;s:12:"text_padding";i:4;}}}}s:6:"column";a:3:{s:5:"count";i:13;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:16:"content_position";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:5;s:14:"padding_tablet";i:2;s:13:"margin_mobile";i:8;s:6:"margin";i:7;}}s:5:"style";a:2:{s:13:"section_style";a:2:{s:21:"background_background";i:3;s:16:"background_color";i:3;}s:14:"section_border";a:3:{s:13:"border_radius";i:3;s:26:"box_shadow_box_shadow_type";i:3;s:21:"box_shadow_box_shadow";i:3;}}}}s:5:"image";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:5;s:10:"image_size";i:5;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:4;}}s:8:"advanced";a:3:{s:14:"_section_style";a:2:{s:7:"_margin";i:2;s:8:"_padding";i:3;}s:19:"_section_background";a:2:{s:22:"_background_background";i:3;s:17:"_background_color";i:3;}s:15:"_section_border";a:1:{s:14:"_border_radius";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:6;}s:17:"section_structure";a:1:{s:9:"structure";i:5;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:7:{s:7:"padding";i:2;s:14:"padding_tablet";i:4;s:14:"padding_mobile";i:1;s:6:"margin";i:3;s:7:"z_index";i:1;s:13:"margin_tablet";i:1;s:13:"margin_mobile";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:1;}}s:5:"style";a:3:{s:18:"section_icon_style";a:3:{s:10:"icon_color";i:1;s:9:"icon_size";i:1;s:15:"icon_self_align";i:1;}s:17:"section_icon_list";a:1:{s:13:"space_between";i:1;}s:18:"section_text_style";a:1:{s:11:"text_indent";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:3;s:10:"title_text";i:3;s:16:"description_text";i:3;}}s:5:"style";a:2:{s:19:"section_style_image";a:2:{s:11:"image_space";i:3;s:10:"image_size";i:3;}s:21:"section_style_content";a:3:{s:27:"title_typography_typography";i:3;s:26:"title_typography_font_size";i:3;s:33:"description_typography_typography";i:3;}}}}s:6:"spacer";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:4;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blogs</title>
+		<title><![CDATA[Blogs]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/blogs/</link>
 		<pubDate>Wed, 30 Dec 2020 11:11:45 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2227,6 +2360,8 @@ Donuts</h2>
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:11:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:11:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-04 07:08:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-04 07:08:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blogs]]></wp:post_name>
@@ -2250,7 +2385,7 @@ Donuts</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Our Story</title>
+		<title><![CDATA[Our Story]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/our-story/</link>
 		<pubDate>Wed, 30 Dec 2020 11:11:56 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2293,6 +2428,8 @@ dream</h1>
 		<wp:post_id>73</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:11:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:11:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-06 10:13:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-06 10:13:19]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-story]]></wp:post_name>
@@ -2332,11 +2469,11 @@ dream</h1>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:8;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:8;s:11:"header_size";i:4;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:21:"typography_typography";i:8;s:22:"typography_line_height";i:8;s:25:"typography_letter_spacing";i:5;s:27:"typography_font_size_mobile";i:6;s:20:"typography_font_size";i:7;}}s:8:"advanced";a:1:{s:14:"_section_style";a:5:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;s:8:"_padding";i:3;s:15:"_padding_mobile";i:3;}}}}s:6:"spacer";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:6;}}}}s:5:"image";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:5;s:10:"image_size";i:5;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:19:"image_border_radius";i:5;s:26:"image_border_radius_mobile";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:14:"_margin_mobile";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:16;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:7;s:13:"margin_mobile";i:10;s:7:"padding";i:3;s:14:"padding_mobile";i:3;}}s:6:"layout";a:1:{s:6:"layout";a:3:{s:16:"content_position";i:2;s:12:"_inline_size";i:6;s:19:"_inline_size_tablet";i:6;}}s:5:"style";a:2:{s:13:"section_style";a:2:{s:21:"background_background";i:3;s:16:"background_color";i:3;}s:14:"section_border";a:3:{s:13:"border_radius";i:3;s:26:"box_shadow_box_shadow_type";i:3;s:21:"box_shadow_box_shadow";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:5;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:8:"_padding";i:3;s:15:"_padding_mobile";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:9;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:9;}s:17:"section_structure";a:1:{s:9:"structure";i:6;}}s:8:"advanced";a:2:{s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}s:16:"section_advanced";a:4:{s:7:"padding";i:3;s:14:"padding_tablet";i:3;s:6:"margin";i:3;s:13:"margin_mobile";i:3;}}s:5:"style";a:1:{s:18:"section_background";a:8:{s:21:"background_background";i:3;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:26:"background_position_mobile";i:1;s:16:"background_color";i:1;s:18:"background_color_b";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:1;}}s:5:"style";a:3:{s:18:"section_icon_style";a:3:{s:10:"icon_color";i:1;s:9:"icon_size";i:1;s:15:"icon_self_align";i:1;}s:17:"section_icon_list";a:1:{s:13:"space_between";i:1;}s:18:"section_text_style";a:1:{s:11:"text_indent";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:3;s:10:"title_text";i:3;s:16:"description_text";i:3;}}s:5:"style";a:2:{s:19:"section_style_image";a:4:{s:11:"image_space";i:3;s:10:"image_size";i:3;s:19:"image_border_radius";i:3;s:18:"image_space_mobile";i:3;}s:21:"section_style_content";a:3:{s:10:"text_align";i:3;s:18:"title_bottom_space";i:3;s:27:"title_typography_typography";i:3;}}}}s:4:"icon";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:13:"selected_icon";i:3;}}s:5:"style";a:1:{s:18:"section_style_icon";a:3:{s:13:"primary_color";i:3;s:4:"size";i:3;s:11:"size_mobile";i:3;}}s:8:"advanced";a:1:{s:17:"_section_position";a:4:{s:14:"_element_width";i:3;s:9:"_position";i:3;s:9:"_offset_y";i:3;s:16:"_offset_y_mobile";i:3;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:8;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:8;s:11:"header_size";i:4;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:21:"typography_typography";i:8;s:22:"typography_line_height";i:8;s:25:"typography_letter_spacing";i:5;s:27:"typography_font_size_mobile";i:6;s:20:"typography_font_size";i:7;}}s:8:"advanced";a:1:{s:14:"_section_style";a:5:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;s:8:"_padding";i:3;s:15:"_padding_mobile";i:3;}}}}s:6:"spacer";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:6;}}}}s:5:"image";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:5;s:10:"image_size";i:5;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:19:"image_border_radius";i:5;s:26:"image_border_radius_mobile";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:14:"_margin_mobile";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:16;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:6:"margin";i:7;s:13:"margin_mobile";i:10;s:7:"padding";i:3;s:14:"padding_mobile";i:3;}}s:6:"layout";a:1:{s:6:"layout";a:3:{s:16:"content_position";i:2;s:12:"_inline_size";i:6;s:19:"_inline_size_tablet";i:6;}}s:5:"style";a:2:{s:13:"section_style";a:2:{s:21:"background_background";i:3;s:16:"background_color";i:3;}s:14:"section_border";a:3:{s:13:"border_radius";i:3;s:26:"box_shadow_box_shadow_type";i:3;s:21:"box_shadow_box_shadow";i:3;}}}}s:11:"text-editor";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:5;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:8:"_padding";i:3;s:15:"_padding_mobile";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:9;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:9;}s:17:"section_structure";a:1:{s:9:"structure";i:6;}}s:8:"advanced";a:2:{s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}s:16:"section_advanced";a:4:{s:7:"padding";i:3;s:14:"padding_tablet";i:3;s:6:"margin";i:3;s:13:"margin_mobile";i:3;}}s:5:"style";a:1:{s:18:"section_background";a:8:{s:21:"background_background";i:3;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;s:26:"background_position_mobile";i:1;s:16:"background_color";i:1;s:18:"background_color_b";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:1;}}s:5:"style";a:3:{s:18:"section_icon_style";a:3:{s:10:"icon_color";i:1;s:9:"icon_size";i:1;s:15:"icon_self_align";i:1;}s:17:"section_icon_list";a:1:{s:13:"space_between";i:1;}s:18:"section_text_style";a:1:{s:11:"text_indent";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:3;s:10:"title_text";i:3;s:16:"description_text";i:3;}}s:5:"style";a:2:{s:19:"section_style_image";a:4:{s:11:"image_space";i:3;s:10:"image_size";i:3;s:19:"image_border_radius";i:3;s:18:"image_space_mobile";i:3;}s:21:"section_style_content";a:3:{s:10:"text_align";i:3;s:18:"title_bottom_space";i:3;s:27:"title_typography_typography";i:3;}}}}s:4:"icon";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:13:"selected_icon";i:3;}}s:5:"style";a:1:{s:18:"section_style_icon";a:3:{s:13:"primary_color";i:3;s:4:"size";i:3;s:11:"size_mobile";i:3;}}s:8:"advanced";a:1:{s:17:"_section_position";a:4:{s:14:"_element_width";i:3;s:9:"_position";i:3;s:9:"_offset_y";i:3;s:16:"_offset_y_mobile";i:3;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/contact/</link>
 		<pubDate>Wed, 30 Dec 2020 11:12:07 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2364,6 +2501,8 @@ dream</h1>
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:12:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:12:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-06 01:24:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-06 01:24:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -2403,11 +2542,11 @@ dream</h1>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}s:8:"advanced";a:3:{s:14:"_section_style";a:2:{s:8:"_padding";i:1;s:15:"_padding_tablet";i:1;}s:19:"_section_background";a:2:{s:22:"_background_background";i:1;s:17:"_background_color";i:1;}s:15:"_section_border";a:1:{s:14:"_border_radius";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:13;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:2;s:16:"content_position";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:9;s:13:"margin_mobile";i:9;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:3:"gap";i:6;s:13:"content_width";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:4;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:5:{s:6:"margin";i:1;s:13:"margin_tablet";i:1;s:14:"padding_tablet";i:2;s:7:"padding";i:2;s:14:"padding_mobile";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;}}}}s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:2;s:5:"align";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:21:"typography_typography";i:2;s:22:"typography_line_height";i:2;s:25:"typography_letter_spacing";i:2;s:11:"title_color";i:1;s:20:"typography_font_size";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:9;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:9;s:10:"title_text";i:9;s:16:"description_text";i:9;}}s:5:"style";a:2:{s:19:"section_style_image";a:3:{s:11:"image_space";i:9;s:10:"image_size";i:9;s:19:"image_border_radius";i:6;}s:21:"section_style_content";a:2:{s:10:"text_align";i:9;s:18:"title_bottom_space";i:9;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:5:"align";i:1;s:10:"text_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:10:{s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;s:22:"typography_line_height";i:1;s:17:"button_text_color";i:1;s:16:"background_color";i:1;s:11:"hover_color";i:1;s:29:"button_background_hover_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:9:{s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}s:8:"advanced";a:3:{s:14:"_section_style";a:2:{s:8:"_padding";i:1;s:15:"_padding_tablet";i:1;}s:19:"_section_background";a:2:{s:22:"_background_background";i:1;s:17:"_background_color";i:1;}s:15:"_section_border";a:1:{s:14:"_border_radius";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:13;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:2;s:16:"content_position";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:9;s:13:"margin_mobile";i:9;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:3:"gap";i:6;s:13:"content_width";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:4;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:5:{s:6:"margin";i:1;s:13:"margin_tablet";i:1;s:14:"padding_tablet";i:2;s:7:"padding";i:2;s:14:"padding_mobile";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:3;s:16:"background_image";i:3;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;}}}}s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:2;s:5:"align";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:21:"typography_typography";i:2;s:22:"typography_line_height";i:2;s:25:"typography_letter_spacing";i:2;s:11:"title_color";i:1;s:20:"typography_font_size";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:9;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:9;s:10:"title_text";i:9;s:16:"description_text";i:9;}}s:5:"style";a:2:{s:19:"section_style_image";a:3:{s:11:"image_space";i:9;s:10:"image_size";i:9;s:19:"image_border_radius";i:6;}s:21:"section_style_content";a:2:{s:10:"text_align";i:9;s:18:"title_bottom_space";i:9;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:5:"align";i:1;s:10:"text_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:10:{s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;s:22:"typography_line_height";i:1;s:17:"button_text_color";i:1;s:16:"background_color";i:1;s:11:"hover_color";i:1;s:29:"button_background_hover_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Menus</title>
+		<title><![CDATA[Menus]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/menus/</link>
 		<pubDate>Wed, 30 Dec 2020 11:12:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2447,6 +2586,8 @@ dream</h1>
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:12:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:12:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-11 15:15:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-11 15:15:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[menus]]></wp:post_name>
@@ -2486,11 +2627,11 @@ dream</h1>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:11;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:11;s:11:"header_size";i:10;s:5:"align";i:11;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:21:"typography_typography";i:11;s:22:"typography_line_height";i:11;s:11:"title_color";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;s:25:"typography_letter_spacing";i:1;s:27:"typography_font_size_tablet";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:10;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:10;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:10;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;s:8:"_padding";i:9;}}}}s:6:"column";a:3:{s:5:"count";i:12;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:9;s:13:"margin_mobile";i:9;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:6;}s:17:"section_structure";a:1:{s:9:"structure";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:3;s:14:"padding_tablet";i:3;s:6:"margin";i:3;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:9;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:9;s:10:"image_size";i:9;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:9;}}s:8:"advanced";a:3:{s:14:"_section_style";a:1:{s:8:"_padding";i:9;}s:19:"_section_background";a:2:{s:22:"_background_background";i:9;s:17:"_background_color";i:9;}s:15:"_section_border";a:1:{s:14:"_border_radius";i:9;}}}}s:6:"spacer";a:3:{s:5:"count";i:9;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:9;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:11;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:11;s:11:"header_size";i:10;s:5:"align";i:11;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:21:"typography_typography";i:11;s:22:"typography_line_height";i:11;s:11:"title_color";i:1;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;s:25:"typography_letter_spacing";i:1;s:27:"typography_font_size_tablet";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:10;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:10;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:10;}}s:8:"advanced";a:1:{s:14:"_section_style";a:4:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;s:14:"_margin_mobile";i:1;s:8:"_padding";i:9;}}}}s:6:"column";a:3:{s:5:"count";i:12;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:9;s:13:"margin_mobile";i:9;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:6;}s:17:"section_structure";a:1:{s:9:"structure";i:3;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:3;s:14:"padding_tablet";i:3;s:6:"margin";i:3;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:9;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:9;s:10:"image_size";i:9;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:5:"width";i:9;}}s:8:"advanced";a:3:{s:14:"_section_style";a:1:{s:8:"_padding";i:9;}s:19:"_section_background";a:2:{s:22:"_background_background";i:9;s:17:"_background_color";i:9;}s:15:"_section_border";a:1:{s:14:"_border_radius";i:9;}}}}s:6:"spacer";a:3:{s:5:"count";i:9;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:9;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/83/</link>
 		<pubDate>Wed, 30 Dec 2020 11:14:13 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -2501,6 +2642,8 @@ dream</h1>
 		<wp:post_id>83</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-30 11:14:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-30 11:14:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-12-30 11:14:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-12-30 11:14:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[83]]></wp:post_name>
@@ -2545,7 +2688,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>sed ultrices tincidunt commodo nisnunc pulvinar felis, sed ultrices tincidunt commodo nisl pulvinar sed.</title>
+		<title><![CDATA[sed ultrices tincidunt commodo nisnunc pulvinar felis, sed ultrices tincidunt commodo nisl pulvinar sed.]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/sed-ultrices-tincidunt-commodo-nisnunc-pulvinar-felis-sed-ultrices-tincidunt-commodo-nisl-pulvinar-sed/</link>
 		<pubDate>Thu, 07 Jan 2021 07:51:55 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2574,6 +2717,8 @@ dream</h1>
 		<wp:post_id>155</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 07:51:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 07:51:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:30:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:30:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sed-ultrices-tincidunt-commodo-nisnunc-pulvinar-felis-sed-ultrices-tincidunt-commodo-nisl-pulvinar-sed]]></wp:post_name>
@@ -2602,7 +2747,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Rutrum risus metus nulla</title>
+		<title><![CDATA[Rutrum risus metus nulla]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/rutrum-risus-metus-nulla/</link>
 		<pubDate>Thu, 07 Jan 2021 09:25:45 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2631,6 +2776,8 @@ dream</h1>
 		<wp:post_id>158</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 09:25:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 09:25:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:32:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:32:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[rutrum-risus-metus-nulla]]></wp:post_name>
@@ -2659,7 +2806,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Cras habitasse commodo mollis</title>
+		<title><![CDATA[Cras habitasse commodo mollis]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/cras-habitasse-commodo-mollis/</link>
 		<pubDate>Thu, 07 Jan 2021 09:29:07 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2688,6 +2835,8 @@ dream</h1>
 		<wp:post_id>160</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 09:29:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 09:29:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:32:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:32:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[cras-habitasse-commodo-mollis]]></wp:post_name>
@@ -2717,7 +2866,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Proin turpis interdum viverra</title>
+		<title><![CDATA[Proin turpis interdum viverra]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/proin-turpis-interdum-viverra/</link>
 		<pubDate>Thu, 07 Jan 2021 09:40:44 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2746,6 +2895,8 @@ dream</h1>
 		<wp:post_id>162</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 09:40:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 09:40:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 09:40:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 09:40:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[proin-turpis-interdum-viverra]]></wp:post_name>
@@ -2770,7 +2921,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Ultricies aliquam fringilla sit</title>
+		<title><![CDATA[Ultricies aliquam fringilla sit]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/ultricies-aliquam-fringilla-sit/</link>
 		<pubDate>Thu, 07 Jan 2021 11:09:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2799,6 +2950,8 @@ dream</h1>
 		<wp:post_id>165</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 11:09:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 11:09:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:09:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:09:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[ultricies-aliquam-fringilla-sit]]></wp:post_name>
@@ -2823,7 +2976,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Aliquam id congue quam</title>
+		<title><![CDATA[Aliquam id congue quam]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/aliquam-id-congue-quam/</link>
 		<pubDate>Thu, 07 Jan 2021 11:10:28 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2852,6 +3005,8 @@ dream</h1>
 		<wp:post_id>167</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 11:10:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 11:10:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:10:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:10:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[aliquam-id-congue-quam]]></wp:post_name>
@@ -2876,7 +3031,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Risus ac tincidunt sapien</title>
+		<title><![CDATA[Risus ac tincidunt sapien]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/risus-ac-tincidunt-sapien/</link>
 		<pubDate>Thu, 07 Jan 2021 11:12:38 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2905,6 +3060,8 @@ dream</h1>
 		<wp:post_id>169</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 11:12:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 11:12:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:12:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:12:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[risus-ac-tincidunt-sapien]]></wp:post_name>
@@ -2929,7 +3086,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Fusce ac pellentesque mauris</title>
+		<title><![CDATA[Fusce ac pellentesque mauris]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/fusce-ac-pellentesque-mauris/</link>
 		<pubDate>Thu, 07 Jan 2021 11:15:10 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2958,6 +3115,8 @@ dream</h1>
 		<wp:post_id>171</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 11:15:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 11:15:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:28:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:28:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[fusce-ac-pellentesque-mauris]]></wp:post_name>
@@ -2987,7 +3146,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Integer dolor nulla, interdum nec accumsan ac</title>
+		<title><![CDATA[Integer dolor nulla, interdum nec accumsan ac]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/integer-dolor-nulla-interdum-nec-accumsan-ac/</link>
 		<pubDate>Thu, 07 Jan 2021 11:16:28 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3016,6 +3175,8 @@ dream</h1>
 		<wp:post_id>173</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 11:16:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 11:16:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:17:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:17:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[integer-dolor-nulla-interdum-nec-accumsan-ac]]></wp:post_name>
@@ -3044,7 +3205,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Praesent ac eleifend tellus, quis suscipit lacus</title>
+		<title><![CDATA[Praesent ac eleifend tellus, quis suscipit lacus]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/praesent-ac-eleifend-tellus-quis-suscipit-lacus/</link>
 		<pubDate>Thu, 07 Jan 2021 11:17:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3073,6 +3234,8 @@ dream</h1>
 		<wp:post_id>175</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-07 11:17:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-07 11:17:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-07 11:17:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-07 11:17:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[praesent-ac-eleifend-tellus-quis-suscipit-lacus]]></wp:post_name>
@@ -3097,7 +3260,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/188/</link>
 		<pubDate>Fri, 08 Jan 2021 08:03:05 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3108,6 +3271,8 @@ dream</h1>
 		<wp:post_id>188</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-08 08:03:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-08 08:03:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-08 08:07:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-08 08:07:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[188]]></wp:post_name>
@@ -3152,7 +3317,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/189/</link>
 		<pubDate>Fri, 08 Jan 2021 08:03:05 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3163,6 +3328,8 @@ dream</h1>
 		<wp:post_id>189</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-08 08:03:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-08 08:03:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-08 08:07:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-08 08:07:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[189]]></wp:post_name>
@@ -3207,7 +3374,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/191/</link>
 		<pubDate>Fri, 08 Jan 2021 08:03:05 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3218,6 +3385,8 @@ dream</h1>
 		<wp:post_id>191</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-08 08:03:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-08 08:03:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-08 08:07:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-08 08:07:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[191]]></wp:post_name>
@@ -3262,7 +3431,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/192/</link>
 		<pubDate>Fri, 08 Jan 2021 08:03:05 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -3273,6 +3442,8 @@ dream</h1>
 		<wp:post_id>192</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-08 08:03:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-08 08:03:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-08 08:07:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-08 08:07:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[192]]></wp:post_name>
@@ -3317,7 +3488,7 @@ dream</h1>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact form</title>
+		<title><![CDATA[Contact form]]></title>
 		<link>https://demo.sukiwp.com/donutime-elementor/?post_type=wpcf7_contact_form&#038;p=5</link>
 		<pubDate>Thu, 24 Dec 2020 12:19:08 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -3388,6 +3559,8 @@ The telephone number is invalid.]]></content:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2020-12-24 12:19:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-12-24 12:19:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-05 11:36:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-05 11:36:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
