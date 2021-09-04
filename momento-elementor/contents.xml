@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.6" created="2021-01-26 14:11" -->
+	<!-- generator="WordPress/5.8" created="2021-09-04 13:39" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Momento - Wedding Photographer (Elementor)</title>
 	<link>https://demo.sukiwp.com/momento-elementor</link>
 	<description>Just another Suki Demo site</description>
-	<pubDate>Tue, 26 Jan 2021 14:11:12 +0000</pubDate>
+	<pubDate>Sat, 04 Sep 2021 13:39:48 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
+	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.sukiwp.com/momento-elementor</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[sukiwp]]></wp:author_login><wp:author_email><![CDATA[admin@sukiwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin Suki]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[Suki]]></wp:author_last_name></wp:author>
@@ -54,10 +54,10 @@
 			<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.6</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 		<item>
-		<title>logo</title>
+		<title><![CDATA[logo]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/logo/</link>
 		<pubDate>Wed, 13 Jan 2021 05:04:47 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -68,6 +68,8 @@
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-13 05:04:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-13 05:04:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-13 05:04:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-13 05:04:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo]]></wp:post_name>
@@ -88,7 +90,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>hero</title>
+		<title><![CDATA[hero]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/home/hero/</link>
 		<pubDate>Wed, 13 Jan 2021 06:29:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -99,6 +101,8 @@
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-13 06:29:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-13 06:29:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-13 06:29:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-13 06:29:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[hero]]></wp:post_name>
@@ -119,7 +123,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home section 2</title>
+		<title><![CDATA[home section 2]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/home/home-section-2/</link>
 		<pubDate>Wed, 13 Jan 2021 07:11:44 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -130,6 +134,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-13 07:11:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-13 07:11:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-13 07:11:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-13 07:11:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-section-2]]></wp:post_name>
@@ -150,7 +156,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home gallery 1</title>
+		<title><![CDATA[home gallery 1]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/home/home-gallery-1/</link>
 		<pubDate>Wed, 13 Jan 2021 08:19:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -161,6 +167,8 @@
 		<wp:post_id>29</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-13 08:19:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-13 08:19:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-13 08:19:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-13 08:19:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-gallery-1]]></wp:post_name>
@@ -181,7 +189,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home gallery 2</title>
+		<title><![CDATA[home gallery 2]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/home/home-gallery-2/</link>
 		<pubDate>Wed, 13 Jan 2021 08:19:47 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -192,6 +200,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-13 08:19:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-13 08:19:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-13 08:19:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-13 08:19:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-gallery-2]]></wp:post_name>
@@ -212,7 +222,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home gallery 3</title>
+		<title><![CDATA[home gallery 3]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/home/home-gallery-3/</link>
 		<pubDate>Wed, 13 Jan 2021 08:20:16 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -223,6 +233,8 @@
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-13 08:20:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-13 08:20:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-13 08:20:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-13 08:20:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-gallery-3]]></wp:post_name>
@@ -243,7 +255,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>home section 4</title>
+		<title><![CDATA[home section 4]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/home/home-section-4/</link>
 		<pubDate>Wed, 13 Jan 2021 10:11:14 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -254,6 +266,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-13 10:11:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-13 10:11:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-13 10:11:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-13 10:11:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-section-4]]></wp:post_name>
@@ -274,7 +288,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about header bg</title>
+		<title><![CDATA[about header bg]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/about/about-header-bg/</link>
 		<pubDate>Wed, 20 Jan 2021 09:59:08 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -285,6 +299,8 @@
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-20 09:59:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-20 09:59:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-20 09:59:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-20 09:59:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-header-bg]]></wp:post_name>
@@ -305,7 +321,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>our team 1</title>
+		<title><![CDATA[our team 1]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/about/our-team-1/</link>
 		<pubDate>Thu, 21 Jan 2021 08:03:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -316,6 +332,8 @@
 		<wp:post_id>45</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-21 08:03:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-21 08:03:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-21 08:03:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-21 08:03:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-team-1]]></wp:post_name>
@@ -336,7 +354,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>our team 2</title>
+		<title><![CDATA[our team 2]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/about/our-team-2/</link>
 		<pubDate>Fri, 22 Jan 2021 04:16:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -347,6 +365,8 @@
 		<wp:post_id>48</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 04:16:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 04:16:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 04:16:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 04:16:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-team-2]]></wp:post_name>
@@ -367,7 +387,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>our team 3</title>
+		<title><![CDATA[our team 3]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/about/our-team-3/</link>
 		<pubDate>Fri, 22 Jan 2021 04:17:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -378,6 +398,8 @@
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 04:17:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 04:17:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 04:17:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 04:17:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-team-3]]></wp:post_name>
@@ -398,7 +420,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery header bg</title>
+		<title><![CDATA[gallery header bg]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/gallery/gallery-header-bg/</link>
 		<pubDate>Fri, 22 Jan 2021 11:05:22 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -409,6 +431,8 @@
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 11:05:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 11:05:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 11:05:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 11:05:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-header-bg]]></wp:post_name>
@@ -429,7 +453,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery (1)</title>
+		<title><![CDATA[gallery (1)]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/gallery/gallery-1/</link>
 		<pubDate>Fri, 22 Jan 2021 11:38:47 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -440,6 +464,8 @@
 		<wp:post_id>55</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 11:38:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 11:38:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 11:38:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 11:38:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-1]]></wp:post_name>
@@ -460,7 +486,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery (2)</title>
+		<title><![CDATA[gallery (2)]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/gallery/gallery-2/</link>
 		<pubDate>Fri, 22 Jan 2021 11:38:49 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -471,6 +497,8 @@
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 11:38:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 11:38:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 11:38:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 11:38:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-2]]></wp:post_name>
@@ -491,7 +519,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery (3)</title>
+		<title><![CDATA[gallery (3)]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/gallery/gallery-3/</link>
 		<pubDate>Fri, 22 Jan 2021 11:38:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -502,6 +530,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 11:38:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 11:38:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 11:38:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 11:38:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-3]]></wp:post_name>
@@ -522,7 +552,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery (4)</title>
+		<title><![CDATA[gallery (4)]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/gallery/gallery-4/</link>
 		<pubDate>Fri, 22 Jan 2021 11:38:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -533,6 +563,8 @@
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 11:38:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 11:38:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 11:38:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 11:38:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-4]]></wp:post_name>
@@ -553,7 +585,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery (5)</title>
+		<title><![CDATA[gallery (5)]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/gallery/gallery-5/</link>
 		<pubDate>Fri, 22 Jan 2021 11:38:51 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -564,6 +596,8 @@
 		<wp:post_id>59</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 11:38:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 11:38:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 11:38:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 11:38:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-5]]></wp:post_name>
@@ -584,7 +618,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery (6)</title>
+		<title><![CDATA[gallery (6)]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/gallery/gallery-6/</link>
 		<pubDate>Fri, 22 Jan 2021 11:38:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -595,6 +629,8 @@
 		<wp:post_id>60</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 11:38:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 11:38:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 11:38:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 11:38:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-6]]></wp:post_name>
@@ -615,7 +651,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery (7)</title>
+		<title><![CDATA[gallery (7)]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/gallery/gallery-7/</link>
 		<pubDate>Fri, 22 Jan 2021 11:38:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -626,6 +662,8 @@
 		<wp:post_id>61</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 11:38:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 11:38:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 11:38:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 11:38:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-7]]></wp:post_name>
@@ -646,7 +684,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery (8)</title>
+		<title><![CDATA[gallery (8)]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/gallery/gallery-8/</link>
 		<pubDate>Fri, 22 Jan 2021 11:38:53 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -657,6 +695,8 @@
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 11:38:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 11:38:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 11:38:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 11:38:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-8]]></wp:post_name>
@@ -677,7 +717,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/</link>
 		<pubDate>Fri, 08 Jan 2021 10:07:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -716,6 +756,8 @@
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-08 10:07:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-08 10:07:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 14:05:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 14:05:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -755,11 +797,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:5;s:5:"align";i:3;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:1;s:21:"typography_typography";i:5;s:20:"typography_font_size";i:5;s:27:"typography_font_size_mobile";i:3;s:27:"typography_font_size_tablet";i:1;s:22:"typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:6:"button";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:4;s:5:"align";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:17:"button_text_color";i:2;s:16:"background_color";i:2;s:11:"hover_color";i:2;s:29:"button_background_hover_color";i:2;s:25:"button_hover_border_color";i:2;s:12:"border_color";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:9;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:6;s:16:"content_position";i:2;s:21:"space_between_widgets";i:1;s:19:"_inline_size_tablet";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:3;s:13:"margin_mobile";i:3;s:13:"margin_tablet";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:3:"gap";i:6;s:13:"content_width";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:3;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:2;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:1;}s:26:"section_background_overlay";a:2:{s:29:"background_overlay_background";i:1;s:26:"background_overlay_opacity";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:5:{s:7:"padding";i:4;s:14:"padding_tablet";i:5;s:14:"padding_mobile";i:1;s:6:"margin";i:3;s:13:"margin_tablet";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:5;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:5;s:10:"image_size";i:5;s:7:"link_to";i:3;}}s:5:"style";a:1:{s:19:"section_style_image";a:6:{s:5:"width";i:4;s:6:"height";i:3;s:10:"object-fit";i:1;s:5:"space";i:1;s:12:"width_mobile";i:3;s:17:"object-fit_tablet";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:2;s:5:"align";i:2;}}s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:5:"color";i:2;s:6:"weight";i:2;s:3:"gap";i:2;}}}}s:11:"testimonial";a:3:{s:5:"count";i:1;s:15:"control_percent";i:6;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_testimonial";a:6:{s:19:"testimonial_content";i:1;s:16:"testimonial_name";i:1;s:15:"testimonial_job";i:1;s:26:"testimonial_image_position";i:1;s:17:"testimonial_image";i:1;s:21:"testimonial_alignment";i:1;}}s:5:"style";a:4:{s:33:"section_style_testimonial_content";a:2:{s:30:"content_typography_line_height";i:1;s:29:"content_typography_typography";i:1;}s:31:"section_style_testimonial_image";a:1:{s:10:"image_size";i:1;}s:30:"section_style_testimonial_name";a:3:{s:26:"name_typography_typography";i:1;s:27:"name_typography_font_family";i:1;s:25:"name_typography_font_size";i:1;}s:29:"section_style_testimonial_job";a:2:{s:26:"job_typography_font_family";i:1;s:24:"job_typography_font_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:5;s:5:"align";i:3;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:1;s:21:"typography_typography";i:5;s:20:"typography_font_size";i:5;s:27:"typography_font_size_mobile";i:3;s:27:"typography_font_size_tablet";i:1;s:22:"typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:6:"button";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:4;s:5:"align";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:17:"button_text_color";i:2;s:16:"background_color";i:2;s:11:"hover_color";i:2;s:29:"button_background_hover_color";i:2;s:25:"button_hover_border_color";i:2;s:12:"border_color";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:9;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:4:{s:12:"_inline_size";i:6;s:16:"content_position";i:2;s:21:"space_between_widgets";i:1;s:19:"_inline_size_tablet";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:3;s:13:"margin_mobile";i:3;s:13:"margin_tablet";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:3:"gap";i:6;s:13:"content_width";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:3;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:2;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:1;}s:26:"section_background_overlay";a:2:{s:29:"background_overlay_background";i:1;s:26:"background_overlay_opacity";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:5:{s:7:"padding";i:4;s:14:"padding_tablet";i:5;s:14:"padding_mobile";i:1;s:6:"margin";i:3;s:13:"margin_tablet";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:5;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:5;s:10:"image_size";i:5;s:7:"link_to";i:3;}}s:5:"style";a:1:{s:19:"section_style_image";a:6:{s:5:"width";i:4;s:6:"height";i:3;s:10:"object-fit";i:1;s:5:"space";i:1;s:12:"width_mobile";i:3;s:17:"object-fit_tablet";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:2;s:5:"align";i:2;}}s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:5:"color";i:2;s:6:"weight";i:2;s:3:"gap";i:2;}}}}s:11:"testimonial";a:3:{s:5:"count";i:1;s:15:"control_percent";i:6;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_testimonial";a:6:{s:19:"testimonial_content";i:1;s:16:"testimonial_name";i:1;s:15:"testimonial_job";i:1;s:26:"testimonial_image_position";i:1;s:17:"testimonial_image";i:1;s:21:"testimonial_alignment";i:1;}}s:5:"style";a:4:{s:33:"section_style_testimonial_content";a:2:{s:30:"content_typography_line_height";i:1;s:29:"content_typography_typography";i:1;}s:31:"section_style_testimonial_image";a:1:{s:10:"image_size";i:1;}s:30:"section_style_testimonial_name";a:3:{s:26:"name_typography_typography";i:1;s:27:"name_typography_font_family";i:1;s:25:"name_typography_font_size";i:1;}s:29:"section_style_testimonial_job";a:2:{s:26:"job_typography_font_family";i:1;s:24:"job_typography_font_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
+		<title><![CDATA[Blog]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/blog/</link>
 		<pubDate>Fri, 08 Jan 2021 10:08:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -770,6 +812,8 @@
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-08 10:08:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-08 10:08:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-23 09:09:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-23 09:09:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -793,7 +837,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Default Kit</title>
+		<title><![CDATA[Default Kit]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/?elementor_library=default-kit</link>
 		<pubDate>Fri, 08 Jan 2021 10:08:59 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -804,6 +848,8 @@
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-08 10:08:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-08 10:08:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-13 10:23:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-13 10:23:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -831,7 +877,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:33:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#61CE70";}}s:13:"custom_colors";a:0:{}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:11:"Roboto Slab";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:24:"h1_typography_typography";s:6:"custom";s:25:"h1_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.3";s:5:"sizes";a:0:{}}s:24:"h2_typography_typography";s:6:"custom";s:25:"h2_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.3";s:5:"sizes";a:0:{}}s:24:"h3_typography_typography";s:6:"custom";s:25:"h3_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.3";s:5:"sizes";a:0:{}}s:24:"h4_typography_typography";s:6:"custom";s:25:"h4_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.3";s:5:"sizes";a:0:{}}s:9:"site_name";s:42:"Momento - Wedding Photographer (Elementor)";s:16:"site_description";s:27:"Just another Suki Demo site";s:19:"page_title_selector";s:14:"h1.entry-title";s:28:"button_typography_typography";s:6:"custom";s:27:"button_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"16";s:5:"sizes";a:0:{}}s:29:"button_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.2";s:5:"sizes";a:0:{}}s:17:"button_text_color";s:7:"#FFFFFF";s:23:"button_background_color";s:7:"#E5BDA7";s:20:"button_border_radius";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:1:"0";s:5:"right";s:1:"0";s:6:"bottom";s:1:"0";s:4:"left";s:1:"0";s:8:"isLinked";s:1:"1";}s:23:"button_hover_text_color";s:7:"#FFFFFF";s:29:"button_hover_background_color";s:7:"#E2A787";s:14:"button_padding";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:2:"15";s:5:"right";s:2:"45";s:6:"bottom";s:2:"15";s:4:"left";s:2:"45";s:8:"isLinked";s:0:"";}s:20:"button_border_border";s:5:"solid";s:19:"button_border_width";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:1:"1";s:5:"right";s:1:"1";s:6:"bottom";s:1:"1";s:4:"left";s:1:"1";s:8:"isLinked";s:1:"1";}s:19:"button_border_color";s:7:"#E5BDA7";s:27:"stretched_section_container";s:5:"#page";s:11:"viewport_lg";s:4:"1024";s:26:"body_typography_typography";s:6:"custom";s:25:"body_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"18";s:5:"sizes";a:0:{}}s:27:"body_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.6";s:5:"sizes";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:35:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#6EC1E4";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#54595F";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:7:"#7A7A7A";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#61CE70";}}s:13:"custom_colors";a:0:{}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:11:"Roboto Slab";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:24:"h1_typography_typography";s:6:"custom";s:25:"h1_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.3";s:5:"sizes";a:0:{}}s:24:"h2_typography_typography";s:6:"custom";s:25:"h2_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.3";s:5:"sizes";a:0:{}}s:24:"h3_typography_typography";s:6:"custom";s:25:"h3_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.3";s:5:"sizes";a:0:{}}s:24:"h4_typography_typography";s:6:"custom";s:25:"h4_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.3";s:5:"sizes";a:0:{}}s:9:"site_name";s:42:"Momento - Wedding Photographer (Elementor)";s:16:"site_description";s:27:"Just another Suki Demo site";s:19:"page_title_selector";s:14:"h1.entry-title";s:28:"button_typography_typography";s:6:"custom";s:27:"button_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"16";s:5:"sizes";a:0:{}}s:29:"button_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.2";s:5:"sizes";a:0:{}}s:17:"button_text_color";s:7:"#FFFFFF";s:23:"button_background_color";s:7:"#E5BDA7";s:20:"button_border_radius";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:1:"0";s:5:"right";s:1:"0";s:6:"bottom";s:1:"0";s:4:"left";s:1:"0";s:8:"isLinked";s:1:"1";}s:23:"button_hover_text_color";s:7:"#FFFFFF";s:29:"button_hover_background_color";s:7:"#E2A787";s:14:"button_padding";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:2:"15";s:5:"right";s:2:"45";s:6:"bottom";s:2:"15";s:4:"left";s:2:"45";s:8:"isLinked";s:0:"";}s:20:"button_border_border";s:5:"solid";s:19:"button_border_width";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:1:"1";s:5:"right";s:1:"1";s:6:"bottom";s:1:"1";s:4:"left";s:1:"1";s:8:"isLinked";s:1:"1";}s:19:"button_border_color";s:7:"#E5BDA7";s:27:"stretched_section_container";s:5:"#page";s:11:"viewport_lg";s:4:"1024";s:26:"body_typography_typography";s:6:"custom";s:25:"body_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"18";s:5:"sizes";a:0:{}}s:27:"body_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.6";s:5:"sizes";a:0:{}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";i:1023;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
@@ -839,7 +885,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/about/</link>
 		<pubDate>Tue, 19 Jan 2021 11:56:36 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -874,6 +920,8 @@
 		<wp:post_id>39</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-19 11:56:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-19 11:56:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 13:08:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 13:08:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -913,11 +961,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:3;s:11:"header_size";i:1;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:21:"typography_typography";i:3;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_z_index";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:3;s:5:"align";i:3;}}s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:5:"color";i:3;s:6:"weight";i:3;s:3:"gap";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_z_index";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:21:"space_between_widgets";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:3;s:13:"margin_tablet";i:3;s:13:"margin_mobile";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:4;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:3;s:14:"padding_tablet";i:3;s:14:"padding_mobile";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:10:"title_text";i:3;s:16:"description_text";i:3;s:5:"image";i:3;}}s:5:"style";a:2:{s:19:"section_style_image";a:2:{s:10:"image_size";i:3;s:11:"image_space";i:3;}s:21:"section_style_content";a:3:{s:10:"text_align";i:3;s:18:"title_bottom_space";i:3;s:27:"title_typography_typography";i:3;}}s:8:"advanced";a:1:{s:17:"_section_position";a:1:{s:28:"_element_custom_width_mobile";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:3;s:5:"shape";i:3;s:5:"align";i:3;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:3;s:18:"icon_primary_color";i:3;s:20:"icon_secondary_color";i:3;s:9:"icon_size";i:3;s:12:"icon_padding";i:3;s:12:"icon_spacing";i:3;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:3;s:11:"header_size";i:1;s:5:"align";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:21:"typography_typography";i:3;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_z_index";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:3;s:5:"align";i:3;}}s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:5:"color";i:3;s:6:"weight";i:3;s:3:"gap";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_z_index";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:21:"space_between_widgets";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:3;s:13:"margin_tablet";i:3;s:13:"margin_mobile";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:4;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:3;s:14:"padding_tablet";i:3;s:14:"padding_mobile";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:10:"title_text";i:3;s:16:"description_text";i:3;s:5:"image";i:3;}}s:5:"style";a:2:{s:19:"section_style_image";a:2:{s:10:"image_size";i:3;s:11:"image_space";i:3;}s:21:"section_style_content";a:3:{s:10:"text_align";i:3;s:18:"title_bottom_space";i:3;s:27:"title_typography_typography";i:3;}}s:8:"advanced";a:1:{s:17:"_section_position";a:1:{s:28:"_element_custom_width_mobile";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:3:{s:16:"social_icon_list";i:3;s:5:"shape";i:3;s:5:"align";i:3;}}s:5:"style";a:1:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:3;s:18:"icon_primary_color";i:3;s:20:"icon_secondary_color";i:3;s:9:"icon_size";i:3;s:12:"icon_padding";i:3;s:12:"icon_spacing";i:3;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gallery</title>
+		<title><![CDATA[Gallery]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/gallery/</link>
 		<pubDate>Fri, 22 Jan 2021 04:24:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -951,6 +999,8 @@
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 04:24:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 04:24:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 11:58:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 11:58:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery]]></wp:post_name>
@@ -990,11 +1040,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:2;s:11:"header_size";i:1;s:5:"align";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:21:"typography_typography";i:2;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_z_index";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:2;s:5:"align";i:2;}}s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:5:"color";i:2;s:6:"weight";i:2;s:3:"gap";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_z_index";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:21:"space_between_widgets";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:14:"section_layout";a:1:{s:3:"gap";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:2;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_gallery";a:3:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;s:15:"gallery_columns";i:1;}}s:5:"style";a:1:{s:22:"section_gallery_images";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:2;s:11:"header_size";i:1;s:5:"align";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:21:"typography_typography";i:2;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_z_index";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:2;s:5:"align";i:2;}}s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:5:"color";i:2;s:6:"weight";i:2;s:3:"gap";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_z_index";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:21:"space_between_widgets";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:14:"section_layout";a:1:{s:3:"gap";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:2;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_mobile";i:1;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_gallery";a:3:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;s:15:"gallery_columns";i:1;}}s:5:"style";a:1:{s:22:"section_gallery_images";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery (9)</title>
+		<title><![CDATA[gallery (9)]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/gallery/gallery-9/</link>
 		<pubDate>Fri, 22 Jan 2021 11:38:53 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1005,6 +1055,8 @@
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 11:38:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 11:38:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 11:38:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 11:38:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-9]]></wp:post_name>
@@ -1025,7 +1077,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery (10)</title>
+		<title><![CDATA[gallery (10)]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/gallery/gallery-10/</link>
 		<pubDate>Fri, 22 Jan 2021 11:38:54 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1036,6 +1088,8 @@
 		<wp:post_id>64</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 11:38:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 11:38:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 11:38:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 11:38:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-10]]></wp:post_name>
@@ -1056,7 +1110,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/contact/</link>
 		<pubDate>Fri, 22 Jan 2021 11:42:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1069,6 +1123,8 @@
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 11:42:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 11:42:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 11:56:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 11:56:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1108,11 +1164,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:2;s:11:"header_size";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:21:"typography_typography";i:2;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_z_index";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:2;s:5:"align";i:1;}}s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:5:"color";i:2;s:6:"weight";i:2;s:3:"gap";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_z_index";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:21:"space_between_widgets";i:1;s:12:"_inline_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:1;s:13:"margin_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:2;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:2;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:8:"_padding";i:1;s:15:"_padding_mobile";i:1;}s:19:"_section_background";a:2:{s:22:"_background_background";i:1;s:17:"_background_color";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:2;s:11:"header_size";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:11:"title_color";i:1;s:21:"typography_typography";i:2;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:20:"typography_font_size";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_z_index";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:2;s:5:"align";i:1;}}s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:5:"color";i:2;s:6:"weight";i:2;s:3:"gap";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:8:"_z_index";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:21:"space_between_widgets";i:1;s:12:"_inline_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:1;s:13:"margin_mobile";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:2;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:2;s:14:"padding_tablet";i:2;s:14:"padding_mobile";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:8:"_padding";i:1;s:15:"_padding_mobile";i:1;}s:19:"_section_background";a:2:{s:22:"_background_background";i:1;s:17:"_background_color";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact header bg</title>
+		<title><![CDATA[contact header bg]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/contact/contact-header-bg/</link>
 		<pubDate>Fri, 22 Jan 2021 13:44:36 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1123,6 +1179,8 @@
 		<wp:post_id>67</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 13:44:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 13:44:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 13:44:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 13:44:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-header-bg]]></wp:post_name>
@@ -1143,7 +1201,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>footer logo</title>
+		<title><![CDATA[footer logo]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/footer-logo/</link>
 		<pubDate>Fri, 22 Jan 2021 21:41:43 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1154,6 +1212,8 @@
 		<wp:post_id>77</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-22 21:41:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-22 21:41:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 21:41:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 21:41:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-logo]]></wp:post_name>
@@ -1174,7 +1234,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/81/</link>
 		<pubDate>Sat, 23 Jan 2021 09:08:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1185,6 +1245,8 @@
 		<wp:post_id>81</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-23 09:08:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-23 09:08:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 12:10:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 12:10:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[81]]></wp:post_name>
@@ -1229,7 +1291,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/82/</link>
 		<pubDate>Sat, 23 Jan 2021 09:08:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1240,6 +1302,8 @@
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-23 09:08:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-23 09:08:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 12:10:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 12:10:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[82]]></wp:post_name>
@@ -1284,7 +1348,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/83/</link>
 		<pubDate>Sat, 23 Jan 2021 09:08:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1295,6 +1359,8 @@
 		<wp:post_id>83</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-23 09:08:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-23 09:08:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 12:10:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 12:10:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[83]]></wp:post_name>
@@ -1339,7 +1405,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/84/</link>
 		<pubDate>Sat, 23 Jan 2021 09:08:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1350,6 +1416,8 @@
 		<wp:post_id>84</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-23 09:08:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-23 09:08:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 12:10:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 12:10:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[84]]></wp:post_name>
@@ -1394,7 +1462,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/85/</link>
 		<pubDate>Sat, 23 Jan 2021 09:08:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1405,6 +1473,8 @@
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-23 09:08:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-23 09:08:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 12:10:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 12:10:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[85]]></wp:post_name>
@@ -1449,7 +1519,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>testi</title>
+		<title><![CDATA[testi]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/home/testi/</link>
 		<pubDate>Mon, 25 Jan 2021 10:00:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1460,6 +1530,8 @@
 		<wp:post_id>91</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-25 10:00:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-25 10:00:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-25 10:00:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-25 10:00:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[testi]]></wp:post_name>
@@ -1480,7 +1552,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog (1)</title>
+		<title><![CDATA[blog (1)]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/perfect/blog-1/</link>
 		<pubDate>Mon, 25 Jan 2021 11:44:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1491,6 +1563,8 @@
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-25 11:44:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-25 11:44:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-25 11:44:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-25 11:44:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-1]]></wp:post_name>
@@ -1511,7 +1585,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>suki</title>
+		<title><![CDATA[suki]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/suki/</link>
 		<pubDate>Mon, 25 Jan 2021 13:01:34 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1525,6 +1599,8 @@
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-25 13:01:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-25 13:01:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 11:50:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 11:50:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[suki]]></wp:post_name>
@@ -1536,7 +1612,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title>blog (2)</title>
+		<title><![CDATA[blog (2)]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/commitment/blog-2/</link>
 		<pubDate>Tue, 26 Jan 2021 11:33:17 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1547,6 +1623,8 @@
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-26 11:33:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-26 11:33:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 11:33:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 11:33:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-2]]></wp:post_name>
@@ -1567,7 +1645,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>blog (3)</title>
+		<title><![CDATA[blog (3)]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/true-love/blog-3/</link>
 		<pubDate>Tue, 26 Jan 2021 11:34:25 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1578,6 +1656,8 @@
 		<wp:post_id>113</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-26 11:34:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-26 11:34:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 11:34:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 11:34:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-3]]></wp:post_name>
@@ -1598,7 +1678,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact form</title>
+		<title><![CDATA[Contact form]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/?post_type=wpcf7_contact_form&#038;p=4</link>
 		<pubDate>Fri, 08 Jan 2021 10:05:57 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -1668,6 +1748,8 @@ The telephone number is invalid.]]></content:encoded>
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-08 10:05:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-08 10:05:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-22 14:49:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-22 14:49:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
@@ -1722,7 +1804,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Perfect</title>
+		<title><![CDATA[Perfect]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/perfect/</link>
 		<pubDate>Mon, 25 Jan 2021 11:44:17 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1751,6 +1833,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-25 11:44:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-25 11:44:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-25 11:44:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-25 11:44:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[perfect]]></wp:post_name>
@@ -1775,7 +1859,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Commitment</title>
+		<title><![CDATA[Commitment]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/commitment/</link>
 		<pubDate>Tue, 26 Jan 2021 11:33:57 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1804,6 +1888,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<wp:post_id>110</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-26 11:33:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-26 11:33:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 11:33:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 11:33:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[commitment]]></wp:post_name>
@@ -1828,7 +1914,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>True Love</title>
+		<title><![CDATA[True Love]]></title>
 		<link>https://demo.sukiwp.com/momento-elementor/true-love/</link>
 		<pubDate>Tue, 26 Jan 2021 11:35:05 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1857,6 +1943,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<wp:post_id>112</wp:post_id>
 		<wp:post_date><![CDATA[2021-01-26 11:35:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-01-26 11:35:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-01-26 11:35:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-01-26 11:35:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[true-love]]></wp:post_name>
