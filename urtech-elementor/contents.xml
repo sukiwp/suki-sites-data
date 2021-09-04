@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.7.1" created="2021-05-12 11:18" -->
+	<!-- generator="WordPress/5.8" created="2021-09-04 12:47" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,10 +26,10 @@
 >
 
 <channel>
-	<title>Urtech - Software Developer</title>
+	<title>Urtech - Software Developer (Elementor)</title>
 	<link>https://demo.sukiwp.com/urtech-elementor</link>
 	<description></description>
-	<pubDate>Wed, 12 May 2021 11:18:12 +0000</pubDate>
+	<pubDate>Sat, 04 Sep 2021 12:47:43 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
@@ -47,7 +47,7 @@
 					<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 		<item>
 		<title><![CDATA[logo]]></title>
@@ -2041,8 +2041,8 @@
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2021-04-23 15:45:11]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-04-23 15:45:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-05-11 16:08:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-05-11 16:08:28]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-05-16 12:28:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-05-16 12:28:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
@@ -2066,7 +2066,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:60:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#2C364B";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#2C364B";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:9:"#2C364BCC";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#24D1A2";}}s:13:"custom_colors";a:0:{}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:11:"Roboto Slab";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:9:"site_name";s:27:"Urtech - Software Developer";s:19:"page_title_selector";s:14:"h1.entry-title";s:27:"stretched_section_container";s:5:"#page";s:11:"viewport_lg";s:4:"1025";s:10:"body_color";s:9:"#2C364BCC";s:26:"body_typography_typography";s:6:"custom";s:27:"body_typography_font_family";s:4:"Lato";s:25:"body_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"20";s:5:"sizes";a:0:{}}s:27:"body_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.5";s:5:"sizes";a:0:{}}s:24:"h1_typography_typography";s:6:"custom";s:25:"h1_typography_font_family";s:12:"Merriweather";s:23:"h1_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"50";s:5:"sizes";a:0:{}}s:25:"h1_typography_font_weight";s:3:"700";s:25:"h1_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.4";s:5:"sizes";a:0:{}}s:24:"h2_typography_typography";s:6:"custom";s:25:"h2_typography_font_family";s:12:"Merriweather";s:23:"h2_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"36";s:5:"sizes";a:0:{}}s:25:"h2_typography_font_weight";s:3:"700";s:25:"h2_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.5";s:5:"sizes";a:0:{}}s:24:"h3_typography_typography";s:6:"custom";s:25:"h3_typography_font_family";s:12:"Merriweather";s:23:"h3_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"26";s:5:"sizes";a:0:{}}s:25:"h3_typography_font_weight";s:3:"700";s:25:"h3_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.5";s:5:"sizes";a:0:{}}s:24:"h4_typography_typography";s:6:"custom";s:25:"h4_typography_font_family";s:12:"Merriweather";s:23:"h4_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"20";s:5:"sizes";a:0:{}}s:25:"h4_typography_font_weight";s:3:"700";s:25:"h4_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.5";s:5:"sizes";a:0:{}}s:8:"h1_color";s:7:"#2C364B";s:8:"h2_color";s:7:"#2C364B";s:8:"h3_color";s:7:"#2C364B";s:8:"h4_color";s:7:"#2C364B";s:15:"activeItemIndex";s:1:"1";s:28:"button_typography_typography";s:6:"custom";s:29:"button_typography_font_family";s:4:"Lato";s:27:"button_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"20";s:5:"sizes";a:0:{}}s:29:"button_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.5";s:5:"sizes";a:0:{}}s:17:"button_text_color";s:7:"#FFFFFF";s:20:"button_border_radius";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:2:"10";s:5:"right";s:2:"10";s:6:"bottom";s:2:"10";s:4:"left";s:2:"10";s:8:"isLinked";s:1:"1";}s:14:"button_padding";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:3:"020";s:5:"right";s:2:"40";s:6:"bottom";s:2:"20";s:4:"left";s:2:"40";s:8:"isLinked";s:0:"";}s:11:"__globals__";a:7:{s:10:"body_color";s:0:"";s:8:"h1_color";s:25:"globals/colors?id=primary";s:8:"h2_color";s:25:"globals/colors?id=primary";s:8:"h3_color";s:25:"globals/colors?id=primary";s:8:"h4_color";s:25:"globals/colors?id=primary";s:17:"button_text_color";s:0:"";s:23:"button_background_color";s:24:"globals/colors?id=accent";}s:29:"button_hover_background_color";s:7:"#134ECD";s:15:"viewport_tablet";s:4:"1024";s:11:"viewport_md";s:3:"768";s:32:"body_typography_font_size_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"18";s:5:"sizes";a:0:{}}s:30:"h1_typography_font_size_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"42";s:5:"sizes";a:0:{}}s:30:"h2_typography_font_size_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"30";s:5:"sizes";a:0:{}}s:30:"h3_typography_font_size_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"22";s:5:"sizes";a:0:{}}s:30:"h4_typography_font_size_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"18";s:5:"sizes";a:0:{}}s:32:"body_typography_font_size_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"16";s:5:"sizes";a:0:{}}s:30:"h1_typography_font_size_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"36";s:5:"sizes";a:0:{}}s:30:"h2_typography_font_size_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"26";s:5:"sizes";a:0:{}}s:30:"h3_typography_font_size_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"20";s:5:"sizes";a:0:{}}s:30:"h4_typography_font_size_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"16";s:5:"sizes";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:60:{s:13:"system_colors";a:4:{i:0;a:3:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:5:"color";s:7:"#2C364B";}i:1;a:3:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:5:"color";s:7:"#2C364B";}i:2;a:3:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:5:"color";s:9:"#2C364BCC";}i:3;a:3:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:5:"color";s:7:"#24D1A2";}}s:13:"custom_colors";a:0:{}s:17:"system_typography";a:4:{i:0;a:5:{s:3:"_id";s:7:"primary";s:5:"title";s:7:"Primary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"600";}i:1;a:5:{s:3:"_id";s:9:"secondary";s:5:"title";s:9:"Secondary";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:11:"Roboto Slab";s:22:"typography_font_weight";s:3:"400";}i:2;a:5:{s:3:"_id";s:4:"text";s:5:"title";s:4:"Text";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"400";}i:3;a:5:{s:3:"_id";s:6:"accent";s:5:"title";s:6:"Accent";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_family";s:6:"Roboto";s:22:"typography_font_weight";s:3:"500";}}s:17:"custom_typography";a:0:{}s:21:"default_generic_fonts";s:10:"Sans-serif";s:9:"site_name";s:39:"Urtech - Software Developer (Elementor)";s:19:"page_title_selector";s:14:"h1.entry-title";s:27:"stretched_section_container";s:5:"#page";s:11:"viewport_lg";s:4:"1025";s:10:"body_color";s:9:"#2C364BCC";s:26:"body_typography_typography";s:6:"custom";s:27:"body_typography_font_family";s:4:"Lato";s:25:"body_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"20";s:5:"sizes";a:0:{}}s:27:"body_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.5";s:5:"sizes";a:0:{}}s:24:"h1_typography_typography";s:6:"custom";s:25:"h1_typography_font_family";s:12:"Merriweather";s:23:"h1_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"50";s:5:"sizes";a:0:{}}s:25:"h1_typography_font_weight";s:3:"700";s:25:"h1_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.4";s:5:"sizes";a:0:{}}s:24:"h2_typography_typography";s:6:"custom";s:25:"h2_typography_font_family";s:12:"Merriweather";s:23:"h2_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"36";s:5:"sizes";a:0:{}}s:25:"h2_typography_font_weight";s:3:"700";s:25:"h2_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.5";s:5:"sizes";a:0:{}}s:24:"h3_typography_typography";s:6:"custom";s:25:"h3_typography_font_family";s:12:"Merriweather";s:23:"h3_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"26";s:5:"sizes";a:0:{}}s:25:"h3_typography_font_weight";s:3:"700";s:25:"h3_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.5";s:5:"sizes";a:0:{}}s:24:"h4_typography_typography";s:6:"custom";s:25:"h4_typography_font_family";s:12:"Merriweather";s:23:"h4_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"20";s:5:"sizes";a:0:{}}s:25:"h4_typography_font_weight";s:3:"700";s:25:"h4_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.5";s:5:"sizes";a:0:{}}s:8:"h1_color";s:7:"#2C364B";s:8:"h2_color";s:7:"#2C364B";s:8:"h3_color";s:7:"#2C364B";s:8:"h4_color";s:7:"#2C364B";s:15:"activeItemIndex";s:1:"1";s:28:"button_typography_typography";s:6:"custom";s:29:"button_typography_font_family";s:4:"Lato";s:27:"button_typography_font_size";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"20";s:5:"sizes";a:0:{}}s:29:"button_typography_line_height";a:3:{s:4:"unit";s:2:"em";s:4:"size";s:3:"1.5";s:5:"sizes";a:0:{}}s:17:"button_text_color";s:7:"#FFFFFF";s:20:"button_border_radius";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:2:"10";s:5:"right";s:2:"10";s:6:"bottom";s:2:"10";s:4:"left";s:2:"10";s:8:"isLinked";s:1:"1";}s:14:"button_padding";a:6:{s:4:"unit";s:2:"px";s:3:"top";s:3:"020";s:5:"right";s:2:"40";s:6:"bottom";s:2:"20";s:4:"left";s:2:"40";s:8:"isLinked";s:0:"";}s:11:"__globals__";a:7:{s:10:"body_color";s:0:"";s:8:"h1_color";s:25:"globals/colors?id=primary";s:8:"h2_color";s:25:"globals/colors?id=primary";s:8:"h3_color";s:25:"globals/colors?id=primary";s:8:"h4_color";s:25:"globals/colors?id=primary";s:17:"button_text_color";s:0:"";s:23:"button_background_color";s:24:"globals/colors?id=accent";}s:29:"button_hover_background_color";s:7:"#134ECD";s:15:"viewport_tablet";s:4:"1024";s:11:"viewport_md";s:3:"768";s:32:"body_typography_font_size_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"18";s:5:"sizes";a:0:{}}s:30:"h1_typography_font_size_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"42";s:5:"sizes";a:0:{}}s:30:"h2_typography_font_size_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"30";s:5:"sizes";a:0:{}}s:30:"h3_typography_font_size_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"22";s:5:"sizes";a:0:{}}s:30:"h4_typography_font_size_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"18";s:5:"sizes";a:0:{}}s:32:"body_typography_font_size_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"16";s:5:"sizes";a:0:{}}s:30:"h1_typography_font_size_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"36";s:5:"sizes";a:0:{}}s:30:"h2_typography_font_size_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"26";s:5:"sizes";a:0:{}}s:30:"h3_typography_font_size_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"20";s:5:"sizes";a:0:{}}s:30:"h4_typography_font_size_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:2:"16";s:5:"sizes";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
@@ -3375,6 +3375,10 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[suki_related_posts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:9:"timestamp";i:1630721433;s:7:"filters";s:47:"posts_per_page=3&order=date|DESC&query=category";s:3:"ids";a:3:{i:0;i:92;i:1;i:90;i:2;i:88;}}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Pellentesque pulvinar tincidunt quam lacinia elementum]]></title>
@@ -3432,7 +3436,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[suki_related_posts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:9:"timestamp";i:1620744279;s:7:"filters";s:57:"posts_per_page=3&order=date|DESC&query=category&max_days=";s:3:"ids";a:3:{i:0;i:92;i:1;i:90;i:2;i:88;}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:3:{s:9:"timestamp";i:1630683414;s:7:"filters";s:47:"posts_per_page=3&order=date|DESC&query=category";s:3:"ids";a:3:{i:0;i:92;i:1;i:90;i:2;i:88;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3488,6 +3492,10 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[suki_related_posts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:9:"timestamp";i:1630590535;s:7:"filters";s:47:"posts_per_page=3&order=date|DESC&query=category";s:3:"ids";a:3:{i:0;i:92;i:1;i:90;i:2;i:88;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3562,7 +3570,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[suki_related_posts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:9:"timestamp";i:1620744336;s:7:"filters";s:57:"posts_per_page=3&order=date|DESC&query=category&max_days=";s:3:"ids";a:3:{i:0;i:92;i:1;i:90;i:2;i:86;}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:3:{s:9:"timestamp";i:1630737758;s:7:"filters";s:57:"posts_per_page=3&order=date|DESC&query=category&max_days=";s:3:"ids";a:3:{i:0;i:92;i:1;i:90;i:2;i:86;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3621,7 +3629,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[suki_related_posts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:9:"timestamp";i:1620742646;s:7:"filters";s:57:"posts_per_page=3&order=date|DESC&query=category&max_days=";s:3:"ids";a:3:{i:0;i:92;i:1;i:88;i:2;i:86;}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:3:{s:9:"timestamp";i:1630168151;s:7:"filters";s:47:"posts_per_page=3&order=date|DESC&query=category";s:3:"ids";a:3:{i:0;i:92;i:1;i:88;i:2;i:86;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3677,6 +3685,10 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[suki_related_posts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:9:"timestamp";i:1630167913;s:7:"filters";s:47:"posts_per_page=3&order=date|DESC&query=category";s:3:"ids";a:3:{i:0;i:90;i:1;i:88;i:2;i:86;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
