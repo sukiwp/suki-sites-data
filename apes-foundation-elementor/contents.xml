@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.4" created="2019-11-03 23:44" -->
+	<!-- generator="WordPress/5.8" created="2021-09-06 10:32" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,10 +29,10 @@
 	<title>Apes Foundation (Elementor)</title>
 	<link>https://demo.sukiwp.com/apes-foundation-elementor</link>
 	<description>Just another Suki Demo site</description>
-	<pubDate>Sun, 03 Nov 2019 23:44:00 +0000</pubDate>
+	<pubDate>Mon, 06 Sep 2021 10:32:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.sukiwp.com/</wp:base_site_url>
+	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.sukiwp.com/apes-foundation-elementor</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[sukiwp]]></wp:author_login><wp:author_email><![CDATA[admin@sukiwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin Suki]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[Suki]]></wp:author_last_name></wp:author>
@@ -57,7 +57,7 @@
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
 				<wp:term>
-		<wp:term_id><![CDATA[3]]></wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:term_taxonomy><![CDATA[elementor_library_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[section]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
@@ -66,10 +66,10 @@
 			<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 		<item>
-		<title>home-hero</title>
+		<title><![CDATA[home-hero]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/home-hero/</link>
 		<pubDate>Wed, 02 Oct 2019 01:35:36 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -80,6 +80,8 @@
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-02 01:35:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-02 01:35:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-02 01:35:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-02 01:35:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home-hero]]></wp:post_name>
@@ -100,7 +102,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>latest news 1</title>
+		<title><![CDATA[latest news 1]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/latest-news-1/</link>
 		<pubDate>Wed, 02 Oct 2019 03:03:54 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -111,6 +113,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-02 03:03:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-02 03:03:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-02 03:03:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-02 03:03:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[latest-news-1]]></wp:post_name>
@@ -131,7 +135,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>latest news 2</title>
+		<title><![CDATA[latest news 2]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/latest-news-2/</link>
 		<pubDate>Wed, 02 Oct 2019 03:07:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -142,6 +146,8 @@
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-02 03:07:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-02 03:07:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-02 03:07:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-02 03:07:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[latest-news-2]]></wp:post_name>
@@ -162,7 +168,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>latest news 3</title>
+		<title><![CDATA[latest news 3]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/latest-news-3/</link>
 		<pubDate>Wed, 02 Oct 2019 03:07:28 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -173,6 +179,8 @@
 		<wp:post_id>25</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-02 03:07:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-02 03:07:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-02 03:07:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-02 03:07:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[latest-news-3]]></wp:post_name>
@@ -193,7 +201,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about apes</title>
+		<title><![CDATA[about apes]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/about-apes/</link>
 		<pubDate>Wed, 02 Oct 2019 04:10:35 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -204,6 +212,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-02 04:10:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-02 04:10:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-02 04:10:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-02 04:10:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-apes]]></wp:post_name>
@@ -224,7 +234,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>leaf 2</title>
+		<title><![CDATA[leaf 2]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/leaf-2/</link>
 		<pubDate>Wed, 02 Oct 2019 04:31:02 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -235,6 +245,8 @@
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-02 04:31:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-02 04:31:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-02 04:31:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-02 04:31:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[leaf-2]]></wp:post_name>
@@ -255,7 +267,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>leaf 3</title>
+		<title><![CDATA[leaf 3]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/leaf-3-2/</link>
 		<pubDate>Wed, 02 Oct 2019 04:31:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -266,6 +278,8 @@
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-02 04:31:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-02 04:31:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-02 04:31:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-02 04:31:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[leaf-3-2]]></wp:post_name>
@@ -286,7 +300,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>apes reintroduce program</title>
+		<title><![CDATA[apes reintroduce program]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/apes-reintroduce-program/</link>
 		<pubDate>Wed, 02 Oct 2019 09:36:12 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -297,6 +311,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-02 09:36:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-02 09:36:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-02 09:36:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-02 09:36:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[apes-reintroduce-program]]></wp:post_name>
@@ -317,7 +333,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>apes reintroduce program-1</title>
+		<title><![CDATA[apes reintroduce program-1]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/apes-reintroduce-program-1/</link>
 		<pubDate>Wed, 02 Oct 2019 09:44:00 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -328,6 +344,8 @@
 		<wp:post_id>42</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-02 09:44:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-02 09:44:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-02 09:44:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-02 09:44:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[apes-reintroduce-program-1]]></wp:post_name>
@@ -348,7 +366,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>apes reintroduce program-2</title>
+		<title><![CDATA[apes reintroduce program-2]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/apes-reintroduce-program-2/</link>
 		<pubDate>Wed, 02 Oct 2019 09:44:27 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -359,6 +377,8 @@
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-02 09:44:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-02 09:44:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-02 09:44:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-02 09:44:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[apes-reintroduce-program-2]]></wp:post_name>
@@ -379,7 +399,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>tree</title>
+		<title><![CDATA[tree]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/?attachment_id=57</link>
 		<pubDate>Thu, 03 Oct 2019 10:35:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -390,6 +410,8 @@
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-03 10:35:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-03 10:35:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-03 10:35:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-03 10:35:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tree]]></wp:post_name>
@@ -410,7 +432,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about hero</title>
+		<title><![CDATA[about hero]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/about/about-hero/</link>
 		<pubDate>Mon, 07 Oct 2019 06:51:13 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -421,6 +443,8 @@
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 06:51:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 06:51:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 06:51:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 06:51:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-hero]]></wp:post_name>
@@ -441,7 +465,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about 4</title>
+		<title><![CDATA[about 4]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/about/about-4/</link>
 		<pubDate>Mon, 07 Oct 2019 06:55:27 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -452,6 +476,8 @@
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 06:55:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 06:55:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 06:55:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 06:55:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-4]]></wp:post_name>
@@ -472,7 +498,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>programs hero</title>
+		<title><![CDATA[programs hero]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/programs/programs-hero/</link>
 		<pubDate>Mon, 07 Oct 2019 07:26:36 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -483,6 +509,8 @@
 		<wp:post_id>72</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 07:26:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 07:26:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 07:26:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 07:26:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[programs-hero]]></wp:post_name>
@@ -503,7 +531,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>programs bg</title>
+		<title><![CDATA[programs bg]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/programs/programs-bg/</link>
 		<pubDate>Mon, 07 Oct 2019 07:54:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -514,6 +542,8 @@
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 07:54:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 07:54:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 07:54:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 07:54:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[programs-bg]]></wp:post_name>
@@ -534,7 +564,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>workshop 2</title>
+		<title><![CDATA[workshop 2]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/programs/workshop-2/</link>
 		<pubDate>Mon, 07 Oct 2019 07:56:09 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -545,6 +575,8 @@
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 07:56:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 07:56:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 07:56:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 07:56:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[workshop-2]]></wp:post_name>
@@ -565,7 +597,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>workshop 1</title>
+		<title><![CDATA[workshop 1]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/programs/workshop-1/</link>
 		<pubDate>Mon, 07 Oct 2019 08:09:28 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -576,6 +608,8 @@
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:09:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:09:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:09:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:09:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[workshop-1]]></wp:post_name>
@@ -596,7 +630,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery hero</title>
+		<title><![CDATA[gallery hero]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/gallery-hero/</link>
 		<pubDate>Mon, 07 Oct 2019 08:22:55 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -607,6 +641,8 @@
 		<wp:post_id>83</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:22:55]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:22:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:22:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:22:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-hero]]></wp:post_name>
@@ -627,7 +663,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery</title>
+		<title><![CDATA[gallery]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/gallery-2/</link>
 		<pubDate>Mon, 07 Oct 2019 08:27:22 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -638,6 +674,8 @@
 		<wp:post_id>84</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:27:22]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:27:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:27:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:27:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-2]]></wp:post_name>
@@ -658,7 +696,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-1</title>
+		<title><![CDATA[gallery-1]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/gallery-1/</link>
 		<pubDate>Mon, 07 Oct 2019 08:27:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -669,6 +707,8 @@
 		<wp:post_id>85</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:27:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:27:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:27:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:27:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-1]]></wp:post_name>
@@ -689,7 +729,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-2</title>
+		<title><![CDATA[gallery-2]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/gallery-2-2/</link>
 		<pubDate>Mon, 07 Oct 2019 08:27:23 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -700,6 +740,8 @@
 		<wp:post_id>86</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:27:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:27:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:27:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:27:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-2-2]]></wp:post_name>
@@ -720,7 +762,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-3</title>
+		<title><![CDATA[gallery-3]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/gallery-3/</link>
 		<pubDate>Mon, 07 Oct 2019 08:27:24 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -731,6 +773,8 @@
 		<wp:post_id>87</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:27:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:27:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:27:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:27:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-3]]></wp:post_name>
@@ -751,7 +795,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-4</title>
+		<title><![CDATA[gallery-4]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/gallery-4/</link>
 		<pubDate>Mon, 07 Oct 2019 08:27:25 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -762,6 +806,8 @@
 		<wp:post_id>88</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:27:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:27:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:27:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:27:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-4]]></wp:post_name>
@@ -782,7 +828,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-5</title>
+		<title><![CDATA[gallery-5]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/gallery-5/</link>
 		<pubDate>Mon, 07 Oct 2019 08:27:25 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -793,6 +839,8 @@
 		<wp:post_id>89</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:27:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:27:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:27:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:27:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-5]]></wp:post_name>
@@ -813,7 +861,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-6</title>
+		<title><![CDATA[gallery-6]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/gallery-6/</link>
 		<pubDate>Mon, 07 Oct 2019 08:27:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -824,6 +872,8 @@
 		<wp:post_id>90</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:27:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:27:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:27:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:27:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-6]]></wp:post_name>
@@ -844,7 +894,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-7</title>
+		<title><![CDATA[gallery-7]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/gallery-7/</link>
 		<pubDate>Mon, 07 Oct 2019 08:27:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -855,6 +905,8 @@
 		<wp:post_id>91</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:27:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:27:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:27:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:27:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-7]]></wp:post_name>
@@ -875,7 +927,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-8</title>
+		<title><![CDATA[gallery-8]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/gallery-8/</link>
 		<pubDate>Mon, 07 Oct 2019 08:27:27 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -886,6 +938,8 @@
 		<wp:post_id>92</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:27:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:27:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:27:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:27:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-8]]></wp:post_name>
@@ -906,7 +960,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-9</title>
+		<title><![CDATA[gallery-9]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/gallery-9/</link>
 		<pubDate>Mon, 07 Oct 2019 08:27:27 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -917,6 +971,8 @@
 		<wp:post_id>93</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:27:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:27:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:27:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:27:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-9]]></wp:post_name>
@@ -937,7 +993,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-10</title>
+		<title><![CDATA[gallery-10]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/gallery-10/</link>
 		<pubDate>Mon, 07 Oct 2019 08:27:28 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -948,6 +1004,8 @@
 		<wp:post_id>94</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:27:28]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:27:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:27:28]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:27:28]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-10]]></wp:post_name>
@@ -968,7 +1026,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>gallery-11</title>
+		<title><![CDATA[gallery-11]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/gallery-11/</link>
 		<pubDate>Mon, 07 Oct 2019 08:27:29 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -979,6 +1037,8 @@
 		<wp:post_id>95</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:27:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:27:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:27:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:27:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery-11]]></wp:post_name>
@@ -999,7 +1059,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>contact hero</title>
+		<title><![CDATA[contact hero]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/contact/contact-hero/</link>
 		<pubDate>Mon, 07 Oct 2019 08:30:10 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1010,6 +1070,8 @@
 		<wp:post_id>97</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:30:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:30:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-07 08:30:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-07 08:30:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-hero]]></wp:post_name>
@@ -1030,7 +1092,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>news hero</title>
+		<title><![CDATA[news hero]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/news-hero/</link>
 		<pubDate>Tue, 08 Oct 2019 07:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1041,6 +1103,8 @@
 		<wp:post_id>118</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 07:03:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 07:03:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 07:03:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 07:03:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[news-hero]]></wp:post_name>
@@ -1061,7 +1125,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about1</title>
+		<title><![CDATA[about1]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/about/about1/</link>
 		<pubDate>Tue, 08 Oct 2019 09:09:47 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1072,6 +1136,8 @@
 		<wp:post_id>128</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 09:09:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 09:09:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 09:09:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 09:09:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about1]]></wp:post_name>
@@ -1092,7 +1158,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about2</title>
+		<title><![CDATA[about2]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/about/about2/</link>
 		<pubDate>Tue, 08 Oct 2019 09:09:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1103,6 +1169,8 @@
 		<wp:post_id>129</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 09:09:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 09:09:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 09:09:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 09:09:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about2]]></wp:post_name>
@@ -1123,7 +1191,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about3</title>
+		<title><![CDATA[about3]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/about/about3/</link>
 		<pubDate>Tue, 08 Oct 2019 09:09:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1134,6 +1202,8 @@
 		<wp:post_id>130</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 09:09:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 09:09:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 09:09:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 09:09:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about3]]></wp:post_name>
@@ -1154,7 +1224,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo af</title>
+		<title><![CDATA[logo af]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/logo-af/</link>
 		<pubDate>Tue, 08 Oct 2019 11:19:27 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1165,6 +1235,8 @@
 		<wp:post_id>131</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 11:19:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 11:19:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 11:19:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 11:19:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[logo-af]]></wp:post_name>
@@ -1185,7 +1257,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>leaf 1</title>
+		<title><![CDATA[leaf 1]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/leaf-1/</link>
 		<pubDate>Tue, 08 Oct 2019 11:54:25 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1196,6 +1268,8 @@
 		<wp:post_id>135</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 11:54:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 11:54:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 11:54:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 11:54:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[leaf-1]]></wp:post_name>
@@ -1216,7 +1290,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about apes</title>
+		<title><![CDATA[about apes]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/about-apes-2/</link>
 		<pubDate>Wed, 09 Oct 2019 10:09:13 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1227,6 +1301,8 @@
 		<wp:post_id>143</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-09 10:09:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-09 10:09:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-09 10:09:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-09 10:09:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-apes-2]]></wp:post_name>
@@ -1247,7 +1323,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>about af</title>
+		<title><![CDATA[about af]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/about-af-2/</link>
 		<pubDate>Wed, 09 Oct 2019 10:15:13 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1258,6 +1334,8 @@
 		<wp:post_id>145</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-09 10:15:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-09 10:15:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-09 10:15:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-09 10:15:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-af-2]]></wp:post_name>
@@ -1278,7 +1356,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>project3</title>
+		<title><![CDATA[project3]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/programs/project3/</link>
 		<pubDate>Thu, 10 Oct 2019 09:57:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1289,6 +1367,8 @@
 		<wp:post_id>148</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-10 09:57:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-10 09:57:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-10 09:57:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-10 09:57:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[project3]]></wp:post_name>
@@ -1309,7 +1389,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Home</title>
+		<title><![CDATA[Home]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/</link>
 		<pubDate>Wed, 02 Oct 2019 01:30:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1394,6 +1474,8 @@
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-02 01:30:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-02 01:30:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-03 14:01:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-03 14:01:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1433,34 +1515,38 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:19;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:19;s:11:"header_size";i:16;s:5:"align";i:10;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:9;s:21:"typography_typography";i:18;s:22:"typography_line_height";i:12;s:27:"typography_font_size_mobile";i:1;s:25:"typography_text_transform";i:6;s:20:"typography_font_size";i:6;s:22:"typography_font_weight";i:6;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:10:"text_color";i:6;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:14;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:4:{s:4:"text";i:14;s:4:"size";i:14;s:12:"align_mobile";i:3;s:5:"align";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:11:{s:21:"typography_typography";i:14;s:20:"typography_font_size";i:14;s:25:"typography_text_transform";i:14;s:17:"button_text_color";i:14;s:16:"background_color";i:14;s:11:"hover_color";i:14;s:29:"button_background_hover_color";i:14;s:13:"border_radius";i:14;s:12:"text_padding";i:14;s:13:"border_border";i:7;s:12:"border_width";i:7;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:14:"_margin_mobile";i:3;}s:17:"_section_position";a:3:{s:14:"_element_width";i:3;s:21:"_element_width_tablet";i:3;s:21:"_element_width_mobile";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:17;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:2;s:19:"_inline_size_tablet";i:9;s:16:"content_position";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"background_background";i:9;s:16:"background_color";i:9;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:10;s:6:"margin";i:7;s:13:"margin_tablet";i:1;s:13:"margin_mobile";i:6;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:8;}s:17:"section_structure";a:1:{s:9:"structure";i:6;}}s:5:"style";a:1:{s:18:"section_background";a:8:{s:21:"background_background";i:5;s:16:"background_color";i:2;s:16:"background_image";i:4;s:19:"background_position";i:4;s:17:"background_repeat";i:4;s:15:"background_size";i:2;s:15:"background_xpos";i:2;s:15:"background_ypos";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:6;s:14:"padding_tablet";i:1;s:6:"margin";i:3;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:5:"image";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:8;s:10:"image_size";i:8;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:5:"width";i:8;s:12:"width_tablet";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:19;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:19;s:11:"header_size";i:16;s:5:"align";i:10;}}s:5:"style";a:1:{s:19:"section_title_style";a:7:{s:11:"title_color";i:9;s:21:"typography_typography";i:18;s:22:"typography_line_height";i:12;s:27:"typography_font_size_mobile";i:1;s:25:"typography_text_transform";i:6;s:20:"typography_font_size";i:6;s:22:"typography_font_weight";i:6;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:6;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:10:"text_color";i:6;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:14;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:4:{s:4:"text";i:14;s:4:"size";i:14;s:12:"align_mobile";i:3;s:5:"align";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:11:{s:21:"typography_typography";i:14;s:20:"typography_font_size";i:14;s:25:"typography_text_transform";i:14;s:17:"button_text_color";i:14;s:16:"background_color";i:14;s:11:"hover_color";i:14;s:29:"button_background_hover_color";i:14;s:13:"border_radius";i:14;s:12:"text_padding";i:14;s:13:"border_border";i:7;s:12:"border_width";i:7;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:14:"_margin_mobile";i:3;}s:17:"_section_position";a:3:{s:14:"_element_width";i:3;s:21:"_element_width_tablet";i:3;s:21:"_element_width_mobile";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:17;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:2;s:19:"_inline_size_tablet";i:9;s:16:"content_position";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"background_background";i:9;s:16:"background_color";i:9;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:4:{s:7:"padding";i:10;s:6:"margin";i:7;s:13:"margin_tablet";i:1;s:13:"margin_mobile";i:6;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:8;}s:17:"section_structure";a:1:{s:9:"structure";i:6;}}s:5:"style";a:1:{s:18:"section_background";a:8:{s:21:"background_background";i:5;s:16:"background_color";i:2;s:16:"background_image";i:4;s:19:"background_position";i:4;s:17:"background_repeat";i:4;s:15:"background_size";i:2;s:15:"background_xpos";i:2;s:15:"background_ypos";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:7:"padding";i:6;s:14:"padding_tablet";i:1;s:6:"margin";i:3;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:5:"image";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:8;s:10:"image_size";i:8;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:5:"width";i:8;s:12:"width_tablet";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About</title>
+		<title><![CDATA[About]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/about/</link>
 		<pubDate>Thu, 03 Oct 2019 10:37:26 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/apes-foundation-elementor/?page_id=58</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>About Apes Foundation</h2>		
-										<img width="515" height="700" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about-4.jpg" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.</p>		
-			<figure class='gallery-item'>
-				<a data-elementor-open-lightbox="no" data-elementor-lightbox-slideshow="b3f64c4" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about3.jpg'><img width="515" height="700" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about3.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="no" data-elementor-lightbox-slideshow="b3f64c4" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about2.jpg'><img width="515" height="700" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about2.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="no" data-elementor-lightbox-slideshow="b3f64c4" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about1.jpg'><img width="515" height="700" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about1.jpg" alt="" /></a>
-			</figure>
-			<h2>Vision</h2>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>		
-			<h2>Mission</h2>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>]]></content:encoded>
+		<content:encoded><![CDATA[<h2>About Apes Foundation</h2>
+<img width="515" height="700" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about-4.jpg" alt="" loading="lazy" srcset="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about-4.jpg 515w, https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about-4-221x300.jpg 221w" sizes="(max-width: 515px) 100vw, 515px">
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&nbsp;
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="no" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about3.jpg"><img width="515" height="700" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about3.jpg" alt="" loading="lazy" srcset="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about3.jpg 515w, https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about3-221x300.jpg 221w" sizes="(max-width: 515px) 100vw, 515px"></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="no" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about2.jpg"><img width="515" height="700" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about2.jpg" alt="" loading="lazy" srcset="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about2.jpg 515w, https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about2-221x300.jpg 221w" sizes="(max-width: 515px) 100vw, 515px"></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="no" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about1.jpg"><img width="515" height="700" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about1.jpg" alt="" loading="lazy" srcset="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about1.jpg 515w, https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/about1-221x300.jpg 221w" sizes="(max-width: 515px) 100vw, 515px"></a></figure>
+<h2>Vision</h2>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&nbsp;
+<h2>Mission</h2>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&nbsp;]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-03 10:37:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-03 10:37:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-09-06 10:10:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-06 10:10:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -1476,7 +1562,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
@@ -1492,7 +1578,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.7.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.4.3]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
@@ -1503,58 +1589,76 @@
 		<wp:meta_value><![CDATA[63]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:3;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:2:{s:21:"typography_typography";i:1;s:22:"typography_line_height";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:4:{s:5:"image";i:1;s:10:"image_size";i:1;s:5:"align";i:1;s:12:"align_tablet";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:4;s:13:"margin_tablet";i:2;s:13:"margin_mobile";i:2;}}s:6:"layout";a:1:{s:6:"layout";a:3:{s:19:"_inline_size_tablet";i:2;s:16:"content_position";i:1;s:21:"space_between_widgets";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:15:"section_gallery";a:4:{s:10:"wp_gallery";i:1;s:15:"gallery_columns";i:1;s:14:"thumbnail_size";i:1;s:13:"open_lightbox";i:1;}}s:5:"style";a:1:{s:22:"section_gallery_images";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:14:"_margin_tablet";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:3;}s:17:"section_structure";a:1:{s:9:"structure";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:2;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:3;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:2:{s:21:"typography_typography";i:1;s:22:"typography_line_height";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:4:{s:5:"image";i:1;s:10:"image_size";i:1;s:5:"align";i:1;s:12:"align_tablet";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:4;s:13:"margin_tablet";i:2;s:13:"margin_mobile";i:2;}}s:6:"layout";a:1:{s:6:"layout";a:3:{s:19:"_inline_size_tablet";i:2;s:16:"content_position";i:1;s:21:"space_between_widgets";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:15:"section_gallery";a:4:{s:10:"wp_gallery";i:1;s:15:"gallery_columns";i:1;s:14:"thumbnail_size";i:1;s:13:"open_lightbox";i:1;}}s:5:"style";a:1:{s:22:"section_gallery_images";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:14:"_margin_tablet";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:3;}s:17:"section_structure";a:1:{s:9:"structure";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:2;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Programs</title>
+		<title><![CDATA[Programs]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/programs/</link>
 		<pubDate>Mon, 07 Oct 2019 07:22:40 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/apes-foundation-elementor/?page_id=70</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>Workshop</h2>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&nbsp;</p>		
-			Workshop		
-			<h3>The Apes Information Centre </h3>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, </p>		
-			<a href="#" role="button">
-						Learn More
-					</a>
-										<img width="376" height="547" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/workshop-2.jpg" alt="" />											
-										<img width="376" height="547" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/workshop-1.jpg" alt="" />											
-			Workshop		
-			<h3>Conservation Project</h3>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut </p>		
-			<a href="#" role="button">
-						Learn More
-					</a>
-										<img width="1024" height="1392" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/project3.jpg" alt="" />											
-			Funded Project		
-			<h3>Sumatran Orangutan Conservation Programme</h3>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata </p>		
-			<a href="#" role="button">
-						Read More
-					</a>
-										<img width="1024" height="1392" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/project2.jpg" alt="" />											
-			Funded Project		
-			<h3>Apes Haven</h3>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata </p>		
-			<a href="#" role="button">
-						Read More
-					</a>
-										<img width="1024" height="1392" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/project1.jpg" alt="" />											
-			Funded Project		
-			<h3>Gunung Palung Apes Conservation Program</h3>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata </p>		
-			<a href="#" role="button">
-						Read More
-					</a>]]></content:encoded>
+		<content:encoded><![CDATA[<h2>Workshop</h2>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&nbsp;
+
+Workshop
+<h3>The Apes Information Centre</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,&nbsp;
+
+<a href="#" role="button">
+Learn More
+</a>
+<img width="376" height="547" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/workshop-2.jpg" alt="">
+<img width="376" height="547" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/workshop-1.jpg" alt="">
+Workshop
+<h3>Conservation Project</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut&nbsp;
+
+<a href="#" role="button">
+Learn More
+</a>
+<img width="1024" height="1392" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/project3.jpg" alt="">
+Funded Project
+<h3>Sumatran Orangutan Conservation Programme</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&nbsp;
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata&nbsp;
+
+<a href="#" role="button">
+Read More
+</a>
+<img width="1024" height="1392" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/project2.jpg" alt="">
+Funded Project
+<h3>Apes Haven</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&nbsp;
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata&nbsp;
+
+<a href="#" role="button">
+Read More
+</a>
+<img width="1024" height="1392" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/project1.jpg" alt="">
+Funded Project
+<h3>Gunung Palung Apes Conservation Program</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&nbsp;
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata&nbsp;
+
+<a href="#" role="button">
+Read More
+</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>70</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 07:22:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 07:22:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-09-06 10:11:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-06 10:11:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[programs]]></wp:post_name>
@@ -1566,7 +1670,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
@@ -1586,7 +1690,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page-templates/page-builder.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
@@ -1598,47 +1702,50 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:11;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:11;s:5:"align";i:1;s:11:"header_size";i:10;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:11:"title_color";i:4;s:21:"typography_typography";i:10;s:25:"typography_text_transform";i:5;s:22:"typography_line_height";i:5;}}}}s:11:"text-editor";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:5:"align";i:1;s:10:"text_color";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:13;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:21:"space_between_widgets";i:1;s:19:"_inline_size_tablet";i:6;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:10;s:13:"margin_mobile";i:7;s:13:"margin_tablet";i:8;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:8;}s:17:"section_structure";a:1:{s:9:"structure";i:5;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:7:"padding";i:5;s:6:"margin";i:4;s:14:"padding_tablet";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:5;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:5;s:4:"size";i:5;}}s:5:"style";a:1:{s:13:"section_style";a:11:{s:21:"typography_typography";i:5;s:20:"typography_font_size";i:5;s:25:"typography_text_transform";i:5;s:17:"button_text_color";i:5;s:16:"background_color";i:5;s:11:"hover_color";i:5;s:29:"button_background_hover_color";i:5;s:13:"border_border";i:2;s:12:"border_width";i:2;s:13:"border_radius";i:5;s:12:"text_padding";i:5;}}}}s:5:"image";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:5;s:10:"image_size";i:5;s:5:"align";i:5;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:5:"width";i:3;s:12:"width_tablet";i:3;}}}}s:6:"spacer";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:3;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:11;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:11;s:5:"align";i:1;s:11:"header_size";i:10;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:11:"title_color";i:4;s:21:"typography_typography";i:10;s:25:"typography_text_transform";i:5;s:22:"typography_line_height";i:5;}}}}s:11:"text-editor";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:5:"align";i:1;s:10:"text_color";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:13;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:21:"space_between_widgets";i:1;s:19:"_inline_size_tablet";i:6;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:10;s:13:"margin_mobile";i:7;s:13:"margin_tablet";i:8;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:8;}s:17:"section_structure";a:1:{s:9:"structure";i:5;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:7:"padding";i:5;s:6:"margin";i:4;s:14:"padding_tablet";i:1;}s:19:"_section_responsive";a:1:{s:20:"reverse_order_mobile";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:5;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:2:{s:4:"text";i:5;s:4:"size";i:5;}}s:5:"style";a:1:{s:13:"section_style";a:11:{s:21:"typography_typography";i:5;s:20:"typography_font_size";i:5;s:25:"typography_text_transform";i:5;s:17:"button_text_color";i:5;s:16:"background_color";i:5;s:11:"hover_color";i:5;s:29:"button_background_hover_color";i:5;s:13:"border_border";i:2;s:12:"border_width";i:2;s:13:"border_radius";i:5;s:12:"text_padding";i:5;}}}}s:5:"image";a:3:{s:5:"count";i:5;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:3:{s:5:"image";i:5;s:10:"image_size";i:5;s:5:"align";i:5;}}s:5:"style";a:1:{s:19:"section_style_image";a:2:{s:5:"width";i:3;s:12:"width_tablet";i:3;}}}}s:6:"spacer";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:3;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gallery</title>
+		<title><![CDATA[Gallery]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gallery/</link>
 		<pubDate>Mon, 07 Oct 2019 08:21:50 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/apes-foundation-elementor/?page_id=82</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>It is not the biggest, <br />the brightest or the best that will survive, <br />but those who adapt the quickest.</h2>		
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.us nec ullamcorper mattis, pulvinar dapibus leo.</p>		
-			<figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery.jpg'><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-1.jpg'><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-1.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-2.jpg'><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-2.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-3.jpg'><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-3.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-4.jpg'><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-4.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-5.jpg'><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-5.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-6.jpg'><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-6.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-7.jpg'><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-7.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-8.jpg'><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-8.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-9.jpg'><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-9.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-10.jpg'><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-10.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href='https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-11.jpg'><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-11.jpg" alt="" /></a>
-			</figure>]]></content:encoded>
+		<content:encoded><![CDATA[<h2>It is not the biggest,
+the brightest or the best that will survive,
+but those who adapt the quickest.</h2>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.us nec ullamcorper mattis, pulvinar dapibus leo.
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery.jpg"><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-1.jpg"><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-1.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-2.jpg"><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-2.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-3.jpg"><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-3.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-4.jpg"><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-4.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-5.jpg"><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-5.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-6.jpg"><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-6.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-7.jpg"><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-7.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-8.jpg"><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-8.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-9.jpg"><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-9.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-10.jpg"><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-10.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="31be9b6" href="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-11.jpg"><img width="376" height="376" src="https://demo.sukiwp.com/apes-foundation-elementor/wp-content/uploads/sites/36/2019/10/gallery-11.jpg" alt=""></a></figure>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>82</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:21:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:21:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-09-06 10:11:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-06 10:11:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery]]></wp:post_name>
@@ -1650,11 +1757,11 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page-templates/page-builder.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
@@ -1682,35 +1789,46 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:2:{s:21:"typography_typography";i:1;s:22:"typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:8:"_padding";i:1;s:15:"_padding_tablet";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_gallery";a:3:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;s:15:"gallery_columns";i:1;}}s:5:"style";a:1:{s:22:"section_gallery_images";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:14:"section_layout";a:1:{s:3:"gap";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:2:{s:21:"typography_typography";i:1;s:22:"typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:1;s:8:"_padding";i:1;s:15:"_padding_tablet";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:14:"_margin_tablet";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:13:"image-gallery";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_gallery";a:3:{s:10:"wp_gallery";i:1;s:14:"thumbnail_size";i:1;s:15:"gallery_columns";i:1;}}s:5:"style";a:1:{s:22:"section_gallery_images";a:2:{s:13:"image_spacing";i:1;s:20:"image_spacing_custom";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:14:"section_layout";a:1:{s:3:"gap";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact</title>
+		<title><![CDATA[Contact]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/contact/</link>
 		<pubDate>Mon, 07 Oct 2019 08:29:19 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/apes-foundation-elementor/?page_id=96</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>Get in Touch</h2>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>		
-		[contact-form-7 id="4" title="Contact form"]<p>Jl. Mayor Salim Batubara No. 2401<br />Sekip Pangkal, Palembang 30126</p><p>021 - 123456789</p><p>info@af.com</p>		
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Facebook
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Twitter
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Linkedin
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Instagram
-									</a>]]></content:encoded>
+		<content:encoded><![CDATA[<h2>Get in Touch</h2>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+
+[contact-form-7 id="4" title="Contact form"]
+
+Jl. Mayor Salim Batubara No. 2401
+Sekip Pangkal, Palembang 30126
+
+021 - 123456789
+
+info@af.com
+
+<a href="" target="_blank" rel="noopener noreferrer">
+Facebook
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Twitter
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Linkedin
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Instagram
+</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>96</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-07 08:29:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-07 08:29:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-09-06 10:12:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-06 10:12:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -1722,11 +1840,11 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page-templates/page-builder.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
@@ -1754,45 +1872,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:2;s:13:"margin_tablet";i:2;s:13:"margin_mobile";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:2:{s:16:"social_icon_list";i:1;s:5:"align";i:1;}}s:5:"style";a:2:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;s:20:"icon_secondary_color";i:1;s:9:"icon_size";i:1;s:12:"icon_padding";i:1;s:12:"icon_spacing";i:1;}s:20:"section_social_hover";a:1:{s:21:"hover_secondary_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:2;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:7:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:1;s:5:"align";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:5:"align";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:2;s:13:"margin_tablet";i:2;s:13:"margin_mobile";i:1;}}}}s:12:"social-icons";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:19:"section_social_icon";a:2:{s:16:"social_icon_list";i:1;s:5:"align";i:1;}}s:5:"style";a:2:{s:20:"section_social_style";a:6:{s:10:"icon_color";i:1;s:18:"icon_primary_color";i:1;s:20:"icon_secondary_color";i:1;s:9:"icon_size";i:1;s:12:"icon_padding";i:1;s:12:"icon_spacing";i:1;}s:20:"section_social_hover";a:1:{s:21:"hover_secondary_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:2;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Latest News</title>
-		<link>https://demo.sukiwp.com/apes-foundation-elementor/latest-news/</link>
-		<pubDate>Tue, 08 Oct 2019 04:15:11 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.sukiwp.com/apes-foundation-elementor/?page_id=101</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>101</wp:post_id>
-		<wp:post_date><![CDATA[2019-10-08 04:15:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-10-08 04:15:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[latest-news]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/103/</link>
 		<pubDate>Tue, 08 Oct 2019 06:40:56 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1803,6 +1887,8 @@
 		<wp:post_id>103</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 06:40:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 06:40:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 06:40:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 06:40:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[103]]></wp:post_name>
@@ -1851,7 +1937,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/104/</link>
 		<pubDate>Tue, 08 Oct 2019 06:40:56 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1862,6 +1948,8 @@
 		<wp:post_id>104</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 06:40:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 06:40:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 06:40:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 06:40:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[104]]></wp:post_name>
@@ -1910,7 +1998,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/105/</link>
 		<pubDate>Tue, 08 Oct 2019 06:40:56 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1921,6 +2009,8 @@
 		<wp:post_id>105</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 06:40:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 06:40:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 06:40:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 06:40:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[105]]></wp:post_name>
@@ -1969,7 +2059,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/106/</link>
 		<pubDate>Tue, 08 Oct 2019 06:40:56 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -1980,6 +2070,8 @@
 		<wp:post_id>106</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 06:40:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 06:40:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 06:40:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 06:40:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[106]]></wp:post_name>
@@ -2028,7 +2120,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/107/</link>
 		<pubDate>Tue, 08 Oct 2019 06:40:56 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2039,6 +2131,8 @@
 		<wp:post_id>107</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 06:40:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 06:40:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 06:40:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 06:40:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[107]]></wp:post_name>
@@ -2087,7 +2181,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
+		<title><![CDATA[]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/108/</link>
 		<pubDate>Tue, 08 Oct 2019 06:40:56 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2098,6 +2192,8 @@
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 06:40:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 06:40:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 06:40:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 06:40:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[108]]></wp:post_name>
@@ -2146,7 +2242,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>page header</title>
+		<title><![CDATA[page header]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/?elementor_library=page-header</link>
 		<pubDate>Tue, 08 Oct 2019 06:59:53 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2157,6 +2253,8 @@
 		<wp:post_id>116</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-08 06:59:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-08 06:59:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 06:59:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 06:59:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[page-header]]></wp:post_name>
@@ -2177,7 +2275,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:1;s:11:"header_size";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:22:"typography_line_height";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:6:"layout";a:1:{s:14:"section_layout";a:1:{s:3:"gap";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:1;s:14:"padding_tablet";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:1;s:16:"background_color";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}s:26:"section_background_overlay";a:2:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:3:{s:7:"heading";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:1;s:11:"header_size";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:4:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;s:20:"typography_font_size";i:1;s:22:"typography_line_height";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:1:{s:14:"section_layout";a:1:{s:3:"gap";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:1;s:14:"padding_tablet";i:1;}}s:5:"style";a:2:{s:18:"section_background";a:6:{s:21:"background_background";i:1;s:16:"background_color";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;}s:26:"section_background_overlay";a:2:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -2193,7 +2291,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>project2</title>
+		<title><![CDATA[project2]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/programs/project2/</link>
 		<pubDate>Thu, 10 Oct 2019 09:58:07 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2204,6 +2302,8 @@
 		<wp:post_id>149</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-10 09:58:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-10 09:58:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-10 09:58:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-10 09:58:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[project2]]></wp:post_name>
@@ -2224,7 +2324,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>project1</title>
+		<title><![CDATA[project1]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/programs/project1/</link>
 		<pubDate>Thu, 10 Oct 2019 09:58:32 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2235,6 +2335,8 @@
 		<wp:post_id>150</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-10 09:58:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-10 09:58:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-10 09:58:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-10 09:58:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[project1]]></wp:post_name>
@@ -2255,7 +2357,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>news 4</title>
+		<title><![CDATA[news 4]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/apes-specialist-education-program/news-4/</link>
 		<pubDate>Thu, 10 Oct 2019 10:24:06 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2266,6 +2368,8 @@
 		<wp:post_id>152</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-10 10:24:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-10 10:24:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-10 10:24:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-10 10:24:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[news-4]]></wp:post_name>
@@ -2286,7 +2390,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>news 5</title>
+		<title><![CDATA[news 5]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/borneo-nature-foundations-apes-tropical-peatland-project/news-5/</link>
 		<pubDate>Thu, 10 Oct 2019 10:26:20 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2297,6 +2401,8 @@
 		<wp:post_id>154</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-10 10:26:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-10 10:26:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-10 10:26:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-10 10:26:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[news-5]]></wp:post_name>
@@ -2317,7 +2423,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>apes reintroduce program-3</title>
+		<title><![CDATA[apes reintroduce program-3]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/apes-reintroduce-program-3/</link>
 		<pubDate>Thu, 31 Oct 2019 07:33:45 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2328,6 +2434,8 @@
 		<wp:post_id>165</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-31 07:33:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-31 07:33:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-31 07:33:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-31 07:33:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[apes-reintroduce-program-3]]></wp:post_name>
@@ -2348,7 +2456,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>apes reintroduce program-4</title>
+		<title><![CDATA[apes reintroduce program-4]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/apes-reintroduce-program-4/</link>
 		<pubDate>Thu, 31 Oct 2019 07:34:01 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2359,6 +2467,8 @@
 		<wp:post_id>166</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-31 07:34:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-31 07:34:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-31 07:34:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-31 07:34:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[apes-reintroduce-program-4]]></wp:post_name>
@@ -2379,7 +2489,7 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>apes reintroduce program-5</title>
+		<title><![CDATA[apes reintroduce program-5]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/home/apes-reintroduce-program-5/</link>
 		<pubDate>Thu, 31 Oct 2019 07:34:21 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2390,6 +2500,8 @@
 		<wp:post_id>167</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-31 07:34:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-31 07:34:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-31 07:34:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-31 07:34:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[apes-reintroduce-program-5]]></wp:post_name>
@@ -2410,7 +2522,43 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact form</title>
+		<title><![CDATA[Default Kit]]></title>
+		<link>https://demo.sukiwp.com/apes-foundation-elementor/?elementor_library=default-kit</link>
+		<pubDate>Sun, 26 Apr 2020 14:28:07 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/apes-foundation-elementor/?elementor_library=default-kit</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>169</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-26 14:28:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-26 14:28:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-04-26 14:28:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-04-26 14:28:07]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[kit]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:10:{s:21:"default_generic_fonts";s:10:"Sans-serif";s:21:"global_image_lightbox";s:3:"yes";s:15:"container_width";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:4:"1200";}s:27:"stretched_section_container";s:5:"#page";s:21:"space_between_widgets";a:2:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";}s:11:"viewport_md";s:0:"";s:11:"viewport_lg";s:4:"1024";s:13:"custom_colors";a:4:{i:0;a:3:{s:3:"_id";s:8:"4555eb92";s:5:"title";s:14:"Saved Color #5";s:5:"color";s:7:"#4054B2";}i:1;a:3:{s:3:"_id";s:8:"1fe75d59";s:5:"title";s:14:"Saved Color #6";s:5:"color";s:7:"#23A455";}i:2;a:3:{s:3:"_id";s:8:"37ac5160";s:5:"title";s:14:"Saved Color #7";s:5:"color";s:4:"#000";}i:3;a:3:{s:3:"_id";s:7:"ce16a19";s:5:"title";s:14:"Saved Color #8";s:5:"color";s:4:"#FFF";}}s:15:"viewport_mobile";s:0:"";s:15:"viewport_tablet";i:1023;}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact form]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/?post_type=wpcf7_contact_form&#038;p=4</link>
 		<pubDate>Tue, 01 Oct 2019 09:29:56 +0000</pubDate>
 		<dc:creator><![CDATA[sukiwp]]></dc:creator>
@@ -2481,6 +2629,8 @@ The telephone number is invalid.]]></content:encoded>
 		<wp:post_id>4</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-01 09:29:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-01 09:29:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-08 03:59:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-08 03:59:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
@@ -2535,7 +2685,7 @@ This e-mail was sent from a contact form on Apes Foundation (Elementor) (https:/
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Before Footer</title>
+		<title><![CDATA[Before Footer]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/?suki_block=before-footer</link>
 		<pubDate>Thu, 03 Oct 2019 10:34:10 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -2546,6 +2696,8 @@ This e-mail was sent from a contact form on Apes Foundation (Elementor) (https:/
 		<wp:post_id>55</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-03 10:34:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-03 10:34:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-03 10:36:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-03 10:36:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[before-footer]]></wp:post_name>
@@ -2589,7 +2741,43 @@ This e-mail was sent from a contact form on Apes Foundation (Elementor) (https:/
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Apes Specialist Education Program</title>
+		<title><![CDATA[Latest News]]></title>
+		<link>https://demo.sukiwp.com/apes-foundation-elementor/latest-news/</link>
+		<pubDate>Tue, 08 Oct 2019 04:15:11 +0000</pubDate>
+		<dc:creator><![CDATA[author]]></dc:creator>
+		<guid isPermaLink="false">https://demo.sukiwp.com/apes-foundation-elementor/?page_id=101</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>101</wp:post_id>
+		<wp:post_date><![CDATA[2019-10-08 04:15:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-10-08 04:15:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-10 15:08:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-10 15:08:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[latest-news]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Apes Specialist Education Program]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/apes-specialist-education-program/</link>
 		<pubDate>Thu, 10 Oct 2019 10:25:41 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2610,6 +2798,8 @@ This e-mail was sent from a contact form on Apes Foundation (Elementor) (https:/
 		<wp:post_id>151</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-10 10:25:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-10 10:25:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-10 10:35:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-10 10:35:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[apes-specialist-education-program]]></wp:post_name>
@@ -2642,7 +2832,7 @@ This e-mail was sent from a contact form on Apes Foundation (Elementor) (https:/
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Borneo Nature Foundation&#039;s Apes Tropical Peatland Project</title>
+		<title><![CDATA[Borneo Nature Foundation's Apes Tropical Peatland Project]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/borneo-nature-foundations-apes-tropical-peatland-project/</link>
 		<pubDate>Thu, 10 Oct 2019 10:26:48 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2663,6 +2853,8 @@ This e-mail was sent from a contact form on Apes Foundation (Elementor) (https:/
 		<wp:post_id>153</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-10 10:26:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-10 10:26:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-10 10:35:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-10 10:35:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[borneo-nature-foundations-apes-tropical-peatland-project]]></wp:post_name>
@@ -2695,7 +2887,7 @@ This e-mail was sent from a contact form on Apes Foundation (Elementor) (https:/
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Gunung Palung Apes Conservation Program</title>
+		<title><![CDATA[Gunung Palung Apes Conservation Program]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/gunung-palung-apes-conservation-program/</link>
 		<pubDate>Thu, 10 Oct 2019 10:33:09 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2716,6 +2908,8 @@ This e-mail was sent from a contact form on Apes Foundation (Elementor) (https:/
 		<wp:post_id>155</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-10 10:33:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-10 10:33:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-10 10:35:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-10 10:35:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[gunung-palung-apes-conservation-program]]></wp:post_name>
@@ -2748,7 +2942,7 @@ This e-mail was sent from a contact form on Apes Foundation (Elementor) (https:/
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Apes Haven</title>
+		<title><![CDATA[Apes Haven]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/apes-haven/</link>
 		<pubDate>Thu, 10 Oct 2019 10:33:49 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2769,6 +2963,8 @@ This e-mail was sent from a contact form on Apes Foundation (Elementor) (https:/
 		<wp:post_id>156</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-10 10:33:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-10 10:33:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-10 10:36:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-10 10:36:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[apes-haven]]></wp:post_name>
@@ -2801,7 +2997,7 @@ This e-mail was sent from a contact form on Apes Foundation (Elementor) (https:/
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sumatran Orangutan Conservation Programme</title>
+		<title><![CDATA[Sumatran Orangutan Conservation Programme]]></title>
 		<link>https://demo.sukiwp.com/apes-foundation-elementor/sumatran-orangutan-conservation-programme/</link>
 		<pubDate>Thu, 10 Oct 2019 10:34:33 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
@@ -2822,6 +3018,8 @@ This e-mail was sent from a contact form on Apes Foundation (Elementor) (https:/
 		<wp:post_id>157</wp:post_id>
 		<wp:post_date><![CDATA[2019-10-10 10:34:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-10-10 10:34:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-10-10 10:36:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-10-10 10:36:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sumatran-orangutan-conservation-programme]]></wp:post_name>
