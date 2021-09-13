@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8" created="2021-09-01 06:09" -->
+	<!-- generator="WordPress/5.8.1" created="2021-09-13 12:18" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Men&#039;s Mane - Barbershop (Elementor)</title>
 	<link>https://demo.sukiwp.com/mens-mane-elementor</link>
 	<description>Barbershop</description>
-	<pubDate>Wed, 01 Sep 2021 06:09:38 +0000</pubDate>
+	<pubDate>Mon, 13 Sep 2021 12:18:45 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
@@ -50,7 +50,7 @@
 	<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu-right]]></wp:term_slug><wp:term_name><![CDATA[Main Menu Right]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 		<item>
 		<title><![CDATA[Logo-home-hero]]></title>
@@ -1539,134 +1539,153 @@
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/mens-mane/?page_id=6</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img width="292" height="273" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/Logo-home-hero.png" alt="" />											
-			Friends Don’t Let Friends Get a Bad Hair Cut		
-			<h1>The Men’s Mane</h1>		
-										<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>		
-			<h2>Our Services</h2>		
-										<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="" />											
-										<img width="297" height="297" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-4.png" alt="" srcset="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-4.png 297w, https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-4-150x150.png 150w" sizes="(max-width: 297px) 100vw, 297px" />											
-			<h3>Waxing</h3>		
-			starts from		
-			$		
-			25		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna </p>		
-			<a href="#" role="button">
-						Learn More
-					</a>
-										<img width="297" height="297" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-3.png" alt="" srcset="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-3.png 297w, https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-3-150x150.png 150w" sizes="(max-width: 297px) 100vw, 297px" />											
-			<h3>Hair Cut</h3>		
-			starts from		
-			$		
-			25		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna </p>		
-			<a href="#" role="button">
-						Learn More
-					</a>
-										<img width="297" height="297" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-2.png" alt="" srcset="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-2.png 297w, https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-2-150x150.png 150w" sizes="(max-width: 297px) 100vw, 297px" />											
-			<h3>Hair Color</h3>		
-			starts from		
-			$		
-			15		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna </p>		
-			<a href="#" role="button">
-						Learn More
-					</a>
-										<img width="297" height="297" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-1.png" alt="" srcset="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-1.png 297w, https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-1-150x150.png 150w" sizes="(max-width: 297px) 100vw, 297px" />											
-			<h3>Skin Care</h3>		
-			starts from		
-			$		
-			15		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna </p>		
-			<a href="#" role="button">
-						Learn More
-					</a>
-			<h2>Working Hours</h2>		
-										<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>		
-			Mon - Sat		
-			08.00 AM - 08.00 PM		
-			Sun		
-			Closed		
-			<h2>Our Barbers</h2>		
-										<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="" />											
-										<img width="297" height="310" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-4.jpg" alt="" srcset="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-4.jpg 297w, https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-4-287x300.jpg 287w" sizes="(max-width: 297px) 100vw, 297px" />											
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Facebook
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Twitter
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Linkedin
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Instagram
-									</a>
-			<h3>John Lobato</h3>		
-			Styler		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,</p>		
-										<img width="297" height="310" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-3.jpg" alt="" srcset="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-3.jpg 297w, https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-3-287x300.jpg 287w" sizes="(max-width: 297px) 100vw, 297px" />											
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Facebook
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Twitter
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Linkedin
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Instagram
-									</a>
-			<h3>Eric Martinez</h3>		
-			Barber		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,</p>		
-										<img width="297" height="310" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-2.jpg" alt="" srcset="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-2.jpg 297w, https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-2-287x300.jpg 287w" sizes="(max-width: 297px) 100vw, 297px" />											
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Facebook
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Twitter
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Linkedin
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Instagram
-									</a>
-			<h3>Jeff Redlick</h3>		
-			Styler		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,</p>		
-										<img width="297" height="310" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-1.jpg" alt="" srcset="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-1.jpg 297w, https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-1-287x300.jpg 287w" sizes="(max-width: 297px) 100vw, 297px" />											
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Facebook
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Twitter
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Linkedin
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Instagram
-									</a>
-			<h3>Antonio Rosa</h3>		
-			Barber		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,</p>		
-			“		
-			Life is too short for bad hair		
-			— unknown		
-			<a href="#" role="button">
-						Make an Appointment
-					</a>]]></content:encoded>
+		<content:encoded><![CDATA[<img width="292" height="273" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/Logo-home-hero.png" alt="">
+Friends Don’t Let Friends Get a Bad Hair Cut
+<h1>The Men’s Mane</h1>
+<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="">
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+<h2>Our Services</h2>
+<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="">
+<img width="297" height="297" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-4.png" alt="">
+<h3>Waxing</h3>
+starts from
+$
+25
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna&nbsp;
+
+<a href="#" role="button">
+Learn More
+</a>
+<img width="297" height="297" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-3.png" alt="">
+<h3>Hair Cut</h3>
+starts from
+$
+25
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna&nbsp;
+
+<a href="#" role="button">
+Learn More
+</a>
+<img width="297" height="297" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-2.png" alt="">
+<h3>Hair Color</h3>
+starts from
+$
+15
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna&nbsp;
+
+<a href="#" role="button">
+Learn More
+</a>
+<img width="297" height="297" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/barber-services-1.png" alt="">
+<h3>Skin Care</h3>
+starts from
+$
+15
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna&nbsp;
+
+<a href="#" role="button">
+Learn More
+</a>
+<h2>Working Hours</h2>
+<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="">
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+Mon - Sat
+08.00 AM - 08.00 PM
+Sun
+Closed
+<h2>Our Barbers</h2>
+<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="">
+<img width="297" height="310" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-4.jpg" alt="">
+<a href="" target="_blank" rel="noopener noreferrer">
+Facebook
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Twitter
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Linkedin
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Instagram
+</a>
+<h3>John Lobato</h3>
+Styler
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+
+<img width="297" height="310" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-3.jpg" alt="">
+<a href="" target="_blank" rel="noopener noreferrer">
+Facebook
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Twitter
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Linkedin
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Instagram
+</a>
+<h3>Eric Martinez</h3>
+Barber
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+
+<img width="297" height="310" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-2.jpg" alt="">
+<a href="" target="_blank" rel="noopener noreferrer">
+Facebook
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Twitter
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Linkedin
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Instagram
+</a>
+<h3>Jeff Redlick</h3>
+Styler
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+
+<img width="297" height="310" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/our-barbers-1.jpg" alt="">
+<a href="" target="_blank" rel="noopener noreferrer">
+Facebook
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Twitter
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Linkedin
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Instagram
+</a>
+<h3>Antonio Rosa</h3>
+Barber
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+
+“
+Life is too short for bad hair
+— unknown
+<a href="#" role="button">
+Make an Appointment
+</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-10 08:24:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-10 08:24:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-07-25 01:56:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-07-25 01:56:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-09-13 11:31:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-13 11:31:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1716,29 +1735,37 @@
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/mens-mane/?page_id=7</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>The Best Barber in Town</h2>		
-										<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>		
-										<img width="800" height="638" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/about-1.jpg" alt="" />											
-			<h2>About Us</h2>		
-										<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor</p><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,</p>		
-										<img width="800" height="638" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/about-2.jpg" alt="" />											
-			<h2>Our service is the best</h2>		
-										<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>		
-			“		
-			Keep it Handsome		
-			— unknown		
-			<a href="#" role="button">
-						Make an Appointment
-					</a>]]></content:encoded>
+		<content:encoded><![CDATA[<h2>The Best Barber in Town</h2>
+<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="">
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+<img width="800" height="638" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/about-1.jpg" alt="">
+<h2>About Us</h2>
+<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="">
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+
+<img width="800" height="638" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/about-2.jpg" alt="">
+<h2>Our service is the best</h2>
+<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="">
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+“
+Keep it Handsome
+— unknown
+<a href="#" role="button">
+Make an Appointment
+</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-10 08:25:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-10 08:25:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-07-18 12:03:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-07-18 12:03:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-09-13 11:47:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-13 11:47:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -1750,7 +1777,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page-templates/page-builder.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1758,7 +1785,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:4:"hero";i:1;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
@@ -1792,66 +1819,75 @@
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/mens-mane/?page_id=8</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>Haircut</h2>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>		
-			Classic Haircut		
-			$		
-			25		
-			Deluxe Haircut		
-			$		
-			35		
-			Kid Haircut		
-			$		
-			25		
-										<img width="894" height="455" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/services-haircut.jpg" alt="" />											
-										<img width="894" height="455" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/services-shaves.jpg" alt="" />											
-			<h2>Shaves</h2>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>		
-			Beard Trim		
-			$		
-			15		
-			Hot Towel Shaves		
-			$		
-			35		
-			Mustache Trim		
-			$		
-			25		
-			<h3>Hair Wash</h3>		
-			$		
-			15		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,</p>		
-			<h3>Face Facial</h3>		
-			$		
-			35		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,</p>		
-			<h3>Face Mask</h3>		
-			$		
-			15		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,</p>		
-			<h3>Neck Trim</h3>		
-			$		
-			10		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,</p>		
-			<h3>Hair Color</h3>		
-			$		
-			25		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,</p>		
-			<h3>Shoulder Massage</h3>		
-			$		
-			20		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,</p>		
-			“		
-			Hairdressing Is Not a Job, It’s a Craft		
-			— unknown		
-			<a href="#" role="button">
-						Make an Appointment
-					</a>]]></content:encoded>
+		<content:encoded><![CDATA[<h2>Haircut</h2>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+
+Classic Haircut
+$
+25
+Deluxe Haircut
+$
+35
+Kid Haircut
+$
+25
+<img width="894" height="455" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/services-haircut.jpg" alt="">
+<img width="894" height="455" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/04/services-shaves.jpg" alt="">
+<h2>Shaves</h2>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+
+Beard Trim
+$
+15
+Hot Towel Shaves
+$
+35
+Mustache Trim
+$
+25
+<h3>Hair Wash</h3>
+$
+15
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+<h3>Face Facial</h3>
+$
+35
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+<h3>Face Mask</h3>
+$
+15
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+<h3>Neck Trim</h3>
+$
+10
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+<h3>Hair Color</h3>
+$
+25
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+<h3>Shoulder Massage</h3>
+$
+20
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
+
+“
+Hairdressing Is Not a Job, It’s a Craft
+— unknown
+<a href="#" role="button">
+Make an Appointment
+</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-10 08:25:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-10 08:25:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-07-18 12:43:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-07-18 12:43:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-09-13 11:48:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-13 11:48:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[services]]></wp:post_name>
@@ -1863,7 +1899,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page-templates/page-builder.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -2900,52 +2936,52 @@ This e-mail was sent from a contact form on Men&#039;s Mane - Barbershop (Elemen
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/mens-mane/?page_id=9</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>What Have We Done</h2>		
-										<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="" />											
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>		
-			<figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-1.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-1.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-2.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-2.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-3.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-3.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-4.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-4.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-5.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-5.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-6.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-6.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-7.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-7.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-8.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-8.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-9.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-9.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-10.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-10.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-11.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-11.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-12.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-12.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-13.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-13.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-14.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-14.jpg" alt="" /></a>
-			</figure><figure class='gallery-item'>
-				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href='https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-15.jpg'><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-15.jpg" alt="" /></a>
-			</figure>
-			“		
-			Hairdressing Is Not a Job, It’s a Craft		
-			— unknown		
-			<a href="#" role="button">
-						Make an Appointment
-					</a>]]></content:encoded>
+		<content:encoded><![CDATA[<h2>What Have We Done</h2>
+<img width="124" height="34" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/separator-new.png" alt="">
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-1.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-1.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-2.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-2.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-3.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-3.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-4.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-4.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-5.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-5.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-6.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-6.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-7.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-7.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-8.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-8.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-9.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-9.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-10.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-10.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-11.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-11.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-12.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-12.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-13.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-13.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-14.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-14.jpg" alt=""></a></figure>
+<figure class="gallery-item">
+				<a data-elementor-open-lightbox="default" data-elementor-lightbox-slideshow="4f2550c" href="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-15.jpg"><img width="1278" height="957" src="https://demo.sukiwp.com/mens-mane-elementor/wp-content/uploads/sites/19/2019/05/gallery-15.jpg" alt=""></a></figure>
+“
+Hairdressing Is Not a Job, It’s a Craft
+— unknown
+<a href="#" role="button">
+Make an Appointment
+</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-10 08:25:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-10 08:25:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-07-18 12:41:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-07-18 12:41:58]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-09-13 12:17:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-13 12:17:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[gallery]]></wp:post_name>
@@ -2957,7 +2993,7 @@ This e-mail was sent from a contact form on Men&#039;s Mane - Barbershop (Elemen
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page-templates/page-builder.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -3035,27 +3071,32 @@ This e-mail was sent from a contact form on Men&#039;s Mane - Barbershop (Elemen
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/mens-mane/?page_id=11</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>Book An Appointment</h2>		
-		[contact-form-7 id="146" title="Contact form"]<p>Jl. Mayor Salim Batubara No. 2401<br />Sekip Pangkal, Palembang 30126</p><p>021 - 123456789</p>		
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Facebook
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Twitter
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Linkedin
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Instagram
-									</a>
-			]]></content:encoded>
+		<content:encoded><![CDATA[<h2>Book An Appointment</h2>
+[contact-form-7 id="146" title="Contact form"]
+
+Jl. Mayor Salim Batubara No. 2401
+Sekip Pangkal, Palembang 30126
+
+021 - 123456789
+
+<a href="" target="_blank" rel="noopener noreferrer">
+Facebook
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Twitter
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Linkedin
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Instagram
+</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-10 08:26:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-10 08:26:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-07-18 12:39:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-07-18 12:39:56]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-09-13 12:17:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-13 12:17:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -3067,7 +3108,7 @@ This e-mail was sent from a contact form on Men&#039;s Mane - Barbershop (Elemen
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page-templates/page-builder.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
