@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8" created="2021-09-04 16:39" -->
+	<!-- generator="WordPress/5.8.1" created="2021-09-14 10:16" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Oorfone - Headphone Shop (Elementor)</title>
 	<link>https://demo.sukiwp.com/oorfone-elementor</link>
 	<description></description>
-	<pubDate>Sat, 04 Sep 2021 16:39:45 +0000</pubDate>
+	<pubDate>Tue, 14 Sep 2021 10:16:56 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
@@ -159,7 +159,7 @@
 	<wp:term><wp:term_id>21</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[mobile-menu]]></wp:term_slug><wp:term_name><![CDATA[Mobile Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 		<item>
 		<title><![CDATA[woocommerce-placeholder]]></title>
@@ -5262,27 +5262,36 @@
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/oorfone-elementor/?page_id=109</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h3>Get In Touch Is Easy</h3>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>[contact-form-7 id="4" title="Contact form"]<p>Jl. Mayor Salim Batubara No. 2401<br />Sekip Pangkal, Palembang 30126</p><p>021 - 123456789</p><p>info@oorfone.com</p>		
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Facebook
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Twitter
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Linkedin
-									</a>
-							<a href="" target="_blank" rel="noopener noreferrer">
-					Instagram
-									</a>
-			]]></content:encoded>
+		<content:encoded><![CDATA[<h3>Get In Touch Is Easy</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.
+
+[contact-form-7 id="4" title="Contact form"]
+
+Jl. Mayor Salim Batubara No. 2401
+Sekip Pangkal, Palembang 30126
+
+021 - 123456789
+
+info@oorfone.com
+
+<a href="" target="_blank" rel="noopener noreferrer">
+Facebook
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Twitter
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Linkedin
+</a>
+<a href="" target="_blank" rel="noopener noreferrer">
+Instagram
+</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-23 09:01:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-23 09:01:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-11-25 03:38:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-11-25 03:38:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-09-14 10:11:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-14 10:11:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -5294,7 +5303,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[elementor_header_footer]]></wp:meta_value>
+		<wp:meta_value><![CDATA[page-templates/page-builder.php]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
