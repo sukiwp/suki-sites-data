@@ -1,1 +1,1 @@
-{"suki_theme_version":"1.1.2","show_on_front":"page","page_on_front":"[[post_id?post_type=page&slug=home]]","page_for_posts":"[[post_id?post_type=page&slug=blog]]","suki_pro_version":"1.0.3","brizy":{"post-types":["post","page","suki_block"]}}
+{"suki_theme_version":"1.3.6","show_on_front":"page","posts_per_page":"4","page_on_front":"[[post_id?post_type=page&slug=home]]","page_for_posts":"[[post_id?post_type=page&slug=blog]]","suki_pro_version":"1.2.3","brizy":{"post-types":["post","page","suki_block"]}}
