@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8" created="2021-09-02 13:36" -->
+	<!-- generator="WordPress/5.8.1" created="2021-09-14 12:09" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>CG Accounting - Accounting Agency (Elementor)</title>
 	<link>https://demo.sukiwp.com/cg-accounting-elementor</link>
 	<description>Just another Suki Demo site</description>
-	<pubDate>Thu, 02 Sep 2021 13:36:19 +0000</pubDate>
+	<pubDate>Tue, 14 Sep 2021 12:09:33 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
@@ -47,7 +47,7 @@
 					<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 		<item>
 		<title><![CDATA[home hero bg]]></title>
@@ -716,70 +716,77 @@
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/cg-accounting-elementor/?page_id=5</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h1>Accounting Made Simple</h1>		
-			<h3>We are quality consultants ready to accompany your company to success</h3>		
-			<a href="#" role="button">
-						Call Us Now!
-					</a>
-			<a href="#" role="button">
-						Learn More
-					</a>
-			<h3>Trust</h3>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore </p>		
-			<h3>Excellence</h3>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore </p>		
-			<h3>Integrity</h3>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore </p>		
-			<h2>About Us</h2>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>		
-			<h3>Tax</h3>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit </p>		
-			<a href="#" role="button">
-						more
-					</a>
-			<h3>Audit</h3>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit </p>		
-			<a href="#" role="button">
-						more
-					</a>
-			<h3>Industries</h3>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit </p>		
-			<a href="#" role="button">
-						more
-					</a>
-			<h3>What make us different</h3>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur </p>		
-										<img width="282" height="190" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/bank-level-security.jpg" alt="" />											
-			<h4>Bank Level Security</h4>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus </p>		
-										<img width="282" height="190" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/growth-of-client-focussed.jpg" alt="" />											
-			<h4>Growth of client Focussed</h4>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus </p>		
-										<img width="282" height="190" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/personalized-service.jpg" alt="" />											
-			<h4>Personalized Service</h4>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus </p>		
-			<h2>Testimonials</h2>		
-		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. </p>		
-							Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
-							<img width="48" height="48" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/ava1.png" alt="" />						
-													Jeffrey Beecroft
-							Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
-							<img width="48" height="48" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/ava2.png" alt="" />						
-													Robert Castillo
-							Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
-							<img width="48" height="48" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/ava3.png" alt="" />						
-													Susan Alegria
-							Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor 
-							<img width="48" height="48" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/ava4.png" alt="" />						
-													Louie Esparza
-			Behind every good Business is a great Accountant		
-			<h3>Talk to C&amp;G Accounting today! <strong>+62 1234 5678</strong></h3>]]></content:encoded>
+		<content:encoded><![CDATA[<h1>Accounting Made Simple</h1>
+<h3>We are quality consultants ready to accompany your company to success</h3>
+<a href="#" role="button">
+Call Us Now!
+</a>
+<a href="#" role="button">
+Learn More
+</a>
+<h3>Trust</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore&nbsp;
+<h3>Excellence</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore&nbsp;
+<h3>Integrity</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore&nbsp;
+<h2>About Us</h2>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&nbsp;
+<h3>Tax</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit&nbsp;
+
+<a href="#" role="button">
+more
+</a>
+<h3>Audit</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit&nbsp;
+
+<a href="#" role="button">
+more
+</a>
+<h3>Industries</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit&nbsp;
+
+<a href="#" role="button">
+more
+</a>
+<h3>What make us different</h3>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur&nbsp;
+
+<img width="282" height="190" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/bank-level-security.jpg" alt="">
+<h4>Bank Level Security</h4>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&nbsp;
+
+<img width="282" height="190" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/growth-of-client-focussed.jpg" alt="">
+<h4>Growth of client Focussed</h4>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&nbsp;
+
+<img width="282" height="190" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/personalized-service.jpg" alt="">
+<h4>Personalized Service</h4>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&nbsp;
+<h2>Testimonials</h2>
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&nbsp;
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+<img width="48" height="48" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/ava1.png" alt="">
+Jeffrey Beecroft
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+<img width="48" height="48" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/ava2.png" alt="">
+Robert Castillo
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+<img width="48" height="48" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/ava3.png" alt="">
+Susan Alegria
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+<img width="48" height="48" src="https://demo.sukiwp.com/cg-accounting-elementor/wp-content/uploads/sites/29/2019/07/ava4.png" alt="">
+Louie Esparza
+Behind every good Business is a great Accountant
+<h3>Talk to C&amp;G Accounting today! <strong>+62 1234 5678</strong></h3>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>5</wp:post_id>
 		<wp:post_date><![CDATA[2019-07-10 10:03:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-07-10 10:03:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-12-10 08:09:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-12-10 08:09:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2021-09-14 12:02:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-14 12:02:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -795,11 +802,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:11:"page_header";i:0;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:1:{s:4:"hero";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
