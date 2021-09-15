@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.1" created="2021-09-15 04:30" -->
+	<!-- generator="WordPress/5.8.1" created="2021-09-15 05:10" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,14 @@
 	<title>Bolt - Logistic Company (Elementor)</title>
 	<link>https://demo.sukiwp.com/bolt-elementor</link>
 	<description>Just another Suki Demo site</description>
-	<pubDate>Wed, 15 Sep 2021 04:30:34 +0000</pubDate>
+	<pubDate>Wed, 15 Sep 2021 05:10:52 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.sukiwp.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.sukiwp.com/bolt-elementor</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[sukiwp]]></wp:author_login><wp:author_email><![CDATA[admin@sukiwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin Suki]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[Suki]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[author]]></wp:author_login><wp:author_email><![CDATA[support@sukiwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Suki WordPress Theme]]></wp:author_display_name><wp:author_first_name><![CDATA[Suki]]></wp:author_first_name><wp:author_last_name><![CDATA[WordPress Theme]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[zakaharv]]></wp:author_login><wp:author_email><![CDATA[zaka.harvianto@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[zakaharv]]></wp:author_display_name><wp:author_first_name><![CDATA[Zaka]]></wp:author_first_name><wp:author_last_name><![CDATA[Harvianto]]></wp:author_last_name></wp:author>
 
 		<wp:category>
@@ -2063,7 +2064,7 @@
 		<title><![CDATA[There are many variations of passages]]></title>
 		<link>https://demo.sukiwp.com/bolt-elementor/there-are-many-variations-of-passages/</link>
 		<pubDate>Thu, 26 Aug 2021 03:57:46 +0000</pubDate>
-		<dc:creator><![CDATA[zakaharv]]></dc:creator>
+		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/bolt-elementor/?p=114</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
@@ -2105,10 +2106,10 @@
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2021-08-26 03:57:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-26 03:57:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-26 03:57:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-08-26 03:57:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_modified><![CDATA[2021-09-15 05:06:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-15 05:06:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[there-are-many-variations-of-passages]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -2123,18 +2124,22 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Contrary to popular belief]]></title>
 		<link>https://demo.sukiwp.com/bolt-elementor/contrary-to-popular-belief/</link>
 		<pubDate>Thu, 26 Aug 2021 03:58:29 +0000</pubDate>
-		<dc:creator><![CDATA[zakaharv]]></dc:creator>
+		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/bolt-elementor/?p=121</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
@@ -2176,10 +2181,10 @@
 		<wp:post_id>121</wp:post_id>
 		<wp:post_date><![CDATA[2021-08-26 03:58:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-26 03:58:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-26 03:58:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-08-26 03:58:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_modified><![CDATA[2021-09-15 05:06:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-15 05:06:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contrary-to-popular-belief]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -2194,11 +2199,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2856,7 +2865,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<title><![CDATA[The standard chunk of Lorem Ipsum]]></title>
 		<link>https://demo.sukiwp.com/bolt-elementor/the-standard-chunk-of-lorem-ipsum/</link>
 		<pubDate>Thu, 26 Aug 2021 03:59:31 +0000</pubDate>
-		<dc:creator><![CDATA[zakaharv]]></dc:creator>
+		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/bolt-elementor/?p=122</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
@@ -2898,10 +2907,10 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<wp:post_id>122</wp:post_id>
 		<wp:post_date><![CDATA[2021-08-26 03:59:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-26 03:59:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-26 03:59:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-08-26 03:59:32]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_modified><![CDATA[2021-09-15 05:06:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-15 05:06:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-standard-chunk-of-lorem-ipsum]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -2916,18 +2925,22 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Lorem Ipsum is therefore always free]]></title>
 		<link>https://demo.sukiwp.com/bolt-elementor/lorem-ipsum-is-therefore-always-free/</link>
 		<pubDate>Thu, 26 Aug 2021 04:00:16 +0000</pubDate>
-		<dc:creator><![CDATA[zakaharv]]></dc:creator>
+		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/bolt-elementor/?p=123</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
@@ -2969,10 +2982,10 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<wp:post_id>123</wp:post_id>
 		<wp:post_date><![CDATA[2021-08-26 04:00:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-26 04:00:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-26 04:00:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-08-26 04:00:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_modified><![CDATA[2021-09-15 05:06:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-15 05:06:22]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lorem-ipsum-is-therefore-always-free]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -2987,18 +3000,22 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sed ut perspiciatis unde omnis iste natus]]></title>
 		<link>https://demo.sukiwp.com/bolt-elementor/sed-ut-perspiciatis-unde-omnis-iste-natus/</link>
 		<pubDate>Thu, 26 Aug 2021 04:00:46 +0000</pubDate>
-		<dc:creator><![CDATA[zakaharv]]></dc:creator>
+		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/bolt-elementor/?p=124</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
@@ -3040,10 +3057,10 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<wp:post_id>124</wp:post_id>
 		<wp:post_date><![CDATA[2021-08-26 04:00:46]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-26 04:00:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-26 04:00:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-08-26 04:00:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_modified><![CDATA[2021-09-15 05:06:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-15 05:06:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sed-ut-perspiciatis-unde-omnis-iste-natus]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -3058,18 +3075,22 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[At vero eos et accusamus et iusto odio]]></title>
 		<link>https://demo.sukiwp.com/bolt-elementor/at-vero-eos-et-accusamus-et-iusto-odio/</link>
 		<pubDate>Thu, 26 Aug 2021 04:01:26 +0000</pubDate>
-		<dc:creator><![CDATA[zakaharv]]></dc:creator>
+		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.sukiwp.com/bolt-elementor/?p=125</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
@@ -3111,10 +3132,10 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<wp:post_id>125</wp:post_id>
 		<wp:post_date><![CDATA[2021-08-26 04:01:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2021-08-26 04:01:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-08-26 04:01:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-08-26 04:01:26]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_modified><![CDATA[2021-09-15 05:06:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-09-15 05:06:34]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[at-vero-eos-et-accusamus-et-iusto-odio]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
@@ -3129,11 +3150,15 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_suki_page_settings]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
